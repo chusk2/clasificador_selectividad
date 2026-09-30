@@ -1,0 +1,121 @@
+subject,topic,year,exam,exercise,statement
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 17,"Se sabe que la probabilidad de que un dardo impacte en una diana es 0,4. Si se lanzan 9 dardos,
+determina:
+a) Qué tipo de distribución sigue la variable aleatoria que cuenta el número de dardos que dan
+en la diana.
+b) La media y la desviación típica de esta distribución.
+c) La probabilidad de que al menos 5 dardos impacten en la diana.
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 17"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 18,"La probabilidad de que un individuo elegido al azar tenga problemas dermatológicos es de
+0,15. Dada una muestra de 50 personas,
+a) ¿cuál es la probabilidad de que ninguna tenga problemas dermatológicos?
+b) ¿cuál es la probabilidad de que al menos cuatro tengan problemas dermatológicos?
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 18"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 19,"En un laboratorio de análisis clínicos, el 5% de las muestras que llegan no cumplen las
+condiciones requeridas para obtener resultados concluyentes en el análisis. Si se eligen 5
+muestras, calcula:
+a) La probabilidad de que de todas las muestras se puedan obtener resultados concluyentes.
+b) La probabilidad de que de al menos dos no se obtengan resultados concluyentes.
+c) La media y la desviación típica de la distribución.
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 19"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 20,"En un centro de fertilidad, cada intento de inseminación in vitro para cualquier pareja tiene un
+porcentaje de éxito del 30 % . Esta semana han acudido 10 parejas para realizar el tratamiento.
+Nos preguntamos por el número de ellas que consiguen tener hijos.
+a) ¿De qué tipo de distribución se trata? Calcular su media y su desviación.
+b) ¿Qué probabilidad hay de que ninguna pareja conciba? ¿y de que alguna conciba?.
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 20"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 21,"La variedad de naranjas Navel se suele dedicar a naranja de mesa por su tamaño y aspecto.
+Pero aquellas que no cumplen con los estándares de calidad exigidos, son utilizadas para hacer
+zumo. En una finca, una de cada tres naranjas de la variedad Navel recolectadas se destina a
+hacer zumo. Si se elige un cargamento de 90 naranjas de esa finca, calcula la probabilidad de
+que entre ellas haya por lo menos 30 que se destinen a hacer zumo.
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 21"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 22,"La probabilidad de que un pez de una determinada especie sobreviva más de 6 meses es del
+20 %. Se pide:
+a) Si en un acuario tenemos 15 peces de esta especie nacidos este mes, halla la probabilidad de
+que al menos 2 de ellos sigan vivos dentro de 6 meses.
+b) Si en un tanque de una piscifactoría hay 300 peces de esta especie nacidos este mismo mes,
+halla la probabilidad de que al cabo de 6 meses hayan sobrevivido al menos 50 de ellos.
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 22"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 23,"Un modelo de avión tiene capacidad para 260 pasajeros. Sin embargo, la compañía aérea a la
+que pertenece ha decidido vender más billetes que asientos hay en el avión. La probabilidad de
+que un pasajero se presente en el aeropuerto el día del vuelo es del 95 %. Si ese día la compañía
+ha vendido 280 billetes, ¿cuál es la probabilidad de que ese día se presenten 270 pasajeros?
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 23"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 24,"Una fábrica de baterías para móviles ha detectado que una de sus máquinas produce un 10 %
+de baterías defectuosas. Si se han seleccionado al azar y de forma independiente 6 baterías:
+a) Calcula la probabilidad de que exactamente cuatro baterías sean defectuosas. ¿Cuál es la
+probabilidad de que como máximo la mitad sean defectuosas?.
+b) ¿Qué es más probable que ninguna sea defectuosa o que lo sean las seis?
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 24"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 25,"La altura de los individuos de una población sigue una distribución normal de media 175 cm y
+desviación típica 4 cm.
+a) Calcula la probabilidad de que un individuo elegido al azar mida más de 170 cm.
+b) Calcula qué porcentaje de la población mide entre 170 y 185 cm.
+c) Calcula la altura máxima que es superada por el 33 % de la población.
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 25"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 26,"La edad de los habitantes de cierta ciudad se distribuye normalmente, con una media de 40
+años. Se sabe además que el 2,28 % de los habitantes de esa ciudad tiene más de 60 años.
+a) Calcula la desviación típica de la distribución.
+b) Si la edad de la población siguiera una distribución N(40,10), calcula el porcentaje de
+habitantes con menos de 35 años.
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 26"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 27,"El peso de los estudiantes de determinada localidad sigue una distribución Normal de media 75
+kg y varianza 36 kg?.
+a) Calcula el porcentaje de alumnado cuyo peso está comprendido entre 68 y 80 kg.
+b) Si se sabe que uno de los estudiantes pesa más de 76 kg, ¿cuál es la probabilidad de que pese
+más de 80 kg?
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 27"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 28,"El peso de las lubinas vendidas en una cadena de hipermercados sigue una distribución normal
+de media 6706 gramos. Sabiendo que el 20 % de las lubinas pesan más de 7386 gramos, calcula
+el porcentaje de lubinas que pesan entre 6 y 8 kg.
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 28"
+MATES_II,Distribución normal y binomial,2024,Ponencia,Ejercicio 29,"El peso de una población de elefantes africanos macho sigue una distribución normal de media
+6 toneladas y desviación típica 1500 kg.
+a) Calcule la probabilidad de que un individuo elegido al azar pese exactamente 6 toneladas.
+b) Calcule qué porcentaje de la población pesa entre 5 y 8 toneladas.
+c) Calcule qué peso es superado por el 33 % de la población
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 29"
+MATES_II,Distribución normal y binomial,2024,Modelo,Ejercicio 7,"Estudios realizados en un cierto país demuestran que el consumo de gasolina en autos
+compactos está normalmente distribuido, con una media de 6 litros por cada 100 km y una
+desviación estándar de 1, 2 litros por cada 100 km.
+a) Calcula el porcentaje de autos compactos que gasta 7 o más litros cada 100 km.
+b) Calcula el número máximo de litros por cada 100 km que debe consumir un auto compacto
+si el fabricante quiere que supere en economía de combustible al 95 % de los que hay
+actualmente en el mercado.
+Nota: trabaja con cuatro cifras decimales
+MATEMÁTICAS Il. 2024. MODELO. EJERCICIO 7"
+MATES_II,Distribución normal y binomial,2025,Reserva 1,Ejercicio 7,"Los rodamientos de las ruedas de un coche se configuran con unas bolas cuyos diámetros siguen
+una distribución normal de media 13mm y desviación típica 0'l mm. Para que el
+funcionamiento del rodamiento sea óptimo el diámetro debe estar entre 12'9 mm y 13'15mm
+No obstante, la máquina que los elabora es muy sensible a los cambios de temperatura y pierde
+eficacia cuando ésta sube considerablemente. El 15 de julio, tras una rotura del sistema de
+refrigeración, la máquina configura bolas cuyos diámetros siguen una distribución normal de
+media 12'9 mm y desviación típica 0'2 mm.
+a) En circunstancias ideales, ¿cuál es la probabilidad de que la máquina elabore piezas con roda-
+miento óptimo?
+b) ¿Cuál es la probabilidad de que el 15 de julio la máquina elabore piezas con rodamiento
+óptimo?
+MATEMÁTICAS Il. 2025. RESERVA 1. EJERCICIO 7"
+MATES_II,Distribución normal y binomial,2025,Reserva 4,Ejercicio 7,"El peso de las manzanas producidas en una granja sigue una distribución normal de media 200
+gramos y desviación típica desconocida.
+a) Si el 33% de las manzanas pesan más de 230 gramos, calcula la desviación típica del peso de las
+manzanas.
+b) Si la desviación típica es de 50 gramos, calcula el porcentaje de manzanas que pesan entre 160
+y 220 gramos.
+MATEMÁTICAS II. 2025. RESERVA 4. EJERCICIO 7"
+MATES_II,Distribución normal y binomial,2025,Julio,Ejercicio 7,"La velocidad máxima a la que puede circular un vehículo sobre un determinado puente del río
+Guadalete es de 70 km/h.
+a) En uno de los sentidos de circulación, la velocidad de los vehículos sigue una distribución
+normal de media 64 km/h y desviación típica 4 km/h. Si el radar de control salta a partir de 72
+km/h, ¿cuál es el porcentaje de vehículos que se sancionan.
+b) En el sentido contrario, también sigue una distribución normal de la que sabemos que la
+velocidad media es de 636 km/h y que el 505% de todos los vehículos viaja a más de 80 km/h.
+En este caso, ¿cuánto vale la desviación típica?
+MATEMÁTICAS Il. 2025. JULIO. EJERCICIO 7"
+MATES_II,Distribución normal y binomial,2026,Reserva 1,Ejercicio 42,"Las tallas de las niñas al nacer se distribuyen según una distribución normal de media 50 cm y
+desviación típica 1,8 cm.
+a) Halla la probabilidad de que una niña al nacer mida más de 54 cm.
+b) Si en un hospital durante un mes han nacido 100 niñas, ¿cuántas tendrán en el momento del
+nacimiento una talla entre 48,2 y 51,8 cm?
+MATEMÁTICAS II. 2026. RESERVA 1. EJERCICIO 4.2"

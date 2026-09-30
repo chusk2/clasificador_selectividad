@@ -1,0 +1,1630 @@
+subject,topic,year,exam,exercise,statement
+MATES_II,Funciones,2000.0,Junio,Ejercicio 2 Opción A,"Un objeto se lanza verticalmente hacia arriba desde un determinado punto. La altura en
+metros alcanzada al cabo de t segundos, viene dada por h(t)=5-5t-5e*.
+a) Calcula el tiempo transcurrido hasta alcanzar la altura máxima y el valor de ésta.
+b) Teniendo en cuenta que la velocidad es v(t)=h' (t), halla la velocidad al cabo de 2
+segundos.
+MATEMÁTICAS Il. 2000. JUNIO. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2000.0,Junio,Ejercicio 2 Opción B,"Determina a,b, c, para que la curva f(x) =———— sea la siguiente:
+x“+bx+c
+MATEMÁTICAS Il. 2000. JUNIO. EJERCICIO 2. OPCIÓN B."
+MATES_II,Funciones,2000.0,Reserva 1,Ejercicio 1 Opción B,"De entre todos los rectángulos de 40 kilómetros de perímetro, calcula las dimensiones del que
+tiene área máxima.
+MATEMÁTICAS I1. 2000. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2000.0,Reserva 1,Ejercicio 2 Opción A,"ax+5x? six<2
+Calcula a y b sabiendo que la función f:R—>R definida por: f(x)=
+2 bx si x>2
+x
+derivable.
+MATEMÁTICAS Il. 2000. RESERVA 1. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2000.0,Reserva 2,Ejercicio 1 Opción B,"Determina el valor de las constantes a, b y c sabiendo que la gráfica de la función f:R—>R
+definida por f(x)=x-(ax?+bx+c) tiene un punto de inflexión en (-2,12) y que en dicho
+punto la recta tangente tiene por ecuación 10x+ y+8=0.
+MATEMÁTICAS Il. 2000. RESERVA 2. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2000.0,Reserva 2,Ejercicio 2 Opción A,"x sen X
+Calcula lim 3
+x>0 tg x
+MATEMÁTICAS Il. 2000. RESERVA 2. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2000.0,Reserva 3,Ejercicio 1 Opcion B,"Se ha observado que en una carretera de salida de una gran ciudad la velocidad de los coches
+entre las 2 h. y las 6 h. de la tarde viene dada por:
+v(t)=t*-15t*+72t+8 para te[2,6]
+a) ¿A qué hora circulan los coches con mayor velocidad?. Justifica la respuesta.
+b) ¿A qué hora circulan los coches con menor velocidad?. Justifica la respuesta.
+MATEMÁTICAS II. 2000. RESERVA 3. EJERCICIO 1. OPCION B."
+MATES_II,Funciones,2000.0,Reserva 3,Ejercicio 2 Opción A,"2
+Sea f la función definida x*-2 por f(x)=
+x+2
+a) Halla las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento, y los extremos locales de f.
+c) Teniendo en cuenta los resultados de los apartados anteriores, haz un esbozo de la gráfica de
+f
+MATEMÁTICAS Il. 2000. RESERVA 3. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2000.0,Reserva 4,Ejercicio 1 Opción B,"1 2.
+—xox+t si x<-2
+Sea f: R> R la función definida de la forma: f(x)= 0 si -2<xSsl
+1
+Lo-zx42 si l<x
+3 3
+Estudia la derivabilidad de f.
+MATEMÁTICAS II. 2000. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2000.0,Reserva 4,Ejercicio 2 Opcion A,"Una empresa quiere fabricar vasos de cristal de forma cilíndrica con una capacidad de 250
+centímetros cúbicos. Para utilizar la mínima cantidad posible de cristal, se estudian las medidas
+apropiadas para que la superficie total del vaso sea mínima. ¿Cuáles deben ser dichas
+dimensiones?. Justifica la respuesta.
+MATEMÁTICAS II. 2000. RESERVA 4. EJERCICIO 2. OPCION A."
+MATES_II,Funciones,2000.0,Septiembre,Ejercicio 1 Opción A,"T sixx*0
+Considera la función f: R—>R definida por f(x)= l+ex
+0 si x=0
+a) Calcula los límites laterales de fen x =0.¿Es f continua en x =07.
+b) Calcula el valor de la derivada de fen x=1.
+MATEMÁTICAS 11. 2000. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2000.0,Septiembre,Ejercicio 1 Opción B,"Determina una función polinómica de grado 3 sabiendo que verifica que alcanza un máximo en
+x=1, que su gráfica pasa por el punto (1,1) y que la recta de ecuación y=x es tangente a su
+gráfica en el punto de abscisa x =0.
+MATEMÁTICAS HI. 2000. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2001.0,Junio,Ejercicio 1 Opción A,"Sea f: R > Rla función dada por: fG09=|8-x?
+a) Esboza la gráfica y halla los extremos relativos de f (dónde se alcanzan y cuáles son sus
+respectivos valores).
+b) Calcula los puntos de corte de la gráfica de f con la recta tangente a la misma en el punto de
+abscisa x=-2.
+MATEMÁTICAS 11. 2001. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2001.0,Junio,Ejercicio 1 Opción B,"De la función f:R—>R se sabe que f'(x)=x""+2x+2 y que su gráfica tiene tangente
+horizontal en el punto P (1,2). Halla la expresión de f.
+MATEMÁTICAS Il. 2001. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2001.0,Reserva 1,Ejercicio 2 Opción A,"Sea f la función definida para xx%1 por f(x)= 2x
+x=
+a) Determina las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento y los extremos relativos de f.
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2001. RESERVA 1. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2001.0,Reserva 1,Ejercicio 2 Opción B,"x-1
+MATEMÁTICAS II. 2001. RESERVA 1. EJERCICIO 2. OPCIÓN B"
+MATES_II,Funciones,2001.0,Reserva 2,Ejercicio 1 Opción A,"(e* —1)sen x
+3 2
+XxX —X
+MATEMÁTICAS HI. 2001. RESERVA 2. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2001.0,Reserva 2,Ejercicio 2 Opción B,"Determina la función f : IR —>I|R sabiendo que su derivada segunda es constante e igual a 3 y
+que la recta tangente a su gráfica en el punto de abscisa x=1 es 5x- y-3=0.
+MATEMÁTICAS I1. 2001. RESERVA 2. EJERCICIO 2. OPCIÓN B."
+MATES_II,Funciones,2001.0,Reserva 3,Ejercicio 1 Opción A,"a) Determina el valor de las constantes a y b sabiendo que la gráfica de la función f:R—>R
+o. e* si x<0 .
+definida por f(x)= : admite recta tangente en el punto(0,1).
+ax+b si x>0
+b) ¿Existen constantes c y d para las cuales la gráfica de la función g:R—>R definida por
+cx+d si x>0
+MATEMÁTICAS II. 2001. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2001.0,Reserva 3,Ejercicio 2 Opción A,"1
+3x
+x>+o
+Calcula: a) lim ——— ; b) lim x?-e”?
+x>0 xXx
+MATEMÁTICAS HI. 2001. RESERVA 3. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2001.0,Reserva 3,Ejercicio 2 Opción B,"Determina las dimensiones de una puerta formada por un rectángulo y un semicírculo (como
+en la figura), sabiendo que es la que tiene perímetro mínimo entre las que tienen área igual a 2
+2
+m.
+MATEMÁTICAS I1. 2001. RESERVA 3. EJERCICIO 2. OPCIÓN B."
+MATES_II,Funciones,2001.0,Reserva 4,Ejercicio 2 Opción A,"Un hilo de alambre de 1 m. De longitud se corta en dos trozos formando con uno de ellos una
+circunferencia y con el otro un cuadrado. Prueba que la suma de las áreas es mínima cuando el
+lado del cuadrado es el doble que el radio de la circunferencia.
+MATEMÁTICAS Il. 2001. RESERVA 4. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2001.0,Reserva 4,Ejercicio 2 Opción B,"Considera la función f :[0,3] > R definida por f(x)=3x-—2. Calcula el punto de la gráfica
+de f más cercano al punto (2,6) y calcula también el más alejado.
+MATEMÁTICAS I1. 2001. RESERVA 4. EJERCICIO 2. OPCIÓN B."
+MATES_II,Funciones,2001.0,Septiembre,Ejercicio 1 Opción A,"a-=6 si x<2
+[x=5| si 2<x<10
+a) Determina el valor de a sabiendo que f es continua (y que a>0).
+b) Esboza la gráfica de f.
+c) Estudia la derivabilidad de f.
+MATEMÁTICAS 11. 2001. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2001.0,Septiembre,Ejercicio 2 Opción B,"x =x
+. . . o. o ee ax . Pos
+Determina sabiendo que existe y es finito el límite lim ——————. Calcula dicho límite.
+x>20  x-—senX
+MATEMÁTICAS Il. 2001. SEPTIEMBRE. EJERCICIO 2. OPCIÓN B."
+MATES_II,Funciones,2002.0,Junio,Ejercicio 1 Opción A,"2x
+Considera la función f :|R-—>R definida por f(x)=e*'+*!
+a) Calcula las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento, y los extremos relativos de f
+(puntos donde se obtienen y valor que alcanzan).
+MATEMÁTICAS Il. 2002. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2002.0,Junio,Ejercicio 1 Opción B,"27) para x%0 y x%2.
+Sea f la función definida por f(x)=
+x
+a) Calcula las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+c) Con los datos obtenidos, esboza la gráfica de f.
+MATEMÁTICAS Il. 2002. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2002.0,Reserva 1,Ejercicio 1 Opción B,"Determina el valor de las constantes c y d sabiendo que la gráfica de la función f:R—>R
+definida por f(x)=x*+3x?+cx+d tiene como recta tangente en su punto de inflexión a la
+recta y=3x+4.
+MATEMÁTICAS I1. 2002. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2002.0,Reserva 1,Ejercicio 2 Opcion A,"Sea f: [-1,4] > R R una función cuya derivada tiene por gráfica la de la figura.
+(2,2)
+(-1,-2) 41
+a) Estudia el crecimiento y el decrecimiento de f y determina los valores donde alcanza sus
+extremos relativos.
+b) Estudia la concavidad y convexidad de f.¿ Tiene puntos de inflexión la gráfica de £?.
+MATEMÁTICAS II. 2002. RESERVA 1. EJERCICIO 2. OPCION A."
+MATES_II,Funciones,2002.0,Reserva 2,Ejercicio 1 Opción B,"Considera el recinto limitado por la curva y= 3 x? y la recta
+De entre los rectángulos situados como el de la figura, determina el que tiene área máxima.
+MATEMÁTICAS I1. 2002. RESERVA 2. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2002.0,Reserva 3,Ejercicio 1 Opción A,"De entre todas las rectas que pasan por el origen de coordenadas, determina las que son
+tangentes a la curva de ecuación y= HA. Calcula los puntos de tangencia
+correspondientes.
+MATEMÁTICAS Il. 2002. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2002.0,Reserva 3,Ejercicio 1 Opción B,"sen X
+si x>0
+Estudia la derivabilidad de la función f : R>R definida por: f(x)=
+1 si xs0
+MATEMÁTICAS Il. 2002. RESERVA 3. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2002.0,Reserva 3,Ejercicio 2 Opción A,"Considera la función f : R—>R definida por: f(x)=x?-e?.
+a) Calcula: lim f(x) y lim f(x)
+x>-0 x>+00
+b) Calcula los intervalos de monotonía y los extremos locales de f (puntos donde se obtienen y
+valor que alcanzan).
+MATEMÁTICAS Il. 2002. RESERVA 3. EJERCICIO 2. OPCIÓN A"
+MATES_II,Funciones,2002.0,Reserva 4,Ejercicio 1 Opcion B,"Sea f:R=>R la función definida por: f(x)=x""-5x""+5x+3 y sea r la recta de ecuación
+2x+y=6.
+a) Determina, si es posible, un punto de la gráfica de f en el que la recta tangente sea r.
+b) ¿Hay algún punto de la gráfica de f en el que la recta normal a la gráfica sea r?. Justifica la
+respuesta.
+MATEMÁTICAS II. 2002. RESERVA 4. EJERCICIO 1. OPCION B."
+MATES_II,Funciones,2002.0,Reserva 4,Ejercicio 2 Opción A,"3ax+b si x<0
+¿*axeo) . Determina a y b
+Considera la función f:|R—>R definida por: £00=)
+si x>0
+sabiendo que fes derivable.
+MATEMÁTICAS Il. 2002. RESERVA 4. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2002.0,Reserva 4,Ejercicio 2 Opcion B,"Considera la curva de ecuación y=
+a) Determina sus asíntotas.
+b) ¿Corta la curva a alguna de sus asíntotas en algún punto?. Justifica la respuesta.
+MATEMÁTICAS II. 2002. RESERVA 4. EJERCICIO 2. OPCION B."
+MATES_II,Funciones,2002.0,Septiembre,Ejercicio 1 Opción B,"Estudia la derivabilidad de la función f :(0,+0) >R definida por:
+V3+x?=x si 0<x<l
+Calcula la función derivada.
+MATEMÁTICAS II. 2002. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2002.0,Septiembre,Ejercicio 2 Opción A,"Considera la función f definida por f(x)= GS para xxl.
+x=
+a) Calcula las asíntotas de la gráfica de f.
+b) Estudia la posición de la gráfica de f respecto de sus asíntotas.
+MATEMÁTICAS Il. 2002. SEPTIEMBRE. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2002.0,Septiembre,Ejercicio 3 Opción A,"Considera la matriz A=|t 2 1 |. Calcula los valores de t para los que el determinante de A
+3.01
+es positivo y halla el mayor valor que alcanza dicho determinante.
+MATEMÁTICAS 11. 2002. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A."
+MATES_II,Funciones,2003.0,Junio,Ejercicio 2 Opción B,"x
+Considera la función f : R —>|R definida por: f(x)=(x+3)-e *.
+a) Halla las asíntotas de la gráfica de f.
+b) Determina los extremos relativos de f y los puntos de inflexión de su gráfica.
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2003. JUNIO. EJERCICIO 2. OPCIÓN B."
+MATES_II,Funciones,2003.0,Reserva 1,Ejercicio 1 Opción B,"De entre todos los rectángulos que tienen uno de sus vértices en el origen de coordenadas, el
+2
+hnst Xx : eos
+opuesto de este vértice en la curva == (x > 1), uno de sus lados situado sobre el semieje
+x2-
+positivo de abscisas y el otro sobre el semieje positivo de ordenadas, halla el que tiene área
+mínima.
+MATEMÁTICAS I1. 2003. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2003.0,Reserva 1,Ejercicio 2 Opción A,"3
+Xx
+(1+x)?
+Dada la función f definida para x*-—1 por f(x)=
+a) Halla las asíntotas de la gráfica de f.
+b) Halla los puntos de corte, si existen, de dicha gráfica con sus asíntotas.
+MATEMÁTICAS Il. 2003. RESERVA 1. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2003.0,Reserva 2,Ejercicio 1 Opción A,"Se sabe que la función f:R=>R definida por f(x)=x""+ax""+bx+c tiene un punto de
+derivada nula en x=1 que no es extremo relativo y que f(1)=1. Calcula a, b, y c.
+MATEMÁTICAS Il. 2003. RESERVA 2. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2003.0,Reserva 2,Ejercicio 2 Opción B,"|2—x| si x<a
+donde a es un
+x2-5x+7 sixza
+Sea f:R=>R la función continua definida por 009]
+número real.
+a) Determina a.
+b) Halla la función derivada de f.
+MATEMÁTICAS II. 2003. RESERVA 2. EJERCICIO 2. OPCIÓN B."
+MATES_II,Funciones,2003.0,Reserva 3,Ejercicio 1 Opción A,"En la figura adjunta puedes ver representada parte de la gráfica de una función f que está
+definida en el intervalo (- 3,3) y que es simétrica respecto al origen de coordenadas.
+y
+a) Razona cuál debe ser el valor de f (0).
+b) Completa la gráfica de f.
+c) Halla f'(x) para los x e(-3,3) en los que dicha derivada exista.
+MATEMÁTICAS II. 2003. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2003.0,Reserva 3,Ejercicio 1 Opción B,"Se sabe que la función f : R —>R definida por f(x)=ax*+bx?+cx+d es tal que f(0)=4 y
+que su gráfica tiene un punto de inflexión en (1,2). Conociendo además que la recta tangente a
+la gráfica de f en el punto de abscisa x = 0 es horizontal, calcula a, b, c y d.
+MATEMÁTICAS Il. 2003. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2003.0,Reserva 4,Ejercicio 1 Opción A,"x2+3 si x<l
+Sea la función f : R—>R definida por f(x) -|
+2-x? si x>1
+a) Calcula, si es posible, las derivadas laterales de fen x=1.
+b) Halla los intervalos de crecimiento y de decrecimiento de la función f.
+MATEMÁTICAS Il. 2003. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2003.0,Reserva 4,Ejercicio 2 Opción B,"2x?+2
+Considera la función f definida para x*-—2 por f(x)= 2
+x+
+a) Halla las asíntotas de la gráfica de f.
+b) Estudia la posición relativa de la gráfica de f respecto de sus asíntotas.
+MATEMÁTICAS Il. 2003. RESERVA 4. EJERCICIO 2. OPCIÓN B."
+MATES_II,Funciones,2003.0,Septiembre,Ejercicio 1 Opción A,"Calcula tim 220 + senx
+x>0 X - senx
+MATEMÁTICAS I1. 2003. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2003.0,Septiembre,Ejercicio 2 Opción B,"Estudia la derivabilidad de la función f : |R—>R definida por:
+si xx*-l y xxl
+__
+f69=31-[x|
+0 si x=-16 x=1
+MATEMÁTICAS II. 2003. SEPTIEMBRE. EJERCICIO 2. OPCIÓN B."
+MATES_II,Funciones,2004.0,Junio,Ejercicio 1 Opción B,"x2-4x+3 si -1<x<0
+Se sabe que la función f :(-1,+0)> ¡KR definida por f(x)= x2+a
+x+1
+continua en (-1,+00) .
+a) Halla el valor de a. ¿Es f derivable en x=0?
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS Il. 2004. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2004.0,Junio,Ejercicio 2 Opción A,"Considera la función f :R > |R definida por f(x) =(x+1)(x— 1)(x—2).
+a) Halla las ecuaciones de las rectas tangente y normal a la gráfica de f en el punto de abscisa
+x=1l.
+b) Determina los intervalos de concavidad y de convexidad de f. ¿Tiene puntos de inflexión la
+gráfica de f?.
+MATEMÁTICAS Il. 2004. JUNIO. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2004.0,Reserva 1,Ejercicio 1 Opción B,"Sea f :[0,21]> KR la función definida por f(x)=e*(cos x + senx).
+a) Determina los intervalos de crecimiento y de decrecimiento de f.
+b) Halla los extremos relativos (locales) y absolutos (globales) de f.
+MATEMÁTICAS II. 2004. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2004.0,Reserva 1,Ejercicio 2 Opción A,"Se sabe que la función f :(-1,1) >R definida por:
+1
+2x0 AO si —1<x<0
+f(x)=
+yYl—x si 0O<x<l
+es derivable en el intervalo (-1,1).
+a) Determina el valor de la constante c.
+b) Calcula la función derivada f”.
+c) Halla las ecuaciones de las rectas tangentes a la gráfica de f que son paralelas a la recta de
+ecuación y =—X.
+MATEMÁTICAS Il. 2004. RESERVA 1. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2004.0,Reserva 2,Ejercicio 1 Opción A,"a) Halla la ecuación de la recta tangente a la parábola y=x? que es paralela a la recta
+4x4 y+3=0.
+b) Halla las ecuaciones de las rectas tangentes a la parábola y=x? que pasan por el punto
+2,0).
+MATEMÁTICAS I1. 2004. RESERVA 2. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2004.0,Reserva 2,Ejercicio 2 Opción B,"Se quiere fabricar una caja abierta de chapa con base cuadrada y con 32 litros de capacidad.
+Halla las dimensiones de la caja que precisa la menor cantidad de chapa.
+MATEMÁTICAS Il. 2004. RESERVA 2. EJERCICIO 2. OPCIÓN B."
+MATES_II,Funciones,2004.0,Reserva 3,Ejercicio 1 Opción A,"Sea f: R=—>R la función definida por f(x)=2-= xIx].
+a) Esboza la gráfica de f.
+b) Estudia la derivabilidad de fen x=0.
+c) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x=2.
+MATEMÁTICAS Il. 2004. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2004.0,Reserva 3,Ejercicio 1 Opción B,"Mel 2x
+MATEMÁTICAS Il. 2004. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2004.0,Reserva 4,Ejercicio 1 Opción A,"x?
+Sea f : |R=>R la función definida por f(x)=x?+e7
+a) Halla las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f y calcula sus extremos
+relativos o locales (puntos en los que se obtienen y valores que alcanza la función).
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2004. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2004.0,Reserva 4,Ejercicio 1 Opción B,"Halla una función f : |¡R > R tal que su gráfica pase por el punto M (0,1), que la tangente en
+el punto M sea paralela a la recta 2x— y+3=0 y que f""(1)=3x”.
+MATEMÁTICAS Il. 2004. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2004.0,Septiembre,Ejercicio 1 Opción A,"Se desea construir una caja cerrada de base cuadrada con una capacidad de 80 cm?. Para la
+tapa y la superficie lateral se usa un material que cuesta 1€/cm? y para la base se emplea un
+material un 50% más caro. Halla las dimensiones de la caja para que su coste sea mínimo.
+MATEMÁTICAS Il. 2004. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2004.0,Septiembre,Ejercicio 1 Opción B,"De una función f :[0,4] > IR se sabe que f(1)=3 y que la gráfica de su función derivada es la
+que aparece en el dibujo.
+A 1 3 3 A
+a) Halla la recta tangente a la gráfica de f en el punto de abscisa x=1.
+b) Determina los intervalos de crecimiento y de decrecimiento de f. ¿En qué punto alcanza la
+función su máximo absoluto.
+c) Estudia la concavidad y convexidad de f.
+MATEMÁTICAS Il. 2004. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2005.0,Junio,Ejercicio 1 Opción A,"De la función f: R—>R definida por f(x)=ax""+bx”+cx+d se sabe que tiene un máximo
+en x=-1, y que su gráfica corta al eje OX en el punto de abscisa x=-—2 y tiene un punto de
+inflexión en el punto de abscisa x=0. Calcula a, b, c y d sabiendo, además, que la recta
+tangente a la gráfica de f en el punto de abscisa x=2 tiene pendiente 9.
+MATEMÁTICAS Il. 2005. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2005.0,Junio,Ejercicio 1 Opción B,"x +1
+Sea f la función definida para x%0 por f(x)=
+a) Estudia y determina las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f y calcula sus extremos
+relativos o locales (puntos en los que se obtiene y los valores que alcanza la función).
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2005. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2005.0,Reserva 1,Ejercicio 1 Opción A,"Sea fla función definida para x+*1 por f(x)= e
+a) Halla las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+c) Determina los intervalos de concavidad y de convexidad de f.
+d) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2005. RESERVA 1. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2005.0,Reserva 1,Ejercicio 1 Opción B,"Determina los puntos de la parábola de ecuación y=3—x? que están más próximos al origen
+de coordenadas. Calcula la distancia entre los puntos obtenidos y el origen de coordenadas.
+MATEMÁTICAS I1. 2005. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2005.0,Reserva 2,Ejercicio 1 Opción A,". K—OQLSENX o. . o
+Se sabe que lim ——=— es finito. Determina el valor de a. y calcula el límite.
+x
+x>0
+MATEMÁTICAS HI. 2005. RESERVA 2. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2005.0,Reserva 2,Ejercicio 1 Opción B,"Considera las tres funciones cuyas expresiones respectivas vienen dadas, para x%0, por
+2
+1 l
+109== g(x)=e* y h(x) = Ln |x|
+siendo Ln la función logaritmo neperiano.
+a) Halla las ecuaciones de las asíntotas de las gráficas de f, g y h.
+b) Identifica, entre las que siguen, la gráfica de cada función, justificando la respuesta.
+L
+Gráfica 1 Gráfica 2 Gráfica 3 Gráfica 4
+MATEMÁTICAS II. 2005. RESERVA 2. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2005.0,Reserva 3,Ejercicio 1 Opción B,"2
+b
+De la función f :(0,+0)>R definida por f(x)= a+ se sabe que la recta tangente a su
+x
+gráfica en el punto de abscisa x=1 viene dada por y=-2.
+a) Calcula a y b.
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS I1. 2005. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2005.0,Reserva 3,Ejercicio 2 Opción A,"2
+Sea f la función definida para x+%2 por f(x)= X
+a) Estudia y determina las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+c) Calcula, si existen, el máximo y el mínimo absolutos de f en el intervalo [0; 2) (puntos en los
+que se obtienen y valores que alcanza la función).
+MATEMÁTICAS HI. 2005. RESERVA 3. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2005.0,Reserva 4,Ejercicio 1 Opción A,"5x +8
+X+x+l
+a) Calcula los puntos de corte de la gráfica de f con los ejes coordenados.
+b) Halla las asíntotas de la gráfica de f.
+Sea f : R—>R la función definida por f(x)=
+c) Determina los intervalos de crecimiento y de decrecimiento de f y calcula sus extremos
+relativos o locales (puntos en los que se obtienen y valores que alcanza la función).
+d) Esboza la gráfica de f.
+MATEMÁTICAS HI. 2005. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2005.0,Reserva 4,Ejercicio 1 Opción B,"De un terreno se desea vender un solar rectangular de 12.800 m? dividido en tres parcelas
+iguales como las que aparecen en el dibujo. Si se quieren vallar las lindes de las tres parcelas
+(los bordes y las separaciones de las parcelas), determina las dimensiones del solar para que la
+longitud de la valla utilizada sea mínima.
+MATEMÁTICAS I1. 2005. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2005.0,Septiembre,Ejercicio 2 Opción A,"Sea f : |R=>R la función definida por f(x)=(x-1)%e""*
+a) Halla las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f y calcula, si existen, sus
+extremos relativos o locales y sus extremos absolutos o globales (puntos en los que se obtienen y
+valores que alcanza la función).
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2005. SEPTIEMBRE. EJERCICIO 2. OPCIÓN A."
+MATES_II,Funciones,2005.0,Septiembre,Ejercicio 1 Opción B,"De una función f : [0,5] >R se sabe que £(3)=6 y que su función derivada está dada por:
+5x-2 si O<x<l
+f0)=
+x2-6x+8 si 1<x<5
+a) Calcula la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x=3.
+b) Determina los intervalos de crecimiento y de decrecimiento de f y calcula sus extremos
+relativos o locales (puntos en los que se obtienen y valores que alcanza la función).
+MATEMÁTICAS Il. 2005. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2006.0,Junio,Ejercicio 1 Opción A,"Ñ
+Determina un punto de la curva de ecuación y=x-e *
+tangente sea máxima.
+en el que la pendiente de la recta
+MATEMÁTICAS Il. 2006. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2006.0,Junio,Ejercicio 1 Opción B,"3
+Sea f la función definida por f(x)= x+ ,para xX%0.
+x
+a) Halla, si existen, los puntos de corte con los ejes y las asíntotas de la gráfica de f.
+b) Calcula los intervalos de crecimiento y de decrecimiento y los extremos relativos de f.
+c) Determina los intervalos de concavidad y de convexidad de f.
+d) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2006. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2006.0,Reserva 1,Ejercicio 1 Opción A,"Sea f:R>R la función definida por f(x)=Ln(x?+1), siendo Ln la función logaritmo
+neperiano.
+a) Determina los intervalos de crecimiento y decrecimiento y los extremos relativos de la
+función f (puntos donde se alcanzan y valor de la función).
+b) Calcula la ecuación de la recta tangente a la gráfica de f en el punto de inflexión de abscisa
+negativa.
+MATEMÁTICAS HI. 2006. RESERVA 1. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2006.0,Reserva 1,Ejercicio 1 Opción B,"x>l
+Inx x-
+Calcula lim ( rn ) siendo Ln la función logaritmo neperiano.
+MATEMÁTICAS 11. 2006. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2006.0,Reserva 2,Ejercicio 1 Opción B,"2
+Sea f:R—>R la función definida por f(x)= +!
+x+x+l
+a) Estudia si existen y calcula, cuando sea posible, las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y decrecimiento, los extremos relativos y los valores
+que alcanza en ellos la función f.
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2006. RESERVA 2 EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2006.0,Reserva 3,Ejercicio 1 Opción A,"2
+Sea f:(l,+0)>R la función dada por 0 , Siendo Ln la función logaritmo
+x-1Y
+neperiano. Estudia la existencia de asíntota horizontal para la gráfica de esta función.
+En caso de que exista, hállala.
+MATEMÁTICAS II. 2006. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2006.0,Reserva 3,Ejercicio 1 Opción B,"ax+bx? si 0<x<2
+=4+.x-1 si 2<x<5
+Se sabe que la función f :[0,5] > IR definida por f(x) -(
+es derivable en el intervalo (0,5).
+a) Calcula las constantes a y b.
+b) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x =2.
+MATEMÁTICAS 11. 2006. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2006.0,Reserva 4,Ejercicio 1 Opción A,"Sea f: R=>R la función definida por f(x)=x*+ax*+bx+1
+a) Determina a,b e R sabiendo que la gráfica de f pasa por el punto (2,2) y tiene un punto de
+inflexión de abscisa x =0.
+b) Calcula las ecuaciones de las rectas tangente y normal a la gráfica de f en el punto de
+inflexión.
+MATEMÁTICAS Il. 2006. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2006.0,Reserva 4,Ejercicio 1 Opción B,"Se desea construir una lata de conserva en forma de cilindro circular recto que tenga una
+superficie total de 200 cm?. Determina el radio de la base y la altura de la lata para que el
+volumen sea máximo.
+MATEMÁTICAS II. 2006. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2006.0,Septiembre,Ejercicio 1 Opción A,"Sea f: |R=>R la función definida por f(x)=x? -| x |
+a) Estudia la derivabilidad de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+c) Calcula los extremos relativos de f (puntos donde se alcanzan y valor de la función).
+MATEMÁTICAS Il. 2006. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2006.0,Septiembre,Ejercicio 1 Opción B,"Un alambre de longitud 1 metro se divide en dos trozos, con uno se forma un cuadrado y con el
+otro una circunferencia. Calcula las longitudes de los dos trozos para que la suma de las áreas
+de ambos recintos sea mínima.
+MATEMÁTICAS II. 2006. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2006.0,Septiembre,Ejercicio 2 Opción B,"Halla la función f:R —>R sabiendo que f''(x)=12x-—6 y que la recta tangente a la gráfica
+de f en el punto de abscisa x=2 tiene de ecuación 4x— y-7=0.
+MATEMÁTICAS Il. 2006. SEPTIEMBRE. EJERCICIO 2. OPCIÓN B."
+MATES_II,Funciones,2007.0,Junio,Ejercicio 1 Opción A,"Determina dos números reales positivos sabiendo que su suma es 10 y que el producto de sus
+cuadrados es máximo.
+MATEMÁTICAS Il. 2007. JUNIO. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2007.0,Junio,Ejercicio 1 Opción B,"Sea f:R=>R la función definida por f(x)=2x*+12x?+ax+b . Determina a y b sabiendo que
+la recta tangente a la gráfica de fen su punto de inflexión es la recta y =2x+3.
+MATEMÁTICAS Il. 2007. JUNIO. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2007.0,Reserva 1,Ejercicio 1Opción A,"Sea f:(0,+00)>I¡R la función definida por f(x)=x*Ln(x) (Ln denota la función logaritmo
+neperiano).
+a) Determina los intervalos de crecimiento y de decrecimiento y los extremos relativos de f
+(puntos donde se obtienen y valores que se alcanzan).
+b) Calcula la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x = Je .
+MATEMÁTICAS Il. 2007. RESERVA 1. EJERCICIO 1.OPCIÓN A."
+MATES_II,Funciones,2007.0,Reserva 1,Ejercicio 1Opción B,"Tenemos que fabricar dos chapas cuadradas con dos materiales distintos. El precio de cada uno
+de estos materiales es 2 y 3 euros por centímetro cuadrado, respectivamente. Por otra parte, la
+suma de los perímetros de los dos cuadrados tiene que ser 1 metro. ¿Cómo hemos de elegir los
+lados de los cuadrados si queremos que el coste total sea mínimo?
+MATEMÁTICAS Il. 2007. RESERVA 1. EJERCICIO 1.OPCIÓN B."
+MATES_II,Funciones,2007.0,Reserva 2,Ejercicio 1Opción A,"De entre todos los rectángulos situados en el primer cuadrante que tienen dos de sus lados sobre
+. d+ RS . Ñ
+los ejes coordenados y un vértice en la recta r de ecuación —+y=1 (ver figura), determina el
+que tiene mayor área.
+MATEMÁTICAS Il. 2007. RESERVA 2. EJERCICIO 1.OPCIÓN A."
+MATES_II,Funciones,2007.0,Reserva 2,Ejercicio 1 Opción B,"x
+Sea f :|R=>R la función definida por f(x)=x*-e*.
+a) Determina los extremos relativos de f (puntos donde se obtienen y valores que se alcanzan).
+b) Estudia y determina las asíntotas de la gráfica de f.
+MATEMÁTICAS Il. 2007. RESERVA 2. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2007.0,Reserva 3,Ejercicio 1 Opción A,"Sea f: R—>R la función definida por f(x)=(x-—3)-e*.
+a) Calcula los extremos relativos de f (puntos donde se obtienen y valores que se alcanzan).
+b) Determina la ecuación de la recta tangente a la gráfica de f en su punto de inflexión.
+MATEMÁTICAS Il. 2007. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2007.0,Reserva 3,Ejercicio 1 Opción B,"2
+Sea f la función definida, para x*%2 y x*-2,por f(x)= - =
+x?-=
+a) Determina las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento y los extremos relativos de f
+(puntos donde se obtienen y valores que se alcanzan).
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2007. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2007.0,Reserva 4,Ejercicio 1 Opción A,"Determina la función f:R—>R sabiendo que f''(x)=x”-—1 y que la recta tangente a la
+gráfica de f en el punto de abscisa x=0 esla recta y=1.
+MATEMÁTICAS Il. 2007. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2007.0,Reserva 4,Ejercicio 1 Opción B,"Se quiere construir un depósito en forma de prisma de base cuadrada sin tapadera que tenga
+una capacidad de 500 m?”. ¿Qué dimensiones ha de tener el depósito para que su superficie sea
+mínima?. o
+MATEMÁTICAS IT. 2007. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2007.0,Septiembre,Ejercicio 1 Opción A,"3x+1
+Sea f :(0,+00) > R la función definida por f(x)= +
+y xXx
+a) Determina los intervalos de crecimiento y de decrecimiento y los extremos relativos de f
+(puntos donde se obtienen y valores que se alcanzan).
+b) Calcula el punto de inflexión de la gráfica de f.
+MATEMÁTICAS Il. 2007. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2007.0,Septiembre,Ejercicio 1 Opción B,"Determina una función f : R—>R sabiendo que su derivada viene dada por f (x)=x*+x-—6
+y que el valor que alcanza f en su punto máximo (relativo) es el triple del valor que alcanza en su
+punto mínimo (relativo).
+MATEMÁTICAS Il. 2007. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2008.0,Junio,Ejercicio 1 Opción A,"1
+Sea f la función definida, para x 40,por f(x) = xe *. Determina las asíntotas de la gráfica de f.
+MATEMÁTICAS Il. 2008. JUNIO. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2008.0,Junio,Ejercicio 1 Opción B,"De entre todos los rectángulos de perímetro 8 cm, determina las dimensiones del que tiene
+diagonal de menor longitud.
+MATEMÁTICAS Il. 2008. JUNIO. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2008.0,Reserva 1,Ejercicio 1Opción A,"Sean f:R>R y g:R=>R las funciones definidas por
+-(x+1)
+f(O)=x?*+ax+b y g(x)=ce
+Se sabe que las gráficas de f y g se cortan en el punto (—1,2) y tienen en ese punto la misma recta
+tangente.
+a) Calcula los valores de a, b y c.
+b) Halla la ecuación de dicha recta tangente.
+MATEMÁTICAS Il. 2008. RESERVA 1. EJERCICIO 1.OPCIÓN A."
+MATES_II,Funciones,2008.0,Reserva 2,Ejercicio 1 Opcion A,"1
+Dada la función f:R—=>IR definida por fa= 2, determina la ecuación de la recta
+e
+tangente a la gráfica de fen su punto de inflexión.
+MATEMÁTICAS II. 2008. RESERVA 2. EJERCICIO 1. OPCION A."
+MATES_II,Funciones,2008.0,Reserva 2,Ejercicio 1 Opción B,"x*+ax+b si 0Sx<2
+ex+l si 2<x<4
+Sea la función f :[0,4] >R definida por f(x) =
+a) Determina a, b y c sabiendo que f es continua en el intervalo cerrado[0,4], derivable en el
+intervalo abierto (0,4) y que f(0)= f(4).
+b) ¿En qué punto del intervalo se anula la derivada de la función?.
+MATEMÁTICAS Il. 2008. RESERVA 2. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2008.0,Reserva 3,Ejercicio 1 Opción A,"Sea f: [0,21,] > R la función definida por f(x)=e*(sen x+c0s Xx).
+a) Determina los intervalos de crecimiento y de decrecimiento de f.
+b) Calcula los puntos de inflexión de la gráfica de f .
+MATEMÁTICAS Il. 2008. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2008.0,Reserva 4,Ejercicio 1 Opcion A,"Sea f :|R=>R la función definida por f(x)=(3x-2x?)e*
+a) Determina los intervalos de crecimiento y de decrecimiento de f.
+b) Calcula los extremos relativos de f (abscisas donde se obtienen y valores que se alcanzan).
+MATEMÁTICAS II. 2008. RESERVA 4. EJERCICIO 1. OPCION A."
+MATES_II,Funciones,2008.0,Reserva 4,Ejercicio 1 Opción B,"e*+1
+x
+Dada la función f definida, para x*0,por f(x)= determina las asíntotas de su gráfica.
+MATEMÁTICAS Il. 2008. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2008.0,Septiembre,Ejercicio 1 Opción A,"ax?+3x si x<S2
+x?-bx-4 si x>2
+Considera la función f : R > R , definida por f(x) -|
+a) Halla a y b sabiendo que fes derivable en R.
+b) Determina la recta tangente y la recta normal a la gráfica de f en el punto de abscisa x=3.
+MATEMÁTICAS Il. 2008. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2008.0,Septiembre,Ejercicio 1 Opción B,"De entre todas las rectas del plano que pasan por el punto (1,2), encuentra aquella que forma
+con las partes positivas de los ejes coordenados un triángulo de área mínima. Halla el área de
+dicho triángulo.
+MATEMÁTICAS II. 2008. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2009.0,Junio,Ejercicio 1 Opción A,"Inx x?-1
+MATEMÁTICAS Il. 2009. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2009.0,Junio,Ejercicio 1 Opción B,"1
+Sea la función f: R—>R definida por f(x)= x—1
+x?-3x-1 si x>0
+si x<0
+a) Estudia su continuidad y derivabilidad.
+b) Determina sus asíntotas y sus extremos relativos.
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2009. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2009.0,Reserva 1,Ejercicio 1 Opción A,"Sea f: R=>R la función definida por f(x)=ax*+bx?+cx+d . Calcula los valores de a, b, c y
+d sabiendo que f verifica:
+- El punto (0,1) es un punto de inflexión de la gráfica de f.
+- f tiene un mínimo local en el punto de abscisa x=1.
+- La recta tangente a la gráfica de f en el punto de abscisa x=2 tiene de pendiente 1.
+MATEMÁTICAS Il. 2009. RESERVA 1. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2009.0,Reserva 1,Ejercicio 1 Opción B,"cuadrado y con el otro un rectángulo en el que la base es el doble de la altura. Calcula la
+longitud de cada uno de los trozos para que la suma de las áreas del cuadrado y del rectángulo
+sea mínima.
+MATEMÁTICAS I1. 2009. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2009.0,Reserva 2,Ejercicio 1 Opción A,"Sea f : R>—>I¡R la función definida por f(x)= x?| x-3 |.
+a) Estudia la continuidad y derivabilidad de f.
+b) Estudia el crecimiento y decrecimiento de f. Calcula sus extremos relativos (abscisas donde se
+obtienen y valores que se alcanzan).
+MATEMÁTICAS Il. 2009. RESERVA 2. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2009.0,Reserva 2,Ejercicio 1 Opción B,"x(Ln x)?
+Sea f :(0,+0)>R la función dada por f(x)=% (x-—1)?
+a
+a) Sabiendo que f es continua, calcula a.
+b) Estudia la existencia de asíntota horizontal para la gráfica de esta función. En caso de que
+exista, determina su ecuación.
+MATEMÁTICAS Il. 2009. RESERVA 2. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2009.0,Reserva 3,Ejercicio 1 Opción A,"=x?+bx+1 si x<l
+Se sabe que la función f :|R => R definida como f(x) -|
+ax?-5x+2a si x>l
+Es derivable. Determina los valores de a y b.
+MATEMÁTICAS Il. 2009. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2009.0,Reserva 3,Ejercicio 1 Opción B,"Se sabe que la función f : |R > IR definida por
+f(o9=ax +bx*+cx+d
+tiene extremos relativos en (0,0) y en (2,2). Calcula a, b, c y d.
+MATEMÁTICAS II. 2009. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2009.0,Reserva 4,Ejercicio 1 Opción A,"x
+Sea f : R=>-I¡R la función definida por f(x)=x+e""*.
+a) Determina los intervalos de crecimiento y de decrecimiento de f, así como los extremos
+relativos o locales de f.
+b) Determina las asíntotas de la gráfica de f.
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2009. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2009.0,Reserva 4,Ejercicio 1 Opción B,"De todos los triángulos cuya base y altura suman 20 cm ¿qué base tiene el de área máxima?.
+MATEMÁTICAS Il. 2009. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2009.0,Septiembre,Ejercicio 1 Opción A,"Se considera la función f : [1,+00) >R definida por f(x)=Vx?*-—x+x.
+Determina la asíntota de la gráfica de f.
+MATEMÁTICAS Il. 2009. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2009.0,Septiembre,Ejercicio 1 Opción B,"De entre todos los rectángulos cuya área mide 16 cm?, determina las dimensiones del que tiene
+diagonal de menor longitud.
+MATEMÁTICAS Il. 2009. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2010.0,Junio,Ejercicio 1 Opción A,"b
+Sea f la función definida como f(x)= a+ para xxXa.
+a) Calcula a y b para que la gráfica de f pase por el punto (2,3) y tenga una asíntota oblicua
+con pendiente —4.
+b) Para el caso de a=2, b=3, obtén la ecuación de la recta tangente a la gráfica de f en el
+punto de abscisa x=1
+MATEMÁTICAS Il. 2010. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2010.0,Junio,Ejercicio 1 Opción B,"Calcula lim 2
+MATEMÁTICAS HI. 2010. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2010.0,Reserva 1,Ejercicio 1 Opción A,"La hipotenusa de un triángulo rectángulo mide 90 cm. Si se hace girar alrededor de uno de sus
+catetos, el triángulo engendra un cono. ¿Qué medidas han de tener los catetos del triángulo para
+que el volumen del cono engendrado sea máximo?. (Recuerda que el volumen del cono es
+vV =* mr 7h).
+3
+MATEMÁTICAS Il. 2010. RESERVA 1. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2010.0,Reserva 1,Ejercicio 1 Opción B,"3
+Sea f la función definida como f(x) => para xx*ztl.
+x?-
+a) Estudia y halla las asíntotas a la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2010. RESERVA 1. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2010.0,Reserva 2,Ejercicio 1 Opción A,"Entre todos los triángulos rectángulos de 5 metros de hipotenusa, determina los catetos del de
+área máxima.
+MATEMÁTICAS Il. 2010. RESERVA 2. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2010.0,Reserva 2,Ejercicio 1 Opción B,"Sea f:(0,+0)>R la función definida por f(x)=In(x?+3x), donde In denota el logaritmo
+neperiano.
+a) Determina, si existen, los puntos de la gráfica de f en los que la recta tangente a la gráfica es
+paralela a la recta de ecuación x-2y+1=0.
+b) Halla la ecuación de la recta tangente y de la recta normal a la gráfica de f en el punto de abscisa
+x=3.
+MATEMÁTICAS Il. 2010. RESERVA 2. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2010.0,Reserva 3,Ejercicio 1 Opción A,"e*“(x?+ax) si
+Sea la función f:¡R—> R dada por f(x)=4 bx?+4c
+x>0.
+x+1
+Calcula las constantes a, b y c sabiendo que f es derivable y que la recta tangente a la gráfica de f
+en el punto de abscisa x=1 tiene de pendiente 3.
+MATEMÁTICAS Il. 2010. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2010.0,Reserva 3,Ejercicio 1 Opción B,"Sea f:R>R la función definida como f(x)=(x+1)3/3—x . Halla las ecuaciones de la recta
+tangente y de la recta normal a la gráfica de f en el puno de abscisa x=-5 y en el punto de
+abscisa x=2.
+MATEMÁTICAS II. 2010. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2010.0,Reserva 4,Ejercicio 1 Opción A,"Dada la función f : R >R definida como f(x)=a senx +bx?+cx+d , determina los valores de
+las constantes a,b, c y d sabiendo que la gráfica de f tiene tangente horizontal en el punto (0,4) y
+que la segunda derivada defes f''(x)=3senx—10.
+MATEMÁTICAS Il. 2010. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2010.0,Reserva 4,Ejercicio 1 Opción B,"=x
+e si x<0
+Considera la función f :|R-—>R definida por f(x)=<1-=x? si 0<x<l.
+x+1l
+Estudia su continuidad y derivabilidad. Determina la función derivada de f.
+MATEMÁTICAS Il. 2010. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2010.0,Septiembre,Ejercicio 1 Opción A,"Una hoja de papel tiene que contener 18 cm? de texto. Los márgenes superior e inferior han de
+tener 2 cm cada uno y los laterales 1 cm. Calcula las dimensiones de la hoja para que el gasto
+de papel sea mínimo.
+MATEMÁTICAS II. 2010. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2010.0,Septiembre,Ejercicio 1 Opción B,"x?+ax+b si 0<x<2
+CX si 2<x<4
+a) Sabiendo que f es derivable en todo el dominio y que verifica f(0)= f (4), determina los
+valores de a,b y c.
+b) Para a=-3,b=4 yc=1 halla los extremos absolutos de f (abscisas donde se obtienen y
+Considera la función f : [0,4] > R definida por f(x) =|
+valores que se alcanzan).
+MATEMÁTICAS Il. 2010. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2011.0,Junio,Ejercicio 1 Opción A,"Se desea construir un depósito cilíndrico cerrado de área total a 54 m?. Determina el radio de
+la base y la altura del cilindro para que éste tenga volumen máximo.
+MATEMÁTICAS 11. 2011. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2011.0,Reserva 1,Ejercicio 1 Opcion A,"Un alambre de longitud 100 metros se divide en dos trozos. Con uno de los trozos se construye
+un cuadrado y con el otro un rectángulo cuya base es doble que su altura. Calcula las
+longitudes de cada uno de los trozos con la condición de que la suma de las áreas de estas dos
+figuras sea mínima.
+MATEMÁTICAS 11. 2011. RESERVA 1. EJERCICIO 1. OPCION A."
+MATES_II,Funciones,2011.0,Reserva 1,Ejercicio 1 Opción B,"Sea f: R=>R la función definida por f(x)=4=x?
+a) Halla la ecuación de la recta normal a la gráfica de fen el punto de abscisa x=2.
+b) Determina el punto de la gráfica en el que la recta tangente es perpendicular a la recta
+x+2y-2=0.
+MATEMÁTICAS Il. 2011. RESERVA 1. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2011.0,Reserva 2,Ejercicio 1 Opción B,"1 o, o. x—-In(x)+a si Lox<z
+Sea f :|—,4|>R la función definida por f(x)= e
+e
+bx+1=In(2) si 2<x<4
+Donde In denota la función logaritmo neperiano.
+1
+a) Calcula los valores de a y b para que f sea derivable en el intervalo E 4) .
+e
+1
+b) Para a=0 y b= 2 halla los extremos absolutos de f (abscisas donde se obtienen y valores que
+se alcanzan).
+MATEMÁTICAS II. 2011. RESERVA 2. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2011.0,Reserva 3,Ejercicio 1 Opción A,"Dada la función f: R—>R definida por f(x)=ax*+bx*+cx, determina a, b y c sabiendo que
+su gráfica tiene un punto de inflexión en (1.0), y que la recta tangente en ese punto tiene por
+ecuación y=-3x+3.
+MATEMÁTICAS Il. 2011. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2011.0,Reserva 3,Ejercicio 1 Opción B,"En el primer cuadrante representamos un rectángulo de tal manera que tiene un vértice en el
+origen de coordenadas y el vértice opuesto en la parábola y=-=x?+3. Determina las
+dimensiones del rectángulo para que su área sea máxima.
+MATEMÁTICAS Il. 2011. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2011.0,Reserva 4,Ejercicio 1 Opcion A,"Queremos hacer junto a la carretera un cercado rectangular para unos caballos en una zona
+llana. Cada metro del lado del cercado que está junto a la carretera nos cuesta 100 euros,
+mientras que para el resto del cercado nos cuesta 10 euros el metro. ¿Cuáles son las
+dimensiones del prado de área máxima que podemos cercar con 3000 euros?.
+MATEMÁTICAS II. 2011. RESERVA 4. EJERCICIO 1. OPCION A."
+MATES_II,Funciones,2011.0,Reserva 4,Ejercicio 1 Opción B,"En una empresa los ingresos (en euros) dependen de la edad. Si la edad, x, es de 18 a 50 años,
+los ingresos vienen dados por la fórmula —x?+70x , mientras que para edades iguales o
+. - . , . o 00x
+superiores a 50 años los ingresos están determinados por la expresión 30
+x-
+Calcula cuál es el máximo de los ingresos y a que edad se alcanza.
+MATEMÁTICAS 11. 2011. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2012.0,Junio,Ejercicio 1 Opción A,"Sea la función f: R > R definida por f(x)=e*-(x-—2).
+a) Calcula las asíntotas de f.
+b) Halla los extremos relativos (abscisas donde se obtienen y los valores que se alcanzan) y los
+intervalos de crecimiento y de decrecimiento de f.
+c) Determina, si existen, los puntos de inflexión de f.
+MATEMÁTICAS II. 2012. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2012.0,Junio,Ejercicio 1 Opción B,". . aA*Ssenx—=x“e* o. . os
+Sabiendo que lim ———— €s finito, calcula el valor de a y el de dicho limite.
+x>
+x
+MATEMÁTICAS HI. 2012. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2012.0,Reserva 1,Ejercicio 1 Opción A,"1
+Sea la función f:(0,+0)>IR definida por f(x)=—+Inx, donde ln denota la función
+x
+logaritmo neperiano.
+a) Halla los extremos absolutos de f (abscisas donde se obtienen y valores que se alcanzan) en el
+intervalo |—,e|.
+e
+b) Determina la ecuación de la recta tangente a la gráfica de fen el punto de abscisa x=€.
+MATEMÁTICAS Il. 2012. RESERVA 1. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2012.0,Reserva 1,Ejercicio 1 Opcion B,"2
+Y
+(x+1)(x -2)
+a) Estudia y calcula las asíntotas de la gráfica de f
+Sea f la función definida por f(x)= para x*-l y xx2
+b) Determina los intervalos de crecimiento y de decrecimiento de f
+c) Calcula, si existe, algún punto de la gráfica de f donde ésta corta a la asíntota horizontal.
+MATEMÁTICAS II. 2012. RESERVA 1. EJERCICIO 1. OPCION B"
+MATES_II,Funciones,2012.0,Reserva 2,Ejercicio 1 Opción A,"Sea la función f:[Le] >R definida por: f(x)=x”-8In(x) donde In denota la función
+logaritmo neperiano.
+a) Halla los inter valos de crecimiento y de decrecimiento de f.
+b) Calcula los extremos absolutos y relativos de la función f (abscisas donde se obtienen y valores
+que se alcanzan).
+c) Estudia los intervalos de concavidad y convexidad.
+MATEMÁTICAS Il. 2012. RESERVA 2. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2012.0,Reserva 2,Ejercicio 1 Opción B,"Sea la función f :|R-—>R definida por: f(x)=e*(x?-x+1).
+a) Calcula: lim f(x) y lim f(x)
+x>-00 x>3+o0
+b) Halla los extremos relativos de f (abscisas donde se obtienen y los valores que se alcanzan,
+determinando si son máximos o mínimos).
+c) Determina las abscisas de los puntos de inflexión de la gráfica de f.
+MATEMÁTICAS Il. 2012. RESERVA 2. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2012.0,Reserva 3,Ejercicio 1 Opcion A,"Un alambre de longitud 2 metros se divide en dos trozos. Con el primero se forma un
+rectángulo cuya base es el doble de la altura y con el segundo trozo se forma un cuadrado.
+Calcula las longitudes de dichos trozos para que la suma de las áreas del rectángulo y el
+cuadrado resultante sea mínima.
+MATEMÁTICAS II. 2012. RESERVA 3. EJERCICIO 1. OPCION A."
+MATES_II,Funciones,2012.0,Reserva 3,Ejercicio 1 Opción B,"Sea la función f:R=>R definida por: f(x)=In(x?*+3x+3)-—xdonde In denota la función
+logaritmo neperiano.
+a) Halla los intervalos de crecimiento y de decrecimiento y los extremos relativos de f (abscisas
+donde se obtienen y valores que se alcanzan).
+b) Determina la ecuación de la recta normal a la gráfica de f en el punto de abscisa x=-—2.
+MATEMÁTICAS Il. 2012. RESERVA 3. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2012.0,Reserva 4,Ejercicio 1 Opción A,"Se considera la función derivable f : R > R definida por f(x)=
+Calcula los valores de a y b.
+MATEMÁTICAS Il. 2012. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2012.0,Reserva 4,Ejercicio 1 Opción B,"De entre todos los triángulos rectángulos de hipotenusa 10 unidades, determina las dimensiones
+del de área máxima.
+MATEMÁTICAS Il. 2012. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2012.0,Septiembre,Ejercicio 1 Opción A,"x+k si x<0
+Sea la función continua f :|R > |R definida por f(x)=3 €**
+si x>0
+a) Calcula el valor de k.
+b) Halla la ecuación de la recta tangente a la gráfica de la función f en el punto de abscisa x=1.
+MATEMÁTICAS Il. 2012. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2012.0,Septiembre,Ejercicio 1 Opción B,"-=x
+Sea la función f definida por f(x)= - para xxl.
+=x
+a) Estudia las asíntotas de la gráfica de la función f.
+b) Halla los extremos relativos (abscisas donde se obtienen y los valores que alcanzan) y los
+intervalos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS Il. 2012. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2013.0,Junio,Ejercicio 1 Opción A,"Sabiendo que lim es finito, calcula b y el valor del límite.
+x>30 x
+MATEMÁTICAS 11. 2013. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2013.0,Junio,Ejercicio 1 Opción B,"x+2e""* si x<0
+ayb=x si O<x<l
+a) Determina a y b sabiendo que f es derivable en todo su dominio.
+b) Halla la ecuación de la recta tangente y de la recta normal a la gráfica de f en el punto de
+abscisa x=0
+MATEMÁTICAS Il. 2013. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2013.0,Reserva 1,Ejercicio 1 Opcion A,"3
+Sea g la función definida por g(x)=
+7 para xn.
+mx
+(xn)
+a) Halla m y n sabiendo que la recta y =2x-—4 es una asíntota de la gráfica de g.
+b) Determina si la gráfica de g es simétrica respecto al origen.
+MATEMÁTICAS II. 2013. RESERVA 1. EJERCICIO 1. OPCION A."
+MATES_II,Funciones,2013.0,Reserva 1,Ejercicio 1 Opción B,"Sea f:R>R la función definida por f(x)=x*+ax*+bx+c. Se sabe que un punto de
+inflexión de la gráfica de f tiene de abscisa x=1 y que f tiene un mínimo relativo en x=2 de
+valor —9. Calcula a, b y c.
+MATEMÁTICAS Il. 2013. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2013.0,Reserva 2,Ejercicio 1 Opción A,"Un rectángulo está inscrito en un semicírculo de ./5 cm. de radio, de forma que uno de sus
+lados está contenido en el diámetro del semicírculo y el lado opuesto tiene sus vértices sobre la
+semicircunferencia. Calcula las dimensiones del rectángulo sabiendo que es el de mayor
+perímetro posible.
+MATEMÁTICAS Il. 2013. RESERVA 2. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2013.0,Reserva 2,Ejercicio 1 Opción B,"Considera la función f:R=>R dada por f(x)=x'""+ax*+bx+c. Determina a, b y c
+sabiendo que la recta normal a la gráfica de f en el punto de abscisa x=0 es y+x=-3 y que
+el punto de inflexión tiene abscisa x=1.
+MATEMÁTICAS 11. 2013. RESERVA 2. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2013.0,Reserva 3,Ejercicio 1 Opción A,"Sea f la función definida por o para x>0,xx<1 (donde In denota el logaritmo
+n(x
+neperiano).
+a) Estudia y determina las asíntotas de la gráfica de f.
+b) Calcula la ecuación de la recta tangente y de la recta normal a la gráfica de f en el punto de
+abscisa x=8.
+MATEMÁTICAS HI. 2013. RESERVA 3. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2013.0,Reserva 3,Ejercicio 1 Opción B,"k 1
+Sea f la función definida por f(x) =-————==—— para xxX%a y XX%—.
+(x-aJQx=1) 2
+a) Halla a y k sabiendo que la gráfica de f pasa por el punto (0,2) y que la recta x=2 es una
+asíntota de dicha gráfica.
+b) Para k=4 y a=2, halla los extremos relativos de f (abscisas donde se obtienen y valores
+que se alcanzan) y sus intervalos de crecimiento y de decrecimiento.
+MATEMÁTICAS I1. 2013. RESERVA 3. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2013.0,Reserva 4,Ejercicio 1 Opción A,"Halla las dimensiones del rectángulo de área máxima inscrito en un triángulo isósceles de 6
+metros de base (el lado desigual) y 4 metros de alto.
+MATEMÁTICAS Il. 2013. RESERVA 4. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2013.0,Reserva 4,Ejercicio 1 Opción B,"1
+Sea f la función definida por f(x)=xe* para x>-1,xx%0
+a) Calcula los límites laterales de fen x=0.
+b) Estudia y determina las asíntotas de la gráfica de f.
+MATEMÁTICAS Il. 2013. RESERVA 4. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2013.0,Septiembre,Ejercicio 1 Opción A,"Un alambre de 10 metros de longitud se divide en dos trozos. Con uno de ellos se forma un
+triángulo equilátero y con el otro un cuadrado. Halla la longitud de dichos trozos para que la
+suma de las áreas sea mínima.
+MATEMÁTICAS Il. 2013. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2013.0,Septiembre,Ejercicio 1 Opción B,"21
+Sea f:(0,+0)> IR la función f definida por f(x)= nQ) (donde ln denota el logaritmo
+x
+neperiano).
+a) Determina los intervalos de crecimiento y de decrecimiento y los extremos relativos de f
+(abscisas donde se obtienen y valores que se alcanzan).
+b) Estudia y determina las asíntotas de la gráfica de f.
+MATEMÁTICAS Il. 2013. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2014.0,Junio,Ejercicio 1 Opción A,"Sea f:R=>R definida por f(x)=x*+ax?*+bx+c
+1
+a) Halla a, b y c para que la gráfica de f tenga un punto de inflexión de abscisa x => y que la
+recta tangente en el punto de abscisa x=0 tenga por ecuación y=5-—6x.
+b) Para a=3,b=-9 y c=8, calcula los extremos relativos de f (abscisas donde se obtienen y
+valores que se alcanzan).
+MATEMÁTICAS II. 2014. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2014.0,Junto,Ejercicio 1 Opción B,"Se desea construir un depósito en forma de cilindro recto, con base circular y sin tapadera, que
+tenga una capacidad de 125 m*. Halla el radio de la base y la altura que debe tener el depósito
+para que la superficie sea mínima.
+MATEMÁTICAS IT. 2014. JUNTO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2014.0,Reserva 1,Ejercicio 1 Opción A,"171 ) es finito, calcula a y el valor del límite (In denota el logaritmo
+x= nx
+Sabiendo que lim (
+neperiano).
+MATEMÁTICAS Il. 2014. RESERVA 1. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2014.0,Reserva 1,Ejercicio 1 Opción B,"x
+e*—e”
+Considera la función derivable f :|R > R definida por f (x)= 2x
+si x<0
+ax+b si x>0
+a) Calcula a y b.
+b) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x=-—1.
+MATEMÁTICAS Il. 2014. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2014.0,Reserva 2,Ejercicio 1 Opción A,"1
+Sea f la función definida por f(x)= yy + x para x>0
+x
+a) Determina el punto de la gráfica de f en el que la pendiente de la recta tangente es máxima
+b) Halla la ecuación de la recta normal a la gráfica de f en el punto de abscisa x=1.
+MATEMÁTICAS Il. 2014. RESERVA 2. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2014.0,Reserva 2,Ejercicio 1 Opción B,"Sea f: R=>R la función definida por f(x)=x*+bx*+cx+d . Halla b, e y d sabiendo que f
+f(x)
+tiene un máximo relativo en x=-— 1 y que im 4
+xl x—
+MATEMÁTICAS Il. 2014. RESERVA 2. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2014.0,Reserva 3,Ejercicio 1 Opción A,"tan x—sen Xx
+Calcula lim
+x30  Xx-—SenxX
+MATEMÁTICAS Il. 2014. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2014.0,Reserva 3,Ejercicio 1 Opción B,"Considera la función f : R—>R definida por f(x)=x?-+e e
+a) Estudia y determina las asíntotas de la gráfica de f.
+b) Halla los intervalos de crecimiento y de decrecimiento y los extremos relativos (abscisas
+donde se obtienen y valores que se alcanzan).
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2014. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2014.0,Reserva 4,Ejercicio 1 Opción A,"De entre todos los triángulos rectángulos de área 8 cm ?, determina las dimensiones del que
+tiene la hipotenusa de menor longitud.
+MATEMÁTICAS Il. 2014. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2014.0,Reserva 4,Ejercicio 1 Opción B,"a—=x six<l
+Sea f:R=>R la función derivable definida por: f(x)=3b . donde In denota
+—+Inx si x>l
+x
+el logaritmo neperiano
+a) Calcula a y b.
+b) Para a=3 y b=2 calcula los extremos absolutos de f en el intervalo [0,e] (abscisas donde
+se obtienen y valores que se alcanzan)
+MATEMÁTICAS Il. 2014. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2014.0,Septiembre,Ejercicio 1 Opción A,"s(3x)=e *
+Sabiendo que lim cos(Bx)-e""+ax es finito, calcula a y el valor del límite.
+x>0 x sen(x)
+MATEMÁTICAS Il. 2014. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2014.0,Septiembre,Ejercicio 1 Opción B,"De entre todos los números reales positivos, determina el que sumado con su inverso da suma
+mínima.
+MATEMÁTICAS Il. 2014. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2015.0,Junio,Ejercicio 1 Opción A,"Se quiere construir un depósito abierto de base cuadrada y paredes verticales con capacidad
+para 135 metros cúbicos. Para ello se dispone de una chapa de acero de grosor uniforme.
+Calcula las dimensiones del depósito para que el gasto en chapa sea el mínimo posible
+MATEMÁTICAS Il. 2015. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2015.0,Junio,Ejercicio 1 Opción B,"ax?*+bx+1-cos(x)
+Sabiendo que lim 5
+x>0 sen(x*)
+MATEMÁTICAS HI. 2015. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2015.0,Reserva 1,Ejercicio 1 Opción A,"Se quiere vallar un campo rectangular que está junto a un camino. Si la valla del lado del camino
+cuesta 80 euros/metro y la de los otros lados 10 euros/metro, halla las dimensiones del campo de
+área máxima que puede vallarse con 28.800 euros.
+MATEMÁTICAS HI. 2015. RESERVA 1. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2015.0,Reserva 1,Ejercicio 1 Opción B,"Determina a y b sabiendo que b>0 y que la función f : |R—> R definida como
+acos(x)+2x si x<0
+fO0)=
+anar) si x>0
+x+1
+es derivable. (In denota la función logaritmo neperiano).
+MATEMÁTICAS Il. 2015. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2015.0,Reserva 2,Ejercicio 1 Opción A,"Halla a y b sabiendo que es continua la función f :|R > KR definida como
+x +cos(x)-—ae *
+f()= si xx%0
+b si x=0
+MATEMÁTICAS II. 2015. RESERVA 2. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2015.0,Reserva 2,Ejercicio 1 Opción B,"x
+Sea f : IR=>R la función definida por f(x)=(x?+3x+1)-e""*.
+a) Estudia y calcula las asíntotas de la gráfica de f.
+b) Halla los puntos de la gráfica de f cuya recta tangente es horizontal.
+c) Determina la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x=0.
+MATEMÁTICAS Il. 2015. RESERVA 2. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2015.0,Reserva 3,Ejercicio 1 Opción A,"Sea f la función definida por f(x)= 2 : para xxl.
+a) Estudia y calcula las asíntotas de la gráfica de f.
+b) Halla los intervalos de crecimiento y de decrecimiento y los extremos relativos (abscisas donde
+se obtienen y valores que se alcanzan) de f.
+MATEMÁTICAS HI. 2015. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2015.0,Reserva 3,Ejercicio 1 Opción B,"Queremos fabricar una caja con base cuadrada, de tal manera que la altura de la caja más el
+perímetro de la base sumen 60 cm. Determina sus dimensiones para que contenga el mayor
+volumen posible.
+MATEMÁTICAS Il. 2015. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2015.0,Reserva 4,Ejercicio 1 Opción A,"Sea f:R>=>R la función dada por f(x)=ax*+bx ”*+cx+d . Halla los coeficientes a, b, c y d
+sabiendo que f presenta un extremo local en el punto de abscisa x=0, que (1,0) es punto de
+inflexión de la gráfica de f y que la pendiente de la recta tangente en dicho punto es —-3.
+MATEMÁTICAS HI. 2015. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2015.0,Reserva 4,Ejercicio 1 Opción B,"Sea f : R=>R la función definida por f(x)=x? -| x | .
+a) Estudia la derivabilidad de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+c) Calcula los extremos relativos de f (abscisas donde se obtienen y valores que se alcanzan).
+MATEMÁTICAS II. 2015. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2015.0,Septiembre,Ejercicio 1 Opción A,"2
+a
+b
+Halla los valores de a, b y c sabiendo que la gráfica de la función f(x)= + tiene una
+x+c
+asíntota vertical en x=1, una asíntota oblicua de pendiente 2, y un extremo local de abscisa
+x=3.
+MATEMÁTICAS 11. 2015. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2015.0,Septiembre,Ejercicio 1 Opción B,"Un granjero desea vallar un terreno rectangular de pasto adyacente a un río. El terreno debe
+tener 180.000 m? para producir suficiente pasto para su ganado. ¿Qué dimensiones tendrá el
+terreno rectangular de modo que utilice la mínima cantidad de valla, si el lado que da al rio no
+necesita vallado?.
+MATEMÁTICAS II. 2015. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2016.0,Junio,Ejercicio 1 Opción A,"In(x+1)—a sen x + xcos(3x)
+Sabiendo que lim 3 es finito, calcula a y el valor del límite.
+x>0 Xx
+MATEMÁTICAS 11. 2016. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2016.0,Junio,Ejercicio 1 Opción B,"x
+x+ 1
+a) Estudia y determina las asíntotas de la gráfica de f. Calcula los puntos de corte de dichas
+asíntotas con la gráfica de f.
+Sea f: R=>R la función definida por f(x)=
+b) Halla los intervalos de crecimiento y de decrecimiento f y los extremos relativos de f
+(abscisas donde se obtienen y valores que se alcanzan).
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2016. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2016.0,Reserva 1,Ejercicio 1 Opción A,"cos(rrx)- (1 + a cos(rrx ))
+sen(x?)
+Sabiendo que lim es finito, calcula a y el valor del límite.
+x>
+MATEMÁTICAS HI. 2016. RESERVA 1. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2016.0,Reserva 1,Ejercicio 1 Opción B,"Se dispone de un cartón cuadrado de 50 cm de lado para construir una caja sin tapadera a
+partir del cartón. Para ello, se corta un cuadrado de x cm de lado en cada una de las esquinas.
+Halla el valor de x para que el volumen de la caja sea máximo y calcula dicho volumen.
+MATEMÁTICAS I1. 2016. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2016.0,Reserva 2,Ejercicio 1 Opción A,"1
+Sea la función f:(0,+0)>R definida por fuo=, donde In denota logaritmo
+x
+neperiano.
+a) Estudia y determina las asíntotas de la gráfica de f.
+b) Halla los extremos relativos (abscisas donde se obtienen y valores que se alcanzan) y los
+intervalos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS Il. 2016. RESERVA 2. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2016.0,Reserva 2,Ejercicio 1 Opción B,"Sea f:R=>R la función definida por f(x)=x*+ax*+bx+c. Determina a, b, c sabiendo
+que la gráfica de f tiene tangente horizontal en el punto de abscisa x=1 y un punto de
+inflexión en (-1,5).
+MATEMÁTICAS II. 2016. RESERVA 2. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2016.0,Reserva 3,Ejercicio 1 Opción A,"Sea f:R>R la función definida por f(x)=(e*+b)x, con ax0. Calcula a y b sabiendo
+que f tiene un extremo relativo en x=0 y su gráfica, un punto de inflexión en el punto cuya
+abscisa es x=1.
+MATEMÁTICAS II. 2016. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2016.0,Reserva 3,Ejercicio 1 Opción B,"De un terreno se desea vender un solar rectangular de 12.800 m?dividido en tres parcelas
+iguales como las que aparecen en el dibujo. Si se quieren vallar las lindes de las tres parcelas
+(los bordes y las separaciones de las parcelas), determina las dimensiones del solar para que la
+longitud de la valla utilizada sea mínima.
+MATEMÁTICAS Il. 2016. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2016.0,Reserva 4,Ejercicio 1 Opción A,"Se quiere construir un bote de conservas cilíndrico, con tapa, de un litro de capacidad. Calcula
+las dimensiones del bote para que en su construcción se utilice la menor cantidad posible de
+hojalata.
+MATEMÁTICAS Il. 2016. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2016.0,Reserva 4,Ejercicio 1 Opción B,"Sea f: R=>R la función definida por f69=| x? -4]| .
+a) Determina los intervalos de crecimiento y de decrecimiento de f y calcula sus extremos
+relativos (abscisas donde se obtienen y valores que se alcanzan).
+b) Calcula la ecuación de la recta tangente y de la recta normal a la gráfica de f en el punto de
+abscisa x=-1.
+MATEMÁTICAS Il. 2016. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2016.0,Septiembre,Ejercicio 1 Opción A,"1
+Sabiendo que lim ( 7) es finito, calcula m y el valor del límite.
+>0le*-1 2x
+MATEMÁTICAS Il. 2016. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2016.0,Septiembre,Ejercicio 1 Opción B,"Sea f:R=>R la función definida por f(x)=x?-+e a
+a) Estudia y determina las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f y calcula sus extremos
+relativos (abscisas donde se obtienen y valores que se alcanzan).
+c) Esboza la gráfica de f.
+MATEMÁTICAS Il. 2016. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2017.0,Junio,Ejercicio 1 Opción A,"Se quiere hacer una puerta rectangular coronada por un semicírculo como el de la figura. El
+hueco de la puerta tiene que tener 16 metros cuadrados. Si es posible, determina la base x para
+que el perímetro sea mínimo.
+MATEMÁTICAS 11. 2017. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2017.0,Junio,Ejercicio 1 Opción B,"2
+Xx
+Considera la función f definida por f(x)= 7 para xxl
+a) Estudia y determina las asíntotas de la gráfica de f.
+b) Estudia y determina los intervalos de crecimiento y los intervalos de decrecimiento de f.
+Calcula los extremos relativos de f (abscisas donde se obtienen y valores que se alcanzan)
+MATEMÁTICAS Il. 2017. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2017.0,Reserva 1,Ejercicio 1 Opción A,"Se sabe que la función f : IR > IR dada por
+3x+2 si x<0
+f(09)=34x?+2acos(x) si O<x<rT
+ax?+b si x>2T
+es continua.
+a) Determina a y b.
+b) Estudia la derivabilidad de f.
+MATEMÁTICAS II. 2017. RESERVA 1. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2017.0,Reserva 1,Ejercicio 1 Opción B,"Calcula lim
+0
+MATEMÁTICAS 11. 2017. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2017.0,Reserva 2,Ejercicio 1 Opcion A,"2
+Se considera la función f dada por f(x)= a +2 para xxl.
+x-1
+a) Estudia y calcula las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS II. 2017. RESERVA 2. EJERCICIO 1. OPCION A."
+MATES_II,Funciones,2017.0,Reserva 2,Ejercicio 1 Opcion B,"Una cuerda de un metro de longitud se divide en dos trozos con los que se construyen un
+cuadrado y una circunferencia respectivamente.
+Determina, si es posible, las longitudes de los trozos para que la suma de las áreas sea mínima.
+MATEMÁTICAS II. 2017. RESERVA 2. EJERCICIO 1. OPCION B."
+MATES_II,Funciones,2017.0,Reserva 3,Ejercicio 1 Opcion A,"Se necesita construir un depósito cilíndrico, con tapas inferior y superior, con capacidad de
+207 m*. El material para las tapas cuesta 10 euros cada m? y el material para el resto del
+cilindro 8 euros cada m ?. Calcula, si existe, el radio de las tapas y la altura del cilindro que
+hace que el coste total sea mínimo.
+MATEMÁTICAS II. 2017. RESERVA 3. EJERCICIO 1. OPCION A."
+MATES_II,Funciones,2017.0,Reserva 3,Ejercicio 1 Opción B,"Considera la función f:¡R=>IR dada por f(x)=ax""+bx”*+cx+d. Calcula a; b; c y d
+sabiendo que f tiene un extremo relativo en (0,1) y su gráfica un punto de inflexión en (1,—1).
+MATEMÁTICAS 11. 2017. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2017.0,Reserva 4,Ejercicio 1 Opción A,"Calcula la función polinómica, de grado 3, de la que se sabe que tiene un extremo relativo en el
+punto (0,2) y que la tangente a su gráfica en el punto de abscisa x=1 es la recta x+y=3.
+MATEMÁTICAS HI. 2017. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2017.0,Reserva 4,Ejercicio 1 Opción B,"Considera la función definida por f(x)==—x 42 para xx0.
+x?
+a) Estudia y determina las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f y calcula sus extremos
+relativos (abscisas donde se obtienen y valores que se alcanzan).
+c) Esboza la gráfica de f.
+MATEMÁTICAS 11. 2017. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2017.0,Septiembre,Ejercicio 1 Opción A,"Una imprenta recibe un encargo para realizar una tarjeta rectangular con las siguientes
+características: la superficie rectangular que debe ocupar la zona impresa debe ser de 100 cm ?
+,el margen superior tiene que ser de 2 cm, el inferior de 3 cm y los laterales de 5 cm cada uno.
+Calcula, si es posible, las dimensiones que debe tener la tarjeta de forma que se utilice la menor
+cantidad de papel posible.
+MATEMÁTICAS Il. 2017. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2017.0,Septiembre,Ejercicio 1 Opción B,"e*t+e *
+Considera la función f : R—>R definida por f(x)= ]
+a) Estudia y determina los intervalos de crecimiento y de decrecimiento de f. Calcula los
+extremos relativos de f (abscisas donde se obtienen y valores que se alcanzan).
+b) Halla la ecuación de la recta normal a la gráfica de f en el punto de abscisa x=0.
+MATEMÁTICAS Il. 2017. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2018.0,Junio,Ejercicio 1 Opción A,"Halla los coeficientes a, b y c sabiendo que la función f:R=>kR definida por
+f09)=x +ax*+bx+c tiene en x=1 un punto de derivada nula que no es extremo relativo y
+que la gráfica de f pasa por el punto (1,1)..
+MATEMÁTICAS Il. 2018. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2018.0,Junio,Ejercicio 1 Opcion B,"Determina k 0 sabiendo que la función f : R > |R definida por
+3-kx? si x<1l
+f(x)=
+si x>l
+es derivable.
+MATEMÁTICAS II. 2018. JUNIO. EJERCICIO 1. OPCION B."
+MATES_II,Funciones,2018.0,Reserva 1,Ejercicio 1 Opción A,"Se desea construir un rectángulo, como el de la figura, de área máxima. La base está situada
+sobre el eje OX, un vértice está en la recta y=x y el otro,en la recta y =4-—x. Se pide:
+a) Halla la altura del rectángulo en función de a (ver figura).
+b) Halla la base del rectángulo en función de a.
+c) Encuentra el valor de a que hace máximo el área del rectángulo.
+MATEMÁTICAS Il. 2018. RESERVA 1. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2018.0,Reserva 1,Ejercicio 1 Opción B,"x<0
+f(x)=3 xe si O<xsl
+l=x
+si 1<x
+a) Estudia la derivabilidad defen x=0 yen x=1.
+b) Estudia la existencia de asíntotas horizontales de la gráfica de f.
+MATEMÁTICAS Il. 2018. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2018.0,Reserva 2,Ejercicio 1 Opción A,"Se desea construir una canaleta, para la recogida de agua, cuya sección es como la de la figura.
+La base y los costados deben medir 10 cm y se trata de darle la inclinación adecuada a los
+costados para obtener una sección de área máxima. Se pide:
+a) Halla la altura de la canaleta en función de x (ver la figura).
+b) Halla el área de la sección de la canaleta en función de x.
+c) Encuentra el valor de x que hace máximo dicho área.
+MATEMÁTICAS Il. 2018. RESERVA 2. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2018.0,Reserva 2,Ejercicio 1 Opción B,"x
+Sea f la función definida por f(x)= 2 : para xxl.
+a) Estudia y determina las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f y halla sus máximos y
+mínimos relativos (puntos en los que se obtienen y valores que alcanza la función).
+c) Esboza la gráfica de findicando sus puntos de corte con los ejes coordenados
+MATEMÁTICAS Il. 2018. RESERVA 2. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2018.0,Reserva 3,Ejercicio 1 Opción A,"Considera un triángulo isósceles en el que el lado desigual mide 8 cm y la altura
+correspondiente mide 5 cm. Calcula las dimensiones del rectángulo de área máxima que se
+puede inscribir en dicho triángulo (ver figura).
+MATEMÁTICAS Il. 2018. RESERVA 3. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2018.0,Reserva 3,Ejercicio 1 Opción B,"x
+Sea f: R—>R función definida por f(x)=x+xe""
+a) Calcula la ecuación de la recta tangente a la gráfica de f que es paralela a la recta
+x—y+1=0.
+b) Estudia y determina las asíntotas de la gráfica de f.
+MATEMÁTICAS Il. 2018. RESERVA 3. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2018.0,Reserva 4,Ejercicio 1 Opción A,"Calcula lim HE09=x
+x>0 x—sen(x)
+MATEMÁTICAS II. 2018. RESERVA 4. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2018.0,Reserva 4,Ejercicio 1 Opción B,"Se desea construir una caja sin tapadera de base cuadrada. El precio del material es de 18
+euros/m? para los laterales y de 24 euros/m? para la base. Halla las dimensiones de la caja de
+mayor volumen que se puede construir si disponemos de 50 euros.
+MATEMÁTICAS Il. 2018. RESERVA 4. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2018.0,Septiembre,Ejercicio 1 Opción A,"ax?+bx+c si xs0
+Considera la función f: R —>R definida por f(x)=+e*-—e”*-2x
+si x>0.
+x—sen(x)
+Determina a, b y c sabiendo que f es continua, alcanza su máximo relativo en x=-—1 y la recta
+tangente a la gráfica de fen el punto de abscisa x =—2 tiene pendiente 2.
+MATEMÁTICAS Il. 2018. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2018.0,Septiembre,Ejercicio 1 Opción B,"SELECTIVIDAD
+Considera la función f definida por f(x)=alnGO)+bx*+x para x>0, donde In denota la
+función logaritmo neperiano.
+a) Halla a y b sabiendo que f tiene extremos relativos en x=1 yen x=2.
+b) ¿Qué tipo de extremos tiene fen x=1 yen x=2?
+MATEMÁTICAS Il. 2018. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2019.0,Junio,Ejercicio 1 Opción A,"Considera la función f definida por f(x)= X para xx*-—1
+x+
+a) Estudia y halla las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS 11. 2019. JUNIO. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2019.0,Junio,Ejercicio 1 Opción B,"Considera la función f : R>R definida por f(x)=(x-—a)-e*.
+a) Determina a sabiendo que la función tiene un punto crítico en x=0.
+b) Para a =1, calcula los puntos de inflexión de la gráfica de f.
+MATEMÁTICAS Il. 2019. JUNIO. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2019.0,Reserva 1,Ejercicio 1 Opción A,"cos(x)=e 7% —2x
+Calcula lim 5
+x>0 sen “(x)
+MATEMÁTICAS Il. 2019. RESERVA 1. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2019.0,Reserva 1,Ejercicio 1 Opción B,"x*-ax+2b si x<0
+Se sabe que la función f: R—> |¡R,dada por: f()=3 In(x+1)
+si x>0
+x
+(In denota la función logaritmo neperiano) es derivable. Calcula a y b
+MATEMÁTICAS Il. 2019. RESERVA 1. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2019.0,Reserva 2,Ejercicio 1 Opción A,"cos(x)
+Se considera la función f :(-21,21) >| definida por f(x) = ———
+2+cos(x)
+a) Calcula sus intervalos de crecimiento y de decrecimiento.
+b) Halla sus máximos y mínimos relativos (abscisas en los que se obtienen y valores que se
+alcanzan).
+MATEMÁTICAS Il. 2019. RESERVA 2. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2019.0,Reserva 2,Ejercicio 1 Opción B,"Se sabe que la gráfica de la función f : R >R, dada por f(x)=2x*+ax*+bx=+c
+tiene un punto de inflexión para x=1 y que la ecuación de la recta tangente a dicha gráfica en
+ese puntoes y=-—6x+6. Calcula a, b y c.
+MATEMÁTICAS I1. 2019. RESERVA 2. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2019.0,Reserva 3,Ejercicio 1 Opción A,"Según un determinado modelo, la concentración en sangre de cierto medicamento viene dada
+t
+por la función C(t)=te ? mg/ml, siendo t el tiempo en horas transcurridas desde que se le
+administra el medicamento al enfermo.
+a) Determina, si existe, el valor máximo absoluto de la función y en qué momento se alcanza.
+b) Sabiendo que la máxima concentración sin peligro para el paciente es 1 mg/ml, señala si en
+algún momento del tratamiento hay riesgo para el paciente.
+MATEMÁTICAS HI. 2019. RESERVA 3. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2019.0,Reserva 3,Ejercicio 1 Opción B,"Dada f:(l,e)>R la función definida por fo9=2+m(x) (In denota la función logaritmo
+x
+neperiano), determina la recta tangente a la gráfica de f que tiene pendiente máxima.
+MATEMÁTICAS Il. 2019. RESERVA 3. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2019.0,Reserva 4,Ejercicio 1 Opción A,"Dada la función f : (0,270) >R, definida por f(x)=sen(x)+cos(x), calcula sus máximos y
+mínimos relativos y los puntos de inflexión de la gráfica de f (abscisas en los que se obtienen y
+valores que se alcanzan).
+MATEMÁTICAS Il. 2019. RESERVA 4. EJERCICIO 1. OPCIÓN A"
+MATES_II,Funciones,2019.0,Reserva 4,Ejercicio 1 Opción B,"Considera la función f definida por f(x)= ax _ para cx+1x0
++
+Determina a, b y c sabiendo que la recta x=—1 es una asíntota vertical a la gráfica de f y que
+y =2x +4 es la recta tangente a la gráfica de f en el punto de abscisa x=1.
+MATEMÁTICAS Il. 2019. RESERVA 4. EJERCICIO 1. OPCIÓN B"
+MATES_II,Funciones,2019.0,Septiembre,Ejercicio 1 Opción A,"1
+Dada la función f:R—=>R definida por 10) =6- 1, calcula las dimensiones del
+rectángulo de área máxima, de lados paralelos a los ejes, inscrito en el recinto comprendido
+entre la gráfica de f y la recta y=0.
+MATEMÁTICAS Il. 2019. SEPTIEMBRE. EJERCICIO 1. OPCIÓN A."
+MATES_II,Funciones,2019.0,Septiembre,Ejercicio 1 Opción B,"Se sabe que la función f :|R => R, dada por
+sen(x)+ax+b
+f09=3  In(x+1)
+si
+x
+(n denota la función logaritmo neperiano) es derivable. Calcula a y b
+MATEMÁTICAS Il. 2019. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B."
+MATES_II,Funciones,2020.0,Junio,Ejercicio 1,"Considera la función f definida por f(x)= AS para xx*1,-1
+a) (125 puntos) Estudia y halla las asíntotas de la gráfica de f.
+b) (125 puntos) Determina los inter valos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS II. 2020. JUNIO. EJERCICIO 1"
+MATES_II,Funciones,2020.0,Junio,Ejercicio 5,"sen (x)
+Sea £:[0,27] >R la función definida por f(x)=
+2-cos(x)
+a) Q puntos) Halla los extremos absolutos de f (abscisas donde de obtienen y valores que se
+alcanzan).
+b) (05 puntos) Determina la ecuación de la recta tangente y de la recta normal a la gráfica de f
+. T
+en el punto de abscisas x = 3
+MATEMÁTICAS II. 2020. JUNIO. EJERCICIO 5"
+MATES_II,Funciones,2020.0,Reserva 1,Ejercicio 1,"x>0
+l xl -? (In denota la función
+In(1-x) x 2
+(25 puntos) Calcula a sabiendo que lim
+logaritmo neperiano).
+MATEMÁTICAS II. 2020. RESERVA 1. EJERCICIO 1"
+MATES_II,Funciones,2020.0,Reserva 1,Ejercicio 5,"(25 puntos) Una familia desea acotas una zona rectangular en el jardín de su casa para dedicarla
+al cultivo ecológico. Para ello dispone de 96 metros de valla, pero necesita una abertura de 4
+metros en uno de los laterales para instalar una puerta. Determina las dimensiones de la zona
+rectangular de área máxima que puede acotarse de esta manera y el valor del área.
+MATEMÁTICAS HI. 2020. RESERVA 1. EJERCICIO 5"
+MATES_II,Funciones,2020.0,Reserva 2,Ejercicio 1,"¿Ind - 1
+(25 puntos) Sabiendo que lim xe nd+ 2) (+Dx es finito, calcula a y el valor del límite
+x> xXx
+(In denota la función logaritmo neperiano).
+MATEMÁTICAS HI. 2020. RESERVA 2. EJERCICIO 1"
+MATES_II,Funciones,2020.0,Reserva 2,Ejercicio 5,"Sea f la función definida por f(x)= ] x | para xx%2.
+=x
+a) (125 Puntos). Estudia la derivabilidad de f.
+b) (1?25 Puntos). Determina los intervalos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS II. 2020. RESERVA 2. EJERCICIO 5"
+MATES_II,Funciones,2020.0,Reserva 3,Ejercicio 1,"3
+Considera la función f definida por f(x)= 2 para xX%l,—1.
+x?-
+a) (125 Puntos). Estudia y halla las asíntotas a la gráfica de f.
+b) (125 Puntos). Determina los intervalos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS II. 2020. RESERVA 3. EJERCICIO 1"
+MATES_II,Funciones,2020.0,Reserva 3,Ejercicio 5,"(2>5 Puntos). Se sabe que la función f: R >R dada por f(x)=ax*+bx*+cx+d tiene un
+punto críticoen x=0,que su gráfica pasa por (0,3) y que la recta y =—-2x+2 es tangente a
+dicha gráfica en el punto de abscisa x=1. Calcula a,b ,c y d.
+MATEMÁTICAS HI. 2020. RESERVA 3. EJERCICIO 5"
+MATES_II,Funciones,2020.0,Reserva 4,Ejercicio 1,"(25 Puntos). Sea f:R=>R la función definida por f(x)=(5-x):e*”*. Determina los
+puntos de la gráfica de f cuya recta tangente tiene pendiente máxima.
+MATEMÁTICAS Il. 2020. RESERVA 4. EJERCICIO 1"
+MATES_II,Funciones,2020.0,Reserva 4,Ejercicio 5,"(2>5 Puntos). Se sabe que la función f: R—>R, dada por f(x)=ax*+bx*+cx—1 tiene un
+punto crítico en x=2 y que la recta normal a su gráfica en el punto de abscisa x=1 es
+1 3
+==x+>. Calcula a,b y c.
+y 2 > y
+MATEMÁTICAS HI. 2020. RESERVA 4. EJERCICIO 5"
+MATES_II,Funciones,2020.0,Septiembre,Ejercicio 1,"(25 puntos) Considera la función f:R—>R dada por: f(x)=e*(x?-—5x+6). Determina los
+intervalos de concavidad y de convexidad de f y los puntos de inflexión de su gráfica.
+MATEMÁTICAS Il. 2020. SEPTIEMBRE. EJERCICIO 1"
+MATES_II,Funciones,2020.0,Septiembre,Ejercicio $,"24 sio x<l
+l-xInx si x>1
+Sea la función derivable f : R—>R definida por f (x) -|
+(n denota la función logaritmo neperiano)
+a) (1775 puntos) Determina los valores de a y b.
+b) (075 puntos) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa
+x=2.
+MATEMÁTICAS HI. 2020. SEPTIEMBRE. EJERCICIO $."
+MATES_II,Funciones,2021.0,Junio,Ejercicio 1,"""+bx+2
+Se sabe que la gráfica de la función f definida por f(x)= MAMA (para x*1) tiene una
+x
+-1
+asíntota oblicua que pasa por el punto (1,1) y tiene pendiente 2. Calcula a y b.
+MATEMÁTICAS I1. 2021. JUNIO. EJERCICIO 1"
+MATES_II,Funciones,2021.0,Junio,Ejercicio 2,"(3x-6)-e *
+Considera la función continua f : ¡R > |R definida por f(x)=3 36(sen(x)—ax)
+3
+Xx
+a) Calcula a.
+b) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x=-—1.
+MATEMÁTICAS Il. 2021. JUNIO. EJERCICIO 2"
+MATES_II,Funciones,2021.0,Reserva 1,Ejercicio 2,"2-10
+Considera la función f definida por f(x)= E para (x%-3,xx1)
+x*+2x-3
+a) Estudia y halla las asíntotas de la gráfica de f.
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS Il. 2021. RESERVA 1. EJERCICIO 2"
+MATES_II,Funciones,2021.0,Reserva 2,Ejercicio 1,"x>0
+Sabiendo que lim (E 2) es finito, calcula a y el valor del límite (In denota el logaritmo
+ma+D x
+neperiano).
+MATEMÁTICAS Il. 2021. RESERVA 2. EJERCICIO 1"
+MATES_II,Funciones,2021.0,Reserva 2,Ejercicio 2,"2
+ax
+b
+Sea f la función definida por f(x)= + (para xxa).
+a—x
+a) Halla a y b sabiendo que la gráfica de f pasa por el punto (2,3) y tiene una asíntota oblicua
+cuya pendiente vale -4.
+b)Para a=2 y b=3, calcula las ecuaciones de las rectas tangente y normal a la gráfica de f en
+el punto de abscisa x=1
+MATEMÁTICAS I1. 2021. RESERVA 2. EJERCICIO 2"
+MATES_II,Funciones,2021.0,Reserva 3,Ejercicio 1,"ax+b
+Sea la función derivable f : R > IR definida por f (x)= x—1
+In(1+x)
+(n denota la función logaritmo neperiano)
+a) Determina a y b.
+b) Halla las ecuaciones de las rectas tangente y normal a la gráfica de f en el punto de abscisa
+x=2.
+MATEMÁTICAS HI. 2021. RESERVA 3. EJERCICIO 1."
+MATES_II,Funciones,2021.0,Reserva 3,Ejercicio 2,"Halla a, b y e sabiendo que la función f:R—=>R dada por f(x)=a+b-sen(x)+c-sen(2x)
+tiene un punto crítico en el punto de abscisa x=xTt y la recta y=-=7X+3 es normal a la
+gráfica de f en el punto de abscisa x=0.
+MATEMÁTICAS I1. 2021. RESERVA 3. EJERCICIO 2"
+MATES_II,Funciones,2021.0,Reserva 4,Ejercicio 1,"In(e*+x?)
+x
+si x<0
+Sea la función continua f :|R—>R definida por f(x)=Y 4x”+a si O<x<l.
+b+sen(mx) si 1<x
+(In denota la función logaritmo neperiano). Determina a y b.
+MATEMÁTICAS Il. 2021. RESERVA 4. EJERCICIO 1"
+MATES_II,Funciones,2021.0,Reserva 4,Ejercicio 2,"e*+1
+a) Estudia y halla las asíntotas de la gráfica de f.
+Sea f : R=>¡R la función definida por f(x)=
+b) Determina los intervalos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS Il. 2021. RESERVA 4. EJERCICIO 2"
+MATES_II,Funciones,2021.0,Julio,Ejercicio 1,"a(1—cos(x))+bsen(x)-2(e z -1)
+Calcula a y b sabiendo que lim =7
+x>
+MATEMÁTICAS HI. 2021. JULIO. EJERCICIO 1"
+MATES_II,Funciones,2021.0,Julio,Ejercicio 2,"2
+Halla a>0 y b>0 sabiendo que la gráfica de la función f:|R—>'|¡R dada por f(x)=
+l+ax*
+tiene en el punto (1,2) un punto crítico.
+MATEMÁTICAS Il. 2021. JULIO. EJERCICIO 2"
+MATES_II,Funciones,2022.0,Junio,Ejercicio 1,"Considera la función continua f definida por
+1
+x
+f()=3ax+b
+2
+x
+x+1
+a) Calcula a y b.
+b) Estudia y halla las asíntotas de la gráfica de f.
+MATEMÁTICAS 11. 2022. JUNIO. EJERCICIO 1"
+MATES_II,Funciones,2022.0,Junio,Ejercicio 2,"De entre todos los rectángulos con lados paralelos a los ejes de coordenadas, determina las
+dimensiones de aquel de área máxima que puede inscribirse en la región limitada por las
+2 2
+gráficas de las funciones f,g:|R > R, definidas por f(x)= 1-5 y g(x)= 2
+MATEMÁTICAS HI. 2022. JUNIO. EJERCICIO 2"
+MATES_II,Funciones,2022.0,Reserva 1,Ejercicio 1,"x?+1
+x—1
+ax+b
+(x+1)?
+Sea f la función continua definida por f(x)=
+si x>0
+a) Determina a y b sabiendo que f tiene un extremo relativo en el punto de abscisa x=2.
+b)Para a=2 y b=-1, estudia la derivabilidad de f.
+MATEMÁTICAS I1. 2022. RESERVA 1. EJERCICIO 1"
+MATES_II,Funciones,2022.0,Reserva 1,Ejercicio 2,"Se quiere cercar un trozo de terreno como el de la figura, de modo que el área del recinto
+200 .
+central rectangular sea de —— metros cuadrados. Sabiendo que el coste de la cerca que se
+T
+puede poner en los tramos rectos es de 10 euros por metro lineal, y en los tramos circulares de
+20 euros por metro lineal, calcula las dimensiones a y b del terreno para las que se minimiza el
+coste del cercado.
+a
+K]_ A—_—_—_————
+1D
+MATEMÁTICAS I1. 2022. RESERVA 1. EJERCICIO 2"
+MATES_II,Funciones,2022.0,Reserva 2,Ejercicio 1,"x?+2 si x<s0
+Sea f la función continua definida por f(x)=3 Jax+b si 0<x<2
+EEN
+NA
+si 2<x
+a) Calcula a y b.
+b) Para a=-—1 y b=4, estudia si existe la derivada de fen x=2.En caso afirmativo, calcula
+la ecuación de la recta tangente a la gráfica de fen dicho punto.
+MATEMÁTICAS HI. 2022. RESERVA 2. EJERCICIO 1"
+MATES_II,Funciones,2022.0,Reserva 2,Ejercicio 2,"Considera la función f:R=>R definida por f(x)=In(x?+1) (donde ln denota la función
+logaritmo neperiano).
+a) Determina los intervalos de crecimiento y decrecimiento de f.
+b) Determina los intervalos de convexidad y de concavidad de f y los puntos de inflexión de su
+gráfica.
+MATEMÁTICAS Il. 2022. RESERVA 2. EJERCICIO 2"
+MATES_II,Funciones,2022.0,Reserva 3,Ejercicio 1,"asen(x)+xIn(x+1)+bx?
+Calcula a y b sabiendo que lim,
+3 5 =2 (donde In denota la función
+XxX +x""
+logaritmo neperiano)
+MATEMÁTICAS HI. 2022. RESERVA 3. EJERCICIO 1"
+MATES_II,Funciones,2022.0,Reserva 3,Ejercicio 2,"Sea f: [0,2r1] > R, la función definida por f(x)=e* (cos(x) + sen(x))
+a) Halla los extremos absolutos de f (abscisas donde se obtienen y valores que se alcanzan)
+b) Determina la ecuación de la recta tangente y la ecuación de la recta normal a la gráfica de f
+. 3
+en el punto de abscisa x = >
+MATEMÁTICAS I1. 2022. RESERVA 3. EJERCICIO 2"
+MATES_II,Funciones,2022.0,Reserva 4,Ejercicio 1,"Sea f la función continua definida por f(x)=
+a) Calcula A y H.
+b) Para A=2, calcula la ecuación de la recta tangente a la gráfica de f en el punto de abscisa
+x=1l.
+MATEMÁTICAS Il. 2022. RESERVA 4. EJERCICIO 1"
+MATES_II,Funciones,2022.0,Reserva 4,Ejercicio 2,"x*-3x?+2
+(x+2)*
+Considera la función f definida por f(x)= ,para x%-—2
+a) Estudia y halla las asíntotas de la gráfica de f.
+b) Calcula la ecuación de la recta normal a la gráfica de f en el punto de abscisa x=0.
+MATEMÁTICAS Il. 2022. RESERVA 4. EJERCICIO 2"
+MATES_II,Funciones,2022.0,Julio,Ejercicio 1,"ax
+Calcula a sabiendo que lim -———=%——=1
+> +e (In (2) +2x
+(donde ln denota la función logaritmo neperiano)
+MATEMÁTICAS HI. 2022. JULIO. EJERCICIO 1"
+MATES_II,Funciones,2022.0,Julio,Ejercicio 2,"Calcula los vértices y el área del rectángulo de área máxima inscrito en el recinto limitado por
+la gráfica de la función f:R—>R definida por f(x)=-x*+12 y el eje de abscisas, y que
+tiene su base sobre dicho eje.
+MATEMÁTICAS 11. 2022. JULIO. EJERCICIO 2"
+MATES_II,Funciones,2023.0,Junio,Ejercicio 1,"Considera la función f :|R—> RR definida por f(x) =
+e*+e
+a) Estudia y halla los máximos y mínimos absolutos de f (abscisas donde se obtienen y valores
+x
+que se alcanzan).
+b) Calcula lim ( f 63) .
+x>+00
+MATEMÁTICAS I1. 2023. JUNIO. EJERCICIO 1"
+MATES_II,Funciones,2023.0,Junio,Ejercicio 2,"Sea la función f :[-2,2] >R definida por f(x)=x*-2x+5
+a) Determina las abscisas de los puntos, si existen, en los que la pendiente de la recta tangente
+coincide con la pendiente de la recta que pasa por los puntos (22, fE 2)) y (2, fQ))
+b) Determina la ecuación de la recta tangente y la ecuación de la recta normal a la gráfica de f en el
+punto de inflexión.
+MATEMÁTICAS Il. 2023. JUNIO. EJERCICIO 2"
+MATES_II,Funciones,2023.0,Reserva 1,Ejercicio 1,"Determina las longitudes de los lados de un rectángulo de área máxima que está inscrito en una
+semicircunferencia de 6 cm de radio, teniendo uno de sus lados sobre el diámetro de ella.
+MATEMÁTICAS II. 2023. RESERVA 1. EJERCICIO 1"
+MATES_II,Funciones,2023.0,Reserva 1,Ejercicio 2,"=In(1 1
+Sabiendo que lim sen(x)In(1 + x) => calcula a (In denota la función logaritmo
+x>09x*—x+e* —cos(2x) y
+neperiano)
+MATEMÁTICAS II. 2023. RESERVA 1. EJERCICIO 2"
+MATES_II,Funciones,2023.0,Reserva 2,Ejercicio 1,"Halla dos números mayores o iguales que O, cuya suma sea 1, y el producto de uno de ellos por la
+raíz cuadrada del otro sea máximo.
+MATEMÁTICAS Il. 2023. RESERVA 2. EJERCICIO 1"
+MATES_II,Funciones,2023.0,Reserva 2,Ejercicio 2,"2
+a
+Considera la función f(x)= X - ,para xxXb.
+x-
+a) Calcula a y b para que la gráfica de f pase por el punto (1,—2) y tenga a la recta y=x+4
+como asíntota oblicua..
+b) En el caso de a=5 y b=4, calcula la ecuación de la recta normal a la gráfica de f que pasa
+por el punto de abscisa x=0
+MATEMÁTICAS Il. 2023. RESERVA 2. EJERCICIO 2"
+MATES_II,Funciones,2023.0,Reserva 3,Ejercicio 1,"tiene mayor área.
+MATEMÁTICAS Il. 2023. RESERVA 3. EJERCICIO 1"
+MATES_II,Funciones,2023.0,Reserva 3,Ejercicio 2,"1
+x-| x
+para x]x0.
+Considera la función f(x)=
+a) Calcula los intervalos de concavidad y de convexidad de f , así como los puntos de inflexión
+de su gráfica, si existen.
+b) Estudia y calcula las asíntotas de la función. Esboza su gráfica.
+MATEMÁTICAS Il. 2023. RESERVA 3. EJERCICIO 2"
+MATES_II,Funciones,2023.0,Reserva 4,Ejercicio 1,"In(x+D)+a
+(In denota la función
+3x+4
+Sea f:(-1,+0)>R la función definida por f(x)=
+logaritmo neperiano).
+a) Determina a sabiendo que la pendiente de la recta tangente a la gráfica de la función f en el
+punto de abscisa x=0 es l.
+b) Para a=0, estudia y calcula las asíntotas de f.
+MATEMÁTICAS Il. 2023. RESERVA 4. EJERCICIO 1"
+MATES_II,Funciones,2023.0,Reserva 4,Ejercicio 2,"En una fábrica de pinturas, las latas que se utilizan para envasar la pintura tienen forma
+cilíndrica y una capacidad de 20 litros. Halla las dimensiones del cilindro, con tapas, para que
+la chapa empleada en su construcción sea mínima.
+MATEMÁTICAS Il. 2023. RESERVA 4. EJERCICIO 2"
+MATES_II,Funciones,2023.0,Julio,Ejercicio 1,"5x+l si -—2<x<0
+Sea la función f : [-2,211] >R, definida por: f(x) =
+e*cos(x) si 0<x<2xT
+a) Halla los extremos relativos y absolutos de f (abscisas donde se obtienen y valores que se
+alcanzan).
+b) Determina la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x = 7
+MATEMÁTICAS Il. 2023. JULIO. EJERCICIO 1"
+MATES_II,Funciones,2023.0,Julio,Ejercicio 2,"Sea f : (0,+00) >R la función definida por: f(x)= x(InGo)' (In denota la función logaritmo
+neperiano).
+a) Calcula, si existen, sus extremos relativos (abscisas donde se obtienen y valores que se
+alcanzan).
+b) Calcula, si existen, sus extremos absolutos (abscisas donde se obtienen y valores que se
+alcanzan).
+MATEMÁTICAS II. 2023. JULIO. EJERCICIO 2"
+MATES_II,Funciones,2024.0,Junio,Ejercicio 1,"neperiano, y los puntos de su gráfica A(1,0) y B(e,1).
+a) Determina, si existen, los puntos de la gráfica de f en los que la recta tangente a la gráfica es
+paralela a la recta que pasa por los puntos A y B.
+b) Determina la ecuación de la recta normal a la gráfica de f en el punto A.
+MATEMÁTICAS II. 2024. JUNIO. EJERCICIO 1"
+MATES_II,Funciones,2024.0,Junio,Ejercicio 2,"x-cos(x)—a «sen(x)
+Considera la función continua f definida por: f(x)= x?
+b-cos(x)—1
+Calcula a y b
+MATEMÁTICAS II. 2024. JUNIO. EJERCICIO 2"
+MATES_II,Funciones,2024.0,Reserva 1,Ejercicio 1,"ax +bx*+x-1
+Sea f la función definida por (9 HA ,para x*<+l. Sabiendo que su gráfica
+x
+-1
+tiene una asíntota oblicua que pasa por el punto (0,1) y es paralela a la recta y=2x, calcula la
+asíntota oblicua y los valores de a y b.
+MATEMÁTICAS II. 2024. RESERVA 1. EJERCICIO 1"
+MATES_II,Funciones,2024.0,Reserva 1,Ejercicio 2,"Considera la función f:R—>R definida por: f(x)=arctg(x+m), donde arctg denota la
+función arcotangente.
+a) Calcula los intervalos de concavidad y de convexidad de f. Estudia y halla, si existen, los
+puntos de inflexión de f (abscisas donde se obtienen y valores que alcanzan).
+arctg(x +1)
+b) Calcula lim
+x>-.  sen(x)
+MATEMÁTICAS Il. 2024. RESERVA 1. EJERCICIO 2"
+MATES_II,Funciones,2024.0,Julio,Ejercicio 2,"Sea la función f: R—>R dada por 100=[13)e=""
+a) Determina los intervalos de crecimiento y de decrecimiento def .
+b) Halla los extremos absolutos de f (abscisas donde se obtienen y valores que se alcanzan).
+MATEMÁTICAS II. 2024. JULIO. EJERCICIO 2"
+MATES_II,Funciones,2025.0,Junio,Ejercicio 2,"sen(x)-ax+2-—2cos(x)
+Sabiendo que lim
+es finito, calcula a y el valor del límite
+x>0 e*—xcos(x)-1
+MATEMÁTICAS HI. 2025. JUNIO. EJERCICIO 2"
+MATES_II,Funciones,2025.0,Junio,Ejercicio 3,"ln (x)
+Sea la función f :(0,+00) >R definida por f(x)=a +5
+x
+a) Calcula a para que y=1 sea una asíntota horizontal de la gráfica de f.
+b) Para a=0, calcula los intervalos de crecimiento y de decrecimiento f. Estudia y halla los
+extremos relativos de f (abscisas donde se obtienen y valores que se alcanzan).
+MATEMÁTICAS II. 2025. JUNIO. EJERCICIO 3"
+MATES_II,Funciones,2025.0,Reserva 1,Ejercicio 1,"Considera la función f : R>R definida por f(x)=(x-1)-e*.
+a) Determina la ecuación de la recta tangente y la ecuación de la recta normal a la gráfica de fen
+el punto de inflexión.
+b) Estudia y calcula las asíntotas de la función.
+MATEMÁTICAS II. 2025. RESERVA 1. EJERCICIO 1"
+MATES_II,Funciones,2025.0,Reserva 2,Ejercicio 1,"x
+-e
+2x-1-e
+Sea f: [0,2] > R la función definida por: f(x) -|
+a) Estudia la derivabilidad de f.
+b) Halla los extremos absolutos de f (abscisas donde se obtienen y valores que se alcanzan)
+MATEMÁTICAS II. 2025. RESERVA 2. EJERCICIO 1"
+MATES_II,Funciones,2025.0,Reserva 3,Ejercicio 2,"Considera la función f:(-1,)>R definida por f(x)=
+(xl)
+a) Estudia la continuidad y derivabilidad de la función f.
+b) Halla, si existen, sus extremos absolutos (abscisas donde se obtienen y valores que se alcanzan).
+MATEMÁTICAS II. 2025. RESERVA 3. EJERCICIO 2"
+MATES_II,Funciones,2025.0,Reserva 3,Ejercicio 3,"2
+Sean las funciones f:(-1,0)U(0,)>R y g:R=>R, definidas por f(x)=lIn (4) y
+e
+2e)=x*+2.
+a) Calcula a 40 de forma que en el punto (a, f(a)) la recta normal a la gráfica de la función f sea
+paralela a la recta tangente a la gráfica de g en el punto (a, g(a)) .
+b) Determina los intervalos de crecimiento y de decrecimiento de la función f.
+MATEMÁTICAS II. 2025. RESERVA 3. EJERCICIO 3"
+MATES_II,Funciones,2025.0,Reserva 4,Ejercicio 2,"Un náufrago se encuentra en una isla situada en el punto de coordenadas (2,0) de un plano. Se
+sabe que un ferry navega en el mismo plano siempre en la trayectoria dada por la gráfica de la
+función f(x)=y/ x+1. ¿Hacia qué punto de la trayectoria debe nadar el náufrago para recorrer
+la menor distancia posible? Calcula dicha distancia.
+MATEMÁTICAS II. 2025. RESERVA 4. EJERCICIO 2"
+MATES_II,Funciones,2025.0,Reserva 4,Ejercicio 3,"1+
+Sea la función f :(-1,1)>R definida por 109 => al
+=|x
+a) Estudia la derivabilidad de f.
+b) Halla los intervalos de crecimiento y de decrecimiento de f.
+MATEMÁTICAS II. 2025. RESERVA 4. EJERCICIO 3"
+MATES_II,Funciones,2025.0,Julio,Ejercicio 6,"Calcula a y b sabiendo que lim xsentd+a(e ""-D+sen(o)
+=1 (donde In denota la función
+x>0 bx?+x-sen(x)
+logaritmo neperiano)
+MATEMÁTICAS 11. 2025. JULIO. EJERCICIO 6"
+MATES_II,Funciones,2026.0,Junio,Ejercicio 1,"Una ventana tiene forma de rectángulo y está coronada por un semicírculo. Sabiendo que el
+perímetro de la ventana mide 8 metros, halla las dimensiones de la ventana que permitan la
+mayor entrada de luz.
+ÓN
+MATEMÁTICAS 11. 2026. JUNIO. EJERCICIO 1"

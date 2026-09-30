@@ -1,0 +1,14 @@
+File 2003 - Sistemas De Ecuaciones Lineales parsed but with errors
+File 2017 - Sistemas De Ecuaciones Lineales parsed but with errors
+File 2001 - Integrales parsed but with errors
+File 2007 - Integrales parsed but with errors
+File 2017 - Integrales parsed but with errors
+File 2020 - Integrales parsed but with errors
+File 2021 - Integrales parsed but with errors
+File 2025 - Probabilidad parsed but with errors
+File 2017 - Matrices Y Determinantes parsed but with errors
+File 2021 - Matrices Y Determinantes parsed but with errors
+File 2011 - Funciones parsed but with errors
+File 2021 - Funciones parsed but with errors
+File 2021 - Geometría parsed but with errors
+File 2025 - Geometría parsed but with errors

@@ -1,0 +1,971 @@
+subject,topic,year,exam,exercise,statement
+MATES_II,Matrices Y Determinantes,2000.0,Junio,Ejercicio 4Opción A,"12
+Dada la matriz ax :) calcula (A'-A7))?.A
+MATEMÁTICAS Il. 2000. JUNIO. EJERCICIO 4.OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2000.0,Reserva 1,Ejercicio 3 Opción A,"ab c
+Sabiendo que d e  f |=2; calcula los siguientes determinantes y enuncia las propiedades
+g hi
+3a 3b 15c a+2b c b
+queutilices: a) | d e 5f| ; b)id+2e f e
+g h Si g+2h i h
+MATEMÁTICAS Il. 2000. RESERVA 1. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2000.0,Reserva 2,Ejercicio 4 Opción B,"1.0 —1
+averiguar para qué valores del parámetro m existe A7' y
+Dada la matriz A=|0 m 3
+4 1
+calcular A7' para m=2.
+MATEMÁTICAS Il. 2000. RESERVA 2. EJERCICIO 4. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2000.0,Reserva 3,Ejercicio 3 Opción B,"2 -3
+MATEMÁTICAS Il. 2000. RESERVA 3. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2000.0,Septiembre,Ejercicio 4 Opción A,"32
+Considera las matrices: an 2) ; x-(
+a) Halla los valores de x e y tales que A-X=U
+b) Halla la matriz A”' y calcula A7'-U
+] son linealmente
+c) Encuentra los posibles valores de m para los que los vectores al ] y
+m
+m
+dependientes.
+MATEMÁTICAS Il. 2000. SEPTIEMBRE. EJERCICIO 4. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2001.0,Junio,Ejercicio 3 Opción A,"sen X —COS X 0
+Sea A= COS X sen X Ol.
+sen X+cCO0SsX senx-—cosx 1
+¿Para qué valores de x existe la matriz inversa de A?. Calcula dicha matriz inversa.
+MATEMÁTICAS Il. 2001. JUNIO. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2001.0,Junio,Ejercicio 4Opción B,"0 3
+L -4 -5
+1.3 4
+a) Siendo Í la matriz identidad 3x3 y O la matriz nula 3x3, pr
+b) Calcula A!*
+Considera la matriz A=
+ueba que A?+1=0
+MATEMÁTICAS Il. 2001. JUNIO. EJERCICIO 4.OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2001.0,Reserva 1,Ejercicio 3 Opción A,"12.3
+. 1.2 123 1 1
+De las matrices: A= ¡B= ¡C= ¡D=|0 1 2
+3.4 4556 3.3
+0.0 1
+Determina cuáles tienen inversa y en los casos en que exista, calcula el determinante de dichas
+inversas.
+MATEMÁTICAS Il. 2001. RESERVA 1. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2001.0,Reserva 2,Ejercicio 3 Opción A,"Se sabe que la matriz A=|0 -—1  0| verifica que det (A) = 1 y sus columnas son vectores
+b 0 b
+perpendiculares dos a dos.
+a) Calcula los valores de a y b.
+b) Comprueba que para dichos valores se verifica que A'*' = Al, donde A' denota la matriz
+traspuesta de A.
+MATEMÁTICAS Il. 2001. RESERVA 2. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2001.0,Reserva 3,Ejercicio 3 Opción A,"1.0 -1
+Determina la matriz X tal que A:-X—3-B =0,siendo: A=|2 3 -7
+0 1 -2
+MATEMÁTICAS Il. 2001. RESERVA 3. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2001.0,Reserva 3,Ejercicio 3 Opción B,"102
+Considera la matriz A=|1 1 1
+11.0
+a) Calcula el determinante de las matrices: 2-A; A* y (A*)”.
+b) Halla la matriz A”'.
+MATEMÁTICAS Il. 2001. RESERVA 3. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2001.0,Reserva 4,Ejercicio 4 Opción B,"a) Determina para qué valores del parámetro A la matriz A no tiene inversa.
+b) Calcula, si es posible, la matriz inversa de A para 1A=-2.
+MATEMÁTICAS Il. 2001. RESERVA 4. EJERCICIO 4. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2001.0,Septiembre,Ejercicio 3 Opción A,"-3 1 1
+Determina a,b y c sabiendo que la matriz A=| 1 a 2|, verifica:
+-1l bc
+rango (A) =2.
+MATEMÁTICAS Il. 2001. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2002.0,Junio,Ejercicio 3 Opción A,"Determina una matriz A simétrica (A coincide con su traspuesta) sabiendo que:
+O O
+UNS YA ala
+MATEMÁTICAS Il. 2002. JUNIO. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2002.0,Junio,Ejercicio 3 Opción B,"Determina la matriz X que verifica la ecuación A-X= X—B, siendo:
+0.0 1
+A=| 0.0.0
+-100
+MATEMÁTICAS Il. 2002. JUNIO. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2002.0,Reserva 1,Ejercicio 3 Opción B,"0
+Considera las matrices: A=| 0
+1
+e
+a) Calcula la matriz inversa de A.
+b) Calcula Al” y A?
+c) Determina x e y tal que A-B=B-A.
+MATEMÁTICAS Il. 2002. RESERVA 1. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2002.0,Reserva 2,Ejercicio 4 Opcion B,"Considera la matriz A=|a
+2 -
+a) Halla los valores de a para los que la matriz 3 A tiene inversa.
+b) Calcula, si es posible, la inversa de la matriz a paraa=0.
+MATEMÁTICAS II. 2002. RESERVA 2. EJERCICIO 4. OPCION B."
+MATES_II,Matrices Y Determinantes,2002.0,Reserva 3,Ejercicio 3 Opción B,"k x l+ax
+Sin desarrollarlo, calcula el valor del determinante de la matriz | 2k y 2+ay| y enuncia las
+3k z 3+az
+propiedades que hayas usado.
+MATEMÁTICAS Il. 2002. RESERVA 3. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2002.0,Reserva 4,Ejercicio 3 Opción B,"Denotamos por M'a la matriz traspuesta de una matriz M. Considera:
+a) Calcula (AB)' y (BA)'.
+b) Determina una matriz X que verifique la relación: . X+(AB) =C
+MATEMÁTICAS Il. 2002. RESERVA 4. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2003.0,Junio,Ejercicio 3 Opción B,"Sean C¡, C2 y C3 las columnas primera, segunda y tercera, respectivamente, de una matriz
+cuadrada A de orden 3 cuyo determinante vale 5. Calcula, indicando las propiedades que
+utilices:
+a) El determinante de A?.
+b) El determinante de A”.
+c) El determinante de 2 A.
+d) El determinante de una matriz cuadrada cuyas columnas primera, segunda y tercera son,
+respectivamente, 3C¡—C3; 2C5 y Ca.
+MATEMÁTICAS Il. 2003. JUNIO. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2003.0,Reserva 2,Ejercicio 3 Opción A,"Dadas las matrices A= 1 | halla la matriz X que cumple
+que A-X=(B-A').
+MATEMÁTICAS II. 2003. RESERVA 2. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2003.0,Reserva 2,Ejercicio 3 Opcion B,"1 1 1
+Dada la matriz A=| m? 1 1 |,se pide:
+m 0 1
+a) Determina los valores de m para los que la matriz A tiene inversa.
+b) Calcula, si es posible, la matriz inversa de A para m= 2.
+MATEMÁTICAS II. 2003. RESERVA 2. EJERCICIO 3. OPCION B."
+MATES_II,Matrices Y Determinantes,2003.0,Reserva 3,Ejercicio 3 Opción B,"a) Se sabe que el determinante de una matriz cuadrada A de orden 3 vale —2. ¿Cuánto vale el
+determinante de la matriz 4 A ?.
+1.2 0
+b) Dada la matriz B=|1A 0 1 |. para qué valores de A la matriz 3 B + B? no tiene inversa?.
+0.1 2
+MATEMÁTICAS Il. 2003. RESERVA 3. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2003.0,Reserva 4,Ejercicio 3 Opción B,"0
+Considera la matriz M(x)= 1 , donde x es un número real.
+0.0
+1 . .
+?.Para los valores de x obtenidos, calcula la matriz
+0
+x
+1
+y
+a) ¿Para qué valores de x existe (M(x)
+-1
+(MG).
+b) Resuelve, si es posible, la ecuación M(3)-M(x)= M(5)
+MATEMÁTICAS II. 2003. RESERVA 4. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2003.0,Septiembre,Ejercicio 3 Opción A,"10.0
+Considera las matrices: A=|1 m 0];
+1.1 1
+a) ¿Para qué valores de m tiene solución la ecuación matricial A:X+2B = 3C?
+b) Resuelve la ecuación matricial dada para m=1.
+MATEMÁTICAS II. 2003. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2004.0,Junio,Ejercicio 3 Opción B,"1.0 1
+0.12
+Considera las matrices: az
+a) Calcula A-B;A-C;A'-B' yC'-A', siendo A';B' y C' las matrices transpuestas de A, B y C,
+respectivamente.
+b) Razona cuáles de las matrices A, B, C y A-B tienen inversa y en los casos en que la respuesta
+sea afirmativa, halla la correspondiente matriz inversa.
+MATEMÁTICAS Il. 2004. JUNIO. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2004.0,Reserva 2,Ejercicio 3 Opción A,"Denotamos por M' a la matriz transpuesta de una matriz M.
+b
+a) Sabiendo que A= (: :) y que det(A) = 4; calcula los siguientes determinantes:
+c
+det (3A') 2
+el —3
+Y Lasa 30
+b) Sea I la matriz identidad de orden 3 y sea B una matriz cuadrada tal que B?=1I . Calcula
+det(B).
+c) Sea C una matriz cuadrada tal que C”' =C*'. ¿Puede ser det(C) = 3? Razona la respuesta.
+MATEMÁTICAS Il. 2004. RESERVA 2. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2004.0,Reserva 3,Ejercicio 3 Opción B,"2,
+Se sabe que |a,, —2 : Calcula, indicando las
+determinantes:
+15a
+Sa
+Sa
+3a
+a
+3a
+a
+3a
+a
+3a,,
+3a,, 13 21 22 23 21
+a ; b) 0) [a —
+a
+2 23 11 12 13
+23 Ey) 33 23 da dy 31
+propiedades que utilices, los siguientes
+a,
+a
+Aa
+MATEMÁTICAS Il. 2004. RESERVA 3. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2004.0,Reserva 4,Ejercicio 3 Opción B,"Sabiendo que: —6, calcula, indicando las propiedades que utilices, los siguientes
+L2y Xx z x y Z
+determinantes: a) v ;b)|2u t vl;c) t u v
+3a b c —2b a c 2x-a 2y-b 2z-c
+MATEMÁTICAS II. 2004. RESERVA 4. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2005.0,Junio,Ejercicio 3 Opción A,". 2 1 0 1.0 120
+Sean las matrices: A= ,B= y C=
+3 -2 3-1 2 -1114
+a) ¿Tiene A inversa?. En caso afirmativo, calcúlala.
+b) Determina la matriz X que cumple que A-X+C-B'=B-B',siendo B' la matriz transpuesta
+deB.
+MATEMÁTICAS Il. 2005. JUNIO. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2005.0,Reserva 1,Ejercicio 3 Opción B,"0.0 3
+Halla la matriz X que cumple que: A-X-A-—B -( o) siendo a-( 2
+MATEMÁTICAS Il. 2005. RESERVA 1. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2005.0,Reserva 2,Ejercicio 3 Opción B,"Sea I la matriz identidad de orden 3 y sea A=|-1 1 -1
+10 b
+a) Determina el valor de b para el que A?-2A+I=0.
+b) Para b = 2 halla la matriz X que cumple que A-X-2A'=0, donde A' denota la matriz
+transpuesta de A.
+MATEMÁTICAS 11. 2005. RESERVA 2. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2005.0,Reserva 4,Ejercicio 3 Opción A,"2
+Sea I la matriz identidad de orden 2 y sea a-(
+12
+a) Halla los valores de x para los que la matriz A—x+I no tiene inversa.
+b) Halla los valores de a y b para los que AP+a- A+b-1=0.
+MATEMÁTICAS Il. 2005. RESERVA 4. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2005.0,Septiembre,Ejercicio 3 Opción B,"10)
+Sabiendo que A] = f |=2, calcula, indicando las propiedades que utilices, los siguientes
+i
+determinantes:
+c b a a b a-c
+a)|3A| y [AT|[¡b)|f e d|:c)[ld e d-f
+2i 2h 2g g h g-i
+MATEMÁTICAS II. 2005. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2006.0,Junio,Ejercicio 3 Opción A,". a 1 . ,
+Considera A= Ñ ] ,Siendo a un número real.
+a
+12 —1
+a) Calcula el valor de a para que A?— A= .
+0 20
+b) Calcula, en función de a, los determinantes de 2A y A',siendo A' la transpuesta de A.
+c) ¿Existe algún valor de a para el que la matriz A sea simétrica?. Razona la respuesta.
+MATEMÁTICAS Il. 2006. JUNIO. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2006.0,Reserva 2,Ejercicio 3 Opción B,"4 2
+Sea az ,) y sea I la matriz identidad de orden dos.
+a) Calcula los valores A€elR tales que| A—AI|=0 .
+b) Calcula A?—7A+101
+MATEMÁTICAS Il. 2006. RESERVA 2. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2006.0,Reserva 4,Ejercicio 3 Opción A,". . 3 1 2
+Considera las matrices A= ; B =(2 1) ¡C=
+2 6 6
+a) Halla, si existe, la matriz inversa de A-B+C.
+b) Calcula, si existen, los números reales x e y que verifican: C () =3 (e)
+y y
+MATEMÁTICAS Il. 2006. RESERVA 4. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2006.0,Septiembre,Ejercicio 3 Opción B,"Resuelve A-B'.X =-2C ,siendo B' la matriz traspuesta de B y.
+1.0.3 13 0 1.4
+A= y B= y C= .
+2-10 02 2 0 -—1
+MATEMÁTICAS Il. 2006. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2007.0,Junio,Ejercicio 3 Opción A,"1 —1
+Considera la matriz A= hi ,)
+a) Determina la matriz B= A?*-2A.
+b) Determina los valores de A para los que la matriz B tiene inversa.
+c) Calcula B”' para A=1.
+MATEMÁTICAS Il. 2007. JUNIO. EJERCICIO 3. OPCIÓN A"
+MATES_II,Matrices Y Determinantes,2007.0,Reserva 1,Ejercicio 30Pción A,". . a 1 2.0
+Considera las matrices A= y B=
+2 3 -1 1
+a) Determina los valores de a para los que la matriz A tiene inversa.
+b) Para a=1,calcula A”' y resuelve la ecuación matricial A-X=B.
+MATEMÁTICAS II. 2007. RESERVA 1. EJERCICIO 3.0PCIÓN A."
+MATES_II,Matrices Y Determinantes,2007.0,Reserva 3,Ejercicio 3 Opción A,"1.0
+a) Calcula el valor de m para el que la matriz a; ) verifica la relación 2A?—A=1 y
+m
+determina A”' para dicho valor de m.
+b) Si Mes una matriz cuadrada que verifica la relación 2M?—M=I , determina la expresión de
+M”' en función de M y de I.
+MATEMÁTICAS Il. 2007. RESERVA 3. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2007.0,Reserva 4,Ejercicio 3 Opción A,"Sea Ala matriz | -5 A -—S5| ella matriz identidad de orden 3.
+A 0 3
+a) Calcula los valores de A para los que el determinante de A—2I es cero.
+b) Calcula la matriz inversa de A—2I parad=-2.
+MATEMÁTICAS Il. 2007. RESERVA 4. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2007.0,Septiembre,Ejercicio 3 Opción A,"1
+Sean I la matriz identidad de orden 2 y a; 1
+a) Encuentra los valores de m para los cuales se cumple que(A—1)?=0 ,donde O es la matriz nula
+de orden 2.
+b) Para m=2, halla la matriz X tal que AX-2A' =0 ,donde A' denota la matriz traspuesta de A.
+MATEMÁTICAS Il. 2007. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A"
+MATES_II,Matrices Y Determinantes,2008.0,Reserva 1,Ejercicio 3Opción B,"1 1 1 1 0 2 0-1
+Dadas las matrices A=|0 1 0| , B=|0 -1| y C -( )
+12.2
+1 -1 1
+2 1
+Calcula la matriz P que verifica A-P-B=C' (C' es la matriz traspuesta de C).
+MATEMÁTICAS Il. 2008. RESERVA 1. EJERCICIO 3.OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2008.0,Reserva 3,Ejercicio 3Opción A,"0 -1 -2
+Sea I la matriz identidad de orden 3yA=|-1 0 -—2|.Calcula, si existe, el valor de k para el
+1 1. 3
+cual (A—kI)? es la matriz nula.
+MATEMÁTICAS Il. 2008. RESERVA 3. EJERCICIO 3.OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2008.0,Reserva 3,Ejercicio 3Opción B,"Dadas las matrices A=|1 2 1| y B=
+1.1 1
+a) Calcula, si existen, la matriz inversa de A y la de B.
+b) Resuelve la ecuación matricial A- X+B=A+I, donde I denota la matriz identidad de orden
+3.
+MATEMÁTICAS II. 2008. RESERVA 3. EJERCICIO 3.OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2008.0,Reserva 4,Ejercicio 3Opción B,"1
+Dada la matriz A=| k
+1
+7 k
+a) Estudia el rango de A en función de los valores del parámetro k.
+b) Para k=0, halla la matriz inversa de A.
+MATEMÁTICAS Il. 2008. RESERVA 4. EJERCICIO 3.OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2009.0,Junio,Ejercicio 3 Opción A,"Sean F,, F, y F, las filas primera, segunda y tercera, respectivamente, de una matriz B de
+orden 3, cuyo determinante vale —2. Calcula, indicando las propiedades que utilices:
+a) El determinante de B”'.
+b) El determinante de(B')*.(B' es la matriz traspuesta de B).
+c) El determinante de 2B.
+d) El determinante de una matriz cuadrada cuyas filas primera, segunda y tercera son,
+respectivamente, 5F,—F,,3F,,F,.
+MATEMÁTICAS Il. 2009. JUNIO. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2009.0,Reserva 1,Ejercicio 3 Opción B,"Sean A, B,C y X matrices cualesquiera que verifican A-X.-B=C .
+a) Si las matrices son cuadradas de orden 3, y se sabe que el determinante de A es 3, el de B es
+—1 y el de Ces 6, calcula el determinante de las matrices X y 2X.
+. 1 1 1 -2 0 3 .
+b) SiA= ,B= yC= , calcula la matriz X.
+0 -2 2 -3 4 2
+MATEMÁTICAS Il. 2009. RESERVA 1. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2009.0,Reserva 2,Ejercicio 3 Opción A,". 3 7 1 -3
+Dadas las matrices A= y B=
+1.2 4 2
+a) Calcula, si existe, la matriz inversa de A.
+b) Calcula las matrices X e Y que satisfacen las ecuaciones matriciales X.A=A+2B y
+A-Y =A+2B.
+MATEMÁTICAS Il. 2009. RESERVA 2. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2009.0,Reserva 4,Ejercicio 3 Opción A,"2 —1
+Se consideran las matrices az
+-3 1
+) yB=A-KI , donde k es una constante e I la matriz
+identidad de orden 2.
+a) Determina los valores de k para los que B no tiene inversa.
+b) Calcular B”' para k=-1.
+c) Determina las constantes a. y B para las que se cumple A?*+aA=Pl
+MATEMÁTICAS Il. 2009. RESERVA 4. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2009.0,Septiembre,Ejercicio 3 Opción B,"Sean las matrices A=|-2 —1 1[|,B=
+1.0 -1
+Determina la matriz X que verifica: A: X-B'=2C.
+MATEMÁTICAS Il. 2009. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2010.0,Junio,Ejercicio 3 Opción A,"1.0 0
+Sean las matrices A=|0 m 32 y0-[
+-3
+4 1 —-m -1 1
+a) Indica los valores de m para los que A es invertible.
+b) Resuelve la ecuación XA—B'=C para m=0.(B' esla matriz traspuesta de B)
+MATEMÁTICAS II. 2010. JUNIO. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2010.0,Reserva 1,Ejercicio 3 Opción A,"5-4 2
+Sea la matriz A=| 2 —1 1
+-4 4-1
+a) Comprueba que se verifica 2A— A? =1
+b) Calcula A”'. (Sugerencia: Puedes usar la igualdad del apartado (a)).
+MATEMÁTICAS II. 2010. RESERVA 1. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2010.0,Reserva 3,Ejercicio 3 Opcion A,". o . -1 2 3 0
+Considera las siguientes matrices A= o 1 y B= 2 1
+a) Calcula A”.
+b) Resuelve la ecuación matricial A- X- A'—B=2I,donde I es la matriz identidad de orden 2 y
+A' es la matriz traspuesta de A.
+MATEMÁTICAS II. 2010. RESERVA 3. EJERCICIO 3. OPCION A."
+MATES_II,Matrices Y Determinantes,2010.0,Reserva 3,Ejercicio 3 Opción B,"Obtén un vector no nulo v=(a,b,c), de manera que las matrices siguientes tengan
+simultáneamente rango 2.
+lila
+A=|1 0 b
+ltc
+MATEMÁTICAS Il. 2010. RESERVA 3. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2010.0,Reserva 4,Ejercicio 3 Opción B,"a
+De la matriz a-(
+c
+b
+:) se sabe que det (A) =4. Se pide:
+' 2b
+a) Halla det(-3A') y det 3d
+a
+3 ] . Indica las propiedades que utilizas.
+=3c
+b) Calcula det(A7'- A!)
+c) Si B es una matriz cuadrada tal que B*=1 siendo I la matriz identidad, halla det(B).
+MATEMÁTICAS Il. 2010. RESERVA 4. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2010.0,Septiembre,Ejercicio 3 Opción B,"-=1 1
+1.0.0
+. 10 3 1 2
+Sean las matrices A= »B=|0 -1 -1|y C=
+0.1 -2
+0. 1.2
+Calcula la matriz X que cumpla la ecuación AXB=C
+MATEMÁTICAS Il. 2010. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2011.0,Junio,Ejercicio 3 Opción B,"+1 0
+Dada la matriz A= [*: y
+a) Calcula los valores de A para los que la matriz A*+3A no tiene inversa.
+b) Para 1=0, halla la matriz X que verifica la ecuación A-X+A=2I, siendo I la matriz
+identidad de orden 2.
+MATEMÁTICAS II. 2011. JUNIO. EJERCICIO 3. OPCIÓN B"
+MATES_II,Matrices Y Determinantes,2011.0,Reserva 1,Ejercicio 3 Opción A,"1
+Sean A y B dos matrices cuadradas de orden 3 cuyos determinantes son lA = ”] y [Bl =-2,Halla:
+a) |A?|
+b) |a7!]
+c) |-2A]
+d) AB! ,siendo B' la matriz traspuesta de B.
+e) El rango de B.
+MATEMÁTICAS Il. 2011. RESERVA 1. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2011.0,Reserva 1,Ejercicio 3Opción B,"Dada la matriz A=| 1 -4 -—S5
+-1 3 4
+a) Demuestra que se verifica la igualdad A? =—I, siendo 1 la matriz identidad de orden 3.
+b) Justifica que A es invertible y halla su inversa.
+e) Calcula razonadamente A'”
+MATEMÁTICAS Il. 2011. RESERVA 1. EJERCICIO 3.OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2011.0,Reserva 2,Ejercicio 3 Opción A,"1.00 0.0 1
+Considera las matrices A=|0 A l1|yB=|1 0 O
+0-14 0.1.0
+a) ¿Hay algún valor de A para el que A no tiene inversa?.
+b) Para A=1,resuelve la ecuación matricial A .X.A=B
+MATEMÁTICAS Il. 2011. RESERVA 2. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2011.0,Reserva 3,Ejercicio 3 Opción A,"Sean A y B dos matrices que verifican:
+4 2 2 4
+A+B= y A-B=
+32 -1 2
+a) Halla las matrices (A+BXA—B) y A*-—B?
+b) Resuelve la ecuación matricial XA— XB—(A+B)'=21, siendo I la matriz unidad de orden 2 y
+(A+B)' la matriz traspuesta de A+B
+MATEMÁTICAS II. 2011. RESERVA 3. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2011.0,Reserva 3,Ejercicio 3 Opción B,"30 A
+Sea la matriz A=|-5 A -5
+A 0 3
+a) Determina los valores de A para los que la matriz A—21 tiene inversa, siendo I la matriz
+identidad de orden 3.
+b) Para A=-2,resuelve la ecuación matricial AX =2X+I
+MATEMÁTICAS Il. 2011. RESERVA 3. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2011.0,Reserva 4,Ejercicio 3 Opción B,"-1 1
+Dada la matriz A=
+2 —1
+a) Demuestra que A?+2A=1 y que A7'=A+2I, siendo 1 la matriz identidad de orden 2.
+b) Calcula la matriz X que verifica la ecuación: A? + XA+5A=4I
+MATEMÁTICAS Il. 2011. RESERVA 4. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2011.0,Septiembre,Ejercicio 3 Opción A,"[04 1 -1
+Dadas las matrices A=| 1 a —1| y B=
+-1 -1 QU 1
+a) Calcula el rango de A dependiendo de los valores a
+b) Para a=2, resuelve la ecuación matricial A-X=B.
+MATEMÁTICAS II. 2011. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A"
+MATES_II,Matrices Y Determinantes,2011.0,Septiembre,Ejercicio 3 Opción B,". a 1
+Sean las matrices A= y
+-a 3
+1.3 1
+B=
+-114 2
+1
+a) Calcula los valores de aL para los que la matriz inversa de A es 12 A.
+b) Para a=-3, determina la matriz X que verifica la ecuación A'. X =B,siendo A' la matriz
+traspuesta de A.
+MATEMÁTICAS Il. 2011. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B"
+MATES_II,Matrices Y Determinantes,2012.0,Junio,Ejercicio 3 Opción A,"0.0 1
+Sea la matriz A=|2 1 2
+1 k 1
+a) ¿Para qué valores del parámetro k no existe la inversa de la matriz A?. Justifica la respuesta.
+b) Para k=0, resuelve la ecuación matricial (X +1)-A= A',, donde I denota la matriz identidad
+y A' la matriz traspuesta de A.
+MATEMÁTICAS II. 2012. JUNIO. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2012.0,Reserva 1,Ejercicio 3 Opción A,"Considera las matrices:
+1 0
+0 1
+A=|0 2 B=
+1.0
+1.2 1
+-120
+C=
+11.2
+Determina, si existe, la matriz X que verifica: A-X-B=C',siendo C' la matriz traspuesta de C.
+MATEMÁTICAS II. 2012. RESERVA 1. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2012.0,Reserva 2,Ejercicio 3 Opción B,"Encuentra la matriz X que satisface la ecuación XA+ A*B= A, siendo
+0.0 1 2-1 0
+A=|0 1 O| y B=| 0 2 -1
+100 -1. 0 2
+MATEMÁTICAS Il. 2012. RESERVA 2. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2012.0,Reserva 3,Ejercicio 3 Opción B,"7 3
+3 -2 -2 1
+Dada la matriz A= ( ) ,sea B la matriz que verifica AB -( ] .
+a) Comprueba que las matrices A y B poseen inversas.
+b) Resuelve la ecuación matricial A'X-—B=BA.
+MATEMÁTICAS Il. 2012. RESERVA 3. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2013.0,Junio,Ejercicio 3 Opción A,"Sea M=|0 m+l1 0
+1 1 m-—1
+a) Determina los valores de m para que los vectores fila de M son linealmente independientes.
+b) Estudia el rango de M según los valores de m.
+c) Para m=1, calcula la inversa de M.
+MATEMÁTICAS Il. 2013. JUNIO. EJERCICIO 3. OPCIÓN A"
+MATES_II,Matrices Y Determinantes,2013.0,Junio,Ejercicio 3 Opcion B,"1 1
+Sea A=
+a) Comprueba que A?=2I y calcula A”?.
+b) Calcula AY” y su inversa.
+MATEMÁTICAS II. 2013. JUNIO. EJERCICIO 3. OPCION B"
+MATES_II,Matrices Y Determinantes,2013.0,Reserva 1,Ejercicio 3 Opción A,"-1 1
+. . 2 1 12
+Considera las matrices: A=| 2 0 yC=
+10 2.0 -156
+a) Halla A”!.
+b) Calcula la matriz X que satisface A-X =B'-C (B'es la traspuesta de B).
+c) Halla el determinante de A%*.B'.B-.(A7)%”.
+MATEMÁTICAS Il. 2013. RESERVA 1. EJERCICIO 3. OPCIÓN A"
+MATES_II,Matrices Y Determinantes,2013.0,Reserva 1,Ejercicio 3 Opción B,"a b c
+Sabiendo que el determinante de una matriz A=|d e f | es 4, calcula los siguientes
+p q 5r
+determinantes, indicando en cada caso, las propiedades que utilizas:
+a) det(-2A) y det(A”!)
+a —b c -3d -3e -—3f
+b)|2d -2e 2f| y a b
+p -9. Tr =p -q  -5
+MATEMÁTICAS II. 2013. RESERVA 1. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2013.0,Reserva 2,Ejercicio 3 Opcion B,". . -1 2 1 -1
+Considera las matrices A= y B=
+O 1 1.0
+a) Calcula X e Y tales que X-Y=A' y 2X-Y=B (A' es la matriz traspuesta de A).
+b) Calcula Z tal que AZ=BZ+A.
+MATEMÁTICAS II. 2013. RESERVA 2. EJERCICIO 3. OPCION B"
+MATES_II,Matrices Y Determinantes,2013.0,Reserva 3,Ejercicio 3 Opción B,"2 -3
+Sean A y B las matrices a-( 3 -) y
+a) Calcula las matrices X e Y para las que 2X-Y=A y X-3Y=B.
+b) Halla la matriz Z que verifica B?+ZA+B'=31 (I denota la matriz identidad y B' la
+matriz traspuesta de B).
+MATEMÁTICAS Il. 2013. RESERVA 3. EJERCICIO 3. OPCIÓN B"
+MATES_II,Matrices Y Determinantes,2013.0,Reserva 4,Ejercicio 3 Opción B,"a) El rango de M?.
+b) El determinante de 2M' (M' es la matriz traspuesta de M).
+c) El determinante de (M”7')?.
+d) El determinante de N, donde N es la matriz resultante de intercambiar la primera y segunda
+filas de M.
+MATEMÁTICAS Il. 2013. RESERVA 4. EJERCICIO 3. OPCIÓN B"
+MATES_II,Matrices Y Determinantes,2013.0,Septiembre,Ejercicio 3 Opción A,"1 -1 1 1
+Considera las matrices A=| 1 O| y B=| 1 —-1 1
+2
+0.0
+a) Halla, si es posible, A7' y B”!.
+b) Halla el determinante de AB 2013 A"" A' la matriz traspuesta de A.
+c) Calcula la matriz X que satisface A-X-B=AB.
+MATEMÁTICAS II. 2013. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A"
+MATES_II,Matrices Y Determinantes,2014.0,Junio,Ejercicio 3 Opción B,"0 1 1
+Considera las matrices A=|1 0 0|;B=
+0.01
+Determina, si existe, la matriz X que verifica A-X+B = A?
+MATEMÁTICAS Il. 2014. JUNIO. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2014.0,Reserva 1,Ejercicio 3 Opción A,"21
+Se sabe que el determinante de la matriz A=|a,,
+31
+propiedades que utilices, los siguientes determinantes:
+a) det(-2A) y det(A”!)
+as a a, a, a, +2a, Sa
+b) |7a, 7a
+2a 2a
+2 31
+p 7aj| y (a, a,+2a, Sa
+2a
+32
+31 32 33 a a, +24 ,, SA y,
+es —3, calcula, indicando las
+MATEMÁTICAS Il. 2014. RESERVA 1. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2014.0,Reserva 1,Ejercicio 3 Opción B,"2 .0-3
+Considera las matrices A= ; 3 -1 -3
+=1 -2 -1
+a) Calcula A”!.
+b) Hallar la matriz X que verifica A'.X+B=TI, siendo 1 la matriz identidad y A' la matriz
+traspuesta de A.
+MATEMÁTICAS Il. 2014. RESERVA 1. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2014.0,Reserva 2,Ejercicio 3 Opción B,". . l+m 1 1 —1
+Considera las matrices A= B=
+1 l1-m 1.0
+a) ¿Para qué valores de m se verifica que A? =2A+1?.
+b) Para m=1,calcula A”' y la matriz X que satisface A-X-B=A-B.
+MATEMÁTICAS Il. 2014. RESERVA 2. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2014.0,Reserva 3,Ejercicio 3 Opcion B,"1.00 0.0 1
+Considera las matrices A=| 0 y B=|1 1 1
+100
+3
+Halla la matriz X que verifica: A7'.X.A=B-—A.
+MATEMÁTICAS II. 2014. RESERVA 3. EJERCICIO 3. OPCION B."
+MATES_II,Matrices Y Determinantes,2014.0,Reserva 4,Ejercicio 3 Opción A,"Se sabe que el determinante de la matriz A= es 3, calcula los siguientes
+determinantes, indicando, en cada caso, las propiedades que utilices:
+a bc a b 4a—-c
+a) det(A*), det(A7') y det(A+ A');b)| ce e f|;c)b d 4b=e
+2b 2d 2e c e 4e-f
+MATEMÁTICAS Il. 2014. RESERVA 4. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2014.0,Septiembre,Ejercicio 3 Opción B,"Sabiendo que el determinante de la matriz A= es 2, calcula los siguientes
+determinantes indicando, en cada caso, las propiedades que utilices:
+3 0 1 1 2 3
+a) det(3A) b) det(A7').c) |[3x 2y z|d)| x+2 y+4  z+6
+3.4 3 -1 0 -1
+MATEMÁTICAS Il. 2014. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B"
+MATES_II,Matrices Y Determinantes,2015.0,Junio,Ejercicio 3 Opción B,"12 12.0
+Considera las matrices a” ] y B=|-2 m 0
+2 m
+32m
+a) Encuentra el valor, o los valores, de m para los que A y B tienen el mismo rango.
+b) Determina, si existen, los valores de m para los que A y B tienen el mismo determinante.
+MATEMÁTICAS II. 2015. JUNIO. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2015.0,Reserva 1,Ejercicio 3 Opción A,"Halla la matriz X que verifica la igualdad A-X-A7'+B=C-A”' sabiendo que
+0-10 -=1 2 1.1.0
+1
+A=|-1 -3 0 , C=|J0 0 -—1 B-A=| 1 1 —1
+1.4 1 1.0 -1 -1 -5 -3
+MATEMÁTICAS Il. 2015. RESERVA 1. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2015.0,Reserva 2,Ejercicio 3 Opción A,"0 1 m
+Considera la matriz A=|m-—1 0 2
+0 l-m 0
+a) Halla el valor, o valores, de m para los que la matriz A tiene rango 2.
+2015
+b) Para m=1, determina A
+MATEMÁTICAS II. 2015. RESERVA 2. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2015.0,Reserva 3,Ejercicio 3 Opción B,"12
+Considera las matrices: a-( ]
+li,
+a) Halla el determinante de una matriz X que verifique la igualdad X?-A-X=B.
+1 1
+b) Determina, si existe, la matriz Y que verifica la igualdad A?-Y-B”'=A.
+MATEMÁTICAS Il. 2015. RESERVA 3. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2015.0,Reserva 4,Ejercicio 3 Opción B,"-1 1
+Considera las matrices: A= B=| 1 -1
+1 1 -1
+a) Halla la matriz X que verifica A-X-B=I (I denota la matriz identidad de orden 3).
+b) Calcula el determinante de la matriz (A?-B7!)?%”
+MATEMÁTICAS Il. 2015. RESERVA 4. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2015.0,Septiembre,Ejercicio 3 Opción A,"100
+. . -1 2 100
+Considera las matrices A= y B=|-2 1 0| y C=
+2 -1 321 -150
+a) Determina la matriz X para la que A'-X-B""'=C,(A' la matriz traspuesta de A).
+b) Calcula el determinante de B”'(C'.C)-B,(C' la matriz traspuesta de C).
+MATEMÁTICAS Il. 2015. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A"
+MATES_II,Matrices Y Determinantes,2016.0,Junio,Ejercicio 3Opción A,"-=1. 11
+Considera las matrices A=| 0 1 0| y B=
+1 1
+-2
+a) Halla la matriz X que verifica A-X+B=2A.
+b) Calcula B? y B”"",
+MATEMÁTICAS Il. 2016. JUNIO. EJERCICIO 3.OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2016.0,Reserva 1,Ejercicio 30Pción A,"1.0
+Considera las matrices A= h )
+n9lo 7
+Determina, si existe, la matriz X que verifica A-X+B*=B-X+A?.,
+MATEMÁTICAS Il. 2016. RESERVA 1. EJERCICIO 3.0PCIÓN A."
+MATES_II,Matrices Y Determinantes,2016.0,Reserva 4,Ejercicio 3 Opción A,"k 1+k
+l-k 0
+Considera la matriz az
+] . Determina, si existen, los valores de k en cada uno de
+los casos siguientes: a) Rango(A)=1.b) A? =A.c) Atiene inversa. d) det(A)=-2.
+MATEMÁTICAS Il. 2016. RESERVA 4. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2016.0,Reserva 4,Ejercicio 3 Opción B,"Considera la matriz: A=|A 1 -1
+0.0 1
+a) Determina, si existen, los valores de A para los que A”'=2I—A (siendo 1 la matriz
+identidad de orden 3).
+b) Determina, si existen, los valores de A para los que la matriz A+ A' no tiene inversa (A' es
+la matriz traspuesta de A).
+MATEMÁTICAS Il. 2016. RESERVA 4. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2016.0,Septiembre,Ejercicio 3 Opción B,"1
+Considera las matrices A=| —1
+a) Calcula el rango de A-B'+AI según los valores de 2 (B' es la matriz traspuesta de B,I es la
+matriz identidad de orden 3).
+b) Calcula la matriz X que verifica: C-X- X =2I
+MATEMÁTICAS Il. 2016. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2017.0,Reserva 1,Ejercicio 3 Opción A,"SELECTIVIDAD
+20.0 2 1.2
+Considera las matrices A=| 1 1 O| y B=|0 -1 5
+42 -2 0. 02
+a) Calcula la matriz inversa de (A+B)
+b) Calcula el determinante de 2A7'(A+B)', siendo (A+B)' la matriz traspuesta de (A+B).
+MATEMÁTICAS II. 2017. RESERVA 1. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2017.0,Reserva 3,Ejercicio 3 Opción B,"Sea A una matriz 3x3 tal que det(2A)=8.
+a) ¿Cuánto vale det (A) ?
+b) Siendo B la matriz que se obtiene de A multiplicando por 3 la primera fila y por —1 la
+tercera, ¿cuánto vale det(B)?
+c) Determina los valores de x para los que la siguiente matriz A verifica que det(2A)=8,
+x 1 1
+A=| x+1 2 2
+x =x+2 1
+MATEMÁTICAS II. 2017. RESERVA 3. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2017.0,Reserva 4,Ejercicio 3 Opción B,"Considera las matrices: A=|0  m-1 2-m -1 0
+0 -1  2-m 0 1 -1
+a) Determina los valores de m para los que la matriz A no tiene inversa.
+b) Para m=1, calcula, si existe, la matriz X que verifica la igualdad A7'XA+I =B, siendo l la
+matriz identidad.
+MATEMÁTICAS II. 2017. RESERVA 4. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2017.0,Septiembre,Ejercicio 3 Opción B,"Considera A=[k+1  k 0
+0.  k+1 k+1
+a) Discute el rango de A según los valores de k.
+b) Para k=1,calcula el determinante de 2(A' AT! y” ,Siendo A' la traspuesta de A.
+MATEMÁTICAS II. 2017. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2018.0,Reserva 1,Ejercicio 3 Opcion B,"Considera las matrices
+-1 0 0 -2 2 -1 1
+A= 0 -1|;B=| 1.0 1]; -2| y D=(4 -5 6)
+0 -1 0 -1.2 -2 3
+Determina, si existe, la matriz X que verifica que: A?*X-—BA+X =CD
+MATEMÁTICAS II. 2018. RESERVA 1. EJERCICIO 3. OPCION B."
+MATES_II,Matrices Y Determinantes,2018.0,Reserva 2,Ejercicio 3 Opción A,"1
+Considera las matrices A=| 0 y C =(1
+0
+a) Calcula A?**,
+b) Determina, si existe, la matriz X que verifica A(X +21)=BC donde I es la matriz identidad.
+MATEMÁTICAS Il. 2018. RESERVA 2. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2018.0,Reserva 4,Ejercicio 3 Opción A,"Considera la matriz M=|6 0 . Sabiendo que el determinante de M es 2, calcula los
+X y Zz
+siguientes determinantes e indica las propiedades que utilices:
+2.0 1 1 x+6 x
+a) El determinante de la matriz 53M *;b)|1 2 3|30)|2 y y
+X y Zz 3 243 z
+MATEMÁTICAS Il. 2018. RESERVA 4. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2018.0,Reserva 4,Ejercicio 3 Opción B,"Considera la matriz A=| 0 2
+1 1
+a) Halla, si existe, la inversa de A.
+b) Determina los valores de m tales que (A—mlI) tiene inversa (IT es la matriz identidad).
+c) Calcula el rango de (A—2I).
+MATEMÁTICAS II. 2018. RESERVA 4. EJERCICIO 3. OPCIÓN B."
+MATES_II,Matrices Y Determinantes,2018.0,Septiembre,Ejercicio 3 Opción A,"Considera las matrices A=|0 -—1 O|yB=| 0 1 O
+1 0.0 -100
+a) Determina, si existen, los valores de a,b y c para que las matrices A y B conmutan.
+b) Calcula A?,A?*,A%” y A"",
+c) Calcula, si existe, la matriz inversa de A
+MATEMÁTICAS II. 2018. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2019.0,Junio,Ejercicio 3 Opción A,"a
+Calcula todas las matrices x=
+c
+b
+2) tales que a+d=1, tienen determinante 1 y cumplen
+0 -1
+A-X =X-A, siendo a; o)
+MATEMÁTICAS Il. 2019. JUNIO. EJERCICIO 3. OPCIÓN A"
+MATES_II,Matrices Y Determinantes,2019.0,Reserva 1,Ejercicio 3 Opción A,"Dadas las matrices A=|m-1 m 0
+1 1 1
+a) Calcula los valores de m para los cuales A tiene inversa.
+b) Para m=2, encuentra la matriz X que cumple AX—BB'=TI,siendo B' la matriz traspuesta
+de Bel la matriz identidad de orden 3
+MATEMÁTICAS Il. 2019. RESERVA 1. EJERCICIO 3. OPCIÓN A."
+MATES_II,Matrices Y Determinantes,2019.0,Reserva 2,Ejercicio 3 Opción A,"a bc
+Considera la matriz A=|d e  f | dela que se sabe que tiene determinante 5.
+g hi
+a) Calcula, indicando las propiedades que utilices, los determinantes de las matrices siguientes:
+2a d+3a g
+3Ay|2b e+3b h
+2c f+3c 1
+b) Si B es otra matriz cuadrada de orden 3 y tiene determinante 4, calcula, indicando también las
+propiedades que utilices, el determinante de la matriz B A”?.
+MATEMÁTICAS Il. 2019. RESERVA 2. EJERCICIO 3. OPCIÓN A"
+MATES_II,Matrices Y Determinantes,2019.0,Reserva 3,Ejercicio 3 Opción A,"54 3
+Dada la matriz A=|4 2 2|,halla la matriz X que cumple AX =(A7'A'+1)', siendo A' la
+321
+matriz traspuesta de Ael la matriz identidad de orden 3.
+MATEMÁTICAS Il. 2019. RESERVA 3. EJERCICIO 3. OPCIÓN A"
+MATES_II,Matrices Y Determinantes,2020.0,Junio,Ejercicio 3,"1 -1
+0 1
+0
+m+2
+m+1
+5
+Considera la matriz A=
+m
+a) (15 puntos) Estudia el rango de A según los valores de m.
+b) (1 punto) Para m=2, calcula la inversa de 2020A.
+MATEMÁTICAS Il. 2020. JUNIO. EJERCICIO 3"
+MATES_II,Matrices Y Determinantes,2020.0,Reserva 1,Ejercicio 3,"(25 puntos) Considera A=|1 a
+c 1
+A-B=C y la matriz A tiene rango 2.
+MATEMÁTICAS Il. 2020. RESERVA 1. EJERCICIO 3."
+MATES_II,Matrices Y Determinantes,2020.0,Reserva 2,Ejercicio 7,"Considera la matriz A=
+a) (15 Puntos). Calcula A” y A”.
+b) (1 Punto). Halla el determinante de la matriz 3A*(A')*, donde A' es la traspuesta de la
+matriz A
+MATEMÁTICAS II. 2020. RESERVA 2. EJERCICIO 7"
+MATES_II,Matrices Y Determinantes,2020.0,Reserva 3,Ejercicio 7,"1 1
+Considera las matrices A= h »)
+a) (1 Punto). Sabiendo que una matriz X verifica X?AX =B?, halla los posibles valores de su
+determinante.
+b) (1>5 Puntos). Determina, si existe, una matriz Y que verifique A?YB”'=A
+MATEMÁTICAS Il. 2020. RESERVA 3. EJERCICIO 7"
+MATES_II,Matrices Y Determinantes,2020.0,Reserva 4,Ejercicio 7,"1. -1 5 3
+Considera A=| m 2 =1|yC=|1
+m-1 0 2 0
+a) (1 Punto). Determina los valores de m para los que la ecuación AX+B=C tiene solución
+única.
+b) (15 Puntos). Para m=0, halla X tal que AX+B=C.
+MATEMÁTICAS II. 2020. RESERVA 4. EJERCICIO 7"
+MATES_II,Matrices Y Determinantes,2021.0,Reserva 4,Ejercicio 6,"1
+1-10
+Considera las matrices: A= y B=|0
+1 om 1
+m
+a) Calcula m para que A-B no tenga inversa.
+b) Estudia el rango de la matriz B. A según los valores de m.
+MATEMÁTICAS II. 2021. RESERVA 4. EJERCICIO 6."
+MATES_II,Matrices Y Determinantes,2021.0,Julio,Ejercicio 5,"Considera la matriz A=
+-1
+a) Comprueba que A?*=-A”'
+1
+b) Dadas las matrices: B=| 3
+-4 5
+calcula la matriz X que verifica A*X+B= AC
+MATEMÁTICAS 11. 2021. JULIO. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2022.0,Junio,Ejercicio 6,"m Jm Jm
+Considera la matriz A=| Jm  m 1 | donde m>0
+Jm 1 m
+a) ¿Para qué valores de m tiene inversa la matriz A?.
+b) Para m=4 resuelve, si es posible, la ecuación matricial A-X =121I, donde I la matriz
+identidad de orden 3
+MATEMÁTICAS II. 2022. JUNIO. EJERCICIO 6"
+MATES_II,Matrices Y Determinantes,2022.0,Reserva 1,Ejercicio 5,"Considera la matriz A=| 1
+1
+a) Calcula A”'
+b) Calcula la matriz X de orden tres que verifica AX+(A-—X) =X?+I, siendo 1 la matriz
+identidad de orden 3.
+MATEMÁTICAS II. 2022. RESERVA 1. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2022.0,Reserva 2,Ejercicio 6,"1
+-a 3
+Dado a %0, considera las matrices: a-( Ñ ) y B=|3
+a
+1
+1
+a) Determina para qué valores de a se cumple que A7!'= 4 A.
+b) Para a=1 calcula, si es posible, la matriz X tal que A-X=B', donde B' denota la matriz
+traspuesta de B.
+MATEMÁTICAS II. 2022. RESERVA 2 EJERCICIO 6."
+MATES_II,Matrices Y Determinantes,2022.0,Reserva 3,Ejercicio 6,"m 1 3
+Considera las matrices A=| 1 m 2| y B=
+1 m 3 -1
+a) Calcula el rango de la matriz A dependiendo de los valores m.
+b) Para m=0, resuelve la ecuación A-X=B, si es posible.
+MATEMÁTICAS Il. 2022. RESERVA 3. EJERCICIO 6"
+MATES_II,Matrices Y Determinantes,2022.0,Julio,Ejercicio 5,"lila
+1.0
+Considera las matrices a-( ] ,B=|]2 a 1 y C -(
+1
+-2 1 2 -1
+220
+a) Calcula los valores de a para los que la matriz B no tiene inversa.
+b) Para a=1,calcula X tal que AXB=C, si es posible
+MATEMÁTICAS Il. 2022. JULIO. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2022.0,Julio,Ejercicio 6,"a b
+Se sabe que |p q
+x y
+a x a-3p
+a) Calcula: 2x 2z 2y| .b)Calcula: [y b-3q
+-3p -3r -3q z Cc-3r
+MATEMÁTICAS Il. 2022. JULIO. EJERCICIO 6"
+MATES_II,Matrices Y Determinantes,2023.0,Junio,Ejercicio 6,"0 m
+0 0
+0
+Considera las matrices A=| m
+0m 0
+a) Determina para qué valores de m existe la inversa de la matriz A.
+b) Para todo m *-—1, resuelve, si es posible, la ecuación A-X+X =B
+MATEMÁTICAS Il. 2023. JUNIO. EJERCICIO 6"
+MATES_II,Matrices Y Determinantes,2023.0,Reserva 1,Ejercicio 6,"Considera las matrices: A=
+—3m
+a) Determina los valores de m para los que la matriz A tenga inversa.
+b) Calcula para m=1, si es posible, la matriz X tal que A-X =B',donde B' denota la matriz
+traspuesta de B.
+MATEMÁTICAS II. 2023. RESERVA 1. EJERCICIO 6"
+MATES_II,Matrices Y Determinantes,2023.0,Reserva 2,Ejercicio 5,"Considera la matriz A
+a) Calcula A'”
+b) Calcula, si es posible, la matriz inversa de 1+A+A?, donde 1 denota la matriz identidad de
+orden 3
+MATEMÁTICAS Il. 2023. RESERVA 2. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2023.0,Reserva 3,Ejercicio 5,"Sean las matrices A=| 1 1 1 B=
+m-1 1 m+l
+a) Calcula m para que la matriz A tenga inversa.
+b) Para m=0, resuelve, si es posible, la ecuación matricial 2 A-X+C*=B
+MATEMÁTICAS Il. 2023. RESERVA 3. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2023.0,Reserva 4,Ejercicio 5,"6 1 3
+-1
+-1
+, calcula, si es posible, la
+-3 —1 5
+matriz X que verifica la ecuación 3X —B'= AX, siendo B' la matriz traspuesta de B
+MATEMÁTICAS Il. 2023. RESERVA 4. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2023.0,Julio,Ejercicio 5,"1 1
+Sea la matriz A=| 1 1 el la matriz identidad de orden 3.
+1 1
+1
+a) Halla los valores de m para que la matriz A—mI no tenga inversa.
+1
+b) Halla x, distinto de cero, para que A—xI sea la inversa de la matriz —(A—1I)
+x
+MATEMÁTICAS Il. 2023. JULIO. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2024.0,Junio,Ejercicio 5,"1
+Considera la matriz A=|0
+0
+a) Calcula A?
+b) Halla la matriz X, si es posible, que verifica A”.X-.A+1I=0, donde I y O son la matriz
+identidad y la matriz nula de orden 3, respectivamente.
+MATEMÁTICAS II. 2024. JUNIO. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2024.0,Reserva 1,Ejercicio 5,"1 0 1 -4 8 0
+Considera las matrices A=| m 1 0| y B=| 0 4 4
+1 -1 2 4 12 20
+a) Determina los valores de m para los que la matriz A? tiene inversa
+b) Para m=0 calcula, si es posible, la matriz X que verifica A?X = (As B)
+MATEMÁTICAS Il. 2024. RESERVA 1. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2024.0,Reserva 2,Ejercicio 6,"1.3 0 1
+Considera las matrices a-( 2 :) »M= Ú , el la matriz identidad de orden 2.
+a) Sabiendo que A verifica la identidad (A+a1)?=bI , halla a y b.
+b) Resuelve la ecuación MX+M?=I.
+MATEMÁTICAS II. 2024. RESERVA 2. EJERCICIO 6"
+MATES_II,Matrices Y Determinantes,2024.0,Reserva 3,Ejercicio 5,"Considera las matrices A= ,B=(1 y z)yC=(3 0 0).
+x=1 y-1 z-1
+a) Sabiendo que el determinante de A es 5, calcula 1 1 1 , indicando las
+4 1 3
+propiedades que utilizas.
+b) Calcula los valores (x, y,z) tales que B-A=C
+MATEMÁTICAS II. 2024. RESERVA 3. EJERCICIO 5."
+MATES_II,Matrices Y Determinantes,2024.0,Reserva 4,Ejercicio 5,"Considera las matrices A=| 7
+0
+a) Calcula los determinantes de las matrices (caB)*)” y 27AB?. b) Halla la matriz X, si es
+posible, que verifica que A-X-B =91 donde l es la matriz identidad de orden3
+MATEMÁTICAS Il. 2024. RESERVA 4. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2024.0,Julio,Ejercicio 5,"-10
+Considera la matriz a-( o y
+a) Halla todas las matrices X que cumplen: X-A=-A-X' y X?=I, donde l es la matriz
+identidad de orden 2.
+b) Halla todas las matrices Y que cumplen Y.A=A-Y, la suma de los elementos de su
+diagonal principal es cero y tienen determinante —1.
+MATEMÁTICAS Il. 2024. JULIO. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2024.0,Modelo,Ejercicio 4,"Considera la matriz A=
+a) Calcula A”.
+b) Calcula, si es posible, la matriz inversa de 1+ A+ A?, donde 1 denota la matriz identidad de
+orden 3. o
+MATEMÁTICAS IT. 2024. MODELO. EJERCICIO 4"
+MATES_II,Matrices Y Determinantes,2025.0,Reserva 1,Ejercicio 6,"a a+4
+Sea la matriz A=| 1 ol
+0 a+4
+a) Indica para qué valores de a la matriz A admite inversa.
+b) Para a=1 determina, si es posible, la matriz inversa de A.
+MATEMÁTICAS Il. 2025. RESERVA 1. EJERCICIO 6"
+MATES_II,Matrices Y Determinantes,2025.0,Reserva 2,Ejercicio 4,"Considera la matriz A=| 1 -4
+-1 3
+a) Comprueba que A*+1=0, siendo I la matriz identidad y O la matriz nula. Calcula A”'.
+b) Calcula Ad
+MATEMÁTICAS II. 2025. RESERVA 2. EJERCICIO 4"
+MATES_II,Matrices Y Determinantes,2025.0,Reserva 2,Ejercicio 5,"Sabiendo que: y Z|=1,calcula razonadamente:
+uv w
+a+x b+y  c+z
+a) a b
+2a+u 2b+v 2c+w
+MATEMÁTICAS Il. 2025. RESERVA 2. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2025.0,Reserva 3,Ejercicio 4,"0 -1
+Considera la matriz a ¿)
+a) Calcula A* y A”
+b) Halla razonadamente el determinante de la matriz 4A*(A')?.
+MATEMÁTICAS II. 2025. RESERVA 3. EJERCICIO 4"
+MATES_II,Matrices Y Determinantes,2025.0,Reserva 3,Ejercicio 5,". 2 2 31
+Sean las matrices A= y B= .
+3.14 2 2
+a) Halla razonadamente el determinante de una matriz X que verifica X*AX*=B?.
+b) Determina, si existe, una matriz Y que verifique A'Y B' =A?.
+MATEMÁTICAS II. 2025. RESERVA 3. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2025.0,Reserva 4,Ejercicio 4,"13
+a,, [con determinante igual a —5
+a3
+a) Calcula
+4a ,, —6a
+b) Calcula ad» 2a »,
+33
+a 31 a 32 2a 33
+MATEMÁTICAS II. 2025. RESERVA 4. EJERCICIO 4"
+MATES_II,Matrices Y Determinantes,2025.0,Reserva 4,Ejercicio 5,"1 1
+. a 3
+Sean las matrices A= o 1 y B=|-1 2].
+1 1
+a) Determina a y b para que A?*=41I,donde l es la matriz identidad de orden 2.
+b)Para a=-1 y b=1,calcula, si es posible, la matriz X que cumple A?X =B'.
+MATEMÁTICAS II. 2025. RESERVA 4. EJERCICIO 5"
+MATES_II,Matrices Y Determinantes,2026.0,Junio,Ejercicio 32,"Considera la matriz A= B | que cumple | A|=-2
+-3 -4
+a) Calcula |a.-—2 B-a
+8 4a
+b) Calcula AT-CADY-A]|
+MATEMÁTICAS II. 2026. JUNIO. EJERCICIO 3.2"

@@ -1,0 +1,3834 @@
+Error processing details, in 2026 - Sistemas De Ecuaciones Lineales.pdf at page 2
+**********
+Considera el sistema (l-a)y +2z= 0
+4y+(3-a)z=a-5
+a) Calcula a para que el sistema sea compatible indeterminado.
+b) Resuelve el sistema, si es posible, para a =0.
+MATEMÁTICAS II. 2026. JUNIO. EJERCICIO 3.1
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 2
+**********
+Sean A y B dos sucesos independientes tales que la probabilidad de que ocurran ambos
+simultáneamente es 3 y la de que no ocurra ninguno de ellos es Ñ . Calcula P(A) y P(B).
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 1
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 3
+**********
+Dados dos sucesos, A y B, de un experimento aleatorio, con probabilidades tales que P(A)= 7>
+1 13
+P(B)=- y P(AUB)=— ,se pide:
+(B) 7 Y ( ) 15 P
+a) Comprobar si los sucesos A y B son independientes o no.
+b) Calcular P (a/ B) donde A denota el suceso complementario de A.
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 2
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 4
+**********
+Un dado con las caras numeradas del 1 al 6 está trucado de modo que la probabilidad de
+obtener un número es directamente proporcional a dicho número. Tiramos el dado una vez.
+a) Halla la probabilidad de que salga 3 si se sabe que salió un número impar.
+b) Calcula la probabilidad de que salga un número par si se sabe que salió un número mayor
+que3.
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 3
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 5
+**********
+En un club deportivo, el 55 % de los socios practica natación, el 65 % practica tenis, y el 10 %
+no practica ni natación ni tenis.
+a) Si el club tiene 1200 socios, ¿cuántos practicarían ambos deportes?.
+b) Tomando al azar una persona de este club que practique natación, calcula la probabilidad
+de que no juegue al tenis.
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 4
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 6
+**********
+De una urna que contiene cuatro bolas rojas y dos azules, extraemos una bola y, sin devolverla
+a la urna, extraemos otra a continuación.
+a) ¿Cuáles la probabilidad de que sean de distinto color?
+b) ¿Cuál es la probabilidad de que la segunda bola sea azul?
+c) Si la segunda bola es azul, ¿cuál es la probabilidad de que la primera sea roja?
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 5
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 7
+**********
+Se tienen dos urnas A y B con bolas de colores con la siguiente composición: la urna A contiene
+3 bolas verdes, 4 negras y 3 rojas; mientras que la urna B contiene 6 bolas verdes y 4 bolas
+negras. Además, se tiene un dado con 2 caras marcadas con la letra A y 4 caras marcadas con
+la letra B. Se lanza el dado y se saca una bola al azar de la urna que ha indicado el dado.
+a) ¿Cuáles la probabilidad de que la bola sea verde?
+b) ¿Cuál es la probabilidad de que la bola sea roja?
+c) Si la bola extraída es verde, ¿cuál es la probabilidad de que ésta proceda de la urna B?
+MATEMÁTICAS I1. 2024 PONENCIA. EJERCICIO 6
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 8
+**********
+Python y JavaScript se encuentran entre los lenguajes de programación más estudiados por los
+programadores, con un 20 % y un 18 % de desarrolladores que se especializan únicamente en
+cada uno de ellos. El resto de desarrolladores se especializan entre una decena de lenguajes
+(HTML-CSS, Java, C,...). La probabilidad de que un desarrollador que se ha especializado en
+Python obtenga empleo es 0,85, mientras que la de que lo obtenga uno que se ha especializado
+en JavaScript es 0,9. También se sabe que la probabilidad de que un desarrollador esté
+desempleado es del 0,15.
+a) Calcula la probabilidad de que un desarrollador esté empleado si no ha estudiado Python ni
+JavaScript.
+b) Calcula la probabilidad de que un desarrollador que está desempleado se haya especializado
+en Python o JavaScript.
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 7
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 9
+**********
+En el enfermero de la doctora Martínez no se puede confiar, pues durante la ausencia del
+médico la probabilidad de que no le inyecte un suero a un enfermo es de 0, 6. Se sabe que si a
+un enfermo grave se le inyecta el suero tiene igual probabilidad de mejorar que de empeorar,
+pero si no se le inyecta entonces la probabilidad de que mejore es de 0, 25. A su regreso, la Dra.
+Martínez se encuentra con que un enfermo ha empeorado. Calcula la probabilidad de que el
+enfermero olvidara inyectar el suero a este paciente.
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 8
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 10
+**********
+Se estima que solo un 20 % de los que compran acciones en bolsa tienen conocimientos
+bursátiles. De ellos, el 80 % obtiene beneficios. De los que compran acciones sin conocimientos
+bursátiles, solo un 10 % obtiene beneficios.
+a) Calcula el porcentaje de los que obtienen beneficios comprando acciones en bolsa.
+b) Eligiendo una persona al azar, calcula la probabilidad de que no tenga conocimientos
+bursátiles y que no tenga beneficios al invertir en bolsa.
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 9
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 11
+**********
+Una enfermedad puede estar producida por tres virus A, B y C. En el laboratorio hay tres
+tubos de ensayo con el virus A, 2 tubos de ensayo con el virus B y 5 tubos de ensayo con el virus
+C. La probabilidad de que el virus A produzca la enfermedad en un animal es de => que la
+produzca el virus B es de 5 y que la produzca el virus C es de > .
+a) Si elegimos al azar un tubo de ensayo e inoculamos el virus a un animal, calcula la
+probabilidad de que contraiga la enfermedad.
+b) Si se inocula el virus a un animal y contrae la enfermedad, calcula la probabilidad de que el
+virus que se ha inoculado sea del tipo C.
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 10
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 12
+**********
+Un ayuntamiento estima que el 60 % de los árboles de su localidad son de hoja caduca, y de
+ellos un 20 % son autóctonos del área geográfica. Sin embargo, de los árboles de hoja perenne
+(no caduca) los autóctonos ascienden al 70 % . Elegido al azar un árbol de esta localidad:
+a) ¿Cuáles la probabilidad de que sea de hoja caduca y no sea autóctono?
+b) ¿Qué probabilidad hay de que el árbol sea autóctono?
+c) Sabiendo que el árbol es autóctono, ¿cuál es la probabilidad de que sea de hoja caduca?
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 11
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 13
+**********
+Se tiene una prueba diagnóstica para una enfermedad con las siguientes propiedades:
+- La probabilidad de que el test dé positivo teniendo la enfermedad es 0,95.
+- La probabilidad de que el test dé negativo no teniendo la enfermedad es 0,95.
+- La probabilidad de que una persona tenga la enfermedad es 0.05.
+Realizada la prueba a una persona al azar, calcular:
+a) La probabilidad de que el test dé positivo.
+b) La probabilidad de tener la enfermedad cuando el test ha dado positivo.
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 12
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 14
+**********
+Una empresa automovilística fabrica sus coches en cuatro factorías: F,, F,, F, y F,. El
+porcentaje de producción total de coches que se fabrica en cada factoría es del 40 %,30%,
+20 % y 10 %, respectivamente, y además el porcentaje de pintado defectuoso en cada factoría
+es del 1 %,2%,7% y 4 %,respectivamente. Tomamos un coche al azar. Se pide:
+a) ¿Cuál es la probabilidad de que el coche haya sido fabricado en la factoría F, y esté
+perfecto? b) ¿Cuál es la probabilidad de que la pintura del coche presente algún desperfecto?
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 13
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 15
+**********
+El 60 % de los coches de una marca se fabrican en su factoría de Valencia, el 25 % en Madrid y
+el resto en Lisboa. El 1 % de los coches fabricados en Valencia tiene algún defecto de
+fabricación, mientras que para los coches fabricados en Madrid y en Lisboa estos porcentajes
+son del 0,5 % y del 2 %, respectivamente.
+a) Elegido al azar un coche de esa marca, calcule la probabilidad de que no sea defectuoso.
+b) Si un coche de esa marca resulta ser defectuoso, ¿cuál es la probabilidad de que haya sido
+fabricado en Madrid?
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 14
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 16
+**********
+De una baraja española (40 cartas) Carlos y Paula extraen 8 cartas: los cuatro ases y los cuatro
+reyes. Con esas 8 cartas, Paula da dos cartas a Carlos y posteriormente una para ella. Calcula:
+a) La probabilidad de que Carlos tenga dos ases
+b) La probabilidad de que Carlos tenga un as y un rey.
+c) La probabilidad de que Paula tenga un as y Carlos no tenga dos reyes.
+MATEMÁTICAS II. 2024 PONENCIA. EJERCICIO 15
+**********
+Error processing details, in 2024 - Probabilidad.pdf at page 17
+**********
+Se estudia una prueba diagnóstica para detectar una enfermedad en un grupo de 200000
+personas a las que se ha sometido a dicha prueba y de los que el 0,5 % están enfermos. Se ha
+observado que de los enfermos ha dado negativo a 50 personas y, de las sanas, le ha dado
+positivo a 19900. Si se escoge al azar una de estas personas sometidas a la prueba diagnóstica:
+a) Calcula la probabilidad de que la prueba dé resultado positivo. ¿Cuál sería la probabilidad
+de que el resultado de la prueba sea erróneo?
+b) Calcula la probabilidad de que la persona padezca la enfermedad, si el resultado de la
+prueba es negativo.
+MATEMÁTICAS Il. 2024 PONENCIA. EJERCICIO 16
+**********
+Error processing details, in 2025 - Probabilidad.pdf at page 2
+**********
+En la tabla siguiente se recoge el número de coches y motos que se presentaron a la ITV en el
+año 2023.
+Coches Motos
+Aptos 116.383 160.667
+No Aptos 2.679 3.447
+Se elige un vehículo al azar de entre los coches y motos que se presentaron a dicha inspección.
+a) ¿Cuáles la probabilidad de que el vehículo elegido sea una moto o haya resultado apto?
+b) Si el vehículo elegido es un coche, ¿cuál es la probabilidad de que haya resultado no apto?
+MATEMÁTICAS Il. 2025 JUNIO. EJERCICIO 7
+**********
+Error processing details, in 2025 - Probabilidad.pdf at page 3
+**********
+Se hace un estudio sobre el café que se consume en la cafetería de una estación. Según el tipo de
+taza tenemos tres opciones: expreso, medio y americano; con porcentajes, respectivamente, de
+29% ,51% y 20% .Por otra parte, también sabemos que el café puede ser de la variedad que tiene
+cafeína o ser descafeinado. En concreto, las tazas de café con cafeína presentan, para cada uno de
+los tipos de taza establecidos antes, los porcentajes 18%, 31% y 11%, respectivamente.
+a) ¿Cuál es la probabilidad de que una persona adquiera un café expreso descafeinado?
+b) Si sabemos que el café es descafeinado, ¿cuál es la probabilidad de que sea un expreso?
+MATEMÁTICAS I1.2025 RESERVA 2. EJERCICIO 7
+**********
+Error processing details, in 2025 - Probabilidad.pdf at page 4
+**********
+Una empresa fabrica bolígrafos en tres provincias: Almería, Barcelona y Cáceres. El porcentaje
+de producción total de bolígrafos que se fabrica en cada provincia es, respectivamente, del 20% ,
+50% y 30%. Además, el porcentaje de bolígrafos defectuosos en cada una de ellas es del 7% , 6%
+y 2%, respectivamente.
+a) ¿Cuáles la probabilidad de que un bolígrafo, tomado al azar, sea defectuoso?
+b) Si se ha escogido un bolígrafo no defectuoso, ¿cuál es la probabilidad de que provenga de
+Almería?
+MATEMÁTICAS Il. 2025. RESERVA 3. EJERCICIO 7
+**********
+Error processing details, in 2026 - Probabilidad.pdf at page 2
+**********
+Disponemos de dos bolsas con monedas de oro y monedas de plata. En la primera hay 2 monedas
+de oro y 3 monedas de plata. En la segunda hay 6 monedas de oro y 3 de plata. Sin mirar,
+extraemos una moneda al azar de la primera bolsa y la depositamos en la segunda bolsa. Luego
+extraemos una moneda de la segunda bolsa.
+a) Calcula la probabilidad de que la segunda moneda sea de oro, sabiendo que la moneda que se
+extrajo de la primera bolsa era de plata.
+b) Calcula la probabilidad de que la moneda que se extrajo de la primera bolsa fuera de plata,
+sabiendo que la segunda moneda es de oro.
+MATEMÁTICAS Il. 2026 JUNIO. EJERCICIO 4.2
+**********
+Error processing details, in 2026 - Probabilidad.pdf at page 3
+**********
+Los 120 estudiantes de segundo de Bachillerato de un centro se distribuyen por clases como se
+indica en la tabla:
+Cursan inglés
+Cursan francés
+N? de estudiantes
+Clase A
+30
+10
+40
+Clase B
+15
+20
+35
+Clase €
+20
+S
+25
+Clase D
+20
+0
+20
+Se elige un estudiante al azar y se pide:
+a) ¿Cuáles la probabilidad de que el estudiante elegido este en la clase A o haya cursado francés?
+b) Si el estudiante elegido cursaba inglés, ¿cuál es la probabilidad de que este en la clase C?
+MATEMÁTICAS HI. 2026 RESERVA 2. EJERCICIO 4.2
+**********
+Error processing details, in 2026 - Probabilidad.pdf at page 4
+**********
+Tres máquinas A, B y C, producen el 45% , 30% y 25%, respectivamente del total de los coches
+que se producen en una fábrica. Los porcentajes de producción defectuosa de estas máquinas son
+del 3% ,4% y 5%, respectivamente.
+a) Seleccionamos un coche al azar. Calcula la probabilidad de que sea defectuoso.
+b) Tomamos, al azar, un coche y resulta ser defectuoso. ¿Qué máquina tiene la mayor probabilidad
+de haber producido ese coche?
+MATEMÁTICAS Il. 2026. JULIO. EJERCICIO 4.2
+**********
+Error processing details, in 2024 - Sistemas De Ecuaciones Lineales.pdf at page 2
+**********
+y+z=1
+Considera el sistema <(k—1)x + y+z=k
+x+(k-l)y+z=0
+a) Discute el sistema según los valores de k.
+b) Para k=1 resuelve el sistema, si es posible. ¿Hay alguna solución en la que y=0?. En caso
+afirmativo, calcúlala. En caso negativo, justifica la respuesta.
+MATEMÁTICAS II. 2024. JUNIO. EJERCICIO 6
+**********
+Error processing details, in 2024 - Sistemas De Ecuaciones Lineales.pdf at page 3
+**********
+Determina un número natural de tres cifras sabiendo que la suma de sus dígitos es 9, que la
+diferencia de dicho número con el que se obtiene al intercambiar la cifra de las centenas por las
+de las unidades es 198, y que si consideramos la suma entre ambos números, es decir, entre el
+número a determinar y el que se obtiene al intercambiar sus cifras, el resultado es 828.
+MATEMÁTICAS II. 2024. RESERVA 1. EJERCICIO 6
+**********
+Error processing details, in 2024 - Sistemas De Ecuaciones Lineales.pdf at page 4
+**********
+ax+ y+ z=l+a
+Considera el sistema de ecuaciones lineales 4 x+ 2y- z=l-a
+x+(l+a)y-az= 0
+a) Calcula a para que el sistema sea compatible indeterminado.
+b) Resuelve el sistema, si es posible, para a =0.
+MATEMÁTICAS II. 2024. RESERVA 2. EJERCICIO 5
+**********
+Error processing details, in 2024 - Sistemas De Ecuaciones Lineales.pdf at page 5
+**********
+5 -2
+Xx Xx
+Considera el sistema | 2 «| y|=m| y
+z
+3-2 -1
+a) Determina los valores de m para los que el sistema es compatible indeterminado.
+b) Para m=2 resuelve el sistema, si es posible
+MATEMÁTICAS II. 2024. RESERVA 3. EJERCICIO 6
+**********
+Error processing details, in 2024 - Sistemas De Ecuaciones Lineales.pdf at page 6
+**********
+Considera la matriz A=| 2 0 a
+5 3a-1 0
+a) Calcula el rango de A según los valores de a.
+1 x
+b)Si B=|2|, X =| y | y a=2 resuelve, si es posible, el sistema AX =B.
+4 VA
+MATEMÁTICAS II. 2024. RESERVA 4. EJERCICIO 6
+**********
+Error processing details, in 2024 - Sistemas De Ecuaciones Lineales.pdf at page 7
+**********
+Un proveedor de perfumerías vende a sus comerciantes tres tipos de perfumes A, B y C. En un
+primer pedido una tienda ha encargado 20 perfumes de tipo A, 30 de tipo B y 15 de tipo C, por
+un importe de 2200 euros. En un segundo pedido ha comprado 15 perfumes de tipo A, 10 de tipo
+B y 10 de tipo C, por un importe de 1250 euros.
+a) ¿Cuánto tendremos que pagar por un pedido de 25 perfumes de tipo A, 10 perfumes de tipo B
+y 16 de tipo C?.
+b) Si añadimos que el precio de un perfume de tipo C es : del precio de una unidad de tipo A,
+¿cuál es el precio de cada tipo de perfume?.
+MATEMÁTICAS II. 2024. JULIO. EJERCICIO 6
+**********
+Error processing details, in 2024 - Sistemas De Ecuaciones Lineales.pdf at page 8
+**********
+Dadas las matrices A=|1 0 1|yB=|0 1 0|,se define la matriz M= A+(A-I)B.
+0 1 1 100
+a) Halla los valores de 4 para los que la matriz M tiene rango menor que 3.
+b)Para A =-—1, resuelve el sistema lineal homogéneo cuya matriz de coeficientes es M.
+MATEMÁTICAS Il. 2024. MODELO. EJERCICIO 5
+**********
+Error processing details, in 2001 - Probabilidad.pdf at page 2
+**********
+Dos urnas A y B, que contienen bolas de colores, tienen la siguiente composición:
+A: 5 blancas, 3 negras y 2 rojas; B : 4 blancas y 6 negras
+También tenemos un dado que tiene 4 caras marcadas con la letra A y las otras dos con la letra
+B. Tiramos el dado y sacamos una bola al azar de la urna que indica el dado.
+a) ¿Cuál es la probabilidad de que esa bola sea blanca?
+b) ¿Cuál es la probabilidad de que esa bola sea roja?
+c) La bola extraída ha resultado ser blanca, ¿cuál es la probabilidad de que proceda de la urna
+B?
+SOCIALES I1.2001. JUNIO. EJERCICIO 3. PARTE I. OPCIÓN A
+**********
+Error processing details, in 2001 - Probabilidad.pdf at page 4
+**********
+2
+Dado un espacio muestral E se consideran los sucesos A y B, cuyas probabilidades son P(A)= 3
+1
+a) ¿Pueden ser los sucesos A y B incompatibles? ¿Por qué?
+b) Suponiendo que los sucesos A y B son independientes, calcule P(AUB).
+c) Suponiendo que AUB=E, calcule P(ANB).
+SOCIALES I1.2001 RESERVA 1. EJERCICIO 3. PARTE l. OPCIÓN A
+**********
+Error processing details, in 2001 - Probabilidad.pdf at page 5
+**********
+El 35 % de los estudiantes de un centro docente practica el fútbol. El 70 % de los que practican
+el fútbol estudia Matemáticas, así como el 25 % de los que no practican el fútbol. Calcule la
+probabilidad de que al elegir, al azar, un estudiante de ese centro:
+a) Estudie Matemáticas.
+b) Practique el fútbol, sabiendo que no es alumno de Matemáticas.
+SOCIALES I1.2001 RESERVA 1.EJERCICIO 3. PARTE I. OPCIÓN B
+**********
+Error processing details, in 2001 - Probabilidad.pdf at page 9
+**********
+En un cineclub hay 80 películas; 60 son de “acción” y 20 de “terror”. Susana elige una película al
+azar y se la lleva. A continuación Luís elige otra película al azar.
+a) ¿Cuáles la probabilidad de que tanto Susana como Luís elijan películas de acción?
+b) ¿Cuál es la probabilidad de que la película elegida por Luís sea de acción?
+SOCIALES I1.2001. RESERVA 3. EJERCICIO 3. PARTE I. OPCIÓN B
+**********
+Error processing details, in 2002 - Probabilidad.pdf at page 8
+**********
+En un colectivo de personas, el 80 % tiene más de 35 años. De los mayores de 35 años, el 40 %
+son mujeres. De los que no han superado los 35 años, el 45 % son hombres.
+Se elige una persona, al azar, de ese colectivo.
+a) ¿Cuáles la probabilidad de que sea mujer?
+b) ¿Cuál es la probabilidad de que no haya superado los 35 años sabiendo que se ha elegido un
+hombre?
+SOCIALES I1.2002. RESERVA 3. EJERCICIO 3. PARTE I. OPCIÓN A
+**********
+Error processing details, in 2002 - Probabilidad.pdf at page 12
+**********
+El partido A y el partido B concurren a unas elecciones en un municipio donde el 55 % de los
+votantes son mujeres. Se sabe que el 40 % de los hombres votan al partido A y el 50 % al B. El
+60 % de las mujeres votan al partido A y el 20 % al B.El resto de electores no vota.
+a) Halle la probabilidad de que una persona, elegida al azar, no vote.
+b) Sabiendo que una persona, elegida al azar, ha votado al partido A, halle la probabilidad de
+que sea mujer.
+SOCIALES I1.2002. SEPTIEMBRE. EJERCICIO 3. PARTE I. OPCIÓN A
+**********
+Error processing details, in 2002 - Probabilidad.pdf at page 13
+**********
+En una ciudad, el 60 % de los niños usa zapatillas deportivas, el 50 % usa ropa deportiva y el
+20 % usa ambas prendas.
+a) ¿Cuál es la probabilidad de que un niño, elegido al azar, no use ninguna de las dos prendas?
+b) Si un niño usa zapatillas deportivas, ¿cuál es la probabilidad de que no use ropa deportiva?
+SOCIALES 11.2002. SEPTIEMBRE. EJERCICIO 3. PARTE 1. OPCIÓN B
+**********
+Error processing details, in 2003 - Probabilidad.pdf at page 3
+**********
+El 70% de los alumnos de un Instituto son de Bachillerato y el resto de E.S.O. De los alumnos de
+Bachillerato, el 60% estudia más de 3 horas al día, y sólo el 30% de los de E.S.O. estudia más de
+3 horas al día.
+a) Calcule la probabilidad de que un alumno de dicho Instituto, elegido al azar, estudie más de 3
+horas al día.
+b) Sabiendo que un alumno de ese Instituto, elegido al azar, estudia más de 3 horas al día, ¿cuál
+es la probabilidad de que sea de Bachillerato?.
+SOCIALES I1.2003. JUNIO. EJERCICIO 3. PARTE I. OPCIÓN B
+**********
+Error processing details, in 2003 - Probabilidad.pdf at page 4
+**********
+En una residencia hay 212 ancianos de los que 44 tienen afecciones pulmonares. Del total de
+ancianos, 78 son fumadores, y sólo hay 8 que tienen enfermedad de pulmón y no fuman.
+a) ¿Cuál es la probabilidad de que un anciano de esa residencia, elegido al azar, no fume y
+tampoco tenga afección pulmonar?.
+b) ¿Qué porcentaje de enfermos de pulmón son fumadores?.
+SOCIALES II.2003 RESERVA 1. EJERCICIO 3. PARTE I. OPCIÓN A
+**********
+Error processing details, in 2003 - Probabilidad.pdf at page 5
+**********
+Disponemos de dos urnas A y B conteniendo bolas de colores. La urna A tiene 4 bolas blancas y 3
+rojas, y la urna B tiene 5 blancas, 2 rojas y 1 negra. Lanzamos un dado, si sale 1,2,3 6 4
+extraemos una bola de A y si sale 5 ó 6 la extraemos de B.
+a) Calcule la probabilidad de que la bola extraída sea roja.
+b) Calcule la probabilidad de que la bola extraída sea negra.
+c) Sabiendo que la bola extraída ha sido blanca, calcule la probabilidad de que en el dado haya
+salido 5 6 6.
+SOCIALES 1.2003 RESERVA 1. EJERCICIO 3. PARTE I. OPCIÓN B
+**********
+Error processing details, in 2003 - Probabilidad.pdf at page 12
+**********
+Una máquina A fabrica 100 piezas al día, de las cuales un 6% son defectuosas. Otra máquina B
+fabrica 50 piezas al día, con un porcentaje de defectuosas del 2% .
+Mezclamos las piezas fabricadas por ambas máquinas en un día y extraemos una al azar.
+a) ¿Cuál es la probabilidad de que la pieza extraída sea defectuosa?.
+b) Sabiendo que la pieza extraída es defectuosa, ¿cuál es la probabilidad de que la haya
+fabricado la máquina B?.
+SOCIALES I1.2003. SEPTIEMBRE. EJERCICIO 3. PARTE I. OPCIÓN A
+**********
+Error processing details, in 2003 - Sistemas De Ecuaciones Lineales.pdf at page 3
+**********
+Una empresa cinematográfica dispone de tres salas, A, B y C. Los precios de entrada a estas salas
+son de 3, 4 y 5 €, respectivamente. Un día la recaudación conjunta de las tres salas fue de 720 € y el
+número total de espectadores fue de 200. Si los espectadores de la sala A hubieran asistido a la sala
+B y los de la sala B a la sala A, se hubiese obtenido una recaudación de 20 € más. Calcula el número
+de espectadores que acudió a cada una de las salas.
+MATEMÁTICAS 1.2003. RESERVA 1. EJERCICIO 3. OPCIÓN B.
+**********
+Error processing details, in 2017 - Sistemas De Ecuaciones Lineales.pdf at page 4
+**********
+-1 1 x
+Considera las matrices: A= ; 21; M=(-1 1 2) y X=| y
+-1 Z
+a) Calcula BM.
+b) Razona si el sistema dado por A- X=B tiene solución o no y, en caso afirmativo, cuántas
+soluciones tiene.
+c) Resuelve A-X=B.
+MATEMÁTICAS 1.2017. RESERVA 2. EJERCICIO 3. OPCIÓN A.
+**********
+Error processing details, in 2017 - Sistemas De Ecuaciones Lineales.pdf at page 5
+**********
+3x+ky=1
+Considera el siguiente sistema de ecuaciones ¿2x— y+kz=1
+x-3y+2z=1
+del que se sabe que para un cierto valor de k es compatible indeterminado.
+a) Determina el valor de k.
+b) Resuelve el sistema para k=1.
+MATEMÁTICAS 1.2017. RESERVA 2. EJERCICIO 3. OPCIÓN B.
+**********
+Error processing details, in 2003 - Sistemas De Ecuaciones Lineales.pdf at page 3
+**********
+Una empresa cinematográfica dispone de tres salas, A, B y C. Los precios de entrada a estas salas
+son de 3, 4 y 5 €, respectivamente. Un día la recaudación conjunta de las tres salas fue de 720 € y el
+número total de espectadores fue de 200. Si los espectadores de la sala A hubieran asistido a la sala
+B y los de la sala B a la sala A, se hubiese obtenido una recaudación de 20 € más. Calcula el número
+de espectadores que acudió a cada una de las salas.
+MATEMÁTICAS 1.2003. RESERVA 1. EJERCICIO 3. OPCIÓN B.
+**********
+Error processing details, in 2017 - Sistemas De Ecuaciones Lineales.pdf at page 4
+**********
+-1 1 x
+Considera las matrices: A= ; 21; M=(-1 1 2) y X=| y
+-1 Z
+a) Calcula BM.
+b) Razona si el sistema dado por A- X=B tiene solución o no y, en caso afirmativo, cuántas
+soluciones tiene.
+c) Resuelve A-X=B.
+MATEMÁTICAS 1.2017. RESERVA 2. EJERCICIO 3. OPCIÓN A.
+**********
+Error processing details, in 2017 - Sistemas De Ecuaciones Lineales.pdf at page 5
+**********
+3x+ky=1
+Considera el siguiente sistema de ecuaciones ¿2x— y+kz=1
+x-3y+2z=1
+del que se sabe que para un cierto valor de k es compatible indeterminado.
+a) Determina el valor de k.
+b) Resuelve el sistema para k=1.
+MATEMÁTICAS 1.2017. RESERVA 2. EJERCICIO 3. OPCIÓN B.
+**********
+Error processing details, in 2001 - Integrales.pdf at page 3
+**********
+Halla el área del recinto rayado que aparece en la figura adjunta sabiendo que la parte curva
+. Y 2x+2
+tiene como ecuación y= 7
+=x
+a
+MATEMÁTICAS I1.2001. JUNIO. EJERCICIO 2. OPCIÓN B.
+**********
+Error processing details, in 2007 - Integrales.pdf at page 5
+**********
+Sea f : R=>R la función definida por f(x)=x(x-—3)?.
+a) Calcula los intervalos de crecimiento y de decrecimiento de f.
+b) Haz un esbozo de la gráfica de f.
+c) Calcula el área del recinto limitado por la gráfica de f y el eje de abscisas.
+MATEMÁTICAS 1.2007. RESERVA 1. EJERCICIO 2.OPCIÓN B.
+**********
+Error processing details, in 2017 - Integrales.pdf at page 3
+**********
+16 dx
+Calcula j —R——== (sugerencia t=¿/x).
+LX + Yx s
+MATEMÁTICAS 1.2017. JUNIO. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2017 - Integrales.pdf at page 4
+**********
+Considera la función dada por f09=,/3+| x| para x e [-3,3].
+a) Expresa la función f definida a trozos.
+3
+b) Halla J f(x) dx
+MATEMÁTICAS 1.2017. RESERVA 1. EJERCICIO 2. OPCIÓN A.
+**********
+Error processing details, in 2017 - Integrales.pdf at page 8
+**********
+8
+Sea 1=f ta
+02+y/x+1
+a) Expresa l aplicando el cambio de variable t=2+./x+1.
+b) Calcula el valor de I.
+MATEMÁTICAS II.2017. RESERVA 3. EJERCICIO 2. OPCION A.
+**********
+Error processing details, in 2017 - Integrales.pdf at page 9
+**********
+Considera la región limitada por la gráfica de la función dada por f(x)=./2x-2 para x>1,
+la recta y=x-—5 y el eje de abscisas.
+a) Esboza la gráfica de la región dada, hallando los puntos de corte entre la gráfica de f y las
+rectas.
+b) Expresa mediante integrales el área del recinto anterior.
+c) Calcula el área.
+MATEMÁTICAS I1.2017. RESERVA 3. EJERCICIO 2. OPCIÓN B.
+**********
+Error processing details, in 2017 - Integrales.pdf at page 13
+**********
+Considera el recinto del primer cuadrante limitado por el eje OX, la recta y=x,la gráfica
+y=l y la recta x=3.
+x
+a) Haz un esbozo del recinto descrito.
+b) Calcula el área del recinto
+c) Si consideras la gráfica y =— en lugar de y =>, el área del recinto correspondiente ¿será
+x x
+mayor o será menor que la del recinto inicial.?. ¿Por qué?
+MATEMÁTICAS 1.2017. SEPTIEMBRE. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2020 - Integrales.pdf at page 13
+**********
+Considera las funciones f,g: IR > KR definidas por f(x)=|x| y g(x)=x*-2.
+a) (1 punto) Calcula los puntos de corte de las gráficas de f y g. Esboza el recinto que
+determinan.
+b) (15 puntos) Determina el área del recinto anterior.
+MATEMÁTICAS I1.2020. SEPTIEMBRE. EJERCICIO 6
+**********
+Error processing details, in 2021 - Integrales.pdf at page 2
+**********
+Considera la función f :|R—>R definida por f(x)=4x*—x*
+a) Determina los intervalos de crecimiento y de decrecimiento de f.
+b) Esboza la gráfica de f y calcula el área del recinto limitado por dicha gráfica y el eje de
+abscisas.
+MATEMÁTICAS I1.2021. JUNIO. EJERCICIO 3
+**********
+Error processing details, in 2021 - Integrales.pdf at page 3
+**********
+Considera la función F : [0,+00) > R definida por: F(x) =f. (2t + 4/0 dt
+Halla la ecuación de la recta tangente a la gráfica de F en el punto de abscisa x=1.
+MATEMÁTICAS 1.2021. JUNIO. EJERCICIO 4
+**********
+Error processing details, in 2025 - Probabilidad.pdf at page 3
+**********
+Se hace un estudio sobre el café que se consume en la cafetería de una estación. Según el tipo de
+taza tenemos tres opciones: expreso, medio y americano; con porcentajes, respectivamente, de
+29% ,51% y 20% .Por otra parte, también sabemos que el café puede ser de la variedad que tiene
+cafeína o ser descafeinado. En concreto, las tazas de café con cafeína presentan, para cada uno de
+los tipos de taza establecidos antes, los porcentajes 18%, 31% y 11%, respectivamente.
+a) ¿Cuál es la probabilidad de que una persona adquiera un café expreso descafeinado?
+b) Si sabemos que el café es descafeinado, ¿cuál es la probabilidad de que sea un expreso?
+MATEMÁTICAS I1.2025 RESERVA 2. EJERCICIO 7
+**********
+Error processing details, in 2017 - Matrices Y Determinantes.pdf at page 3
+**********
+1.2
+Considera las matrices: A=|2 1
+O 1
+3
+, B=
+C
+11 c
+11)
+-1
+1
+Determina, si existe, la matriz X que verifica que ABX-2C =CX.
+MATEMÁTICAS 1.2017. RESERVA 1. EJERCICIO 3. OPCIÓN B.
+**********
+Error processing details, in 2017 - Matrices Y Determinantes.pdf at page 4
+**********
+2 -1
+Considera la matriz a-( ' 0)
+a) Comprueba que A-A'-2A=I (A' denota la traspuesta de Ae I la matriz identidad).
+b) Calcula A7'.
+c) Determina, si existe, la matriz X que verifica XA+I =3A.
+MATEMÁTICAS 1.2017. RESERVA 3. EJERCICIO 3. OPCIÓN A.
+**********
+Error processing details, in 2021 - Matrices Y Determinantes.pdf at page 2
+**********
+a 2 1
+Considera la matriz A=|b —1 1|,con determinante igual a 5.
+Cc 1 1
+a) Calcula razonadamente el determinante de 2A?;
+la 1 a b e
+31y[a+4 b-2 c+2
+a+l b+1 c+l
+b) Calcula razonadamente los determinantes |2b
+2c Ll
+2
+MATEMÁTICAS 1.2021. RESERVA 1. EJERCICIO 5.
+**********
+Error processing details, in 2021 - Matrices Y Determinantes.pdf at page 3
+**********
+Considera la matriz: A=|m m+l  m
+m m  m+2
+a) ¿Para qué valores de m existe la inversa de la matriz A?. Razona la respuesta.
+1 -1
+b) Para m=1, halla (5 a) .
+MATEMÁTICAS I1.2021. RESERVA 2. EJERCICIO 5
+**********
+Error processing details, in 2021 - Matrices Y Determinantes.pdf at page 4
+**********
+Considera la matriz A= ,con determinante igual a 2.
+a) Calcula razonadamente el determinante de ZA7 A!
+6c 2b 2a 2a —2b
+c b
+b) Calcula razonadamente los determinantes |[3f ee d|y| 2d-2e f e
+9. 2 1 -2 3 2
+MATEMÁTICAS 1.2021. RESERVA 3. EJERCICIO 6.
+**********
+Error processing details, in Tipos ejercicios matrices.pdf at page 2
+**********
+2014 R2
+2017 R3
+2018 S conmutan
+2019 J mix
+**********
+Error processing details, in 2011 - Funciones.pdf at page 3
+**********
+Sea f :[1,+00) > R la función definida por f(x)=YVx—1 . Determina el punto P de la gráfica
+de f que se encuentra a menor distancia del punto A(2,0).¿Cuál es esa distancia?.
+MATEMÁTICAS 1.2011. JUNIO. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2011 - Funciones.pdf at page 6
+**********
+Una ventana normanda consiste en un rectángulo coronado con un semicírculo.
+ÓN
+De entre todas las ventanas normandas de perímetro 10 m, halla las dimensiones del marco de
+la de área máxima.
+MATEMÁTICAS 1.2011. RESERVA 2. EJERCICIO 1. OPCIÓN A.
+**********
+Error processing details, in 2011 - Funciones.pdf at page 12
+**********
+Calcula la base y la altura del triángulo isósceles de perímetro 8 y de área máxima.
+MATEMÁTICAS 1.2011. SEPTIEMBRE. EJERCICIO 1. OPCI
+**********
+Error processing details, in 2011 - Funciones.pdf at page 13
+**********
+3x*+1
+Sea f la función definida por f(x)= 37 para xx%0.
+x
+a) Estudia las asíntotas de la gráfica de la función.
+b) Halla los intervalos de crecimiento y de decrecimiento, y los extremos relativos (abscisas
+donde se obtienen y valores que se alcanzan).
+MATEMÁTICAS 1.2011. SEPTIEMBRE. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2021 - Funciones.pdf at page 4
+**********
+Calcula a, b, c y d sabiendo que la gráfica de la función f:R—=>IR definida por
+fG9)=ax*+bx*+cx+d tiene un punto de inflexión en (0,4) y su recta normal en el punto
+(1,8) es paralela al eje de ordenadas.
+MATEMÁTICAS 1.2021. RESERVA 1. EJERCICIO 1
+**********
+Error processing details, in Tipos ejercicios funciones.pdf at page 2
+**********
+2014JA | 2016JB
+2014R2A | 2016R2A
+2014 R2B Dolor absoluto
+2016SB
+2015 R2B
+2015 R3A
+2015 R4B
+Valor absoluto
+2014 R3B
+2014 R4B
+Extremos absolutos
+Page 2
+**********
+Error processing details, in Tipos ejercicios funciones.pdf at page 3
+**********
+2022 Julio
+2022 R1B
+2017 R4B
+2021 JB
+2021 R3A
+2020 R15
+2020 R2 1
+2021 R4B
+2020JA
+2016 JB
+2016SB
+Parcela junto camino
+2021 R4A 2019SA 2020R31 | 2014R3B
+2020R25 2018 R1 2019 JA
+(valor absoluto) Inscrito func
+2020 S 5 2018 R2A 2018 R1B
+Canaleta
+2019 R1B 2018 RSA 2018 R2B
+Thales
+2018 R4B
+20195B Caja base cuadrada 2018 R3B
+2017 JA
+2018 JB Ventana veneciana
+2017R2B
+2018 R1 B Círculo + cuadrado 2017 JB
+2017 RLA 2017 R3A 2017 R2A
+Cilindro superf
+2017 SA
+2015 R1B Márgenes 2017 R4B
+2016 R1B
+2015 R2A Recorte esquinas 2016 JB
+2015 R4B 2016 R3B
+Valor absoluto Parcela 3 partes 2016 R2A
+2014 R1B 2016 R4 A 2016 SB
+Cilindro superf
+2015 JA
+2014 R4B Caja base cuadrada 2015 R2B
+2015R1A 2015 R3A
+Page 3
+**********
+Error processing details, in Tipos ejercicios funciones.pdf at page 4
+**********
+2014 R3B
+2015SB
+Parcela junto rio
+2014JB
+Cilindro superf
+2014R4A
+Triángulo
+2014SB
+Números reales positivos
+Page 4
+**********
+Error processing details, in 2021 - Geometría.pdf at page 4
+**********
+Considera el punto P =(1,2,6) y el plano r=2x-— y+z=0
+a) Halla las ecuaciones de los planos paralelos a cuya distancia a éste sea y/6 unidades.
+b) Halla el simétrico del punto P respecto al plano Tr .
+MATEMÁTICAS I1.2021. RESERVA 1. EJERCICIO 7
+**********
+Error processing details, in 2025 - Geometría.pdf at page 5
+**********
+a) Calcula el punto simétrico de P(1,0,1) respecto de Tr.
+b) Calcula los planos paralelos a íT y que disten 2 unidades de Tr .
+MATEMÁTICAS I1.2025. RESERVA 1. EJERCICIO 5
+**********
+Error processing details, in 2001 - Probabilidad.pdf at page 2
+**********
+Dos urnas A y B, que contienen bolas de colores, tienen la siguiente composición:
+A: 5 blancas, 3 negras y 2 rojas; B : 4 blancas y 6 negras
+También tenemos un dado que tiene 4 caras marcadas con la letra A y las otras dos con la letra
+B. Tiramos el dado y sacamos una bola al azar de la urna que indica el dado.
+a) ¿Cuál es la probabilidad de que esa bola sea blanca?
+b) ¿Cuál es la probabilidad de que esa bola sea roja?
+c) La bola extraída ha resultado ser blanca, ¿cuál es la probabilidad de que proceda de la urna
+B?
+SOCIALES I1.2001. JUNIO. EJERCICIO 3. PARTE I. OPCIÓN A
+**********
+Error processing details, in 2001 - Probabilidad.pdf at page 4
+**********
+2
+Dado un espacio muestral E se consideran los sucesos A y B, cuyas probabilidades son P(A)= 3
+1
+a) ¿Pueden ser los sucesos A y B incompatibles? ¿Por qué?
+b) Suponiendo que los sucesos A y B son independientes, calcule P(AUB).
+c) Suponiendo que AUB=E, calcule P(ANB).
+SOCIALES I1.2001 RESERVA 1. EJERCICIO 3. PARTE l. OPCIÓN A
+**********
+Error processing details, in 2001 - Probabilidad.pdf at page 5
+**********
+El 35 % de los estudiantes de un centro docente practica el fútbol. El 70 % de los que practican
+el fútbol estudia Matemáticas, así como el 25 % de los que no practican el fútbol. Calcule la
+probabilidad de que al elegir, al azar, un estudiante de ese centro:
+a) Estudie Matemáticas.
+b) Practique el fútbol, sabiendo que no es alumno de Matemáticas.
+SOCIALES I1.2001 RESERVA 1.EJERCICIO 3. PARTE I. OPCIÓN B
+**********
+Error processing details, in 2001 - Probabilidad.pdf at page 9
+**********
+En un cineclub hay 80 películas; 60 son de “acción” y 20 de “terror”. Susana elige una película al
+azar y se la lleva. A continuación Luís elige otra película al azar.
+a) ¿Cuáles la probabilidad de que tanto Susana como Luís elijan películas de acción?
+b) ¿Cuál es la probabilidad de que la película elegida por Luís sea de acción?
+SOCIALES I1.2001. RESERVA 3. EJERCICIO 3. PARTE I. OPCIÓN B
+**********
+Error processing details, in 2002 - Probabilidad.pdf at page 8
+**********
+En un colectivo de personas, el 80 % tiene más de 35 años. De los mayores de 35 años, el 40 %
+son mujeres. De los que no han superado los 35 años, el 45 % son hombres.
+Se elige una persona, al azar, de ese colectivo.
+a) ¿Cuáles la probabilidad de que sea mujer?
+b) ¿Cuál es la probabilidad de que no haya superado los 35 años sabiendo que se ha elegido un
+hombre?
+SOCIALES I1.2002. RESERVA 3. EJERCICIO 3. PARTE I. OPCIÓN A
+**********
+Error processing details, in 2002 - Probabilidad.pdf at page 12
+**********
+El partido A y el partido B concurren a unas elecciones en un municipio donde el 55 % de los
+votantes son mujeres. Se sabe que el 40 % de los hombres votan al partido A y el 50 % al B. El
+60 % de las mujeres votan al partido A y el 20 % al B.El resto de electores no vota.
+a) Halle la probabilidad de que una persona, elegida al azar, no vote.
+b) Sabiendo que una persona, elegida al azar, ha votado al partido A, halle la probabilidad de
+que sea mujer.
+SOCIALES I1.2002. SEPTIEMBRE. EJERCICIO 3. PARTE I. OPCIÓN A
+**********
+Error processing details, in 2002 - Probabilidad.pdf at page 13
+**********
+En una ciudad, el 60 % de los niños usa zapatillas deportivas, el 50 % usa ropa deportiva y el
+20 % usa ambas prendas.
+a) ¿Cuál es la probabilidad de que un niño, elegido al azar, no use ninguna de las dos prendas?
+b) Si un niño usa zapatillas deportivas, ¿cuál es la probabilidad de que no use ropa deportiva?
+SOCIALES 11.2002. SEPTIEMBRE. EJERCICIO 3. PARTE 1. OPCIÓN B
+**********
+Error processing details, in 2003 - Probabilidad.pdf at page 3
+**********
+El 70% de los alumnos de un Instituto son de Bachillerato y el resto de E.S.O. De los alumnos de
+Bachillerato, el 60% estudia más de 3 horas al día, y sólo el 30% de los de E.S.O. estudia más de
+3 horas al día.
+a) Calcule la probabilidad de que un alumno de dicho Instituto, elegido al azar, estudie más de 3
+horas al día.
+b) Sabiendo que un alumno de ese Instituto, elegido al azar, estudia más de 3 horas al día, ¿cuál
+es la probabilidad de que sea de Bachillerato?.
+SOCIALES I1.2003. JUNIO. EJERCICIO 3. PARTE I. OPCIÓN B
+**********
+Error processing details, in 2003 - Probabilidad.pdf at page 4
+**********
+En una residencia hay 212 ancianos de los que 44 tienen afecciones pulmonares. Del total de
+ancianos, 78 son fumadores, y sólo hay 8 que tienen enfermedad de pulmón y no fuman.
+a) ¿Cuál es la probabilidad de que un anciano de esa residencia, elegido al azar, no fume y
+tampoco tenga afección pulmonar?.
+b) ¿Qué porcentaje de enfermos de pulmón son fumadores?.
+SOCIALES II.2003 RESERVA 1. EJERCICIO 3. PARTE I. OPCIÓN A
+**********
+Error processing details, in 2003 - Probabilidad.pdf at page 5
+**********
+Disponemos de dos urnas A y B conteniendo bolas de colores. La urna A tiene 4 bolas blancas y 3
+rojas, y la urna B tiene 5 blancas, 2 rojas y 1 negra. Lanzamos un dado, si sale 1,2,3 6 4
+extraemos una bola de A y si sale 5 ó 6 la extraemos de B.
+a) Calcule la probabilidad de que la bola extraída sea roja.
+b) Calcule la probabilidad de que la bola extraída sea negra.
+c) Sabiendo que la bola extraída ha sido blanca, calcule la probabilidad de que en el dado haya
+salido 5 6 6.
+SOCIALES 1.2003 RESERVA 1. EJERCICIO 3. PARTE I. OPCIÓN B
+**********
+Error processing details, in 2003 - Probabilidad.pdf at page 12
+**********
+Una máquina A fabrica 100 piezas al día, de las cuales un 6% son defectuosas. Otra máquina B
+fabrica 50 piezas al día, con un porcentaje de defectuosas del 2% .
+Mezclamos las piezas fabricadas por ambas máquinas en un día y extraemos una al azar.
+a) ¿Cuál es la probabilidad de que la pieza extraída sea defectuosa?.
+b) Sabiendo que la pieza extraída es defectuosa, ¿cuál es la probabilidad de que la haya
+fabricado la máquina B?.
+SOCIALES I1.2003. SEPTIEMBRE. EJERCICIO 3. PARTE I. OPCIÓN A
+**********
+Error processing details, in 2005 - Probabilidad.pdf at page 4
+**********
+Un estudiante se presenta a un examen en el que debe responder a dos temas, elegidos al azar, de
+un temario de 80, de los que se sabe 60.
+a) ¿Cuáles la probabilidad de que responda correctamente a los dos?
+b) ¿Cuál es la probabilidad de que responda correctamente al menos a uno de los dos?
+SOCIALES 1.2005 RESERVA 1.EJERCICIO 3. PARTE I. OPCIÓN A
+**********
+Error processing details, in 2005 - Probabilidad.pdf at page 13
+**********
+En un determinado curso el 60% de los estudiantes aprueban Economía y el 45% aprueban
+Matemáticas. Se sabe además que la probabilidad de aprobar Economía habiendo aprobado
+**********
+Error processing details, in 2007 - Probabilidad.pdf at page 4
+**********
+Se tienen dos dados, uno (A) con dos caras rojas y cuatro verdes, y otro (B) con dos caras
+verdes y cuatro rojas. Se lanza una moneda; si sale cara se arroja el dado A y si sale cruz el
+dado B.
+a) Halle la probabilidad de obtener una cara de color rojo.
+b) Si sabemos que ha salido una cara de color verde en el dado, ¿cuál es la probabilidad de que
+en la moneda haya salido cara?
+SOCIALES I1.2007. RESERVA 1. EJERCICIO 3. PARTE I. OPCIÓN A.
+**********
+Error processing details, in 2007 - Probabilidad.pdf at page 5
+**********
+En una población, el porcentaje de personas que ven un determinado programa de televisión es
+del 40% . Se sabe que el 60% de las personas que lo ven tiene estudios superiores y que el 30%
+de las personas que no lo ven no tiene estudios superiores.
+a) Calcule la probabilidad de que una persona vea dicho programa y tenga estudios superiores.
+b) Halle la probabilidad de que una persona que tiene estudios superiores vea el citado
+programa.
+SOCIALES II.2007. RESERVA 1. EJERCICIO 3. PARTE I. OPCION B.
+**********
+Error processing details, in 2007 - Probabilidad.pdf at page 6
+**********
+En un espacio muestral se consideran dos sucesos A y B tales que
+PAUB)=1 5 P(AMB)= y PlA/B)=
+3
+Halle la probabilidad del suceso A y la del suceso B.
+SOCIALES I1.2007. RESERVA 2. EJERCICIO 3. PARTE I. OPCIÓN A.
+**********
+Error processing details, in 2007 - Probabilidad.pdf at page 7
+**********
+Un experimento aleatorio consiste en lanzar simultáneamente dos dados con las caras
+numeradas del 1 al 6. Calcule la probabilidad de cada uno de los siguientes sucesos:
+a) Obtener dos unos.
+b) Obtener al menos un dos.
+c) Obtener dos números distintos.
+d) Obtener una suma igual a cuatro.
+SOCIALES I1.2007. RESERVA 2. EJERCICIO 3. PARTE I. OPCIÓN B.
+**********
+Error processing details, in 2007 - Probabilidad.pdf at page 8
+**********
+El 30% de los clientes de una tienda de música solicita la colaboración de los dependientes y el
+20% realiza una compra antes de abandonar la tienda. El 15% de los clientes piden la
+colaboración de los dependientes y hacen una compra.
+a) Calcule la probabilidad de que un cliente ni compre, ni solicite la colaboración de los
+dependientes.
+b) Sabiendo que un cliente ha realizado una compra, ¿cuál es la probabilidad de que no haya
+solicitado colaboración a los dependientes?
+SOCIALES I1.2007. RESERVA 3. EJERCICIO 3. PARTE I. OPCIÓN A.
+**********
+Error processing details, in 2007 - Probabilidad.pdf at page 9
+**********
+En un Instituto se pueden practicar dos deportes: fútbol y baloncesto. Se sabe que el 48% de
+los alumnos practica fútbol pero no baloncesto, que el 15% practica baloncesto pero no fútbol y
+que el 28% no practica ninguno de los dos. Si se toma, al azar, un alumno de ese Instituto,
+calcule la probabilidad de que:
+a) Practique fútbol.
+b) Practique alguno de los dos deportes.
+c) No practique fútbol, sabiendo que practica baloncesto.
+SOCIALES I1.2007. RESERVA 3. EJERCICIO 3. PARTE 1. OPCIÓN B.
+**********
+Error processing details, in 2007 - Probabilidad.pdf at page 10
+**********
+Se lanza una moneda tres veces y se consideran los sucesos:
+A: “Obtener al menos dos veces cara” y B: “Obtener cara en el segundo lanzamiento”.
+a) Describa el espacio muestral asociado al experimento. Calcule p(A) y p(AUB).
+b) Los sucesos A y B, ¿son independientes?, ¿son incompatibles?
+SOCIALES I1.2007. RESERVA 4. EJERCICIO 3. PARTE 1. OPCIÓN A.
+**********
+Error processing details, in 2008 - Probabilidad.pdf at page 4
+**********
+Laura tiene en su monedero 6 monedas francesas, 2 italianas y 4 españolas. Vicente tiene 9
+francesas y 3 italianas. Cada uno saca, al azar, una moneda de su monedero y observa la
+nacionalidad.
+a) Obtenga el espacio muestral asociado al experimento.
+b) ¿Cuál es la probabilidad de que las monedas extraídas no sean de la misma nacionalidad?.
+c) ¿Cuál es la probabilidad de que ninguna de las monedas extraídas sea francesa?.
+SOCIALES I1.2008 RESERVA 1. EJERCICIO 3. PARTE 1. OPCIÓN A
+**********
+Error processing details, in 2008 - Probabilidad.pdf at page 5
+**********
+De los 150 coches de un concesionario, 90 tienen motor diesel y el resto de gasolina. De los
+coches con motor diesel, 72 son nuevos y el resto usados; mientras que de los coches con motor
+de gasolina hay el mismo número de coches nuevos que de usados. Se elige, al azar, un coche de
+dicho concesionario; calcule la probabilidad de que:
+a) Sea nuevo.
+b) Tenga motor diesel, sabiendo que es usado.
+SOCIALES I1.2008 RESERVA 1. EJERCICIO 3. PARTE I. OPCIÓN B
+**********
+Error processing details, in 2008 - Probabilidad.pdf at page 13
+**********
+Se consideran los sucesos A y B.
+a) Exprese, utilizando las operaciones con sucesos, los siguientes sucesos:
+1. Que no ocurra ninguno de los dos.
+2. Que ocurra al menos uno de los dos.
+3. Que ocurra B, pero que no ocurra A.
+b) Sabiendo que p(A)=0'5, p(B)=0'5 y p(A/B)=0'3 halle p(AUB).
+SOCIALES I1.2008 SEPTIEMBRE. EJERCICIO 3. PARTE I. OPCIÓN B
+**********
+Error processing details, in 2010 - Probabilidad.pdf at page 2
+**********
+Un alumno va a la Facultad en autobús el 80% de los días y el resto en su coche. Cuando va en
+autobús llega tarde el 20% de las veces y cuando va en coche llega a tiempo sólo el 10% de las
+veces. Elegido un día cualquiera al azar, determine:
+a) La probabilidad de que llegue a tiempo a clase y haya ido en autobús.
+b) La probabilidad de que llegue tarde a clase.
+c) Si ha llegado a tiempo a clase, ¿cuál es la probabilidad de que no haya ido en autobús?.
+SOCIALES I1.2010. JUNIO. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2011 - Probabilidad.pdf at page 3
+**********
+Un libro tiene cuatro capítulos. El primer capítulo tiene 140 páginas, el segundo 100, el tercero
+150 y el cuarto 50. El 5% de las páginas del primer capítulo, el 4% del segundo y el 2% del
+tercero tienen algún error. Las páginas del cuarto capítulo no tienen errores.
+a) ¿Cuáles la probabilidad de que, al elegir una página al azar, tenga algún error?
+b) Supongamos que elegimos una página al azar y observamos que no tiene ningún error,¿cuál es
+la probabilidad de que sea del segundo capitulo?.
+SOCIALES 11.2011. JUNIO. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2011 - Probabilidad.pdf at page 4
+**********
+Un examen consta de una parte teórica y una parte práctica. La probabilidad de que se apruebe
+la parte teórica es 0.7 y la de que se apruebe la parte práctica es 0.75. Se sabe que el 50% de los
+alumnos ha aprobado ambas.
+a) Calcula la probabilidad de aprobar alguna de las dos partes.
+b) Calcule la probabilidad de aprobar la parte práctica sabiendo que no se ha aprobado la parte
+teórica.
+c) ¿Son independientes los sucesos “aprobar parte teórica” y “aprobar parte práctica?.
+SOCIALES I1.2011. RESERVA 1. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2011 - Probabilidad.pdf at page 5
+**********
+Pedro vive en una ciudad donde el 40% de los días del año hay riesgo de lluvia y el resto no lo
+hay. Cuando hay riesgo de lluvia, Pedro coge el paraguas un 98% de las veces y cuando no lo
+hay, un 5% de las veces. Si se selecciona un día del año al azar,
+a) ¿Cuáles la probabilidad de que Pedro no haya cogido el paraguas?.
+b) ¿Cuál es la probabilidad de que exista riesgo de lluvia, si sabemos que ese día Pedro ha cogido
+el paraguas?.
+SOCIALES 11.2011. RESERVA 1. EJERCICIO 3. OPCION B
+**********
+Error processing details, in 2011 - Probabilidad.pdf at page 6
+**********
+Sean los sucesos, A y B, tales que p(A)=0.5, p(B)=0.4 y p(A/B)=0.5
+a) Halle la probabilidad de que se verifique alguno de los dos sucesos.
+b) Calcule la probabilidad de que no de verifique B si se ha verificado A.
+c) ¿Son independientes los sucesos A y B?. Razone la respuesta.
+SOCIALES II.2011. RESERVA 2. EJERCICIO 3. OPCION A
+**********
+Error processing details, in 2011 - Probabilidad.pdf at page 7
+**********
+Una compañía aseguradora realiza operaciones de seguros médicos y de seguros de vida. El 20%
+de las operaciones corresponde a seguros médicos y el resto a seguros de vida. El porcentaje de
+operaciones en las que no se producen retrasos en los pagos es del 10% en los seguros médicos y
+del 15% en seguros de vida.
+a) Halle el porcentaje de operaciones en las que no se producen retrasos en los pagos.
+b) De las operaciones que han sufrido retrasos en los pagos, ¿qué porcentaje corresponde a los
+seguros de vida?.
+SOCIALES 11.2011. RESERVA 2. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2011 - Probabilidad.pdf at page 8
+**********
+Un jugador lanza a la vez un dado y una moneda
+a) Construya el espacio muestral de este experimento aleatorio.
+b) Determine la probabilidad del suceso A: “El jugador obtiene un número par en el dado y cruz
+en la moneda”.
+c) Si sabemos que en la moneda ha salido cara, ¿cuál es la probabilidad de que en el dado haya
+salido más de 3 puntos?.
+SOCIALES I1.2011. RESERVA 3. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2011 - Probabilidad.pdf at page 9
+**********
+Una bolsa contiene 5 bolas blancas, 3 rojas y 4 negras. Ana y manolo practican el siguiente juego:
+Ana saca una bola, anota su color y la devuelve a la bolsa, a continuación Manolo extrae una
+bola y anota su color. Si las dos bolas extraídas tienen el mismo color gana Ana, si sólo hay una
+bola blanca gana Manolo, y en otro caso hay empate.
+a) Calcule la probabilidad de que gane Ana.
+b) Calcule la probabilidad de que gane Manolo.
+c) Calcule la probabilidad de que haya empate.
+SOCIALES 11.2011. RESERVA 3. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2011 - Probabilidad.pdf at page 11
+**********
+El 30% de los aparatos que llegan a un servicio técnico para ser reparados están en garantía. De
+los que no están en garantía, el 20% ya fueron reparados en otra ocasión y de los que sí lo están,
+solamente un 5% fueron reparados anteriormente. Se elige un aparato al azar en el servicio
+técnico:
+a) ¿Cuáles la probabilidad de que haya sido reparado en otra ocasión?
+b) Si es la primera vez que ha llegado al servicio técnico, ¿cuál es la probabilidad de que esté en
+garantía?.
+SOCIALES I1.2011. RESERVA 4. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2011 - Probabilidad.pdf at page 12
+**********
+En un sistema de alarma, la probabilidad de que haya un incidente es 0.1. Si éste se produce, la
+probabilidad de que la alarma suene es 0.95. La probabilidad de que suene la alarma sin que
+haya incidente es de 0.03.
+a) ¿Cuáles la probabilidad de que suene la alarma?.
+b) Si ha sonado la alarma, calcule la probabilidad de que no haya habido incidente.
+SOCIALES I11.2011. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2011 - Probabilidad.pdf at page 13
+**********
+Sean A y B dos sucesos aleatorios tales que: p(A)=04 ; p(B)=0.5 ; p(ANB)=0.2
+a) Calcule las siguientes probabilidades p[AUB), p(A/B) y p(B/AS)
+b) Razone si A y B son sucesos incompatibles.
+c) Razone si A y B son independientes.
+SOCIALES II1.2011. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2012 - Probabilidad.pdf at page 2
+**********
+Una compañía de seguros ha hecho un seguimiento durante un año a 50.000 coches de la marca
+A, a 20.000 de la marca B y a 30.000 de la C, que tenía asegurados, obteniendo que, de ellos,
+habían tenido accidente 650 coches de la marca A, 200 de la B y 150 de la C. A la vista de estos
+datos:
+a) ¿Cuál de las tres marcas de coches tiene menos proporción de accidentes?.
+b) Si, elegido al azar uno de los coches observados, ha tenido un accidentes, ¿cuál es la
+probabilidad de que sea la marca C?.
+SOCIALES I1.2012. JUNIO. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2012 - Probabilidad.pdf at page 3
+**********
+En una localidad hay solamente dos supermercados A y B. El 58% de los habitantes compra en
+el A, el 35% en el B y el 12% compra en ambos.
+Si se elige un ciudadano al azar, calcule la probabilidad de que:
+a) Compre en algún supermercado.
+b) No compre en ningún supermercado.
+c) Compre solamente en un supermercado.
+d) Compre en el supermercado A, sabiendo que no compra en el B.
+SOCIALES 11.2012. JUNIO. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2012 - Probabilidad.pdf at page 4
+**********
+En un congreso de 200 jóvenes profesionales se pasa una encuesta para conocer los hábitos en
+cuanto a contratar los viajes por internet. Se observa que 120 son hombres y que, de estos, 84
+contratan los viajes por Internet, mientras que 24 de las mujeres no emplean esa vía.
+Elegido un congresista al azar, calcule la probabilidad de que:
+a) No contrate sus viajes por internet.
+b) Use internet para contratar los viajes, si la persona elegida es una mujer.
+c) Sea hombre, sabiendo que contrata sus viajes por internet.
+SOCIALES I1.2012. RESERVA 1. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2012 - Probabilidad.pdf at page 5
+**********
+Lanzamos un dado, si sale 5 o 6 extraemos una bola de la urna A, que contiene 6 bolas blancas y
+4 negras. Si sale otro resultado se extrae una bola de la urna B, que contiene 3 bolas blancas y 7
+negras. Calcule:
+a) La probabilidad de que la bola extraída sea negra.
+b) La probabilidad de que la bola sea negra y de la urna B.
+c) La probabilidad de que haya salido menos de 5 si la bola extraída ha sido blanca.
+SOCIALES I1.2012. RESERVA 1. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2012 - Probabilidad.pdf at page 6
+**********
+Una empresa dispone de tres máquinas A, B y C, que fabrican, respectivamente, el 60% , 30% y
+10% de los artículos que comercializa.
+El 5% de los artículos que fabrica A, el 4% de los de B y el 3% de los de C son defectuosos.
+Elegido, al azar, un artículo de los que se fabrican en la empresa:
+a) ¿Cuáles la probabilidad de que sea defectuoso y esté fabricado por la máquina C?.
+b) ¿Cuál es la probabilidad de que no sea defectuoso?.
+c) Si sabemos que no es defectuoso, ¿cuál es la probabilidad de que proceda de la máquina A?.
+SOCIALES I1.2012. RESERVA 2. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2012 - Probabilidad.pdf at page 7
+**********
+Se sabe que el 90% de los estudiantes del último curso de una Universidad está preocupado por
+sus posibilidades de encontrar trabajo, el 30% está preocupado por sus notas y el 25% por
+ambas cosas.
+a) Si hay 400 alumnos matriculados en el último curso de dicha Universidad, ¿cuántos de ellos no
+están preocupados por ninguna de las dos cosas?.
+b) Si un alumno del último curso, elegido al azar, no está preocupado por encontrar trabajo,
+¿cuál es la probabilidad de que esté preocupado por sus notas?.
+SOCIALES I1.2012. RESERVA 2. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2012 - Probabilidad.pdf at page 9
+**********
+Se sabe que el 44% de la población activa de cierta provincia está formada por mujeres.
+También se sabe que, de ellas, el 25% está en paro y que el 20% de los hombres de la población
+activa también están en paro.
+a) Elegida, al azar, una persona de la población activa de esa provincia, calcule la probabilidad
+de que esté en paro.
+b) Si hemos elegido, al azar, una persona que trabaja, ¿cuál es la probabilidad de que sea
+hombre?.
+SOCIALES I1.2012. RESERVA 3. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2012 - Probabilidad.pdf at page 11
+**********
+Se consideran dos sucesos A y B asociados a un experimento aleatorio. Se sabe que p(A)=0.8,
+p(B)=0.7 y (AUB)=0.94
+a) ¿Son A y B sucesos independientes?.
+b) Calcule p(A/B)
+c) Calcule pACUBS)
+SOCIALES I1.2012. RESERVA 4. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2012 - Probabilidad.pdf at page 12
+**********
+Un pescador tiene tres tipos de carnada de las que sólo una es adecuada para pescar salmón. Si
+utiliza la carnada correcta la probabilidad de que pesque un salmón es , mientras que si usa
+una de las inadecuadas esa probabilidad se reduce a : .
+a) Si elige aleatoriamente la carnada, ¿cuál es la probabilidad de que pesque un salmón?.
+b) Si ha pescado un salmón, ¿cuál es la probabilidad de que lo haya hecho con la carnada
+adecuada?.
+SOCIALES 1.2012. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2013 - Probabilidad.pdf at page 2
+**********
+El 55% de los alumnos de un centro docente utiliza en su desplazamiento transporte público, el
+30% usa vehículo propio y el resto va andando. El 65% de los que utilizan transporte público son
+mujeres, el 70% de los que usan vehículo propio son hombres y el 52% de los que van andando
+son mujeres.
+a) Elegido al azar un alumno de ese centro, calcule la probabilidad de que sea hombre.
+b) Elegido al azar un hombre, alumno de ese centro, ¿cuál es la probabilidad de que vaya
+andando?.
+SOCIALES I1.2013. JUNIO. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2013 - Probabilidad.pdf at page 4
+**********
+Una granja avícola dedicada a la producción de huevos posee un sistema automático de
+clasificación en tres calibres según el peso: grande, mediano y pequeño. Se conoce que el 40% de
+la producción es clasificada como huevas grandes, el 35% como medianos y el 25% restante
+como pequeños. Además, se sabe que este sistema de clasificación produce defectos por rotura en
+el cascarón que dependen del peso. Así, la probabilidad de que un hueva grande sea defectuoso
+por esta razón es del 5%, la de uno mediano del 3% y de un 2% la de uno pequeño. Elegido
+aleatoriamente un huevo
+a) ¿Cuáles la probabilidad de que sea defectuoso?.
+b) Si el huevo es defectuoso, ¿cuál es la probabilidad de que sea grande.
+SOCIALES I1.2013. RESERVA 1. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2013 - Probabilidad.pdf at page 5
+**********
+A la Junta General de Accionistas de una empresa asisten 105 accionistas de los cuales 45 tienen
+menos de 40 años y 18 más de 60 años. Sometida a votación una propuesta, es rechazada por la
+tercera parte de los menores de 40 años, por la tercera parte de los que están entre 40 y 60 años y
+por 4 personas mayores de 60 años; los demás la aceptan.
+a) Calcule la probabilidad de que, elegida una persona al azar, tenga menos de 40 años y haya
+aceptado la propuesta.
+b) La prensa afirmó que la propuesta había sido aceptada por el 80% de los asistentes, ¿es
+correcta la afirmación?
+c) Si una persona escogida al azar ha rechazado la propuesta, ¿qué probabilidad hay de que
+tenga más de 60 años?
+SOCIALES I1.2013. RESERVA 1. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2013 - Probabilidad.pdf at page 6
+**********
+En un experimento aleatorio, la probabilidad de que ocurra un suceso A es 0.68, la de que
+ocurra otro suceso B es 0.2, y la de que no ocurra ninguno de los dos es 0.27. Halle la
+probabilidad de que:
+a) Ocurran los dos a la vez.
+b) Ocurra B pero no A.
+c) Ocurra B, sabiendo que no ha ocurrido A.
+SOCIALES I1.2013 RESERVA 2. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2013 - Probabilidad.pdf at page 8
+**********
+En una urna A hay 10 bolas verdes y 10 rojas, y en otra urna B hay 15 verdes y 5 rojas. Se
+lanza un dado, de forma que si sale múltiplo de 3 se extrae una bola de la urna A y en el resto
+de casos se extrae una bola de la urna B.
+a) Calcule la probabilidad de que la bola extraída sea roja.
+b) Si la bola extraída resulta ser de color verde, ¿cuál es la probabilidad de que proceda de la
+urna B?
+SOCIALES 1.2013 RESERVA 3. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2013 - Probabilidad.pdf at page 9
+**********
+En una empresa, el 65% de sus empleados habla inglés, y de éstos, el 40% habla también
+alemán. De los que no hablan inglés, el 25% habla alemán. Se escoge un empleado al azar:
+a) ¿Cuál es la probabilidad de que hable ambos idiomas?
+b) ¿Cuál es la probabilidad de que hable alemán?
+c) ¿Cuál es la probabilidad de que, sabiendo que habla alemán, hable también inglés?
+SOCIALES 1.2013 RESERVA 3. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2013 - Probabilidad.pdf at page 10
+**********
+Un Centro de Salud propone dos terapias, A y B, para dejar de fumar. De las personas que
+acuden al Centro para dejar de fumar, el 45% elige la terapia A, y el resto la B.
+Después de un año el 70% de los que siguieron la terapia A y el 80% de los que siguieron la B
+no han vuelto a fumar.
+Se elige al azar un usuario del Centro que siguió una de las dos terapias:
+a) Calcule la probabilidad de que después de un año no haya vuelto a fumar.
+b) Si transcurrido un año esa persona sigue sin fumar, calcule la probabilidad de que hubiera
+seguido la terapia A.
+c) Si transcurrido un año esa persona ha vuelto a fumar, calcule la probabilidad de que
+hubiera seguido la terapia A.
+SOCIALES 1.2013 RESERVA 4. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2013 - Probabilidad.pdf at page 13
+**********
+El 50% de los préstamos que concede un banco son para vivienda, el 30% para industria y el
+20% para consumo. No se pagan el 20% de los préstamos para vivienda, el 15% de los préstamos
+para industria y el 70% de los préstamos para consumo.
+a) Si se elige al azar un préstamo, calcule la probabilidad de que se pague.
+b) Se elige un préstamo al azar que resulta impagado, ¿cuál es la probabilidad de que sea un
+préstamo para consumo?
+c) Ante un préstamo impagado el director del banco afirma que es más probable que sea para
+vivienda que para consumo, ¿lleva razón el director?
+SOCIALES 1.2013. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2014 - Probabilidad.pdf at page 3
+**********
+Antonio va de compras dos días de cada cinco. A lo largo del tiempo, ha observado que la fruta
+está de oferta la tercera parte de los días que va de compras y la mitad de los días que no va.
+Elegido un día al azar:
+a) ¿Cuáles la probabilidad de que la fruta esté de oferta ese día?.
+b) Calcule la probabilidad de que ese día Antonio vaya a la compra o la fruta esté de oferta.
+SOCIALES 1.2014. JUNIO. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2015 - Probabilidad.pdf at page 3
+**********
+La proporción de personas de una población que tiene una determinada enfermedad es de 1 por
+cada 500 personas. Se dispone de una prueba para detectar dicha enfermedad. La prueba detecta
+la enfermedad en el 90% de los casos en que la persona está enferma, pero también da como
+enfermas al 5% de las personas sanas.
+a) se elige al azar una persona y se le hace la prueba, ¿Cuál es la probabilidad de que haya sido
+diagnosticada correctamente?
+b) Si la prueba ha diagnosticado que la persona está enferma, ¿cuál es la probabilidad de que
+realmente lo esté?. ¿ Y de que está sana?.
+SOCIALES 1.2015. JUNIO. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2015 - Probabilidad.pdf at page 4
+**********
+a) Un ilusionista tiene seis cartas: cuatro ases y dos reyes. Saca una carta, la enseña al público
+y, sin verla, la vuelve a mezclar con las demás. A continuación saca una segunda carta que
+resulta ser un as. ¿Cuál es la probabilidad de que la primera carta haya sido también un as?
+b) Si el ilusionista no devolviera la primera carta a la baraja y la segunda carta extraída fuera
+un as, ¿cuál es la probabilidad de que la primera carta haya sido también un as?
+SOCIALES II.2015 RESERVA 1 EJERCICIO 3. OPCION A
+**********
+Error processing details, in 2015 - Probabilidad.pdf at page 12
+**********
+Lucía quiere ir de vacaciones a la costa. En su guía de viajes lee que en esa época del año llueve
+dos días a la semana y que hace viento el 25% de los días que llueve y el 40% de los días que no
+llueve. Elegido un día de esa época
+a) ¿Cuál es la probabilidad de que haga viento?.
+b) Si hace viento, ¿cuál es la probabilidad de que esté lloviendo?.
+c) ¿Cuál es la probabilidad de que no llueva y no haga viento?.
+SOCIALES 1.2015. SEPTIEMBRE. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2016 - Probabilidad.pdf at page 2
+**********
+Marta tiene dos trajes rojos, un traje azul y uno blanco. Además, tiene un par de zapatos de
+color rojo, otro de color azul y dos pares blancos. Si decide aleatoriamente qué ponerse,
+determine las probabilidades de los siguientes sucesos:
+a) Llevar un traje rojo y unos zapatos blancos.
+b) No ir toda vestida de blanco.
+c) Calzar zapatos azules o blancos.
+SOCIALES I1.2016. JUNIO. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2016 - Probabilidad.pdf at page 4
+**********
+El 55% de los asistentes a un concierto son menores de 20 años. El 30% de los menores de 20
+años y el 25% de los mayores de esa edad son chicas. Se elige uno de los asistentes al azar
+a) ¿Cuál es la probabilidad de que sea chica?
+b) ¿Cuál es la probabilidad de que sea mayor de 20 años, sabiendo que es una chica?
+c) ¿Cuál es la probabilidad de que sea menor de 20 años, sabiendo que es un chico?
+SOCIALES I1.2016. RESERVA 1. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2016 - Probabilidad.pdf at page 5
+**********
+Disponemos de tres dados. Dos de ellos tienen sus caras numeradas del 1 al 6 y el tercero tiene
+cinco caras numeradas con el 3 y la otra con el 1. Se elige al azar uno de los tres dados y se
+realiza el lanzamiento
+a) Determina la probabilidad de que se obtenga un 3.
+b) Determina la probabilidad de que se obtenga un número par.
+c) Si se ha obtenido un 3, ¿cuál es la probabilidad de que hayamos elegido el tercer dado?
+SOCIALES I1.2016. RESERVA 1. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2017 - Probabilidad.pdf at page 2
+**********
+Se sabe que el 90% de los alumnos de un centro docente está interesado por las redes sociales,
+el 60% está interesado por sus notas y el 55% por ambas cuestiones. Se elige al azar un alumno
+de ese centro.
+a) Calcule la probabilidad de que dicho alumno esté interesado por alguna de las dos cuestiones
+b) Calcule la probabilidad de que esté interesado por sus notas, sabiendo que no está interesado
+por las redes sociales.
+c) Calcule la probabilidad de que no esté interesado por ninguna de estas dos cuestiones.
+SOCIALES I1.2017. JUNIO. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2017 - Probabilidad.pdf at page 3
+**********
+En una ciudad hay dos fábricas de pasta, Fl y F2, que producen dos tipos de productos, A y B,
+que venden a un distribuidor en paquetes de 1 kg. En un mes, la fábrica F1 produce 20000 kg de
+pasta, de los que 12000 son del tipo A y la fábrica F2 produce 25000 kg de pasta de los que 15000
+son del tipo A. Se escoge al azar un paquete del distribuidor.
+a) ¿Cuáles la probabilidad de que sea del tipo B?
+b) Si el paquete elegido resulta der del tipo A, ¿qué es más probable, que proceda de la fábrica
+Fl o que proceda de la F2?
+SOCIALES 1.2017. JUNIO. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2017 - Probabilidad.pdf at page 4
+**********
+En un departamento de una Universidad hay 8 profesores y 14 profesoras. Se quiere constituir
+una comisión formada por 2 miembros del departamento, elegidos al azar.
+a) ¿Cuál es la probabilidad de que sean profesoras?
+b) Calcule la probabilidad de que la comisión esté constituida por un profesor y una profesora.
+c) Halle la probabilidad de que en la comisión no haya ninguna profesora.
+SOCIALES 1.2017 RESERVA 1. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2017 - Probabilidad.pdf at page 5
+**********
+Los alumnos que cursan una asignatura deben realizar dos exámenes: uno teórico y otro
+práctico. El 50 % de los alumnos aprueba los dos exámenes, el 6 % no aprueba ninguno y el
+20 % solo aprueba el teórico. Se elige un alumno al azar.
+a) ¿Cuál es la probabilidad de que apruebe al menos uno de los dos exámenes?
+b) Si ha aprobado el teórico, ¿cuál es la probabilidad de que no apruebe el examen práctico?
+SOCIALES I1.2017 RESERVA 1. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2017 - Probabilidad.pdf at page 7
+**********
+El 10 % de las personas que acuden a un servicio de urgencias lo hace por problemas
+respiratorios, de éstos el 80 % son fumadores, mientras que de los que acuden por otros
+problemas solo el 5 % son fumadores. Se elige, al azar, una persona de las que acuden al
+servicio de urgencias.
+a) ¿Cuál es la probabilidad de que haya acudido por problemas respiratorios y no sea
+fumador?
+b) Si la persona elegida es fumadora, ¿cuál es la probabilidad de que haya acudido por
+problemas que no son respiratorios?
+SOCIALES 1.2017 RESERVA 2. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2017 - Probabilidad.pdf at page 8
+**********
+Sean A, B y C tres sucesos de los que se sabe que A y B son independientes, A y C son
+incompatibles, P(A)=0.4, P(ANB)=0.1 y P(C)=02.
+Calcule las probabilidades de los siguientes sucesos:
+a) Que suceda A si no sucede B.
+b) Que no suceda ni Ani C.
+c) Que si no sucede B tampoco suceda A.
+SOCIALES I1.2017 RESERVA 3. EJERCICIO 3. OPCIÓN A
+**********
+Error processing details, in 2017 - Probabilidad.pdf at page 9
+**********
+Para superar una asignatura un estudiante hace un examen teórico y otro práctico. La
+probabilidad de que apruebe el examen teórico es 0.8, la de que apruebe el examen práctico es
+0.6 y la de que apruebe ambos es 0.5.
+a) ¿Cuál es la probabilidad de que apruebe al menos uno de los dos exámenes?
+b) ¿Cuál es la probabilidad de que apruebe el examen práctico en caso de no haber aprobado el
+examen teórico?
+c) ¿Son independientes los sucesos “aprobar el examen teórico” y “aprobar el examen
+práctico”?
+SOCIALES I1.2017 RESERVA 3. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2017 - Probabilidad.pdf at page 11
+**********
+A una asamblea en la Universidad asisten 420 alumnos de los cuales 180 son de Empresariales,
+72 de Relaciones Laborales y el resto de Derecho. Un tercio de los alumnos de Empresariales,
+dos tercios de los de Derecho y 16 alumnos de Relaciones Laborales votan NO a la huelga. El
+resto ha votado SÍ.
+a) Calcule la probabilidad de que elegido un alumno al azar, sea de Empresariales y haya
+votado SÍ a la huelga.
+b) ¿Cuál es la probabilidad de que elegido un alumno al azar haya votado SÍ a la huelga?
+c) Si elegido un alumno al azar, resulta que ha votado NO a la huelga, ¿cuál es la probabilidad
+de que sea de Relaciones Laborales?
+SOCIALES 1.2017 RESERVA 4. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2017 - Probabilidad.pdf at page 13
+**********
+Una urna contiene 5 bolas rojas y 3 verdes. Se extrae una bola y se reemplaza por dos bolas del
+otro color. A continuación se extrae una segunda bola.
+a) Calcule la probabilidad de que la segunda bola extraída sea verde.
+b) Halle la probabilidad de que la primera haya sido roja, sabiendo que la segunda también ha
+sido roja.
+SOCIALES 1.2017. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2018 - Probabilidad.pdf at page 2
+**********
+En una determinada población residen 5000 personas en el centro y 10000 en la periferia. Se
+sabe que el 95% de los residentes en el centro y que el 20% de los que viven en la periferia
+opina que el Ayuntamiento debería restringir el acceso de vehículos privados al centro urbano.
+Se elige al azar un residente de la población.
+a) ¿Cuál es la probabilidad de que esté a favor de restringir el acceso de vehículos privados al
+centro de la ciudad?
+b) ¿Cuál es la probabilidad de que de que resida en el centro y esté a favor de la restricción de
+acceso?
+c) Si la persona elegida opina que se debería restringir el acceso, ¿cuál es la probabilidad de
+que de que resida en el centro de la ciudad?
+SOCIALES 1.2018 JUNIO. EJERCICIO 3 OPCIÓN A
+**********
+Error processing details, in 2018 - Probabilidad.pdf at page 4
+**********
+El 80% del alumnado de una determinada universidad accede a los estudios que marca como
+primera opción. De ellos, el 75% termina el Grado, mientras que sólo el 40% de los que
+acceden a estudios que no han marcado como primera opción termina el Grado. Se elige un
+alumno al azar de esa universidad.
+a) Calcule la probabilidad de que no haya terminado el grado.
+b) Calcule la probabilidad de que no accediera a los estudios marcados como primera opción,
+sabiendo que no ha terminado el grado.
+SOCIALES 1.2018 RESERVA 1. EJERCICIO 3 OPCIÓN A
+**********
+Error processing details, in 2018 - Probabilidad.pdf at page 5
+**********
+Una caja contiene 3 bolas negras, 2 blancas y 1 roja. Se realiza el siguiente experimento
+aleatorio: “Extraer de esa caja dos bolas al azar, una a continuación de la otra sin reposición y
+anotar el color de las bolas en el orden en que han sido extraídas”.
+a) Describa el espacio muestral asociado a este experimento aleatorio.
+b) Indique la probabilidad de cada uno de los sucesos elementales del espacio muestral.
+SOCIALES 11.2018 RESERVA 1. EJERCICIO 3 OPCIÓN B
+**********
+Error processing details, in 2018 - Probabilidad.pdf at page 6
+**********
+En un centro de enseñanza secundaria el 48% de los estudiantes son chicos. El 85% de los
+chicos del centro y el 82% de las chicas supera todas las asignaturas. Se elige al azar un
+estudiante del centro.
+a) ¿Cuál es la probabilidad de que supere todas las asignaturas?
+b) Si ha superado todas las asignaturas, ¿cuál es la probabilidad de que sea una chica?
+SOCIALES I11.2018 RESERVA 2. EJERCICIO 3 OPCIÓN A
+**********
+Error processing details, in 2018 - Probabilidad.pdf at page 8
+**********
+En un polideportivo municipal hay inscritos 520 usuarios de los que 220 son niños, 208 son
+adultos menores de 60 años y el resto adultos mayores de 60 años. De los inscritos, 1/5 de los
+niños, el 75% de los adultos menores de 60 años y 23 adultos mayores de 60 años utilizan las
+duchas normalmente. Se elige un usuario al azar.
+a) Calcule la probabilidad de que se duche en las instalaciones del polideportivo.
+b) Calcule la probabilidad de que sea adulto menor de 60 años y utilice las duchas.
+c) Sabiendo que utiliza las duchas, halle la probabilidad de que sea un niño.
+SOCIALES 1.2018 RESERVA 3. EJERCICIO 3 OPCIÓN A
+**********
+Error processing details, in 2018 - Probabilidad.pdf at page 9
+**********
+Una almazara recibe cajas de aceitunas de dos productoras, A y B, que cultivan dos variedades,
+picual y arbequina. El 40% proviene de la productora A, de las cuales el 60% es de la variedad
+picual. De las que provienen de la productora B, el 30% es de la variedad arbequina. Se elige
+una caja de aceitunas al azar.
+a) ¿Cuál es la probabilidad de que sea de la variedad picual?
+b) Si se sabe que es de la variedad picual, ¿cuál es la probabilidad de que provenga de la
+productora A?
+c) Calcule la probabilidad de que sea de la productora A o de la variedad picual.
+SOCIALES I1.2018 RESERVA 3. EJERCICIO 3 OPCIÓN B
+**********
+Error processing details, in 2018 - Probabilidad.pdf at page 10
+**********
+Se ha realizado un referéndum en el que se ha convocado a la ciudadanía a expresar con “SÍ”
+o con “NO” su opinión sobre cierta cuestión. En una determinada mesa electoral hay tres urnas
+que contienen las siguientes papeletas: la urna A tiene 200 papeletas con “SÍ” y 300 con “NO”,
+la urna B, 500 “SÍ” y 400 “NO” y la urna C contiene 200 “SÍ” y 100 “NO”. Se elige una urna al
+azar y de ella se extrae aleatoriamente una papeleta.
+a) Calcule la probabilidad de que sea un “SÍ”.
+b) Si la papeleta extraída es “NO”, calcule la probabilidad de que haya sido extraída de la urna
+A.
+SOCIALES I1.2018 RESERVA 4. EJERCICIO 3 OPCIÓN A
+**********
+Error processing details, in 2018 - Probabilidad.pdf at page 11
+**********
+En una concentración de 250 deportistas hay 120 que juegan al fútbol, 60 que juegan al tenis y
+70 que juegan al baloncesto. El 75% de los que juegan al fútbol, el 65% de los que juegan al
+tenis y el 60% de los que juegan al baloncesto son además aficionados al ciclismo. Se selecciona
+al azar uno de los deportistas.
+a) ¿Cuál es la probabilidad de que sea aficionado al ciclismo?
+b) Si es aficionado al ciclismo, ¿cuál es la probabilidad de que juegue al tenis?
+SOCIALES I1.2018 RESERVA 4. EJERCICIO 3 OPCIÓN B
+**********
+Error processing details, in 2018 - Probabilidad.pdf at page 13
+**********
+Un hotel dispone de tras lavadoras industriales L,, L, y L, para el servicio de lavandería. El
+50% de los lavados los realiza L,,el 30% los hace L, y el resto L,.La lavadora L, produce un
+5% de lavados defectuosos, L, produce un 15% y L, un 20%. Se elige al azar un lavado del
+hotel.
+a) Calcule la probabilidad de que no sea defectuoso.
+b) Calcule la probabilidad de que el lavado haya sido realizado por L,, sabiendo que ha sido
+defectuoso.
+SOCIALES 1.2018. SEPTIEMBRE. EJERCICIO 3. OPCIÓN B
+**********
+Error processing details, in 2019 - Probabilidad.pdf at page 2
+**********
+El 65% de los turistas que visitan una provincia elige alojamientos en la capital y el resto en
+zonas rurales. Además, el 75% de los turistas que se hospedan en la capital y el 15% de los que
+se hospedan en zonas rurales, lo hacen en hoteles, mientras que el resto lo hace en
+apartamentos turísticos. Se elige al azar un turista de los que se han alojado en esa provincia.
+a) ¿Cuál es la probabilidad de que se haya hospedado en un hotel?
+b) Si se sabe que se ha hospedado en un apartamento turístico, ¿cuál es la probabilidad de que
+el apartamento esté en zonas rurales?
+SOCIALES I1.2019 JUNIO. EJERCICIO 3 OPCIÓN A
+**********
+Error processing details, in 2019 - Probabilidad.pdf at page 6
+**********
+En una localidad andaluza hay tres institutos de ESO. De los 500 estudiantes que cursan lo de
+ESO en dicha localidad, 250 están matriculados en el instituto A, 150 en el B y el resto están
+matriculados en el instituto C. Se sabe que han superado la materia de Matemáticas el 70% del
+alumnado de lo de ESO matriculado en el instituto A, el 68% de B y el 73% de C. Se elige al azar
+un estudiante de lo de ESO de la citada localidad .
+a) Calcule la probabilidad de que no haya superado Matemáticas.
+b) Calcule la probabilidad de que esté matriculado en el instituto A, sabiendo que ha superado
+Matemáticas.
+**********
+Error processing details, in 2021 - Probabilidad.pdf at page 2
+**********
+Se desea probar la eficacia de dos tipos de vacunas, A y B, contra un virus determinado. Para
+ello, se seleccionan 5000 voluntarios sin anticuerpos para este virus, a los que se les administra
+una de las vacunas o un placebo, resultando que 3000 reciben la vacuna A, 1500la vacuna B y el
+resto el placebo. Se comprueba que el 90% de los vacunados con la A y el 95% de los
+vacunados con la B, generan anticuerpos, no generando anticuerpos los que han recibido el
+placebo. Se selecciona uno de esos voluntarios al azar.
+a) ¿Cuál es la probabilidad de que haya generado anticuerpos?.
+b) Si dicho voluntario no ha generado anticuerpos, ¿qué probabilidad hay de que se le haya
+administrado placebo?.
+SOCIALES I1.2021 JUNIO. EJERCICIO C5
+**********
+Error processing details, in 2021 - Probabilidad.pdf at page 3
+**********
+De las compras realizadas en el último periodo de rebajas del pasado año, el 55% se dedicaron
+a productos electrónicos, el 72% se hicieron a través de internet y, de las compras que se
+hicieron por internet, el 64% fueron de productos electrónicos. Se elige una compra al azar.
+a) Calcule la probabilidad de que haya sido de productos electrónicos y se haya realizado por
+internet.
+b) Calcule la probabilidad de que la compra se haya realizado por internet o que se hayan
+comprado productos electrónicos.
+c) Calcule la probabilidad de que sabiendo que no se compraron productos electrónicos, la
+compra no se hiciera a través de internet.
+SOCIALES II.2021 JUNIO. EJERCICIO C6
+**********
+Error processing details, in 2021 - Probabilidad.pdf at page 12
+**********
+En una población, se sabe que el 15% de las personas padece una determinada enfermedad. Si
+la persona está enferma, un test da positivo en el 92% de los casos, mientras que si la persona
+está sana, el test da positivo en el 4% de los casos (falso positivo). Se elige una persona al azar
+de esa población.
+a) Calcule la probabilidad de que, habiendo dado positivo el test, la persona está enferma.
+b) Calcule la probabilidad de que la persona esté enferma y el test salga negativo.
+c) Calcule la probabilidad de que saliendo el test negativo, la persona esté enferma
+SOCIALES 11.2021. JULIO. EJERCICIO CS
+**********
+Error processing details, in 2021 - Probabilidad.pdf at page 13
+**********
+En una comunidad de vecinos, el 90% de sus miembros tiene vehículo propio, el 40% hace uso
+del transporte público y u 3% ni tiene vehículo propio ni usa el transporte público. Se elige al
+azar un miembro de esa comunidad.
+a) Calcule la probabilidad de que tenga vehículo propio o use el transporte público.
+b) Calcule la probabilidad de que use el transporte público y no tenga vehículo propio.
+c) Calcule la probabilidad de que use el transporte público, sabiendo que no tiene vehículo
+propio.
+SOCIALES II1.2021 JULIO. EJERCICIO C6
+**********
+Error processing details, in 2023 - Probabilidad.pdf at page 4
+**********
+Una empresa de transporte dispone de tres tipos de camiones, A, B y C. El 30% de los
+transportes son realizados por camiones del tipo A, el 20% por camiones de tipo B y el resto
+por camiones de tipo C. Se sabe que los transportes tienen una probabilidad de 002 de sufrir
+algún tipo de incidencia si son realizados en camiones de tipo A, de 001 si son realizados en
+camiones de tipo B y de 005 si son realizados en camiones de tipo C. Se elige un transporte de
+esta empresa al azar.
+a) Calcule la probabilidad de que no haya sufrido ningún tipo de incidencia.
+b) Calcule la probabilidad de que lo haya realizado un camión de tipo C si se sabe que sufrió
+algún tipo de incidencia.
+c) Si además se conoce que el 40% de las incidencias sufridas por los camiones de tipo A fueron
+debidas a la lluvia, calcule la probabilidad de que el transporte haya sido realizado por un
+camión de tipo A, haya sufrido incidencia y también esta sea debida a la lluvia.
+SOCIALES 11.2023. RESERVA 1. EJERCICIO C5
+**********
+Error processing details, in 2023 - Probabilidad.pdf at page 5
+**********
+Una tienda vende caramelos con sabor a frutas (naranja ó limón) y a menta. El 60% son
+azucarados y de estos el 25% son de limón. De los no azucarados, el 40% son de naranja, el
+30% son de limón y el resto de menta. Además, el 40% de todos los caramelos son de naranja.
+Se escoge un caramelo al azar de esa tienda.
+a) Calcule la probabilidad de que sea de naranja sabiendo que es azucarado.
+b) Razone si es más probable que sea de sabor a frutas o a menta.
+SOCIALES I1.2023. RESERVA 1. EJERCICIO C6
+**********
+Error processing details, in 2023 - Probabilidad.pdf at page 8
+**********
+Durante la pasada temporada, una tenista ganó el 90% de los partidos que jugó sobre tierra y
+la mitad cuando lo hizo sobre otro tipo de superficie. De los 40 partidos que jugó la temporada
+pasada, 25 lo hizo sobre tierra. Elegido al azar un partido de la temporada pasada de esta
+tenista, halle la probabilidad de que:
+a) Ganase el partido.
+b) No ganase sabiendo que jugó sobre tierra.
+c) Jugase sobre tierra sabiendo que ganó.
+SOCIALES I1.2023. RESERVA 3. EJERCICIO C5
+**********
+Error processing details, in 2025 - Probabilidad.pdf at page 8
+**********
+Matemáticas y el 30% aprueba ambas asignaturas. Si se elige un alumno al azar:
+**********
+Error processing details, in 2001 - Programación Lineal.pdf at page 4
+**********
+x+y
+xy
++2y
+x 2
+a) Dibuje la región factible determinada por dichas restricciones. b) Calcule los vértices de
+dicha región. c) Obtenga los puntos en los que la función objetivo F (x,y)=x+2y presenta el
+Sea el conjunto de restricciones siguiente:
+máximo y el mínimo.
+SOCIALES I1.2001 RESERVA 2. EJERCICIO 1 OPCIÓN B.
+**********
+Error processing details, in 2001 - Programación Lineal.pdf at page 5
+**********
+Represente gráficamente el recinto definido por el siguiente sistema de inecuaciones:
+2x+ y 18
+2x+3y 26
+x+y 16
+x20 ; y20
+a) Calcule los vértices de ese recinto. b) Obtenga en dicho recinto el valor máximo y el mínimo
+de la función F(x, y) =5x+3 y . Diga en que puntos se alcanzan.
+SOCIALES 1.2001 RESERVA 3. EJERCICIO 1 OPCIÓN B.
+**********
+Error processing details, in 2001 - Programación Lineal.pdf at page 6
+**********
+Se quiere organizar un puente aéreo entre dos ciudades, con plazas suficientes de pasaje y
+carga, para transportar 1600 personas y 96 toneladas de equipaje. Los aviones disponibles son
+de dos tipos: 11 del tipo A y 8 del tipo B. La contratación de un avión del tipo A cuesta 24.000 €
+y puede transportar 200 personas y 6 toneladas de equipaje; la contratación de uno del tipo B
+cuesta 6.000 € y puede transportar 100 personas y 15 toneladas de equipaje. ¿Cuántos aviones
+de cada tipo deben utilizarse para que el coste sea mínimo?.
+SOCIALES IH1.2001 RESERVA 4. EJERCICIO 1 OPCIÓN A.
+**********
+Error processing details, in 2001 - Programación Lineal.pdf at page 7
+**********
+Cierta sala de espectáculos tiene una capacidad máxima de 1500 personas, entre adultos y
+niños; el número de niños asistentes no puede superar los 600. El precio de la entrada a una
+sesión de un adulto es de 5 €, mientras que la de un niño es de un 40% menos. El número de
+adultos no puede superar al doble del número de niños.
+Cumpliendo las condiciones anteriores, ¿cuál es la cantidad máxima que se puede recaudar por
+la venta de entradas? ¿Cuántas de las entradas serán de niños?.
+SOCIALES 1.2001 SEPTIEMBRE.EJERCICIO 1 OPCIÓN B.
+**********
+Error processing details, in 2002 - Programación Lineal.pdf at page 4
+**********
+Una empresa pastelera dispone semanalmente de 160 kg de azúcar y de 240 kg de almendra
+para hacer tortas de almendra y tabletas de turrón.
+Se necesitan 150 g de almendra y 50 g de azúcar para hacer una torta de almendra y 100 g de
+almendra y 100 g de azúcar para cada tableta de turrón. El beneficio neto por la venta de cada
+torta es 1?75 euros, y por cada tableta de turrón es de 1 euro.
+Determine cuántas tortas de almendra y cuántas tabletas de turrón han de elaborarse para
+obtener la máxima ganancia. ¿Cuál es el beneficio máximo semanal?.
+SOCIALES I1.2002 RESERVA 2. EJERCICIO 1 OPCIÓN B.
+**********
+Error processing details, in 2002 - Programación Lineal.pdf at page 6
+**********
+Una persona desea adelgazar. En la farmacia le ofrecen dos compuestos A y B para que tome
+una mezcla de ambos en la comida, con las siguientes condiciones:
+No debe tomar más de 150 g de la mezcla, ni menos de 50 g.
+La cantidad de A debe ser mayor o igual que la de B.
+No debe incluir más de 100 g del compuesto A.
+Se sabe que cada 100 g de A contienen 30 mg de vitaminas y cada 100 g de B contienen 20 mg
+de vitaminas.
+a) Formule matemáticamente el conjunto de restricciones, dibuje la región factible y determine
+sus vértices.
+b) ¿Cuántos gramos debe tomar de cada compuesto para obtener el preparado más rico en
+vitaminas?
+SOCIALES I1.2002 RESERVA 4. EJERCICIO 1 OPCIÓN B.
+**********
+Error processing details, in 2002 - Programación Lineal.pdf at page 7
+**********
+Una fábrica produce dos tipos de juguetes, muñecas y coches teledirigidos. La fábrica puede
+producir, como máximo, 200 muñecas y 300 coches. La empresa dispone de 1800 horas de
+trabajo para fabricar los juguetes y sabe que la producción de cada muñeca necesita 3 horas de
+trabajo y reporta un beneficio de 10 euros, mientras que la de cada coche necesita 6 horas de
+trabajo y reporta un beneficio de 15 euros.
+Calcule el número de muñecas y de coches que han de fabricarse para que el beneficio global
+de la producción sea máximo y obtenga dicho beneficio.
+SOCIALES 1.2002 SEPTIEMBRE.EJERCICIO 1 OPCIÓN B.
+**********
+Error processing details, in 2003 - Programación Lineal.pdf at page 2
+**********
+=5x+3y<2
+Sea el siguiente sistema de inecuaciones: 4 —x+2y>6
+2x4+3y<37
+a) Represente el conjunto solución y determine sus vértices.
+b) Halle el punto del recinto anterior en el cual la función F(x, y) =-2x+5y alcanza su valor
+máximo.
+SOCIALES I1.2003 JUNIO. EJERCICIO 1 OPCIÓN A
+**********
+Error processing details, in 2003 - Programación Lineal.pdf at page 3
+**********
+a) Represente gráficamente la región del plano delimitada por las siguientes inecuaciones:
+3H 3 y<x; x<2.Determine sus vértices.
+3
+b) Calcule los valores máximo y mínimo de la función F(x,y)=-x+2y-3 en la región
+anterior e indique para qué valores se alcanzan.
+SOCIALES 1.2003 RESERVA 1. EJERCICIO 1 OPCIÓN A.
+**********
+Error processing details, in 2003 - Programación Lineal.pdf at page 4
+**********
+Una piscifactoría vende gambas y langostinos a 10 y 15 € el Kg, respectivamente. La
+producción máxima mensual es de 1 Tm de cada producto y la producción mínima mensual es
+de 100 Kg de cada uno.
+Si la producción total es, a lo sumo, de 1700 Kg al mes, ¿cuál es la producción que maximiza los
+ingresos mensuales?. Calcule estos ingresos máximos.
+SOCIALES 1.2003 RESERVA 2. EJERCICIO 1 OPCIÓN A.
+**********
+Error processing details, in 2003 - Programación Lineal.pdf at page 5
+**********
+a) Represente gráficamente la región del plano delimitada por las siguientes inecuaciones:
+x+2y>80; 3x+2y>160; x+ y<70 y determine sus vértices.
+b) Calcule el máximo y el mínimo de la función F(x,y)=9x+8y-5 en la región anterior e
+indique para qué valores se alcanzan.
+SOCIALES I1.2003 RESERVA 3. EJERCICIO 1 OPCIÓN B.
+**********
+Error processing details, in 2003 - Programación Lineal.pdf at page 7
+**********
+Una empresa gana 150 € por cada tonelada de escayola producida y 100 € por cada tonelada de
+yeso.
+La producción diaria debe ser como mínimo de 30 Tm de escayola y 30 Tm de yeso. La
+cantidad de yeso no puede superar en más de 60 Tm a la de escayola. El triple de la cantidad de
+escayola, más la cantidad de yeso, no puede superar 420 Tm. Calcule la cantidad diaria que
+debe producirse de cada material, para obtener la máxima ganancia y determine dicha
+ganancia.
+SOCIALES 1.2003 SEPTIEMBRE.EJERCICIO 1 OPCIÓN B.
+**********
+Error processing details, in 2005 - Programación Lineal.pdf at page 3
+**********
+a) Dibuje el recinto definido por las siguientes inecuaciones: x— y<1;x+2y>7;x>0;y<5
+b) Determine los vértices de este recinto.
+c) ¿Cuáles son los valores máximo y mínimo de la función objetivo F(x, y)=2x+4y-5 y en
+qué puntos alcanza dichos valores?
+SOCIALES I1.2005 RESERVA 1. EJERCICIO 1 OPCION B.
+**********
+Error processing details, in 2005 - Programación Lineal.pdf at page 4
+**********
+a) Represente la región definida por las siguientes inecuaciones y calcule sus vértices:
+x+2y>6;x<10-2y:%4+%>1;x>0
+E
+b) Calcule el máximo y el mínimo de la función F(x, y)=4-3x-—6y en la región anterior e
+indique en qué puntos se alcanzan.
+SOCIALES H1.2005 RESERVA 2. EJERCICIO 1 OPCIÓN A.
+**********
+Error processing details, in 2005 - Programación Lineal.pdf at page 5
+**********
+El estadio del Mediterráneo, construido para la celebración de los “Juegos Mediterráneos
+Almería 2005”, tiene una capacidad de 20000 espectadores.
+Para la asistencia a estos juegos se han establecido las siguientes normas:
+El número de adultos no debe superar al doble del número de niños; el número de adultos
+menos el número de niños no será superior a 5000.
+Si el precio de la entrada de niño es de 10 euros y la de adulto 15 euros ¿cuál es la composición
+de espectadores que proporciona mayores ingresos? ¿A cuánto ascenderán esos ingresos?
+SOCIALES I1.2005 RESERVA 3. EJERCICIO 1 OPCIÓN B.
+**********
+Error processing details, in 2005 - Programación Lineal.pdf at page 6
+**********
+Una empresa monta dos tipos de ordenadores: fijos y portátiles. La empresa puede montar
+como máximo 10 fijos y 15 portátiles a la semana, y dispone de 160 horas de trabajo a la
+semana. Se sabe que el montaje de un fijo requiere 4 horas de trabajo, y reporta un beneficio
+de 100 euros, mientras que cada portátil necesita 10 horas de trabajo y genera un beneficio de
+150 euros.
+Calcule el número de ordenadores de cada tipo que deben montarse semanalmente para que el
+beneficio sea máximo, y obtenga dicho beneficio.
+SOCIALES IH1.2005 RESERVA 4. EJERCICIO 1 OPCIÓN A.
+**********
+Error processing details, in 2005 - Programación Lineal.pdf at page 7
+**********
+Sea el siguiente sistema de inecuaciones: x+ y <600; x<500; y <3x;x>0;y>0
+a) Represente gráficamente el conjunto de soluciones del sistema y calcule sus vértices.
+b) Halle el punto del recinto anterior en el que la función F(x, y)=38x+27 y alcanza su valor
+máximo.
+SOCIALES 1.2005 SEPTIEMBRE.EJERCICIO 1 OPCIÓN B.
+**********
+Error processing details, in 2006 - Programación Lineal.pdf at page 4
+**********
+Un laboratorio farmacéutico vende dos preparados, A y B,a razón de 40 y 20 euros el kg,
+respectivamente. Su producción máxima es de 1000 kg de cada preparado. Si su producción
+total no puede superar los 1700 kg ¿cuál es la producción que maximiza sus ingresos? Calcule
+dichos ingresos máximos.
+SOCIALES I1.2006 RESERVA 2. EJERCICIO 1 OPCIÓN B
+**********
+Error processing details, in 2006 - Programación Lineal.pdf at page 5
+**********
+Sea la región definida por las siguientes inecuaciones:
+Sal :=x+2y>0; y<2
+2
+a) Represente gráficamente dicha región y calcule sus vértices.
+b) Determine en qué puntos la función F(x,y)=3x-—6y+4 alcanza sus valores extremos y
+cuáles son éstos.
+SOCIALES IH1.2006 RESERVA 3. EJERCICIO 1 OPCIÓN A
+**********
+Error processing details, in 2007 - Programación Lineal.pdf at page 7
+**********
+De un problema de programación lineal se deducen las siguientes restricciones:
+10+ y
+4x+3y>60 ; y<30; x<
+¡xX>20; y>0
+a) Represente gráficamente la región factible del problema y calcule sus vértices.
+b) Maximice en esa región factible la función objetivo F(x, y)=x+3y.
+c) ¿Pertenece el punto (11,10) a la región factible?.
+SOCIALES 1.2007 SEPTIEMBRE. EJERCICIO 1 OPCIÓN A
+**********
+Error processing details, in 2008 - Programación Lineal.pdf at page 3
+**********
+Un pastelero dispone de 150 kg de harina, 22 kg de azúcar y 26 kg de mantequilla para hacer
+dos tipos de tartas, A y B. Para hacer una hornada de tartas del tipo A se necesitan 3 kg de
+harina, 1 kg de azúcar y 1 kg de mantequilla, mientras que para hacer una hornada de tartas
+del tipo B se necesitan 6 kg de harina, 0.5 kg de azúcar y 1 kg de mantequilla. Sabiendo que el
+beneficio que se obtiene al vender una hornada del tipo A es de 20 € y de 30 € al vender una
+hornada del tipo B, determine cuántas hornadas de cada tipo debe hacer y vender para
+maximizar sus beneficios.
+SOCIALES IH1.2008 RESERVA 1. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2008 - Programación Lineal.pdf at page 5
+**********
+De las restricciones que deben cumplir las variables x e y en un problema de programación
+lineal se deduce el siguiente conjunto de inecuaciones:
+2y-xS8; x+y213; y+4x<49; x>0; y>0
+a) Represente gráficamente el recinto determinado por estas inecuaciones.
+b) Determine los vértices del recinto.
+c) Obtenga los valores extremos de la función F(x, y) =3x-—4y+12 en ese recinto e indique en
+qué punto o puntos se alcanza cada extremo.
+SOCIALES 1.2008 RESERVA 3. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2008 - Programación Lineal.pdf at page 7
+**********
+Un nutricionista informa a un individuo que, en cualquier tratamiento que siga, no debe
+ingerir diariamente más de 240 mg de hierro ni más de 200 mg de vitamina B. Para ello están
+disponibles píldoras de dos marcas, P y Q. Cada píldora de la marca P contiene 40 mg de
+hierro y 10 mg de vitamina B, y cuesta 6 céntimos de euro; cada píldora de la marca Q contiene
+10 mg de hierro y 20 mg de vitamina B, y cuesta 8 céntimos de euro. Entre los distintos
+tratamientos, ¿cuál sería el de máximo coste diario?
+SOCIALES I1.2008 SEPTIEMBRE. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2013 - Programación Lineal.pdf at page 4
+**********
+Un fabricante elabora dos tipos de anillos a base de oro y plata. Cada anillo del primer tipo
+precisa 4 g de oro y 2 de plata, mientras que cada uno del segundo necesita 3 g de oro y 1 de
+plata. Sabiendo que dispone de 48 g de oro y 20 de plata y que los precios de venta de cada tipo
+de anillo son 150 euros el primero y 100 euros el segundo, ¿cuántos anillos de cada tipo tendría
+que producir para obtener los ingresos máximos? ¿A cuánto ascenderían estos ingresos?
+SOCIALES 1.2013 RESERVA 2. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2013 - Programación Lineal.pdf at page 5
+**********
+En un problema de programación lineal, la región factible es la región acotada cuyos vértices
+son  A(2,-1), B(=1,2), C(1,4) y D(5,0). La función objetivo es la función
+f(x, y)=2x+3y+k, cuyo valor máximo, en dicha región, es igual a 19. Calcule el valor de k e
+indique dónde se alcanza el máximo y dónde el mínimo.
+SOCIALES I1.2013 RESERVA 2. EJERCICIO 1. OPCION B
+**********
+Error processing details, in 2013 - Programación Lineal.pdf at page 6
+**********
+Se considera el recinto R del plano determinado por las siguientes inecuaciones:
+5x-4y<20,x+8y<48,x>22,y>0
+a) Represente gráficamente el recinto R y calcule sus vértices.
+b) Halle los valores máximo y mínimo que alcanza la función F(x, y) =2x+12 y en este recinto
+e indique dónde se alcanzan.
+c) Razone si existen valores (x, y) pertenecientes al recinto para los que F (x, y) =100
+SOCIALES 1.2013 RESERVA 3. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2013 - Programación Lineal.pdf at page 7
+**********
+Se desea maximizar la función F(x, y)=14x+8y en el recinto dado por:
+y+3x>9, ys -Íx+14 ,5x-2y<15,x>0
+a) Represente la región factible del problema.
+b) ¿Cuál es el valor máximo de F y la solución óptima del problema?
+c) Obtenga un punto de la región factible que no sea el óptimo.
+SOCIALES IH1.2013 RESERVA 4. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2015 - Programación Lineal.pdf at page 2
+**********
+Con motivo de su inauguración, una heladería quiere repartir dos tipos de tarrinas de helados.
+El primer tipo de tarrina está compuesto por 100 g de helado de chocolate, 200 g de helado de
+straciatella y 1 barquillo. El segundo tipo llevará 150 g de helado de chocolate, 150 g de helado
+de straciatella y 2 barquillos. Sólo se dispone de 8 Kg de helado de chocolate, 10 Kg de helado
+de straciatella y 100 barquillos.
+¿Cuántas tarrinas de cada tipo se deben preparar para repartir el máximo número posible de
+tarrinas?.
+SOCIALES H1.2015 JUNIO. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2015 - Programación Lineal.pdf at page 7
+**********
+Se dispone de 160 m de tejido de pana y 240 m de tejido de lana para hacer trajes y abrigos. Se usa 1 m
+de pana y 2 m de lana para cada traje, y 2 m de pana y 2 m de lana para cada abrigo. Cada traje se
+vende a 250 € y cada abrigo a 350 €.
+a) ¿Cuántos trajes y abrigos se deben confeccionar para obtener el máximo beneficio? ¿A cuánto
+asciende dicho beneficio?
+b) ¿Pueden hacerse 60 trajes y 50 abrigos con esas cantidades de tejido?. En caso afirmativo, ¿obtendría
+el máximo beneficio al venderlo todo?.
+SOCIALES 1.2015 SEPTIEMBRE. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2016 - Programación Lineal.pdf at page 3
+**********
+Una empresa fabrica dos tipos de productos A y B, y vende todo lo que produce obteniendo un
+beneficio unitario de 500€ y 600€, respectivamente. Cada producto pasa por dos procesos de
+fabricación, P1 y P2. Una unidad del producto A necesita 3 horas en el proceso P1, mientras
+que una del producto B necesita 5 horas en ese proceso. La mano de obra contratada permite
+disponer, como máximo de 150 horas semanales en P1 y de 120 horas en P2. Además, son
+necesarias 3 horas en P2 para fabricar una unidad de cada uno de los productos.
+a) Plantee el problema de maximización de la función del beneficio semanal de la empresa, dibuje
+la región factible y obtenga sus vértices.
+b) ¿Cuál es el máximo beneficio semanal que puede obtener la empresa? ¿Cuánto debe fabricar
+de cada producto para obtener ese beneficio?.
+SOCIALES IH1.2016 RESERVA 1. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2017 - Programación Lineal.pdf at page 3
+**********
+Una empresa envasa y comercializa leche entera y leche desnatada. El litro de leche entera
+envasado genera un beneficio diario a la empresa de 0.4 € y el de leche desnatada de 0.1 €. La
+tecnología de la empresa impone que el número de litros de leche entera que se envasan
+diariamente no supere el doble del número de litros de leche desnatada. Además, la cantidad
+máxima de leche que se puede envasar diariamente es un total de 3000 litros y solo se dispone
+de 1200 litros diarios de leche entera para envasar.
+¿Cuánto debe envasar de cada producto para obtener el beneficio máximo? ¿A cuánto
+ascendería este beneficio?
+SOCIALES 1.2017 RESERVA 1. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2017 - Programación Lineal.pdf at page 4
+**********
+Sea el siguiente sistema de inecuaciones:
+x+2ys11l x2>2y-5 3x+y<18 x>0 y20
+a) Dibuje la región que definen y calcule sus vértices.
+b) ¿Pertenece el punto (5.5,2) a la región anterior?
+c) Calcule los puntos de esa región en los que la función F(x,y)=2x+3y alcanza los valores
+máximo y mínimo y determine dichos valores.
+SOCIALES 1.2017 RESERVA 2. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2017 - Programación Lineal.pdf at page 5
+**********
+a) Represente el recinto dado por las siguientes inecuaciones:
+ySx+3 x+5y23 2x+7y<30 y20
+b) Razone si el punto (5,3) pertenece al recinto anterior.
+c) Obtenga los valores mínimo y máximo de la función F(x, y) =x-— y en ese recinto,
+indicando en qué puntos se alcanzan.
+SOCIALES I1.2017 RESERVA 3. EJERCICIO 1. OPCION B
+**********
+Error processing details, in 2017 - Programación Lineal.pdf at page 6
+**********
+Un fabricante de complementos alimenticios elabora dos tipos de bebidas energéticas a partir
+de tres componentes: taurina, cafeína y L-carnitina. Un envase del primer tipo de bebida
+precisa 30 g de taurina, 40 g de cafeína y 20 g de L-carnitina, mientras que uno del segundo
+necesita 40 g de taurina, 30 g de cafeína y 10 g de L-carnitina.
+Sabiendo que dispone de 52 kg de taurina, 46 kg de cafeína y 20 kg de L-carnitina, que cada
+envase del primer tipo se vende por 1.5 € y cada envase del segundo tipo por 1 €, ¿cuántos
+envases de cada tipo de bebida tendría que elaborar para obtener la ganancia máxima? ¿A
+cuánto ascendería esta ganancia?
+SOCIALES IH1.2017 RESERVA 4. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2017 - Programación Lineal.pdf at page 7
+**********
+Sea el recinto definido por las siguientes inecuaciones:
+yS2x+1  ySs13-4x x2>4-y
+a) Razone si el punto de coordenadas (1.1,2.8) pertenece al recinto.
+b) ¿En qué puntos alcanza la función F(x,y)=-—3x+1.5y sus valores extremos y cuáles son
+éstos?
+c) Razone si existe algún punto del recinto en el que la función F se anule.
+SOCIALES II.2017 RESERVA 4. EJERCICIO 1. OPCION B
+**********
+Error processing details, in 2018 - Programación Lineal.pdf at page 2
+**********
+a) Plantee, sin resolver, las restricciones de este problema e indique la función a optimizar. “Un
+ganadero alimenta a sus ovejas con maíz y pienso. Cada kilogramo de maíz aporta 600 g de
+hidratos de carbono y 200 g de proteínas, mientras que cada kilogramo de pienso aporta 300 g
+de hidratos de carbono y 600 g de proteínas. Cada oveja necesita diariamente como mínimo
+1800 g de hidratos de carbono y 2400 g de proteínas. Si 1 kg de maíz cuesta 050 euros y 1 kg de
+pienso cuesta 025 euros, calcule cuantos kilogramos de cada producto tendría que comprar el
+ganadero para alimentar cada día a una oveja con un gasto mínimo.”
+b) Represente el recinto limitado por las siguientes restricciones, calculando sus vértices
+x20 ; xS2y+2 ; x+ys5
+Calcule el máximo de F(x, y) =4x+3y en dicho recinto, así como el punto donde se alcanza.
+SOCIALES 1.2018 JUNIO. EJERCICIO 1 OPCIÓN A
+**********
+Error processing details, in 2018 - Programación Lineal.pdf at page 3
+**********
+Se considera la región definida por las siguientes inecuaciones:
+2x-y22 -—x+2y<2 3x+y<15 y20
+a) Represéntala gráficamente y determine sus vértices.
+b) Indique razonadamente si el punto (3,3) pertenece a dicha región
+c) ¿En qué puntos de la región anterior la función F(x,y)=3x-2y alcanza los valores
+máximo y mínimo y cuáles son éstos?.
+SOCIALES 1.2018 RESERVA 1. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2018 - Programación Lineal.pdf at page 4
+**********
+La capacidad máxima de trabajo de un taller que se dedica a la confección de pañuelos y
+corbatas es de 60 horas semanales. Cada pañuelo que confecciona le supone 2 horas de trabajo
+y le reporta un beneficio de 4 euros. En el caso de las corbatas son 3 horas y 6 euros
+respectivamente por unidad. Contrae el compromiso de que el número de corbatas
+confeccionadas más el doble del número de pañuelos debe ser, como mínimo, 28. Con estas
+condiciones, ¿cuántas unidades de cada tipo de prenda debe confeccionar para obtener un
+beneficio económico máximo?
+SOCIALES 1.2018 RESERVA 2. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2018 - Programación Lineal.pdf at page 5
+**********
+Una joyería elabora dos tipos de collares a partir de perlas blancas, grises y negras. Para un
+collar de tipo A hacen falta 20 perlas blancas, 20 grises y 30 negras, mientras que para un
+collar del tipo B, 10 perlas blancas, 20 grises y 60 negras. Se dispone de un máximo de 900
+perlas blancas y 1400 grises, mientras que es necesario que se utilicen al menos 1800 perlas
+negras. Sabiendo que cada collar del tipo A le supone a la joyería un beneficio de 600 euros y
+cada collar del tipo B, 500 euros, calcule cuál debe ser la producción para obtener el máximo
+beneficio, así como a cuánto asciende el mismo. ¿Es posible fabricar 40 collares del tipo A y 20
+del tipo B?
+SOCIALES 1.2018 RESERVA 3. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2018 - Programación Lineal.pdf at page 6
+**********
+Una fábrica de palas de pádel produce dos modelos A y B con los que obtiene un beneficio por
+cada pala de 30 y 20 euros respectivamente. Para la elaboración de una pala del modelo A se
+necesitan 90 g de fibra de carbono y 100 g de goma EVA, mientras que para una pala del
+modelo B son necesarios 100 g de fibra de carbono y 50 g de goma EVA. La fábrica dispone
+diariamente de 7.5 kg de fibra de carbono y 6.5 kg de goma EVA y quiere producir como
+máximo 60 unidades diarias del modelo A. Calcule cuántas palas de cada modelo tiene que
+fabricar para que el beneficio sea máximo y determine su importe. ¿Sería posible una
+producción diaria de 49 palas del modelo A y 32 palas del modelo B?
+SOCIALES I1.2018 RESERVA 4. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2018 - Programación Lineal.pdf at page 7
+**********
+Sea el siguiente sistema de inecuaciones:
+x+2ys11l x2>2y-5 3x+y<18 x>0 y>20
+a) Represente gráficamente la región que definen y calcule sus vértices.
+b) Halle los puntos de esa región en los que la función F(x,y)=2x+3y alcanza los valores
+máximo y mínimo y calcule dichos valores.
+c) Justifique si el punto (5.5,2) pertenece a la región factible.
+SOCIALES 1.2018 SEPTIEMBRE. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2019 - Programación Lineal.pdf at page 7
+**********
+Una empresa comercializa dos tipos de concentrado de café, A y B, que se obtienen a partir de
+tres tipos de grano: de Colombia, de Etiopía y de Costa Rica. Para elaborar 1 kg de
+concentrado A se necesitan 4.5 kg de grano de Colombia y 3 kg de grano de Etiopía. Por otra
+parte, se requieren 7.5 kg de grano de Colombia y 1.5 kg de grano de Costa Rica para elaborar
+1 kg de concentrado B. Actualmente la empresa dispone de un máximo de 67.5 kg de grano de
+Colombia, 30 kg de grano de Etiopía y 9 kg de grano de Costa Rica. Además, se exige que el
+número de kilogramos de concentrado A producidos debe ser mayor o igual que la mitad de los
+kilogramos de concentrado B.
+a) Represente la región factible que describe el problema anterior y determine sus vértices.
+b) Indique de manera razonada si con las condiciones dadas sería posible producir 7 kg del
+concentrado A y 5 kg del concentrado B.
+c) Sabiendo que el beneficio obtenido por la venta de cada kilogramo del tipo A es 2 euros y de
+cada kilogramo del tipo B es 4 euros, ¿cuántos kilogramos del tipo A y cuántos del tipo B se
+habrán de producir para que el beneficio sea máximo? ¿Cuál es ese beneficio?.
+SOCIALES I1.2019 SEPTIEMBRE. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2021 - Programación Lineal.pdf at page 7
+**********
+Se consideran las siguientes inecuaciones:
+5x-4y<-19 3x-4y<-13 x2>-7 x-y22
+a) Represente la región factible definida por las inecuaciones y determine sus vértices.
+b) ¿Cuáles son los puntos en los que se alcanza el mínimo y el máximo de la función
+G(x, y)= —- x + y en la citada región factible?. ¿Cuál es su valor?.
+c) Responda de forma razonada si la función G(x, y)= tz y puede alcanzar el valor add
+en la región factible hallada.
+SOCIALES I11.2021 JULIO. EJERCICIO A2
+**********
+Error processing details, in 2001 - Matrices Y Determinantes.pdf at page 2
+**********
+a) Determine los valores de x e y que hacen cierta la siguiente igualdad:
+SOL JE)
+1 3 0 1 -1
+b) Determine la matriz X de dimensión 2x2 tal que: X ¡8 a )
+5 1 1
+SOCIALES I1.2001. JUNIO. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2001 - Matrices Y Determinantes.pdf at page 3
+**********
+lx
+Se considera la matriz A=| 1 1 1|.
+Xx 0
+a) Calcule los valores de x para los que no existe la inversa de A.
+b) Para x = 3, calcule, si es posible, A”.
+SOCIALES II.2001 RESERVA 1. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2001 - Matrices Y Determinantes.pdf at page 4
+**********
+Resuelva la siguiente ecuación matricial: A- X-2B =C siendo:
+0 -1 2 1
+A=|1 0 1|, B=|-2
+1.1.0 4
+SOCIALES I1.2001 RESERVA 2. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2013 - Matrices Y Determinantes.pdf at page 5
+**********
+a) Se consideran las matrices a-(
+Determine la matriz X que verifica B-X =3A+A'.
+2. 5 6
+b) Calcule la matriz Y que verifica | 1 -5|.Y=|-12
+2 -1 -6
+SOCIALES I1.2013 RESERVA 3. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2017 - Matrices Y Determinantes.pdf at page 3
+**********
+1
+. 1-1. 0 1
+Sean las matrices A= , B=|]0 y C=
+0. 1-1 3
+-2
+a) Razone cuáles de las siguientes operaciones son posibles:
+A-B' B+3C C.B' A.B+C
+b) Resuelva la ecuación matricial A-B-X=C
+SOCIALES I1.2017 RESERVA 1. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2017 - Matrices Y Determinantes.pdf at page 4
+**********
+. 2 1 1 -1 -2 4 101
+Sean las matrices A= , B= , C= y D=
+0 —-1 2 0 l -1 01.0
+a) Razone si se pueden efectuar las siguientes operaciones
+A:D+B-C— D'-B-A?
+b) Halle la matriz X que verifica la ecuación matricial A-X=B-C.
+SOCIALES I1.2017 RESERVA 2. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2017 - Matrices Y Determinantes.pdf at page 5
+**********
+. 2 4 -30
+Sean las matrices A= y B=
+1 -1 0 1
+a) Calcule A?+B?.
+b) Calcule X en la ecuación matricial (A+B)-X =A-—B.
+SOCIALES I1.2017 RESERVA 3. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2018 - Matrices Y Determinantes.pdf at page 2
+**********
+12 0
+a) ¿Se verifica la igualdad (A+B)?*=A?*+B?+2A-B
+. . -1.0 2
+Se consideran las matrices A= y B=
+b) Resuelva la ecuación matricial X- A=2B'+1,
+SOCIALES I1.2018 JUNIO. EJERCICIO 1 OPCIÓN B
+**********
+Error processing details, in 2018 - Matrices Y Determinantes.pdf at page 3
+**********
+. 6.0 -4
+Sean las matrices A= , B= y C =(-2 -2)
+2 4 6
+a) Justifique cuáles de las siguientes operaciones se pueden realizar y efectúelas cuando sea
+posible:
+B+2C.A  A-(B-C)'
+1
+b) Resuelva la ecuación matricial 8 +A.X)=C'
+SOCIALES I1.2018 RESERVA 1. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2018 - Matrices Y Determinantes.pdf at page 4
+**********
+Se consideran las matrices
+-1 2 -121
+A= , B= y C
+-3 4 302 -1
+a) Razone qué dimensiones deben tener las matrices P y Q para que los productos (A-P-B') y
+(Q - A-C) den como resultado una matriz cuadrada.
+b) Resuelva la ecuación matricial A-X-2B+C'=A?
+SOCIALES I1.2018 RESERVA 2. EJERCICIO 1 OPCIÓN B
+**********
+Error processing details, in 2018 - Matrices Y Determinantes.pdf at page 6
+**********
+(23 Df
+a) Resuelva la ecuación matricial «X= .
+1 -5 o —-1 1
+b) Si A es una matriz con tres filas y dos columnas, determine razonadamente la dimensión que
+deben tener las matrices B, C y D para que se puedan efectuar las siguientes operaciones:
+2A-3B  A:A'-C?  A-D
+SOCIALES I1.2018 RESERVA 4. EJERCICIO 1 OPCIÓN A
+**********
+Error processing details, in 2018 - Matrices Y Determinantes.pdf at page 7
+**********
+. 1.0
+Sean las matrices A= Ñ
+_ 10 -1
+-1 2.10
+a) Calcule A%*4A%”
+b) Resuelva la ecuación matricial X-A+B-B'=2A
+SOCIALES I1.2018 SEPTIEMBRE. EJERCICIO 1. OPCIÓN B
+**********
+Error processing details, in 2019 - Matrices Y Determinantes.pdf at page 7
+**********
+. . 10 -2 1 -3
+Se consideran las matrices A= B=
+-=1 1 0 2 0
+a) Justifique cuáles de las siguientes afirmaciones son ciertas:
+1) A-A' es una matriz simétrica
+2) A-A'+B posee inversa
+b) Resuelva la ecuación matricial B-X4+A=C
+SOCIALES I1.2019 SEPTIEMBRE. EJERCICIO 1. OPCIÓN A
+**********
+Error processing details, in 2021 - Matrices Y Determinantes.pdf at page 3
+**********
+0
+1
+1
+Se consideran las matrices A=| 0
+1.0
+a) Calcule A?A?,A?* y deduzca la expresión de A”, con n un número natural
+b) Razone si existe la inversa de la matriz B.
+c) Razone si la ecuación matricial B-X=C tiene solución y resuélvala en caso de que sea
+posible.
+SOCIALES II.2021 RESERVA 1. EJERCICIO A2
+**********
+Error processing details, in 2021 - Matrices Y Determinantes.pdf at page 5
+**********
+y B es una matriz
+Se considera la ecuación matricial (101, - A): X=B,donde A
+con tres filas y una columna.
+a) Razone qué dimensión ha de tener la matriz X.
+b) ¿Tiene solución la ecuación matricial anterior para cualquier matriz B de orden 3x1?. ¿Por
+qué?.
+c) Resuelva dicha ecuación matricial si B= (s 20 -3)' .
+SOCIALES II.2021 RESERVA 3. EJERCICIO A2
+**********
+Error processing details, in 2021 - Matrices Y Determinantes.pdf at page 6
+**********
+10
+Se considera la matriz a ; y
+a) Calcule A” y (as) »
+b) Calcule (a7 + A) ?
+c) Resuelva la ecuación matricial ES +1 ,): X=A'-I,
+SOCIALES 11.2021 RESERVA 4. EJERCICIO Al
+**********
+Error processing details, in 2022 - Matrices Y Determinantes.pdf at page 6
+**********
+Se consideran las matrices:
+7-6 -2
+1.4
+0 -4
+A= B=
+-5
+a) Resuelva la ecuación matricial A'— X- A=3-+I
+1
+2
+2
+5
+2 3
+314 c-(
+40 1
+3"
+-1
+-3 0
+b) ¿Existe algún valor del parámetro a para el que se verifique C' - D=B ?. En caso afirmativo,
+calcule dicho valor.
+SOCIALES. 2022 RESERVA 4. EJERCICIO A2
+**********
+Error processing details, in 2024 - Matrices Y Determinantes.pdf at page 3
+**********
+Se consideran las matrices:
+1
+2
+0
+a) Halle la matriz A que satisface la ecuación P7'.A-P=J.
+b) Compruebe que A*=P-J*.P”'
+SOCIALES. 2024 RESERVA 1. EJERCICIO Al
+**********
+Error processing details, in 2025 - Matrices Y Determinantes.pdf at page 3
+**********
+210
+Se considera la matriz A=|0 1 2].
+22 2
+a) Resuelva el sistema de ecuaciones matriciales:
+(A+1,)-X+Y=A-1, X-Y=I,
+b) Halle el rango de las matrices A+I, y A—I,.¿Son matrices invertibles?
+SOCIALES II.2025. RESERVA 1. EJERCICIO Al
+**********
+Error processing details, in 2001 - Inferencia Estadística.pdf at page 2
+**********
+Un estudio realizado sobre 100 usuarios revela que un automóvil recorre anualmente un
+promedio de 15.200 Km con una desviación típica de 2.250 Km.
+a) Determine un intervalo de confianza, al 99% , para la cantidad promedio de kilómetros
+recorridos.
+b) ¿Cuál debe ser el tamaño mínimo de la muestra para que el error cometido no sea superior a
+500 Km, con igual confianza?.
+SOCIALES I1.2001 JUNIO. EJERCICIO 3 PARTE II OPCIÓN A
+**********
+Error processing details, in 2001 - Inferencia Estadística.pdf at page 4
+**********
+Una ciudad de 2000 habitantes está poblada por personas de pelo negro, rubio o castaño. Se ha
+seleccionado, mediante muestreo aleatorio estratificado con afijación proporcional, una
+muestra constituida por 28 personas de pelo negro, 32 de pelo rubio y 20 de pelo castaño.
+Determine cuál es la composición, según el color del pelo, de esa ciudad.
+SOCIALES I1.2001 RESERVA 1. EJERCICIO 3 PARTE II! OPCIÓN A
+**********
+Error processing details, in 2001 - Inferencia Estadística.pdf at page 5
+**********
+En una población normal con varianza conocida se ha tomado una muestra de tamaño 49 y se
+ha calculado su media: x=4'2. Determine la varianza de la población sabiendo que el
+intervalo de confianza, al 95 %, para la media poblacional es (364; 476).
+SOCIALES II.2001 RESERVA 1. EJERCICIO 3 PARTE [I[ OPCION B
+**********
+Error processing details, in 2001 - Inferencia Estadística.pdf at page 6
+**********
+Se sospecha que el número de unidades que contiene cada dosis de un medicamento no llega a
+las 10000 que se indican en el envase. Para comprobar que el contenido medio de las dosis es el
+indicado tomamos, al azar, 100 dosis y determinamos el número de unidades de cada una,
+obteniendo de media 9940 unidades y de desviación típica 120 unidades. ¿Qué podemos decir
+sobre la indicación del envase, para un nivel de confianza del 99 % ?.
+SOCIALES I1.2001 RESERVA 2. EJERCICIO 3 PARTE II! OPCIÓN A
+**********
+Error processing details, in 2001 - Inferencia Estadística.pdf at page 7
+**********
+Una muestra aleatoria de 36 cigarrillos de una marca determinada dio un contenido medio de
+nicotina de 3 miligramos.
+Se sabe que el contenido en nicotina de estos cigarrillos sigue una distribución normal con una
+desviación típica de 1 miligramo.
+a) ¿Cuál es la probabilidad de que el contenido medio en nicotina de los cigarrillos de esa
+marca sea superior a 32 miligramos?
+b) Obtenga un intervalo de confianza al 99% para el contenido medio de nicotina de estos
+cigarrillos.
+SOCIALES I1.2001 RESERVA 2. EJERCICIO 3 PARTE II OPCIÓN B
+**********
+Error processing details, in 2001 - Inferencia Estadística.pdf at page 9
+**********
+Se desea estimar, con un error máximo de 0.2 horas, el tiempo medio de estudio diario de los
+alumnos de primer curso universitario. Se sabe que la desviación típica es de 1 hora y se toma
+una muestra aleatoria de 100 alumnos.
+a) Calcule el nivel de confianza del intervalo que se obtendrá.
+b) Calcule el número de individuos que debe tener una muestra para asegurarnos una
+confianza del 99 %.
+SOCIALES I1.2001 RESERVA 3. EJERCICIO 3 PARTE II OPCIÓN B
+**********
+Error processing details, in 2001 - Inferencia Estadística.pdf at page 11
+**********
+En los individuos de una población, la cantidad de colesterol en sangre se distribuye según una
+ley normal de media desconocida y desviación típica de 05 g/l. Hemos tomado una muestra de
+10 individuos, y se ha obtenido una media muestral de 1”7 g/l.
+a) Obtenga un intervalo de confianza, al 95 % , para la cantidad media de colesterol en sangre
+de la población.
+b) ¿Qué nivel de confianza tendría un intervalo para la media cuyos límites fuesen 1293 y
+2107?
+SOCIALES I1.2001 RESERVA 4. EJERCICIO 3 PARTE II OPCIÓN B
+**********
+Error processing details, in 2001 - Inferencia Estadística.pdf at page 12
+**********
+Según un estudio sociológico, el gasto mensual de los jóvenes españoles durante los fines de
+semana se distribuye según una ley normal de media u = 150 € y desviación típica a = 18 €.
+Tomamos, al azar, una muestra de 36 jóvenes. ¿Cuál es la probabilidad de que esta muestra
+tenga un gasto medio comprendido entre 143 € y 157 €?.
+SOCIALES II.2001 SEPTIEMBRE. EJERCICIO 3 PARTE II OPCION A
+**********
+Error processing details, in 2001 - Inferencia Estadística.pdf at page 13
+**********
+Sabiendo que la varianza de una ley normal es o? =16, determine el nivel de confianza con el
+que puede decirse que su media yu está comprendida entre 62 y 8”8, si se toma una muestra
+aleatoria de tamaño 36 de esa ley normal, cuya media muestral es 75.
+SOCIALES II.2001 SEPTIEMBRE. EJERCICIO 3 PARTE II OPCION B
+**********
+Error processing details, in 2002 - Inferencia Estadística.pdf at page 4
+**********
+En un pueblo habitan 700 hombres adultos, 800 mujeres adultas y 500 menores. De él se quiere
+seleccionar una muestra de 80 personas, utilizando, para ello, muestreo estratificado con
+afijación proporcional. ¿Cuál será la composición que debe tener dicha muestra?
+SOCIALES I1.2002 RESERVA 1. EJERCICIO 3 PARTE II! OPCIÓN A
+**********
+Error processing details, in 2002 - Inferencia Estadística.pdf at page 5
+**********
+El peso de los alumnos de un Instituto es una variable aleatoria que sigue una distribución
+Normal de media p, desconocida, y desviación típica 8 kg.
+¿Cuál es el tamaño mínimo que debe tener una muestra para que permita estimar u con un
+error máximo de 3 kg y un nivel de confianza del 99 % ?
+SOCIALES I1.2002 RESERVA 1. EJERCICIO 3 PARTE II OPCIÓN B
+**********
+Error processing details, in 2002 - Inferencia Estadística.pdf at page 12
+**********
+Los resultados de un test de sensibilidad musical realizado a los alumnos de un Conservatorio
+se distribuyen según una ley Normal de media 65 y desviación típica 18.
+a) ¿Cuál es la distribución de la media muestral para muestras de tamaño 25?
+b) Para muestras aleatorias de tamaño 100, halle la probabilidad de que su puntuación media
+esté comprendida entre 63 y 67 puntos.
+SOCIALES I1.2002 SEPTIEMBRE. EJERCICIO 3 PARTE Il OPCIÓN A
+**********
+Error processing details, in 2003 - Inferencia Estadística.pdf at page 4
+**********
+Se sabe que la desviación típica del peso de las naranjas que se producen en una determinada
+huerta es de 20 gramos. Se ha tomado una muestra aleatoria de 100 naranjas de esa huerta,
+siendo su peso medio 200 gramos.
+a) Indique la distribución aproximada que siguen las medias de las muestras de ese tamaño y
+justifique su respuesta.
+b) Calcule un intervalo de confianza, a un nivel del 95% , para el peso medio de las naranjas de
+esa huerta.
+SOCIALES I1.2003 RESERVA 1. EJERCICIO 3 PARTE II! OPCIÓN A
+**********
+Error processing details, in 2003 - Inferencia Estadística.pdf at page 5
+**********
+El tiempo que la población infantil dedica semanalmente a ver la televisión, sigue una ley
+normal con una desviación típica de 3 horas.
+Se ha seleccionado una muestra aleatoria de 100 niños y, con un nivel de confianza del 97% , se
+ha construido un intervalo para la media poblacional.
+a) Calcule el error máximo cometido y el tiempo medio de la muestra elegida, sabiendo que el
+límite inferior del intervalo de confianza obtenido es 23”5 horas.
+b) Supuesto el mismo nivel de confianza, ¿cuál debería haber sido el tamaño mínimo de la
+muestra para cometer un error en la estimación inferior a media hora?.
+SOCIALES I1.2003 RESERVA 1. EJERCICIO 3 PARTE II OPCIÓN B
+**********
+Error processing details, in 2003 - Inferencia Estadística.pdf at page 6
+**********
+Una variable aleatoria sigue una distribución normal con desviación típica 15.
+a) Construya un intervalo de confianza para la media de la población, con un nivel de
+confianza del 995% sabiendo que una muestra de 20 individuos tiene una media de 52.
+b) ¿Cuál debe ser el tamaño mínimo de una muestra de esta población para que un inter valo de
+confianza, con nivel del 90% , para la media de la población tenga una amplitud inferior a 3
+unidades?.
+SOCIALES I1.2003 RESERVA 2. EJERCICIO 3 PARTE II! OPCIÓN A
+**********
+Error processing details, in 2003 - Inferencia Estadística.pdf at page 7
+**********
+Sea una población cuyos elementos son 1,2 y 3.
+Mediante muestreo aleatorio simple se pretende seleccionar una muestra de tamaño 2.
+a) Escriba las posibles muestras.
+b) Calcule la varianza de las medias muestrales.
+SOCIALES I1.2003 RESERVA 2. EJERCICIO 3 PARTE Il OPCIÓN B
+**********
+Error processing details, in 2003 - Inferencia Estadística.pdf at page 8
+**********
+El peso de los adultos de una determinada especie de peces sigue una ley normal de desviación
+típica 112 gr.
+¿Cuál es el tamaño mínimo de la muestra de peces que debería tomarse para obtener, con una
+confianza del 95% , la media de la población con un error menor de 20 gr?.
+SOCIALES I1.2003 RESERVA 3. EJERCICIO 3 PARTE II! OPCIÓN A
+**********
+Error processing details, in 2003 - Inferencia Estadística.pdf at page 12
+**********
+Se sabe que la antigiiedad de los coches fabricados por una empresa es una variable aleatoria
+normal, con desviación típica 2”9 años.
+a) Un estudio realizado sobre una muestra aleatoria de 169 coches, de esa empresa, revela que
+la antigiiedad media de la muestra es 8”41 años. Obtenga un intervalo de confianza, al 90%,
+para la antigúedad media de la población.
+b) Determine el número mínimo de coches que debe componer una muestra, para obtener, con
+un nivel de confianza del 95%, un error de estimación menor que 035 años.
+SOCIALES I1.2003 SEPTIEMBRE. EJERCICIO 3 PARTE Il OPCIÓN A
+**********
+Error processing details, in 2003 - Inferencia Estadística.pdf at page 13
+**********
+En un hospital se ha tomado la temperatura a una muestra de 64 pacientes para estimar la
+temperatura media de sus enfermos. La media de la muestra ha sido 37*1 *C y se sabe que la
+desviación típica de toda la población es 104 *C.
+a) Obtenga un intervalo de confianza, al 90% , para la media poblacional.
+b) ¿Con qué nivel de confianza podemos afirmar que la media de la población está
+comprendida entre 368” C y 374” C?.
+SOCIALES I1.2003 SEPTIEMBRE.EJERCICIO 3 PARTE II OPCIÓN B
+**********
+Error processing details, in 2005 - Inferencia Estadística.pdf at page 3
+**********
+Sea la población de elementos 22, 24, 26)
+a) Escriba todas las muestras posibles de tamaño 2, escogidas mediante muestreo aleatorio simple.
+b) Calcule la varianza de la población.
+c) Calcule la varianza de las medias muestrales.
+SOCIALES I1.2005 JUNIO. EJERCICIO 3 PARTE Il OPCIÓN B
+**********
+Error processing details, in 2005 - Inferencia Estadística.pdf at page 4
+**********
+En una población, una variable aleatoria sigue una ley Normal de media desconocida y
+desviación típica 3.
+a) A partir de una muestra de tamaño 30 se ha obtenido una media muestral igual a 7. Halle un
+intervalo de confianza, al 96% ,para la media de la población.
+b) ¿Qué tamaño mínimo debe tener la muestra con la cual se estime la media, con un nivel de
+confianza del 99% y un error máximo admisible de 2?
+SOCIALES I1.2005 RESERVA 1. EJERCICIO 3 PARTE II! OPCIÓN A
+**********
+Error processing details, in 2005 - Inferencia Estadística.pdf at page 5
+**********
+a) En una población hay 100 personas: 60 mujeres y 40 hombres. Se desea seleccionar una
+muestra de tamaño 5 mediante muestreo estratificado con afijación proporcional. ¿Qué
+composición tendrá dicha muestra?
+b) En la población formada por los números 2, 4, 6 y 8, describa las posibles muestras de
+tamaño 2 seleccionadas por muestreo aleatorio simple, y calcule la varianza de las medias
+muestrales.
+SOCIALES II.2005 RESERVA 1. EJERCICIO 3 PARTE II OPCIÓN B
+**********
+Error processing details, in 2005 - Inferencia Estadística.pdf at page 7
+**********
+Sea X una variable aleatoria Normal de media 50 y desviación típica 4.
+a) Para muestras de tamaño 4, ¿cuál es la probabilidad de que la media muestral supere el
+valor 54?
+b) Si Xs indica la variable aleatoria “media muestral para muestras de tamaño 16”, calcule el
+valor de a para que P(50—a < X 16 <50+a)=0' 9876
+SOCIALES I1.2005 RESERVA 2. EJERCICIO 3 PARTE Il OPCIÓN B
+**********
+Error processing details, in 2005 - Inferencia Estadística.pdf at page 8
+**********
+La estatura de los soldados de un cuartel sigue una distribución Normal con desviación típica
+12 cm.
+a) Indique la distribución que sigue la media de la estatura de las muestras de soldados de ese
+cuartel, de tamaño 81.
+b) Si se desea estimar la estatura media de los soldados de ese cuartel de forma que el error no
+sobrepase los 3 cm, ¿cuántos soldados deberán escogerse para formar parte de la muestra si se
+utiliza un nivel de confianza del 97% ?
+SOCIALES II.2005 RESERVA 3. EJERCICIO 3 PARTE II! OPCIÓN A
+**********
+Error processing details, in 2005 - Inferencia Estadística.pdf at page 9
+**********
+El índice de resistencia a la rotura, expresado en kg, de un determinado tipo de cuerda sigue
+una distribución Normal con desviación típica 156 kg. Con una muestra de 5 de estas cuerdas,
+seleccionadas al azar, se obtuvieron los siguientes índices:
+280, 240, 270, 285,270.
+a) Obtenga un intervalo de confianza para la media del índice de resistencia a la rotura de este
+tipo de cuerdas, utilizando un nivel de confianza del 95% .
+b) Si, con el mismo nivel de confianza, se desea obtener un error máximo en la estimación de la
+media de 5 kg, ¿será suficiente con elegir una muestra de 30 cuerdas?
+SOCIALES II.2005 RESERVA 3. EJERCICIO 3 PARTE II OPCIÓN B
+**********
+Error processing details, in 2005 - Inferencia Estadística.pdf at page 12
+**********
+La longitud de los tornillos fabricados por una máquina sigue una ley Normal con desviación
+típica 01 cm. Se ha seleccionado una muestra aleatoria y, con una confianza del 95% se ha
+construido un intervalo, para la media poblacional, cuya amplitud es de 00784 cm.
+a) ¿Cuál ha sido el tamaño de la muestra seleccionada?.
+b) Determine el intervalo de confianza, si en la muestra seleccionada se ha obtenido una
+longitud media de 175 cm.
+SOCIALES I1.2005 SEPTIEMBRE. EJERCICIO 3 PARTE Il OPCIÓN A
+**********
+Error processing details, in 2006 - Inferencia Estadística.pdf at page 4
+**********
+De 500 encuestados en una población, 350 se mostraron favorables a la retransmisión de
+debates televisivos en tiempos de elecciones. Calcule un intervalo de confianza, al 99”5 %, para
+la proporción de personas favorables a estas retransmisiones.
+SOCIALES I1.2006. RESERVA 1. EJERCICIO 3 PARTE II OPCIÓN A
+**********
+Error processing details, in 2006 - Inferencia Estadística.pdf at page 5
+**********
+El gasto anual, en videojuegos, de los jóvenes de una ciudad sigue una ley Normal de media
+desconocida y y desviación típica 18 euros. Elegida, al azar, una muestra de 144 jóvenes se ha
+obtenido un gasto medio de 120 euros.
+a) Indique la distribución de las medias de las muestras de tamaño 144.
+b) Determine un intervalo de confianza, al 99 %, para el gasto medio en videojuegos de los
+jóvenes de esa ciudad.
+Cc) ¿Qué tamaño muestral mínimo deberíamos tomar para, con la misma confianza, obtener un
+error menor que 19?
+SOCIALES I1.2006. RESERVA 1.EJERCICIO 3 PARTE II OPCIÓN B
+**********
+Error processing details, in 2006 - Inferencia Estadística.pdf at page 7
+**********
+Se han tomado las tallas de 16 bebés, elegidos al azar, de entre los nacidos en un cierto hospital,
+y se han obtenido los siguientes resultados, en centímetros:
+51,50, 53,48, 49,50,51,48,50,51,50,47,51,51,49,51.
+La talla de los bebés sigue una ley Normal de desviación típica 2 centímetros y media
+desconocida.
+a) ¿Cuál es la distribución de las medias de las muestras de tamaño 16?
+b) Determine un intervalo de confianza, al 97 % , para la media poblacional.
+SOCIALES I1.2006. RESERVA 2. EJERCICIO 3 PARTE II OPCIÓN B
+**********
+Error processing details, in 2006 - Inferencia Estadística.pdf at page 9
+**********
+Una variable aleatoria sigue una ley Normal con media desconocida y desviación típica 2”4. Se
+quiere estimar la media poblacional, con un nivel de confianza del 93 % , para lo que se toman
+dos muestras de distintos tamaños.
+a) Si una de las muestras tiene tamaño 16 y su media es 1073, ¿cuál es el intervalo de confianza
+correspondiente?
+b) Si con la otra muestra el intervalo de confianza es (9776, 11”224), ¿cuál es la media
+muestral? ¿Cuál es el tamaño de la muestra?
+SOCIALES I1.2006. RESERVA 3. EJERCICIO 3 PARTE II OPCIÓN B
+**********
+Error processing details, in 2007 - Inferencia Estadística.pdf at page 12
+**********
+Se sabe que las puntuaciones de un test siguen una ley Normal de media 36 y desviación típica
+478.
+a) Si se toma una muestra aleatoria de 16 individuos, ¿cuál es la probabilidad de que la media
+de esta muestra sea superior a 35 puntos?.
+b) ¿Qué porcentaje de muestras de tamaño 25 tiene una media muestral comprendida entre 34
+y 367.
+SOCIALES I1.2007 SEPTIEMBRE. EJERCICIO 3 PARTE II OPCIÓN A
+**********
+Error processing details, in 2008 - Inferencia Estadística.pdf at page 5
+**********
+Una variable aleatoria sigue una ley Normal con desviación típica 6. ¿De qué tamaño, como
+mínimo, se debe elegir una muestra que nos permita estimar la media de esa variable con un
+error máximo de 2 y una confianza del 99% ?
+SOCIALES II.2008 RESERVA 1. EJERCICIO 3. PARTE II. OPCIÓN B
+**********
+Error processing details, in 2008 - Inferencia Estadística.pdf at page 7
+**********
+El tiempo de utilización diaria de ordenador entre los empleados de una empresa sigue una
+distribución Normal de media y y desviación típica 1”2 horas.
+a) Una muestra aleatoria de 40 empleados tiene una media del tiempo de utilización de 285
+horas diarias. Determine un intervalo de confianza, al 96%, para la media del tiempo de
+utilización diaria de ordenador.
+b) Calcule el tamaño mínimo que debería tener una muestra para estimar la media del tiempo
+de utilización diaria del ordenador con un error no superior a 075 horas y el mismo nivel de
+confianza del apartado anterior.
+SOCIALES II.2008 RESERVA 2. EJERCICIO 3. PARTE II. OPCIÓN B
+**********
+Error processing details, in 2011 - Inferencia Estadística.pdf at page 2
+**********
+a) Una población de tamaño 1000 se ha dividido en 4 estratos de tamaño 150, 400, 250 y 200.
+Utilizando muestreo aleatorio estratificado con afijación proporcional se han seleccionado 10
+individuos del tercer estrato, ¿cuál es el tamaño de la muestra?
+b) El peso de los individuos de una población se distribuye según una ley Normal de desviación
+típica 6 kg. Calcule el tamaño mínimo de la muestra para estimar, con un nivel de confianza del
+95% , el peso medio en la población con un error no superior a 1 kg.
+SOCIALES I1.2011 JUNIO. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2011 - Inferencia Estadística.pdf at page 3
+**********
+El peso neto de las tabletas de chocolate de una determinada marca es una variable aleatoria
+Normal con media u y desviación típica 7 gramos. Se sabe que 36 tabletas, elegidas al azar, han
+dado un peso total de 5274 gramos.
+a) Calcule un intervalo con un nivel de confianza del 94% para la media y.
+b) Con el mismo nivel de confianza, ¿cuántas tabletas, como mínimo, habrá que tomar como
+muestra para que la amplitud del intervalo que se obtenga sea, como máximo, de 3 gramos?
+SOCIALES I1.2011. RESERVA 1. EJERCICIO 4. OPCIÓN B
+**********
+Error processing details, in 2011 - Inferencia Estadística.pdf at page 4
+**********
+Se sabe que la estatura de las personas de una población es una variable aleatoria que sigue
+una distribución Normal cuya desviación típica es 0.04 m. Para estimar la media de esta
+variable se ha tomado una muestra aleatoria de 60 personas de esa población y se ha
+encontrado una estatura media de 1.73 m.
+a) Obtenga un intervalo de confianza, con un nivel del 97% , para la media de la distribución de
+estaturas.
+b) Halle el tamaño mínimo que debe tener una muestra de esta población, para que la amplitud
+de un intervalo de la media con este nivel de confianza sea inferior a 0.08 m.
+SOCIALES II.2011. RESERVA 2. EJERCICIO 4. OPCIÓN B
+**********
+Error processing details, in 2011 - Inferencia Estadística.pdf at page 5
+**********
+En un distrito universitario, la calificación de los alumnos sigue una distribución Normal de
+media 6.2 puntos y desviación típica de 1 punto. Se seleccionó, aleatoriamente, una muestra de
+tamaño 25.
+a) Indique la distribución de la media de las muestras de tamaño 25.
+b) ¿Cuál es la probabilidad de que la media de las calificaciones de los alumnos de una de esas
+muestras esté comprendida entre 6 y 6.6 puntos?.
+SOCIALES I1.2011. RESERVA 3. EJERCICIO 4. OPCIÓN A
+**********
+Error processing details, in 2011 - Inferencia Estadística.pdf at page 6
+**********
+El peso de los adultos de una determinada población sigue una distribución Normal de media
+70 Kg y desviación típica 16 Kg. Si elegimos, al azar, muestras de tamaño 4,
+a) ¿Cuál es la distribución de la media muestral?.
+b) ¿Cuál es la probabilidad de que el peso medio de una de esas muestras esté comprendido
+entre 65 y 72 Kg?.
+c) ¿Cuál es la probabilidad de que ese peso medio sea menor que 70 Kg?.
+SOCIALES I1.2011. RESERVA 4. EJERCICIO 4. OPCIÓN A
+**********
+Error processing details, in 2011 - Inferencia Estadística.pdf at page 7
+**********
+Con el fin de estudiar el peso medio de los perros recién nacidos de una determinada raza, se
+tomó una muestra en una clínica veterinaria y se obtuvieron los siguientes pesos, medidos en
+Kg:12 09 1 12 1.1 1 08 1.1
+Se sabe que el peso de los cachorros de esta raza se distribuye según una ley Normal con
+desviación típica 0.25 Kg.
+a) Obtenga un intervalo de confianza para estimar la media poblacional, al 95%.
+b) Halle el error máximo que se cometería usando el intervalo anterior.
+c) Razone cómo variaría la amplitud del intervalo de confianza si, manteniendo el mismo nivel
+de confianza, aumentásemos el tamaño de la muestra.
+SOCIALES I1.2011. RESERVA 4. EJERCICIO 4. OPCIÓN B
+**********
+Error processing details, in 2011 - Inferencia Estadística.pdf at page 8
+**********
+Sea X una variable aleatoria Normal de media 50 y desviación típica 4. Se toman muestras de
+tamaño 16.
+a) ¿Cuál es la distribución de la media muestral.
+b) Cuál es la probabilidad de que la media muestral esté comprendida entre 47.5 y 52.57.
+SOCIALES I1.2011 SEPTIEMBRE. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2012 - Inferencia Estadística.pdf at page 6
+**********
+a) En una ciudad viven 400 hombres y 320 mujeres y se quiere seleccionar una muestra de
+tamaño 54 utilizando muestreo estratificado por sexos, con afijación proporcional, ¿cuál sería
+la composición de la muestra?.
+b) A partir de una población de elementos 1, 2, 3, 4 se seleccionan, mediante muestreo aleatorio
+simple, todas las muestras de tamaño 2. Escriba dichas muestras y calcule la varianza de las
+medias muestrales.
+SOCIALES I1.2012. RESERVA 3. EJERCICIO 4. OPCIÓN B
+**********
+Error processing details, in 2013 - Inferencia Estadística.pdf at page 3
+**********
+El tiempo que los españoles dedican a ver la televisión los domingos es una variable aleatoria
+que sigue una distribución Normal de media desconocida y desviación típica 75 minutos.
+Elegida una muestra aleatoria de españoles se ha obtenido, para la media de esa distribución, el
+intervalo de confianza (188”18, 20882), con un nivel del 99%.
+a) Calcule la media muestral y el tamaño de la muestra.
+b) Calcule el error máximo permitido si se hubiese utilizado una muestra de 500 y un nivel de
+confianza del 96% .
+SOCIALES I1.2013 JUNIO. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2013 - Inferencia Estadística.pdf at page 4
+**********
+En una población próxima a un puerto deportivo se quiere estimar la proporción de habitantes
+que navegan al menos una vez a la semana. Se toma una muestra, al azar, de 400 habitantes de
+la población, de los que 160 afirman navegar al menos una vez en semana.
+a) Halle el inter valo de confianza del 90% para la proporción de habitantes que navegan al
+menos una vez en semana.
+b) A la vista del resultado, se pretende repetir la experiencia para conseguir una cota del error
+de 0”1 con el mismo nivel de confianza del apartado anterior. ¿Cuántos individuos debe tener
+al menos la muestra?
+SOCIALES I1.2013 RESERVA 1. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2013 - Inferencia Estadística.pdf at page 5
+**********
+Queremos estudiar la proporción de personas de una población que acceden a internet a través
+de teléfono móvil. Para ello hacemos una encuesta a una muestra aleatoria de 400 personas de
+esa población, y obtenemos que 240 de ellas acceden a internet a través del móvil.
+a) Determine un intervalo de confianza, al 98.5% , para la proporción de personas de esa
+población que acceden a internet a través del teléfono móvil.
+b) Razone el efecto que tendría sobre la amplitud del intervalo de confianza el aumento o
+disminución del tamaño de la muestra, suponiendo que se mantuvieran la misma proporción
+muestral y el mismo nivel de confianza.
+SOCIALES I1.2013 RESERVA 2. EJERCICIO 4. OPCIÓN A
+**********
+Error processing details, in 2013 - Inferencia Estadística.pdf at page 6
+**********
+a) Una población de 6000 personas se ha dividido en 3 estratos, uno con 1000 personas, otro
+con 3500 y otro con 1500. En esa población se ha realizado un muestreo estratificado con
+afijación proporcional, en el que se han elegido al azar 15 personas del tercer estrato.
+Determine el tamaño de la muestra total obtenida con este muestreo y su composición.
+b) Dada la población ( 1,4,7 ) , construya todas las muestras posibles de tamaño 2 que puedan
+formarse mediante muestreo aleatorio simple, y halle la varianza de las medias muestrales de
+todas esas muestras.
+SOCIALES I1.2013 RESERVA 2. EJERCICIO 4. OPCIÓN B
+**********
+Error processing details, in 2013 - Inferencia Estadística.pdf at page 7
+**********
+El peso de los sobres de café que fabrica una empresa sigue una ley Normal de media
+desconocida y desviación típica 0.3 g. Se quiere construir un intervalo de confianza para
+estimar dicha media, con un nivel de confianza del 98% , y para ello se toma una muestra de 9
+sobres.
+a) ¿Qué amplitud tendrá dicho intervalo?
+b) ¿Cómo afectaría a dicha amplitud un aumento del tamaño de la muestra, manteniendo el
+mismo nivel de confianza?
+c) Obtenga el intervalo de confianza sabiendo que los pesos, en gramos, de los sobres de la
+muestra son: 7,7.1,7,6.93 ,7.02,7,7.001,6.5,7.1
+SOCIALES I1.2013 RESERVA 3. EJERCICIO 4. OPCIÓN A
+**********
+Error processing details, in 2015 - Inferencia Estadística.pdf at page 7
+**********
+En una muestra aleatoria de 100 botellas de agua mineral se encontró un contenido medio de 48 cl.
+Sabiendo que la variable “contenido de agua en una botella” sigue una ley Normal con desviación típica
+5 cl, determine un intervalo de confianza para la media poblacional, con un nivel de confianza de 95 %
+b) ¿Qué tamaño muestral mínimo debería considerarse para estimar esta media con el mismo nivel de
+confianza y un error inferior a 0*5 cl?
+SOCIALES I1.2015 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2017 - Inferencia Estadística.pdf at page 3
+**********
+La puntuación obtenida por los participantes en una prueba es una variable aleatoria que sigue
+una distribución Normal con desviación típica 6 puntos. Se toma una muestra aleatoria de 64
+participantes en esa prueba, resultando una puntuación media de 35 puntos.
+a) Calcule un intervalo de confianza, al 95% , para la calificación media del total de
+participantes en la citada prueba.
+b) Halle el tamaño mínimo de la muestra necesaria para estimar la puntuación media del total
+de participantes, con un error inferior a 05 puntos y un nivel de confianza del 99%.
+SOCIALES !1.2017 JUNIO. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2017 - Inferencia Estadística.pdf at page 4
+**********
+Se desea estimar la proporción de jóvenes que ven una serie de televisión. Para ello, se toma
+una muestra aleatoria de 100 jóvenes, de los que 36 ven la serie.
+a) Determine un intervalo de confianza, al 96 %, para la proporción de jóvenes que ven la
+serie.
+b) Con el mismo nivel de confianza, si queremos que el error máximo sea inferior a 0.03, ¿qué
+tamaño muestral mínimo debemos tomar?
+SOCIALES I1.2017 RESERVA 1. EJERCICIO 4. OPCIÓN A
+**********
+Error processing details, in 2017 - Inferencia Estadística.pdf at page 5
+**********
+El peso de los paquetes de levadura de una marca sigue una ley Normal de desviación típica 0.3
+g.Se desea construir un intervalo de confianza, al 98 % , para estimar la media. Para ello, se
+toma una muestra aleatoria de 9 paquetes.
+a) ¿Qué amplitud tendrá dicho intervalo?
+b) Obtenga el intervalo sabiendo que los pesos, en gramos, de los paquetes son:
+10 99 1004 95 10.1 98 102 10 103
+SOCIALES I1.2017 RESERVA 1. EJERCICIO 4. OPCIÓN B
+**********
+Error processing details, in 2017 - Inferencia Estadística.pdf at page 7
+**********
+El precio de un determinado producto se distribuye según una ley Normal de desviación típica
+5 € y media desconocida. Se toman 10 comercios al azar y se observa en ellos el precio de este
+producto, resultando los siguientes valores en euros:
+96 108 97 112 99 106 105 100 98 99
+a) ¿Cuál es la distribución del precio medio del producto en las muestras de tamaño 10?
+b) Determine un intervalo de confianza, al 97 % , para la media poblacional.
+c) Con el mismo nivel de confianza, ¿cuál debe ser el tamaño mínimo de la muestra de esa
+población para que el error cometido sea menor que 2?
+SOCIALES I1.2017 RESERVA 2. EJERCICIO 4. OPCIÓN B
+**********
+Error processing details, in 2017 - Inferencia Estadística.pdf at page 8
+**********
+Se desea estimar el porcentaje de alumnos de un determinado instituto que lleva gafas. Para
+ello se eligen 300 alumnos, de los que 210 llevan gafas.
+a) Calcule el intervalo de confianza para la proporción de alumnos que lleva gafas, con un nivel
+de confianza del 97 %.
+b) Si por estudios en otros institutos se sabe que la proporción de alumnos que lleva gafas es del
+70 % determine el tamaño mínimo de la muestra necesario para que, con una confianza del
+97 % el error máximo que se cometa sea inferior a 0.06.
+SOCIALES I1.2017 RESERVA 3. EJERCICIO 4. OPCIÓN A
+**********
+Error processing details, in 2017 - Inferencia Estadística.pdf at page 9
+**********
+Se sabe que el peso de los tarros de mermelada que fabrica una empresa sigue una distribución
+Normal con desviación típica 25 g. Con objeto de estimar el peso medio de los tarros fabricados
+por esa empresa se selecciona una muestra aleatoria de 100 tarros de esa fábrica obteniéndose
+un peso medio de 230 g.
+a) Calcule un intervalo de confianza, al 96 % , para la media de la población.
+b) ¿Qué error máximo se ha cometido en el inter valo anterior?
+c) Determine el tamaño muestral mínimo para que el error máximo cometido al construir un
+intervalo de confianza, con el mismo nivel de confianza, sea 2 g.
+SOCIALES I1.2017 RESERVA 3. EJERCICIO 4. OPCIÓN B
+**********
+Error processing details, in 2017 - Inferencia Estadística.pdf at page 11
+**********
+El tiempo diario, en horas, que dedican los alumnos de una Facultad a las redes sociales sigue
+una ley Normal de desviación típica 2 horas. Se toma una muestra aleatoria de 10 alumnos con
+los siguientes tiempos en horas
+65 7 625 7 55 725 6.75 625 6 6.5
+a) Determine el intervalo de confianza, al 90 %, para el tiempo medio diario dedicado por los
+alumnos de esa Facultad a las redes sociales.
+b) Utilizando el mismo nivel de confianza anterior, calcule el tamaño muestral mínimo
+necesario para estimar el tiempo medio diario, para un error de estimación máximo de 0.1
+horas.
+SOCIALES I1.2017 RESERVA 4. EJERCICIO 4. OPCIÓN B
+**********
+Error processing details, in 2018 - Inferencia Estadística.pdf at page 5
+**********
+Se quiere estimar la proporción de estudiantes que asiste de forma regular al cine. Para ello, se
+toma una muestra aleatoria simple de tamaño 300 y se obtiene que de ellos, 210 acuden con
+regularidad al cine.
+a) Calcule un intervalo de confianza al 92% para estimar la proporción de estudiantes que va
+regularmente al cine. ¿Qué error máximo se cometería si se diera como estimación de dicha
+proporción 07?
+b) Con el mismo nivel de confianza, siendo la proporción muestral la misma, si queremos que el
+error sea menor que 002, ¿cuántos alumnos como mínimo hay que elegir en la muestra.
+SOCIALES I1.2018 RESERVA 1. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2018 - Inferencia Estadística.pdf at page 7
+**********
+Se desea estimar el porcentaje de jóvenes que utilizan una determinada red social. Para ello se
+escoge una muestra aleatoria simple de 500 jóvenes y de ellos 410 afirman utilizarla.
+a) Calcule el intervalo de confianza para la proporción de jóvenes que usa esa red social con un
+nivel de confianza del 95% .
+b) Manteniendo la proporción muestral, determine el tamaño mínimo de la muestra necesario
+para que, con un nivel de confianza del 97%, el error máximo que se cometa al estimar la
+proporción de esa población sea inferior a 0.04.
+SOCIALES I1.2018 RESERVA 2. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2018 - Inferencia Estadística.pdf at page 9
+**********
+La Delegación de Tráfico de una ciudad desea estudiar la influencia del uso del teléfono móvil
+en los accidentes de tráfico. Elegida una muestra aleatoria simple de 250 accidentes registrados
+el año pasado, se observó que 90 de ellos se produjeron por distracciones debidas al uso del
+móvil.
+a) Determine un intervalo de confianza al 97% para estimar la proporción de accidentes de
+tráfico debidos al uso del móvil mientras se conduce.
+b) Usando la estimación anterior, calcule el tamaño mínimo que debe tener una muestra para
+estimar la proporción de accidentes con un error máximo del 5% y un nivel de confianza del
+99% .
+SOCIALES I1.2018 RESERVA 3. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2018 - Inferencia Estadística.pdf at page 12
+**********
+En una zona escolar formada por tres centros de secundaria, se desea estimar la proporción del
+alumnado que lleva teléfono móvil al instituto. Se toma una muestra aleatoria simple de 121
+estudiantes, de los cuales 74 lo llevan.
+a) Determine un intervalo de confianza al 97% para la proporción de este alumnado que lleva
+el móvil al instituto. ¿Entre qué dos porcentajes varia esa proporción a ese nivel de confianza?.
+b) Si con la misma muestra se disminuye el nivel de confianza, ¿Qué efecto tendrá esta
+disminución en el error de estimación?.
+c) Si en la misma zona se elige mediante muestreo aleatorio estratificado con afijación
+proporcional otra muestra de 121 estudiantes, considerando que el segundo centro escolar tiene
+el doble de alumnos que el primero y el tercero tiene el triple que el primero, ¿cuántos alumnos
+de cada centro se deben tomar para constituir la muestra?.
+SOCIALES I1.2018 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2019 - Inferencia Estadística.pdf at page 12
+**********
+Las puntuaciones obtenidas por los participantes en un concurso se distribuyen siguiendo una
+ley Normal de varianza 36 y media desconocida. Se toma una muestra de 64 concursantes, cuya
+puntuación media es 35.
+a) Obtenga un intervalo, con un 92% de confianza, para la puntuación media de los
+participantes en dicho concurso.
+b) Calcule el tamaño mínimo de la muestra que se ha de tomar para estimar la puntuación
+media del total de concursantes, con un error inferir a 2 puntos y un nivel de confianza del
+98% .
+SOCIALES I1.2019 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2021 - Inferencia Estadística.pdf at page 3
+**********
+Se desea estimar la proporción de individuos mayores de edad de una localidad que están en
+contra de la construcción de una central nuclear en su término municipal. Para ello, se pregunta a
+100 individuos mayores de edad de esa localidad, elegidos de forma aleatoria, resultando que 45
+de ellos rechazan la construcción de la central.
+a) Calcule un intervalo de confianza al 92% para estimar la proporción real de individuos de esa
+localidad que están en contra de la construcción de la central.
+b) Suponiendo que se mantiene la misma proporción muestral y el mismo nivel de confianza del
+apartado anterior, determine el tamaño mínimo de la muestra que hay que tomar, para que al
+estimar la proporción de individuos de esa localidad que rechazan la construcción de la central, el
+error cometido sea inferior al 5%.
+SOCIALES II.2021 JUNIO. EJERCICIO D8
+**********
+Error processing details, in 2021 - Inferencia Estadística.pdf at page 4
+**********
+Para un estudio acerca del uso del transporte público en una ciudad, se selecciona una muestra
+aleatoria de 500 individuos, obteniéndose que 175 de ellos lo usan.
+a) Halle un intervalo de confianza al 94% , para estimar la proporción real de individuos que
+usan el transporte público en esa ciudad.
+b) Manteniendo la proporción muestral, ¿Cuántos individuos se deberían seleccionar como
+mínimo, para que, con un nivel de confianza del 97%, la proporción muestral defiera de la
+proporción real a lo sumo en un 2% ?.
+SOCIALES II.2021 RESERVA 1. EJERCICIO D7
+**********
+Error processing details, in 2021 - Inferencia Estadística.pdf at page 6
+**********
+a) En una población constituida por los números naturales del 1 al 9, ¿cuántas muestras de
+tamaño 2 se pueden formar por muestreo aleatorio simple?. Si se elige al azar una de esas
+muestras, ¿cuál es la probabilidad de que el valor medio de los dos números de esa muestra sea
+5?.
+b) Para estimar la proporción de andaluces contagiados por una enfermedad infecciosa en un
+momento determinado, se ha tomado una muestra de 10000 personas, resultando que 500 de
+ellas estaban infectadas.
+1. Con ese dato, establezca un intervalo, al 97% de confianza, para la proporción real de
+infectados en la población andaluza.
+2. A la vista del intervalo obtenido, razone si se podrá aceptar que el 6% de la población
+andaluza estaba infectada.
+3. Se toma una nueva muestra de mayor tamaño y resulta que hay la misma proporción
+de positivos en la nueva muestra. Con estos nuevos datos, razone si el nuevo intervalo al
+97% de confianza contiene al intervalo anterior o está contenido en él.
+SOCIALES II.2021 RESERVA 2. EJERCICIO D7
+**********
+Error processing details, in 2021 - Inferencia Estadística.pdf at page 10
+**********
+Se quiere estimar la proporción de imprentas de una región que incluyen el uso de celulosa
+reciclada en los libros que imprimen. Para ello, se ha tomado una muestra aleatoria de 50
+imprentas de esa región y en ella hay 12 que usan dicho material.
+a) Obtenga un intervalo de confianza al 95% ,para estimar la proporción real de imprentas que
+usan celulosa reciclada.
+b) Determine el tamaño mínimo de la muestra de imprentas de esa región que se deben
+seleccionar para que, manteniendo el mismo nivel de confianza y proporción muestral
+anteriores, la amplitud del intervalo sea como máximo de 072.
+SOCIALES II.2021 RESERVA 3. EJERCICIO D8
+**********
+Error processing details, in 2021 - Inferencia Estadística.pdf at page 11
+**********
+Se quiere estudiar la proporción de ciudadanos enfermos de COVID-19 en una determinada
+población. Para ello, se elige una muestra al azar de 1000 ciudadanos, revelándose que el 15%
+de ellos están enfermos.
+a) Calcule un intervalo de confianza al 95% , para estimar la proporción real de enfermos de
+COVID-19 en dicha población.
+b) Determine el tamaño muestral mínimo para que, con el mismo nivel de confianza y la misma
+proporción muestral anteriores, el error que se cometa al estimar la proporción de ciudadanos
+enfermos de COVID-19 en esa población sea inferior al 1%.
+SOCIALES II.2021 RESERVA 4. EJERCICIO D7
+**********
+Error processing details, in 2023 - Inferencia Estadística.pdf at page 4
+**********
+a) Utilizando los números naturales de 1 al 6, ¿cuántas muestras de tamaño 2 pueden formarse
+aplicando un muestreo aleatorio simple?. Si se elige una de estas muestra al azar, ¿cuál es la
+probabilidad de que la media de los números obtenidos sea como máximo 2?.
+b) Se ha diseñado una encuesta para estimar qué proporción de adolescentes de una zona están
+subscritos a una determinada red social. ¿Qué tamaño debemos tomar para estimar dicha
+proporción por un intervalo de confianza al 95% con un error máximo de 0”15?.
+SOCIALES II.2023 RESERVA 1. EJERCICIO D7
+**********
+Error processing details, in 2010 - Contraste De Hipótesis.pdf at page 3
+**********
+Una máquina de envasado está diseñada para llenar bolsas con 300 g de almendras. Para
+comprobar si funciona correctamente, se toma una muestra de 100 bolsas y se observa que su
+peso medio es de 297 g. Suponiendo que la variable “peso” tiene una distribución Normal con
+varianza 16, y utilizando un contraste bilateral ¿es aceptable, a un nivel de significación de
+0.05, que el funcionamiento de la máquina es correcto?.
+SOCIALES I1.2010 RESERVA 1. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2010 - Contraste De Hipótesis.pdf at page 4
+**********
+Se sabe que los años de vida de los individuos de una población es una variable aleatoria
+Normal con desviación típica 8.9 años. Una muestra aleatoria de 100 individuos de esa
+población mostró una vida media de 71.8 años. Mediante un contraste unilateral, ¿puede
+afirmarse con los datos anteriores que la vida media es mayor de 70 años, a un nivel de
+significación a=0.05 ?.
+SOCIALES I1.2010 RESERVA 2. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2010 - Contraste De Hipótesis.pdf at page 6
+**********
+En una determinada especie animal el porcentaje de mortalidad debida a una enfermedad
+vírica es de al menos un 40%.
+Se está realizando un estudio para probar la eficacia de un fármaco que permite tratar esa
+enfermedad y, consecuentemente, reducir el porcentaje de mortalidad en esa especie. Para ello,
+se suministró el fármaco a 50 sujetos enfermos, elegidos al azar, de los que murieron 14.
+A la vista de estos datos, y tomando como nivel de significación 0.015, ¿ se puede afirmar que
+existe evidencia estadística suficiente para rechazar la hipótesis H,: p>0.4, donde p es la
+proporción, y por lo tanto aceptar la eficacia del fármaco?.
+SOCIALES I1.2010 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2011 - Contraste De Hipótesis.pdf at page 2
+**********
+Una máquina está preparada para fabricar piezas de, a lo sumo, 10 cm de longitud.
+Se toma una muestra de 1000 piezas, comprobándose que la media de sus longitudes es de
+10.0037 cm. La longitud de las piezas fabricadas por esa máquina sigue una ley Normal con
+desviación típica 0.2 cm.
+a) Plantee un contraste de hipótesis unilateral para comprobar si con los datos de esa muestra
+es posible afirmar que la media de la longitud de las piezas fabricadas por la máquina es de
+más de 10cm.
+b) Determine la región de aceptación de la hipótesis nula de ese contraste para un nivel de
+significación a1=0.025 .
+c) Con los datos de la muestra y usando el contraste de hipótesis del primer apartado,¿qué
+conclusión se obtendría sobre la longitud media de las piezas fabricadas?
+SOCIALES 1.2011 JUNIO. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2011 - Contraste De Hipótesis.pdf at page 3
+**********
+El director de una televisión afirma que un nuevo programa que va a emitirse será visto, al
+menos, por un 30% de personas. Una vez emitido se realizó una encuesta a 500 personas,
+elegidas al azar, y ésta reveló que 130 de ellas habían visto ese programa.
+a) Formule la hipótesis nula y la alternativa del contraste de hipótesis que permite determinar
+silos datos de la encuesta realizada son compatibles con la afirmación del director.
+b) Halle la región crítica de ese contraste para un nivel de significación del 5.5%.
+c) Según el dato obtenido en el apartado anterior ¿qué conclusión se obtiene sobre la
+afirmación realizada por el director de esa televisión?.
+SOCIALES 1.2011 RESERVA 1. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2011 - Contraste De Hipótesis.pdf at page 4
+**********
+El director de un banco afirma que la cantidad media de dinero extraído, por cliente, de un
+cajero automático de su sucursal no supera los 120 euros. Para contrastar esta hipótesis elige al
+azar 100 extracciones de este cajero y obtiene una media muestral de 130 euros. Se sabe que la
+cantidad de dinero extraído por un cliente en un cajero automático se distribuye según una ley
+Normal de media desconocida y desviación típica 67 euros.
+a) Plantee el contraste de hipótesis asociado al enunciado.
+b) Determine la región de aceptación, para un nivel de significación a=0.05.
+c) Con los datos muestrales tomados, ¿existe evidencia estadística para rechazar la hipótesis de
+este director, con el mismo nivel de significación anterior ?.
+SOCIALES 1.2011 RESERVA 2. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2011 - Contraste De Hipótesis.pdf at page 5
+**********
+Un estudio sociológico afirma que el 70% de las familias cena viendo la televisión. Se desea
+contrastar la veracidad de esta afirmación y, para ello, se toma una muestra de 500 familias, en
+las que se observa que 340 ven la televisión mientras cenan. Decida, mediante un contraste de
+hipótesis, si la afirmación es cierta con un nivel de significación de 0.01
+SOCIALES I1.2011 RESERVA 3. EJERCICIO 4 OPCION B
+**********
+Error processing details, in 2011 - Contraste De Hipótesis.pdf at page 6
+**********
+Suponiendo que la variable “años de vida de los individuos de un país” sigue una distribución
+Normal con desviación típica 8.9 años, se desea contrastar la hipótesis de que la vida media de
+los mismos no supera los 70 años.
+A partir de una muestra aleatoria de 100 individuos se ha obtenido que su vida media ha sido
+71.8 años.
+a) Formule el contraste de hipótesis que indica el enunciado.
+b) Determine la región crítica a un nivel de significación del 5%.
+c) Con los datos muestrales, ¿existe evidencia estadística para rechazar la hipótesis a ese nivel
+de significación?.
+SOCIALES 11.2011 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2012 - Contraste De Hipótesis.pdf at page 4
+**********
+Se cree que al menos el 25% de los usuarios de teléfonos móviles son de contrato. De una
+encuesta realizada a 950 personas, elegida al azar, 200 de ellas manifestaron que tenían
+teléfono móvil de contrato. A la vista de estos resultados y con un nivel de significación del 5% ,
+¿puede admitirse que la proporción de personas con contrato en su teléfono móvil ha
+disminuido?. Utilice para la resolución del problema un contraste de hipótesis con hipótesis
+nula “la proporción p es mayor o igual que 0.25”.
+SOCIALES I1.2012 RESERVA 2. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2012 - Contraste De Hipótesis.pdf at page 5
+**********
+Un índice para calibrar la madurez lectora de los alumnos de primaria se distribuye según una
+ley Normal con desviación típica 2. Elegida una muestra de 18 alumnos en un centro de
+primaria, se obtiene una media muestral de 10.8 en dicho índice. Mediante el uso de un
+contraste de hipótesis, ¿se puede aceptar, con un nivel de significación de 1%, la hipótesis nula
+de que la media del índice de madurez lectora de los alumnos de este centro no es inferior a
+112.
+SOCIALES I1.2012 RESERVA 4. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2012 - Contraste De Hipótesis.pdf at page 6
+**********
+En una caja de ahorros se sabe que el porcentaje de los nuevos clientes que contratan un plan
+de pensiones no supera el 23% . El director de una de las sucursales decide hacer un regalo a
+cualquier nuevo cliente que contrate uno de esos planes y, tras un mes, comprueba que 110 de
+los 470 nuevos clientes han contratado un plan de pensiones.
+a) Plantee un contraste de hipótesis, con H,: p<0.23, para decidir si, con los datos dados, se
+puede afirmar que la medida del director ha aumentado la contratación de estos planes de
+pensiones. Halle la región de aceptación de este contraste de hipótesis para un nivel de
+significación del 5%
+b) Según el resultado del apartado anterior, ¿qué conclusión podemos obtener sobre la medida
+tomada por el director de esta sucursal?.
+SOCIALES I1.2012 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2013 - Contraste De Hipótesis.pdf at page 2
+**********
+Un director sanitario sostiene que el índice de Masa Corporal (IMC) media de los adolescentes
+de su distrito no supera el nivel 25 (sobrepeso). Para contrastar su afirmación toma una
+muestra aleatoria de 225 adolescentes que da como resultado un IMC medio de 26. Sabiendo
+que el IMC sigue una distribución Normal con desviación típica 5 discuta, mediante un
+contraste de hipótesis con H, :<25, si la afirmación del director sanitario es correcta, con un
+nivel de significación del 5% .
+SOCIALES 1.2013 RESERVA 1. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2013 - Contraste De Hipótesis.pdf at page 3
+**********
+Los representantes de un partido político creen que la proporción de sus votantes será al menos
+del 35% . Para confirmarlo eligen una muestra al azar de 1200 votantes y obtienen que 336 de
+ellos son partidarios de votarles. Mediante un contraste de hipótesis, con H,: p>0.35,y a un
+nivel de significación del 0.01, ¿se puede admitir como cierta la creencia de los representantes
+del partido político?
+SOCIALES 1.2013 RESERVA 3. EJERCICIO 4. OPCIÓN B
+**********
+Error processing details, in 2013 - Contraste De Hipótesis.pdf at page 4
+**********
+En una bodega utilizan una maquina que debe envasar el vino en botellas con un contenido de
+750 ml. Para comprobar si esa máquina funciona correctamente, se toma una muestra de 36
+botellas y se observa que el contenido medio de las mismas es de 748 ml. Suponiendo que la
+variable "contenido" sigue una distribución Normal con varianza 25, analice mediante un
+contraste de hipótesis bilateral (H, : H=750) si se puede aceptar, con un nivel de significación
+de 0.05, que la maquina envasadora funciona correctamente.
+SOCIALES I1.2013 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2014 - Contraste De Hipótesis.pdf at page 5
+**********
+La concejalía de Educación de una determinada localidad afirma que el tiempo medio dedicado
+a la lectura por los jóvenes de entre 15 y 20 años de edad es, a lo sumo, de 8 horas semanales.
+Para contrastar esta hipótesis (H,:H:<8), se escoge al azar una muestra de 100 jóvenes, de
+entre 15 y 20 años, y se obtiene una media de 8.3 horas de dedicación a la lectura. Supuesto que
+el tiempo dedicado a la lectura sigue una ley Normal con desviación típica igual a 1 hora, ¿qué
+se puede decir, a un nivel de significación del 5% , sobre la afirmación de la concejalía?.
+SOCIALES I1.2014 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A
+**********
+Error processing details, in 2015 - Contraste De Hipótesis.pdf at page 7
+**********
+La concentración de arsénico en los moluscos de una zona costera sigue una ley Normal con
+desviación típica 6 mg/kg. Para verificar la calidad de estos moluscos se toma una muestra
+aleatoria de tamaño 36 para contrastar si la media poblacional no supera el límite máximo de
+80 mg/kg permitido por la normativa sanitaria (H,:4<80).
+a) Determine la región crítica de este contraste a un nivel de significación del 5%.
+b) ¿Debe rechazarse esta hipótesis nula, al nivel del 5%, si en esa muestra de 36 moluscos se
+encuentra una concentración media de arsénico de 82 mg/kg?
+SOCIALES H1.2015 SEPTIEMBRE. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2016 - Contraste De Hipótesis.pdf at page 2
+**********
+En una encuesta realizada a 600 trabajadoras de una empresa, 250 de ellas manifiestan estar
+insatisfechas con su salario. La dirección de la empresa afirma que la proporción de
+trabajadoras que están insatisfechas con su salario no es superior a 03. Plantee un contraste de
+hipótesis para dicha proporción, con hipótesis nula H,: p<0'3. Con un nivel de significación
+del 4%, determine la región de rechazo y razone si se puede aceptar la afirmación de la
+dirección de la empresa.
+SOCIALES I1.2016 RESERVA 1. EJERCICIO 4 OPCIÓN B
+**********
+Error processing details, in 2001 - Funciones CCSS.pdf at page 2
+**********
+Calcule las funciones derivadas de las siguientes:
+Ex
+a) f(6)==>
+x
+b) g(x)=(1-x?)c08 x
+c) h(x)=4x? sx
+e
+SOCIALES I1.2001. JUNIO. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2001 - Funciones CCSS.pdf at page 3
+**********
+Un agricultor comprueba que si el precio al que vende cada caja de fresas es “x” euros, su
+beneficio diario, en euros, será: B(x)=-10x? + 100x210.
+a) Represente la función precio-beneficio.
+b) Indique a qué precio debe vender cada caja de fresas para obtener el máximo beneficio.
+¿Cuál será ese beneficio máximo?
+c) Determine a qué precios de la caja obtiene pérdidas el agricultor.
+SOCIALES I1.2001 RESERVA 1. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2001 - Funciones CCSS.pdf at page 4
+**********
+El consumo de luz (en miles de pesetas) de una vivienda, en función del tiempo transcurrido,
+nos viene dado por la expresión: f(t) = e +2t+10 0<t<12
+a) ¿En qué periodo de tiempo aumenta el consumo? ¿En cuál disminuye?
+b) ¿En qué instante se produce el consumo máximo? ¿ Y el mínimo?
+c) Represente gráficamente la función.
+SOCIALES I1.2001 RESERVA 2. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2001 - Funciones CCSS.pdf at page 7
+**********
+Dada la función: f(x)= a si -2<x<2
+x si x>2
+a) Calcule el valor de “a” para que f sea continua en x=2.
+b) Estudie la continuidad y la derivabilidad de f cuandoa =2.
+c) Dibuje la gráfica de la función que se obtiene cuando a=2.
+SOCIALES I1.2001. SEPTIEMBRE. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2002 - Funciones CCSS.pdf at page 3
+**********
+la función: B(x)=-—0'01x?+3'6x-—180.
+a) Represente gráficamente esta función. b) Determine el número de kilogramos que hay que
+producir y vender para que el beneficio sea máximo. c) Determine cuántos kilogramos se deben
+producir y vender, como máximo, para que la empresa no tenga pérdidas.
+SOCIALES H.2002 RESERVA 3. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2003 - Funciones CCSS.pdf at page 4
+**********
+por f(x)=x*-42x?+576x-—2296, en función de la hora x, siendo 11<x<20.
+a) Halle los extremos relativos de esta función.
+b) Represente esta función y determine las horas en las que crece el número medio de clientes.
+c) Halle los valores máximos y mínimos del número medio de clientes que visitan el hipermercado
+entre las 11 y las 20 horas.
+SOCIALES 1.2003 RESERVA 3. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2006 - Funciones CCSS.pdf at page 4
+**********
+Sean las funciones f(x)=x*-4x+6 y g(x)=2x-=x”.
+a) Determine, para cada una de ellas, los puntos de corte con los ejes, el vértice y la curvatura.
+Represéntelas gráficamente.
+b) Determine el valor de x para el que se hace mínima la función h(x)= f(x)- g(x)
+SOCIALES I1.2006. RESERVA 1. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2006 - Funciones CCSS.pdf at page 8
+**********
+El beneficio esperado de una empresa, en millones de euros, en los próximos ocho años viene
+dado por la función B definida por:
+-t24+7t si0<t<5
+B(t)=
+10 si 5<t<8
+donde tindica el tiempo transcurrido en años.
+a) Represente gráficamente la función B y explique cómo es la evolución del beneficio esperado
+durante esos 8 años.
+b) Calcule cuándo el beneficio esperado es de 11”25 millones de euros.
+SOCIALES I1.2006. RESERVA 3. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2006 - Funciones CCSS.pdf at page 11
+**********
+a) De una función f se sabe que la gráfica de su función derivada, f “, es la recta de ecuación
+y =-2x +4. Estudie razonadamente la monotonía de la función f, a la vista de la gráfica de la
+derivada.
+4x-4
+b) Dada la función g(x)= rs calcule la ecuación de la recta tangente a su gráfica en el
+x+
+punto de abscisa x =0.
+SOCIALES I1.2006. RESERVA 4. EJERCICIO 2. OPCION B
+**********
+Error processing details, in 2007 - Funciones CCSS.pdf at page 4
+**********
+2x?-3x+a si x<0
+a) Sea la función f(x) -|
+x?+bx+1 si x>0
+Halle a y b para que la función sea continua y derivable.
+b) Calcule la derivada de las siguientes funciones:
+3 e
+= 54 L(1- , h=
+209= nt 09
+SOCIALES I1.2007. RESERVA 1. EJERCICIO 2. OPCIÓN A.
+**********
+Error processing details, in 2007 - Funciones CCSS.pdf at page 5
+**********
+a) Determine dónde se alcanza el mínimo de la función f(x)=3x?”—6x+a . Calcule el valor de
+a para que el valor mínimo de la función sea 5.
+b) Calcule g'(3),siendo, g(x)=2x-e*"',
+SOCIALES I1.2007. RESERVA 1. EJERCICIO 2. OPCIÓN B.
+**********
+Error processing details, in 2007 - Funciones CCSS.pdf at page 6
+**********
+Se considera la función f(x)= x+l
+x?+2x-3 si x>0
+a) Estudie su derivabilidad en x=0.
+b) Determine si existen asíntotas y obtenga sus ecuaciones.
+SOCIALES II.2007. RESERVA 2. EJERCICIO 2. OPCIÓN A.
+**********
+Error processing details, in 2007 - Funciones CCSS.pdf at page 7
+**********
+Se considera la función f(x)=x*-—9x?+24x
+a) Determine los extremos relativos de f ; estudie la monotonía y la curvatura.
+b) Represente gráficamente la función f .
+SOCIALES II.2007. RESERVA 2. EJERCICIO 2. OPCION B.
+**********
+Error processing details, in 2007 - Funciones CCSS.pdf at page 8
+**********
+] o 2x”-8x+6 si
+Se considera la función definida por f(x)=
+2x*+8x-6 si
+a) Estudie la continuidad y derivabilidad def.
+b) Represente la gráfica de f .
+c) Indique los extremos relativos de la función.
+SOCIALES 11.2007. RESERVA 3. EJERCICIO 2. OPCION A.
+**********
+Error processing details, in 2007 - Funciones CCSS.pdf at page 9
+**********
+x—k
+Sea la función f(x)= x+1
+si x>0
+x?2+2x+1 si x<0
+a) Calcule el valor de k para que la función f sea continua en x = 0. Para ese valor de k ,¿es f
+derivable en x =0?
+b) Para k=0, calcule lim f(x) y lim f(x)
+X—>+00 x—>-0
+SOCIALES I1.2007. RESERVA 3. EJERCICIO 2. OPCIÓN B.
+**********
+Error processing details, in 2007 - Funciones CCSS.pdf at page 10
+**********
+El beneficio obtenido por una empresa, en miles de euros, viene dado por la función
+-5x”+40x-60 si 0<x<6
+f(G)=
+2-15 si 6<x<l0
+donde x representa el gasto en publicidad, en miles de euros.
+a) Represente la función f .
+b) Calcule el gasto en publicidad a partir del cual la empresa no tiene pérdidas.
+c) ¿Para qué gastos en publicidad se producen beneficios nulos?
+d) Calcule el gasto en publicidad que produce máximo beneficio. ¿Cuál es ese beneficio
+máximo?
+SOCIALES 1.2007. RESERVA 4. EJERCICIO 2. OPCIÓN A.
+**********
+Error processing details, in 2008 - Funciones CCSS.pdf at page 5
+**********
+a) La gráfica de la derivada de una función f es la recta que pasa por los puntos (0,-—3) y (4,0).
+Estudie la monotonía de la función f
+b) Calcule la derivada de las siguientes funciones:
+x
+200) =6x+D*-La?+1D 5; h9=
+e
+7x4
+SOCIALES 1.2008 RESERVA 1. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2009 - Funciones CCSS.pdf at page 5
+**********
+a) Sea función f(x)= .
+si x>0
+x+l
+Estudie su continuidad y su derivabilidad.
+b) Se consideran las funciones: g(x)=(2x+1)?,hG0)= 2 . Halle sus funciones derivadas.
+SOCIALES I1.2009. RESERVA 1. EJERCICIO 2. OPCIÓN B.
+**********
+Error processing details, in 2009 - Funciones CCSS.pdf at page 6
+**********
+Un almacenista de frutas ha estimado que el beneficio que le produce cada kilogramo (Kg) de
+fresas depende del precio de venta de acuerdo con la función
+B(x)=-x?+4x-3
+siendo B(x) el beneficio por Kg y x el precio de cada Kg, ambos expresados en euros.
+a) ¿Entre qué precios se producen beneficios para el almacenista?.
+b) ¿Qué precio maximiza los beneficios?.
+Cc) Si tiene en el almacén 10.000 Kg de fresas, ¿cuál será el beneficio total máximo que podrá
+obtener?.
+SOCIALES I1.2009 RESERVA 2. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2009 - Funciones CCSS.pdf at page 7
+**********
+3* si x<l
+Sea función f(x) -|
+x?-6x4+8 si x>1
+a) Estudie la continuidad y la derivabilidad de la función f.
+b) Calcule la ecuación de la recta tangente a la gráfica de la función f en el punto de abscisa
+x=3.
+SOCIALES I1.2009. RESERVA 2. EJERCICIO 2. OPCIÓN B.
+**********
+Error processing details, in 2009 - Funciones CCSS.pdf at page 9
+**********
+=x+l si x<l
+Sea función real de variable real f(x) |
+x=1l si x21
+a) Represente gráficamente la función.
+b) Estudie la continuidad de la función.
+c) Estudie la derivabilidad de la función.
+SOCIALES I1.2009. RESERVA 3. EJERCICIO 2. OPCIÓN B.
+**********
+Error processing details, in 2011 - Funciones CCSS.pdf at page 2
+**********
+e?»
+(ex? 42)?
+b) Se sabe que la expresión que representa el número medio de clientes N(t) que acuden un
+día a una cadena de almacenes, en función del número de horas t que llevan abiertos, es
+N(O)=a-t?+b-t,0<t<8 , a,beR.
+a) Calcule la función derivada de f(x)=
+Sabiendo que el máximo de clientes que han acudido ese día ha sido de 160 y que se ha
+producido a las 4 horas de abrir, calcule a y b.
+SOCIALES I1.2011. JUNIO. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2011 - Funciones CCSS.pdf at page 4
+**********
+x<2
+Sea la función f(x)= = si 2<x<4
+x
+x?-4x41l si x>4
+a) Estudie la continuidad y la derivabilidad de f.
+b) Determine los extremos locales de f.
+c) Calcule la ecuación de la recta tangente a la gráfica de la función en el punto de abscisa
+x=3.
+SOCIALES I1.2011. RESERVA 1. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2011 - Funciones CCSS.pdf at page 6
+**********
+Tras un test realizado a un nuevo modelo de automóvil, se ha observado que el consumo de
+gasolina,c(x) , expresado en litros, viene dado por la función
+c(x)=7.5—0.05x +0.00025x?
+siendo x la velocidad en Km/h y 25<x<175
+a) Determine el consumo de gasolina a las velocidades de 50 Km/h y 150 Km/h.
+b) Estudie el crecimiento y decrecimiento de la función c(x).
+c) ¿A qué velocidades de ese intervalo se obtiene el mínimo consumo y el máximo consumo y
+cuáles son éstos?.
+SOCIALES I1.2011. RESERVA 2. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2011 - Funciones CCSS.pdf at page 7
+**********
+x+2
+2
+x-2
+a) Estudie la continuidad y la derivabilidad de f.
+b) Halle las ecuaciones de las asíntotas de esta función.
+SOCIALES I1.2011. RESERVA 2. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2011 - Funciones CCSS.pdf at page 8
+**********
+Un banco lanza al mercado un plan de inversión cuya rentabilidad R(x),en miles de euros,
+viene dada en función de la cantidad, x, que se invierte, también en miles de euros, por la
+siguiente expresión:
+R(x)=-0.001x?+0.4x+3.5 con x>10
+a) Calcula la rentabilidad para una inversión de 100000 euros.
+b) Deduzca y razone qué cantidad habría que invertir para obtener la máxima rentabilidad.
+Cc) ¿Qué rentabilidad máxima se obtendría?.
+SOCIALES I1.2011. RESERVA 3. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2011 - Funciones CCSS.pdf at page 9
+**********
+1-2x? si x<l
+Sea la función f(x)=% x”-2ax+3 si 1<x<3
+=x?+8x-15 si x>3
+a) Calcule el valor de a para que f sea continua en x=1.
+b) Para a =2 estudie la continuidad y la derivabilidad de f.
+SOCIALES I1.2011. RESERVA 3. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2011 - Funciones CCSS.pdf at page 10
+**********
+El beneficio, en miles de euros, alcanzado en una tienda de ropa el pasado año, viene dado por
+la función B(t) expresada a continuación
+1 .
+=t4-t+5 si 0Sts<6
+B(t) = ,tes el tiempo transcurrido en meses
+e si 6<t<12
+a) Estudie la derivabilidad de la función al cabo de 6 meses.
+b) ¿Cuándo fue mínimo el beneficio?. ¿Cuál fue dicho beneficio?.
+c) Represente gráficamente la función B(t). ¿Cuándo fue máximo el beneficio?. ¿A cuánto
+ascendió?.
+SOCIALES I1.2011. RESERVA 4. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2011 - Funciones CCSS.pdf at page 11
+**********
+a) La gráfica de la función derivada, f ”, de una función f es una parábola que corta al eje OX en
+los puntos (—1,0) y (3,0), y tiene su vértice en (1,-4).
+Estudie, a partir de ella, la monotonía de la función f e indique la abscisa de cada extremo
+relativo.
+3x
+b) Halle la ecuación de la recta tangente a la gráfica de la función g(x)=-—2e
+abscisa x=0
+SOCIALES I1.2011. RESERVA 4. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2011 - Funciones CCSS.pdf at page 13
+**********
+x?-3x+4 si x<2
+Sea la función f(x)=
+a .
+=- si x>2
+x
+a) Halle el valor de a para que dicha función sea continua y estudie la derivabilidad de f para
+ese valor de a.
+b) Para a=1, ¿existe alguna asíntota vertical de esa función? ¿Y horizontal?. Razone las
+respuestas y calcule, en caso afirmativo, dichas asíntotas.
+SOCIALES I1.2011. SEPTIEMBRE. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2012 - Funciones CCSS.pdf at page 3
+**********
+Se estima que el beneficio de una empresa, en millones de euros, para los próximos 10 años
+. o at=t? si 0<t<6 . . .
+viene dado por la función B(t)= : , Siendo t el tiempo transcurrido en
+2t si 6<t<10
+años.
+a) Calcule el valor del parámetro a para que B sea una función continua.
+b) Para a=8 represente su gráfica e indique en qué períodos de tiempo la función crecerá o
+decrecerá.
+c) Para a=8 indique en qué momento se obtiene el máximo beneficio en los primeros 6 años y
+a cuánto asciende su valor.
+SOCIALES I1.2012. JUNIO. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2012 - Funciones CCSS.pdf at page 4
+**********
+De la función f se sabe que su función derivada es f'(x)=3x*-8x+5
+a) Estudie la monotonía y la curvatura de f.
+b) Sabiendo que la gráfica pasa por el punto (1,1), calcule la ecuación de la recta tangente en
+dicho punto.
+SOCIALES I1.2012. RESERVA 1. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2012 - Funciones CCSS.pdf at page 7
+**********
+ax?-2x si x<2
+Sea la función f(x)=
+5 si x>2
+a) Calcule a y b para que la función sea continua en todo su dominio y presente un mínimo en
+x=1
+b) Represente gráficamente la función para a=1.5 y b=0.5
+SOCIALES I1.2012. RESERVA 2. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2012 - Funciones CCSS.pdf at page 9
+**********
+Sea P(t)el porcentaje de células, de un determinado tejido, afectadas por un cierto tipo de
+(? si 0<ts<5
+enfermedad transcurrido un tiempo t, medido en meses: P(t)=4 100t -250
+t>5
+t+5
+a) Estudie la continuidad de la función P.
+b) Estudie la derivabilidad de P en t=5.
+c) Estudie la monotonía de dicha función e interprete la evolución del porcentaje de células
+afectadas.
+d) ¿En algún momento el porcentaje de células afectadas podría valer 507.
+SOCIALES I1.2012. RESERVA 3. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2012 - Funciones CCSS.pdf at page 11
+**********
+Calcule las derivadas de las siguientes funciones:
+a) fG6)=e”*” -In(2x-5)
+2x
+3
+b) 200=371
+e) h(x)=(3x?*+5x-1)%+x?-In x
+SOCIALES I1.2012. RESERVA 4. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2012 - Funciones CCSS.pdf at page 13
+**********
+En el mar hay una mancha producida por una erupción submarina. La superficie afectada, en
+Km?, viene dada por la función f(t)= ” 2 , Siendo t el tiempo transcurrido desde que
++
+empezamos a observarla.
+a) ¿Cuál es la superficie afectada inicialmente, cuando empezamos a medirla
+b) Estudie si la mancha crece o decrece con el tiempo
+c) ¿Tiene algún límite la extensión de la superficie de la mancha?
+SOCIALES I1.2012. SEPTIEMBRE. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2013 - Funciones CCSS.pdf at page 6
+**********
+=x?+6x-5 si 2<x<4
+=2x+1l si 4<xs<5
+a) Estudie la derivabilidad de la función f(x) en el punto de abscisa x=4.
+Consideremos la función f(x) Al
+b) Represente gráficamente la función f(x) e indique dónde alcanza su máximo y su mínimo
+absolutos. ¿Cuál es el valor del máximo? ¿ Y del mínimo?
+SOCIALES 1.2013 RESERVA 2. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2013 - Funciones CCSS.pdf at page 7
+**********
+1 1,
+Sea la función [09=345x0-2x+43
+a) Determine sus máximos y mínimos relativos.
+b) Consideremos la función g(x)= f '(x). Calcule la ecuación de la recta tangente a la gráfica
+de la función g(x),en el punto de abscisa x=2.
+c) Dibuje la gráfica de g(x) y de la recta tangente calculada en b).
+SOCIALES I1.2013 RESERVA 2. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2013 - Funciones CCSS.pdf at page 8
+**********
+2x*-12 si  x<-3
+Sea la función f(x)=3=x+3 si -3<x<2
+x=1 si x>2
+a) Estudie la continuidad y derivabilidad de f(x) en su dominio.
+b) Determine los intervalos de crecimiento y decrecimiento.
+c) Calcule los extremos relativos.
+SOCIALES I1.2013 RESERVA 3. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2013 - Funciones CCSS.pdf at page 9
+**********
+Sea la función f(x)=x*-24x?+4x
+a) Halle los intervalos de concavidad y convexidad y los puntos de inflexión.
+b) Obtenga la ecuación de la recta tangente a la gráfica de en el punto de abscisa x =-2
+c) En el punto de abscisa x=1,¿la función es creciente o decreciente?
+SOCIALES I1.2013 RESERVA 3. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2013 - Funciones CCSS.pdf at page 10
+**********
+Calcule las derivadas de las siguientes funciones:
+és”
+3-x?
+b) g(x)=e”* (x-5x?)”
+a) fG0)=
+ce) h(x) = ==
+SOCIALES I1.2013 RESERVA 4. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2015 - Funciones CCSS.pdf at page 3
+**********
+x*+2
+Se considera la función f(x)=3 8x+a
+x—-1
+a) Determine el valor de a, para que la función sea continua.
+b)¿Para a =—10,es creciente la función en x=37.
+c) Halle sus asíntotas para a =—10
+SOCIALES I1.2015. JUNIO. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2017 - Funciones CCSS.pdf at page 4
+**********
+En una especie animal la contracción del iris, en décimas de milímetro, después de exponer el
+ojo a una luz brillante durante un determinado tiempo, viene dada por
+t? si 0St<2
+fO=3 4
+— si t>2
+t-1
+donde tes el tiempo, en segundos, que transcurre desde que se concentra la luz en el ojo.
+a) Estudie la continuidad y la derivabilidad de la función f.
+b) Represente gráficamente la función f, determinando los intervalos de crecimiento y
+decrecimiento y sus asíntotas, en caso de que existan.
+c) Determine en qué instante se obtiene la máxima contracción y su valor.
+SOCIALES !1.2017 RESERVA 1. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2017 - Funciones CCSS.pdf at page 5
+**********
+si x<0
+Sea la función f(x)=3x+3 si 0O<x<2
+x?41l si x>2
+a) Estudie la continuidad de la función en su dominio y clasifique sus discontinuidades, en caso
+de que exista alguna.
+b) Estudie la derivabilidad de la función en su dominio.
+SOCIALES I1.2017 RESERVA 1. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2017 - Funciones CCSS.pdf at page 6
+**********
+Sea la función f(x)=x*-—12x+1.
+a) Estudie su monotonía y determine sus extremos relativos.
+b) Obtenga la ecuación de la recta tangente a la gráfica de la función en el punto de abscisa
+x=1l.
+SOCIALES I1.2017 RESERVA 2. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2017 - Funciones CCSS.pdf at page 7
+**********
+a) Calcule los valores de los parámetros a y b para que la gráfica de la función
+f(9)=x*+ax?*+b presente un extremo relativo en el punto (2,6).
+b) Para a=1 y b=1, halle la ecuación de la recta tangente a la gráfica de esa función en el
+punto de abscisa x=1.
+SOCIALES I1.2017 RESERVA 2. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2017 - Funciones CCSS.pdf at page 8
+**********
+El beneficio en euros que obtiene una empresa al vender x unidades de un artículo viene dado
+por la función B(x)==x*+360x-—18000  50<x<350.
+a) ¿Cuál es el beneficio obtenido si vende 100 unidades? ¿Cuántas unidades debe vender para
+obtener un beneficio de 13500 €?
+b) ¿Cuál es el número de unidades que debe vender para que el beneficio sea máximo? ¿A
+cuánto asciende ese beneficio?
+c) Represente gráficamente la función y determine cuántas unidades hay que vender para no
+obtener pérdidas.
+SOCIALES 1.2017 RESERVA 3. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2017 - Funciones CCSS.pdf at page 9
+**********
+. . a si x<0
+Se considera la función f(x)= x-1
+x?—bx-1 si x>0
+a) Calcule el valor de a y b, para que la función sea derivable en x=0.
+b) Para a=1 y b=2, halle la ecuación de la recta tangente a la gráfica de la función en el
+punto de abscisa x=2.
+SOCIALES I1.2017 RESERVA 3. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2017 - Funciones CCSS.pdf at page 13
+**********
+5x-16
+Se consideran las siguientes funciones: f(x)= X y g(x1)=x?
+x
+a) Determine la abscisa del punto donde se verifique f'(x)=g'(x).
+b) Calcule la ecuación de la recta tangente a la gráfica de cada función en el punto de abscisa
+x=2 y determine el punto de corte de ambas rectas tangentes, si existe.
+SOCIALES I1.2017. SEPTIEMBRE. EJERCICIO 2. OPCIÓN B
+**********
+Error processing details, in 2018 - Funciones CCSS.pdf at page 3
+**********
+x9+ax? si x<l
+Sea la función f(x)= 2
+bx += si x21l
+x
+a) Calcule los valores de “a” y “b” para que la función sea continua y derivable en x=1.
+b) Para b=3, determine la ecuación de la recta tangente a la gráfica de esa función en el punto de
+abscisa x=2.
+SOCIALES I1.2018 JUNIO. EJERCICIO 2 OPCIÓN B
+**********
+Error processing details, in 2018 - Funciones CCSS.pdf at page 8
+**********
+producto fabricada x, medida en toneladas, según la función f(x)=30-9x+6x*—x*. La
+capacidad máxima de producción es de 2 toneladas.
+a) Obtenga los intervalos de crecimiento y decrecimiento de la función de costes de la empresa.
+b) Determine la cantidad que la empresa debe producir para minimizar los costes. ¿Cuál sería
+dicho coste mínimo?
+c) ¿Con qué producción la empresa tiene unos costes de producción máximos?
+SOCIALES I1.2018 RESERVA 3. EJERCICIO 2 OPCIÓN A
+**********
+Error processing details, in 2018 - Funciones CCSS.pdf at page 12
+**********
+El consumo de cereales en una ciudad, en miles de toneladas, viene dado por la función
+c(t)=t*-15t?+63t+10,para O<t<12, donde t representa el tiempo.
+a) ¿En qué instante se alcanza el máximo consumo de cereales y cuántas toneladas se consumen
+en ese momento?.
+b) ¿En qué intervalo de tiempo decrece el consumo de cereales?.
+c) Represente gráficamente la función.
+SOCIALES 1.2018. SEPTIEMBRE. EJERCICIO 2. OPCIÓN A
+**********
+Error processing details, in 2021 - Funciones CCSS.pdf at page 2
+**********
+Se considera la función f(x)=x*-4x?+4x
+a) Estudie su monotonía y calcule sus extremos.
+b) Represente gráficamente la función.
+c) Calcule j f(x) dx
+d) Calcule el área del recinto acotado limitado por la gráfica de f y el eje de abscisas.
+SOCIALES II.2021. JUNIO. EJERCICIO B3
+**********
+Error processing details, in 2021 - Funciones CCSS.pdf at page 4
+**********
+ax+b si x<l
+Se considera la función f(x) =|
+x?-bx+a si x>1
+a) Halle el valor de b para que f sea continua en R.
+1
+b)Para b= 2 halle el valor de a para que f sea derivable en R.
+c) Para a<0 y b= 7? estudie el crecimiento y halle las abscisas de los extremos de la función f.
+1
+d) Para a=0 y b=>> represente la región del plano delimitada por la gráfica de f, el eje de
+abscisas y las rectas x=0 y x=2. Calcule el área de dicha región.
+SOCIALES II.2021 RESERVA 1. EJERCICIO B3
+**********
+Error processing details, in 2021 - Funciones CCSS.pdf at page 5
+**********
+1
+La función es creciente en (1,+00) . Decreciente en (=-o,1) y tiene un mínimo en (15 +a
+si x<l
+= ei
+d) La función es: f(x) =
+x?*-tx+a si x>1
+2
+Hacemos el dibujo de la región que nos dicen
+: : x
+Area= Área del rectángulo + área de debajo de la función x?- 2 entre 1 y 2
+2?
+9?
+1?
+1?
+25
+1 3 27?
+amo] [00 Ja + 4 2
+2), 2 2013 4] 2
+3
+4
+H
+3
+4
+1,8, 1,1
+2.3 3.4
+www.emestrada.org
+u
+12
+2
+**********
+Error processing details, in 2021 - Funciones CCSS.pdf at page 17
+**********
+El número de diagnosticados de COVID-19 por PCR en Andalucía, medido en miles de
+personas, se aproxima por la siguiente función:
+-1*4+2t-0'3 si 0'2<t<1'8
+f(t)= 0'1t-0'12 si 118<t<5
+-0'5t?+8'3t-28'62 si 5<t<l0
+En donde t es el tiempo, medido en meses, a partir del inicio de conteo en el mes de marzo de
+2020
+a) Estudie la continuidad y derivabilidad de la función fen su dominio
+b) ¿En qué instante o instantes es máximo el número de diagnosticados? ¿Cuál es su número?.
+SOCIALES II.2021. JULIO. EJERCICIO B4
+**********
+Error processing details, in 2023 - Funciones CCSS.pdf at page 6
+**********
+a) Calcule la ecuación de la recta tangente a la gráfica de cada una de las siguientes funciones
+en el punto de abscisa x=0
+3x?4+5x-2 1
+f O) = == =1
+5 -3x +7 E09 (55)
+b) Calcule las integrales definidas siguientes:
+15
+—— dx
+5 3x*
+SOCIALES II.2023 RESERVA 1 EJERCICIO B3
+**********
+Error processing details, in 2025 - Funciones CCSS.pdf at page 13
+**********
+Trinidad, una persona ahorradora, deposita 5000 € en un fondo de inversión y el capital final
+que obtiene cuando transcurren t años viene dado por la siguiente función:
+50 5000-(1+0'05t) si O<t<1
+t)= .
+5000-1'05' — si t>1
+a) ¿Cuánto tiempo debe mantener invertido el dinero si el capital final que se obtiene es de
+5931*10 €?.
+b) Calcule los intereses que obtiene Trinidad entre el año 2 y el año 4, si se conoce que los intereses
+que genera esta inversión entre el año t, y el año t, vienen dado por I= f(t,)-f(t,).
+c) Estudie la continuidad y derivabilidad de la función f
+d) Estudie la monotonía de la función f y esboce su gráfica.
+SOCIALES II.2025 JULIO. EJERCICIO B3
+**********

@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+settings.json
+desktop.ini
+*.pdf
+pdf_files/
+SELECTIVIDAD/
+boot_credentials.py
+db_credentials.json
+__pycache__/
+.venv/
+ANTHROPIC_API_KEY
+.env
+.DS_Store
+.Rhistory

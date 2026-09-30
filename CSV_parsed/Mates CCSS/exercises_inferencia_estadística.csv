@@ -1,0 +1,1703 @@
+subject,topic,year,exam,exercise,statement
+MATES_CCSS,Inferencia Estadística,2001.0,Junio,Ejercicio 3 Parte Ii Opción B,"La cantidad de hemoglobina en sangre del hombre sigue una ley normal con desviación típica
+de 2 gr/dl. Calcule el nivel de confianza de una muestra de 12 extracciones de sangre que
+indique que la media poblacional de hemoglobina en sangre está entre 13 y 15 gramos por
+decilitro.
+SOCIALES II. 2001 JUNIO. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2001.0,Reserva 3,Ejercicio 3 Parte Ii Opcion A,"Una agencia de alquiler de automóviles necesita estimar el número medio de kilómetros diarios
+que realiza su flota de automóviles. Se sabe que el número de kilómetros por día sigue una
+distribución normal con desviación típica de 6 Km/día. Se toman los recorridos de 100
+vehículos de la flota, obteniéndose que la media muestral es de 165 Km/día.
+a) Construya un intervalo de confianza para la media de dicha distribución a un nivel de
+confianza del 95 %.
+b) ¿Cuál debería ser el tamaño de la muestra para asegurar al nivel de confianza del 90 % que
+el error cometido es a lo sumo 01?
+SOCIALES II. 2001 RESERVA 3. EJERCICIO 3 PARTE II OPCION A"
+MATES_CCSS,Inferencia Estadística,2001.0,Reserva 4,Ejercicio 3 Parte Ii! Opcion A,"El periodo de funcionamiento de las bombillas de una determinada marca sigue una
+distribución normal de media 360 días y desviación típica 40 días. Queremos elegir una
+muestra de bombillas de esa marca cuyo periodo medio de funcionamiento sea superior a 330
+días, con probabilidad 097. Calcule el tamaño mínimo de la muestra.
+SOCIALES II. 2001 RESERVA 4. EJERCICIO 3 PARTE II! OPCION A"
+MATES_CCSS,Inferencia Estadística,2002.0,Junio,Ejercicio 3 Parte Ii Opción A,"Se sabe que la estatura de los individuos de una población es una variable aleatoria que sigue
+una distribución normal con desviación típica 6 cm. Se toma una muestra aleatoria de 225
+individuos que da una media de 176 cm.
+a) Obtenga un intervalo, con un 99% de confianza, para la media de la estatura de la
+población.
+b) Calcule el mínimo tamaño de muestra que se ha de tomar para estimar la estatura media de
+los individuos de la población con un error inferior a 1 cm y un nivel de confianza del 95%.
+SOCIALES II. 2002 JUNIO. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2002.0,Junio,Ejercicio 3 Parte Ii Opción B,"Se sabe que los estudiantes de una provincia duermen un número de horas diarias que se
+distribuye según una ley Normal de media yu horas y desviación típica 0 =2 horas.
+a) A partir de una muestra de 64 alumnos se ha obtenido el siguiente intervalo de confianza
+(726; 8”14) para la media de la población. Determine el nivel de confianza con que se ha
+construido dicho intervalo.
+b) Determine el tamaño muestral mínimo necesario para que el error que se cometa al estimar
+la media de la población por un intervalo de confianza sea, como máximo, de 075 horas, con
+un nivel de confianza del 98% .
+SOCIALES II. 2002 JUNIO. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2002.0,Reserva 2,Ejercicio 3 Parte Ii! Opción A,"El gasto mensual de los estudiantes de un Instituto se distribuye según una ley Normal de
+media desconocida y desviación típica 4 euros. Se ha seleccionado una muestra aleatoria y, con
+una confianza del 97 % , se ha construido un intervalo para la media poblacional cuya amplitud
+es 217 euros.
+a) ¿Cuál ha sido el tamaño de la muestra seleccionada?
+b) Calcule el gasto mensual medio de la muestra tomada sabiendo que el límite inferior del
+intervalo de confianza es 83.915 euros.
+SOCIALES II. 2002 RESERVA 2. EJERCICIO 3 PARTE II! OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2002.0,Reserva 2,Ejercicio 3 Parte Ii Opción B,"El tiempo de espera, en minutos, de los usuarios en una determinada parada de autobús sigue
+una distribución Normal de media y y desviación típica 15 minutos.
+a) ¿Cómo se distribuye el tiempo medio de espera para muestras aleatorias de tamaño 167.
+b) Si hemos tomado una muestra aleatoria de 16 usuarios, cuya media es 5 minutos, determine
+el inter valo de confianza, al 95 % , para la media poblacional.
+SOCIALES II. 2002 RESERVA 2. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2002.0,Reserva 3,Ejercicio 3 Parte Ii! Opción A,"Se ha medido la talla de 100 personas elegidas al azar, mediante muestreo aleatorio simple, de
+entre los estudiantes varones de bachillerato de una gran ciudad, obteniéndose una talla media
+de 175 m. Se sabe que la desviación típica de la población es 02 m.
+a) Halle un intervalo de confianza, al 90 %, para la media poblacional de la talla de los
+estudiantes.
+b) ¿Con qué nivel de confianza se ha construido el intervalo (173, 177) para la media
+poblacional?
+SOCIALES II. 2002 RESERVA 3. EJERCICIO 3 PARTE II! OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2002.0,Reserva 3,Ejercicio 3 Parte Ii Opción B,"El peso de los peces adultos que se crían en una piscifactoría se distribuye según una ley
+Normal con desviación típica 9 g.
+Los pesos, en gramos, de una muestra aleatoria de 9 peces adultos de esa piscifactoría son:
+310,311,309,295, 280, 294, 303, 305, 293.
+Determine un intervalo de confianza, al 95 % , para el peso medio de los peces adultos de esa
+piscifactor ía.
+SOCIALES II. 2002 RESERVA 3. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2002.0,Reserva 4,Ejercicio 3 Parte Ii! Opcion A,"Para estudiar el gasto mensual en teléfono móvil de los jóvenes de una ciudad se ha elegido una
+muestra aleatoria de 16 estudiantes, con los resultados siguientes, expresados en euros:
+4,6,30, 14,16, 14, 15, 16,22,8,3, 56, 42, 26, 30, 18.
+Admitiendo que este gasto mensual sigue una ley Normal con desviación típica 13”78 euros,
+determine un intervalo de confianza, al 95 % , para la media del gasto mensual.
+SOCIALES II. 2002 RESERVA 4. EJERCICIO 3 PARTE II! OPCION A"
+MATES_CCSS,Inferencia Estadística,2002.0,Reserva 4,Ejercicio 3 Parte Ii Opción B,"La edad de los niños que van a un parque sigue una ley Normal de media 8 años y desviación
+típica 2”1 años. En un momento determinado hay 25 niños en ese parque.
+¿Cuál es la probabilidad de que la edad media de ese grupo esté entre 85 y 9 años?
+SOCIALES II. 2002 RESERVA 4. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2002.0,Septiembre,Ejercicio 3 Parte Ii Opcion B,"El peso neto de las bolsas de almendras de una determinada marca es una variable aleatoria
+Normal con media yu, desconocida, y varianza O 2= 504 g 2 Se sabe que 35 bolsas, elegidas al
+azar,han dado un peso total de 8652 g.
+a) Calcule un intervalo, con un nivel de confianza del 90 % , para y.
+b) ¿A partir de qué nivel de confianza, el correspondiente inter valo para y contiene el valor 250
+g?.
+SOCIALES II. 2002 SEPTIEMBRE. EJERCICIO 3 PARTE II OPCION B"
+MATES_CCSS,Inferencia Estadística,2003.0,Junio,Ejercicio 3 Parte Ii Opción A,"La longitud de la ballena azul se distribuye según una ley normal con desviación típica 75 m.
+En un estudio estadístico realizado a 25 ejemplares se ha obtenido el intervalo de confianza
+(21”06,26”94) para la longitud media.
+a) Calcule la longitud media de los 25 ejemplares de la muestra.
+b) Calcule el nivel de confianza con el que se ha construido dicho intervalo.
+SOCIALES II. 2003 JUNIO. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2003.0,Junio,Ejercicio 3 Parte Il Opción B,"De una población normal, con media desconocida y varianza 81, se extrae una muestra
+aleatoria que resulta tener una media muestral de 112.
+a) Obtenga un intervalo de confianza, al 95%, para la media poblacional, si el tamaño de la
+muestra es 49.
+b) ¿Cuál debe ser el tamaño mínimo de la muestra si se desea que el error cometido, al estimar
+la media poblacional, sea inferior a 2, para un nivel de confianza del 90% ?.
+SOCIALES II. 2003 JUNIO. EJERCICIO 3 PARTE Il OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2003.0,Reserva 3,Ejercicio 3 Parte Ii! Opcion B,"Se está estudiando el consumo de gasolina de una determinada marca de coches. Para ello se
+escogen 50 automóviles al azar y se obtiene que el consumo medio es de 6”5 litros. Con
+independencia de la muestra, se sabe que la desviación típica del consumo de ese modelo de
+coches es 15 litros.
+a) Halle un intervalo de confianza, al 97% , para el consumo medio de gasolina de los coches de esa
+marca.
+b) El fabricante afirma que el consumo medio de gasolina de sus vehículos está comprendido
+entre 62 y 68 litros. ¿Con qué nivel de confianza puede hacer dicha afirmación?.
+SOCIALES II. 2003 RESERVA 3. EJERCICIO 3 PARTE II! OPCION B"
+MATES_CCSS,Inferencia Estadística,2003.0,Reserva 4,Ejercicio 3 Parte Il Opcion A,"a) Se sabe que la desviación típica de los salarios de una población es 205 €. Determine un
+intervalo, con el 90% de confianza, para el salario medio de la población, sabiendo que el
+salario medio correspondiente a una muestra de 2500 personas ha sido de 1215 €.
+b) Elegida otra muestra grande, cuya media ha sido 1210 €, se ha obtenido, con un 95% de
+confianza, el intervalo (1199.953 , 1220.045). ¿Cuál es el tamaño de esta muestra?.
+SOCIALES II. 2003 RESERVA 4. EJERCICIO 3 PARTE Il OPCION A"
+MATES_CCSS,Inferencia Estadística,2003.0,Reserva 4,Ejercicio 3 Parte Ii Opción B,"El perímetro craneal de una población de varones adultos sigue una ley normal con desviación
+típica 4 cm.
+a) Obtenga un intervalo de confianza, al 95% para el perímetro craneal medio, sabiendo que
+una muestra aleatoria de 100 individuos de esa población tiene una media de 57 cm.
+b) Con el mismo nivel de confianza, si se aumente el tamaño de la muestra, razone si aumenta,
+disminuye o no varia la amplitud del intervalo.
+SOCIALES II. 2003 RESERVA 4. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2004.0,Junio,Ejercicio 3 Parte Ii Opción A,"Un fabricante de pilas alcalinas sabe que el tiempo de duración, en horas, de las pilas que
+fabrica sigue una distribución normal de media desconocida y varianza 3600. Con una muestra
+de su producción, elegida al azar, y un nivel de confianza del 95% ha obtenido para la media el
+intervalo de confianza (372.6; 392.2).
+a) Calcule el valor que obtuvo para la media de la muestra y el tamaño muestral utilizado.
+b) ¿Cuál sería el error de su estimación, si hubiese utilizado una muestra de tamaño 225 y un
+nivel de confianza del 86'9%?.
+SOCIALES II. 2004 JUNIO. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2004.0,Junio,Ejercicio 3 Parte Ii Opción B,"El peso de los paquetes enviados por una determinada empresa de transportes se distribuye
+según una ley normal, con una desviación típica de 0”9 Kg. En un estudio realizado con una
+muestra aleatoria de 9 paquetes, se obtuvieron los siguientes pesos en Kilos:
+95;10;8.5;10.5; 12.5; 10.5; 12.5; 13; 12
+a) Halle un intervalo de confianza, al 99% , para el peso medio de los paquetes enviados por esa
+empresa.
+b) Calcule el tamaño mínimo que debería tener una muestra, en el caso de admitir un error
+máximo de 03 Kg, con un nivel de confianza del 90%.
+SOCIALES II. 2004 JUNIO. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2004.0,Reserva 1,Ejercicio 3 Parte Ii! Opción A,"Una empresa de teléfonos móviles ha hecho un estudio sobre el tiempo que tardan sus baterías
+en descargarse, llegando a la conclusión de que dicha duración, en días, sigue una ley Normal
+de media 3.8 y desviación típica 1.
+Se toma una muestra de 16 móviles de esta empresa. Halle la probabilidad de que:
+a) La duración media de las baterías de la muestra esté comprendida entre 4.1 y 4.3 días.
+b) La duración media de las baterías de la muestra sea inferior a 3.35 días.
+SOCIALES II. 2004 RESERVA 1. EJERCICIO 3 PARTE II! OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2004.0,Reserva 1,Ejercicio 3 Parte Ii Opción B,"Se sabe que la velocidad de los coches que circulan por una carretera es una variable aleatoria
+que sigue una distribución Normal con desviación típica 12 km/hora.
+a) Se toma una muestra aleatoria de 400 coches que da una velocidad media de 87 km/hora.
+Obtenga un intervalo con un 95% de confianza, para la velocidad media del total de coches que
+circulan por esa carretera.
+b) Calcule el mínimo tamaño de la muestra que se ha de tomar para estimar la velocidad media
+del total de coches que circulan por esa carretera, con un error inferior a 1 km/hora para un
+nivel de confianza del 99% .
+SOCIALES II. 2004 RESERVA 1. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2004.0,Reserva 2,Ejercicio 3 Parte Ii Opcion A,"La superficie de las parcelas de una determinada provincia se distribuye según una ley Normal
+con media 2.9 Ha y desviación típica 0.6 Ha.
+a) Indique la distribución de las medias muestrales para muestras de tamaño 169.
+b) ¿Cuál es la probabilidad de que una muestra de tamaño 169 tenga una superficie media
+comprendida entre 2.8 y 3 Ha?
+SOCIALES II. 2004 RESERVA 2. EJERCICIO 3 PARTE II OPCION A"
+MATES_CCSS,Inferencia Estadística,2004.0,Reserva 2,Ejercicio 3 Parte Ii Opción B,"a) De una población Normal de media desconocida y desviación típica 6, se extrae la siguiente
+muestra
+82,78,90,89,92,85,79,63,71
+Determine un intervalo de confianza, al 98% , para la media de la población.
+b) Determine el tamaño que debe tener otra muestra de esta población para que un intervalo
+de confianza para la media, al 98% , tenga una amplitud igual a 4.66.
+SOCIALES II. 2004 RESERVA 2. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2004.0,Reserva 3,Ejercicio 3 Parte Ii! Opción A,"La duración de un cierto tipo de bombillas eléctricas se distribuye según una ley Normal con
+desviación típica 1500 horas.
+a) Si en una muestra de tamaño 100, tomada al azar, se ha observado que la vida media es de
+9900 horas, determine un intervalo, con el 95% de confianza, para la vida media de esta clase
+de bombillas.
+b) Con un nivel de confianza del 99% se ha construido un intervalo para la media con un error
+máximo de 772.5 horas, ¿qué tamaño de la muestra se ha tomado en este caso?
+SOCIALES II. 2004 RESERVA 3. EJERCICIO 3 PARTE II! OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2004.0,Reserva 3,Ejercicio 3 Parte Ii Opción B,"Una variable aleatoria puede tomar los valores 20, 24 y 30. Mediante muestreo aleatorio simple
+se forman todas las muestras posibles de tamaño 2.
+a) Escriba todas las muestras posibles.
+b) Calcule la media y varianza de las medias muestrales.
+SOCIALES II. 2004 RESERVA 3. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2002.0,Reserva 4,Ejercicio 3 Parte Ii! Opcion A,"Para estudiar el gasto mensual en teléfono móvil de los jóvenes de una ciudad se ha elegido una
+muestra aleatoria de 16 estudiantes, con los resultados siguientes, expresados en euros:
+4,6,30, 14,16, 14, 15, 16,22,8,3, 56, 42, 26, 30, 18.
+Admitiendo que este gasto mensual sigue una ley Normal con desviación típica 13”78 euros,
+determine un intervalo de confianza, al 95 % , para la media del gasto mensual.
+SOCIALES II. 2002 RESERVA 4. EJERCICIO 3 PARTE II! OPCION A"
+MATES_CCSS,Inferencia Estadística,2004.0,Reserva 4,Ejercicio 3 Parte Ii Opción B,"La resistencia a la rotura, de un tipo de hilos de pesca, es una variable aleatoria Normal, con
+media 4 kg y desviación típica 1.4 kg. Se toman muestras aleatorias de 25 hilos de este tipo y se
+obtiene la resistencia media a la rotura.
+a) ¿Cómo se distribuye la resistencia media a la rotura?
+b) ¿Cuál es la probabilidad de que la resistencia media a la rotura no pertenezca al intervalo de
+extremos 3.90 kg y 4.15 kg ?
+SOCIALES II. 2004 RESERVA 4. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2004.0,Septiembreejercicio,3 Parte Ii Opción A,"Dada la población de elementos 43, 4, 5, 8), se pretende seleccionar una muestra de tamaño 2,
+mediante muestreo aleatorio con reemplazamiento.
+a) Escriba todas las muestras posibles.
+b) Calcule la varianza de la población.
+c) Calcule la varianza de las medias muestrales.
+SOCIALES II. 2004 SEPTIEMBRE.EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2004.0,Septiembre,Ejercicio 3 Parte Ii Opcion B,"El número de horas semanales que los estudiantes de Bachillerato de una ciudad dedican al
+deporte se distribuye según una ley Normal de media 8 y varianza 7.29.
+a) Para muestras de tamaño 36, indique cuál es la distribución de las medias muestrales.
+b) ¿Cuál es la probabilidad de que la media de una muestra de tamaño 36 esté comprendida entre
+7.82 y 8.36 horas?.
+SOCIALES II. 2004 SEPTIEMBRE. EJERCICIO 3 PARTE II OPCION B"
+MATES_CCSS,Inferencia Estadística,2005.0,Junio,Ejercicio 3 Parte Ii Opción A,"En una población una variable aleatoria sigue una ley Normal de media desconocida y desviación
+típica 2.
+a) Observada una muestra de tamaño 400, tomada al azar, se ha obtenido una media muestral
+igual a 50. Calcule un inter valo, con el 97% de confianza, para la media de la población.
+b) Con el mismo nivel de confianza, ¿qué tamaño mínimo debe tener la muestra para que la
+amplitud del intervalo que se obtenga sea, como máximo, 1?.
+SOCIALES II. 2005 JUNIO. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2005.0,Reserva 2,Ejercicio 3 Parte Ii! Opción A,"La duración de un viaje entre dos ciudades es una variable aleatoria Normal con desviación
+típica 025 horas. Cronometrados 30 viajes entre estas ciudades, se obtiene una media muestral
+de 3?2 horas.
+a) Halle un intervalo de confianza, al 97% , para la media de la duración de los viajes entre
+ambas ciudades.
+b) ¿Cuál es el error máximo cometido con dicha estimación?
+SOCIALES II. 2005 RESERVA 2. EJERCICIO 3 PARTE II! OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2005.0,Reserva 4,Ejercicio 3 Parte Ii Opción A,"Se supone que la puntuación obtenida por cada uno de los tiradores participantes en la sede de
+Gádor de los “Juegos Mediterráneos Almería 2005”, es una variable aleatoria que sigue una
+distribución Normal con desviación típica 6 puntos. Se toma una muestra aleatoria de tamaño
+36 que da una media de 35 puntos.
+a) Obtenga un intervalo, con un 95% de confianza, para la puntuación media del total de
+tiradores.
+b) Calcule el tamaño mínimo de la muestra que se ha de tomar para estimar la puntuación
+media del total de tiradores, con un error inferior a 1 punto y con un nivel de confianza del
+99% .
+SOCIALES II. 2005 RESERVA 4. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2005.0,Reserva 4,Ejercicio 3 Parte Ii! Opcion B,"El peso de los cerdos de una granja sigue una ley Normal con desviación típica 18 kg.
+a) Determine el tamaño mínimo de una muestra para obtener un intervalo de confianza, para
+la media de la población, de amplitud 5 kg con un nivel de confianza del 95%.
+b) Si la media de los pesos de los cerdos de la granja fuera 92 kg, ¿cuál sería la probabilidad de
+que el peso medio de una muestra de 100 cerdos estuviese entre 88 y 92 kg?
+SOCIALES II. 2005 RESERVA 4. EJERCICIO 3 PARTE II! OPCION B"
+MATES_CCSS,Inferencia Estadística,2005.0,Septiembreejercicio,3 Parte Ii Opción B,"El número de horas semanales que los adolescentes dedican a ver la televisión se distribuye
+según una ley Normal de media 9 horas y desviación típica 4. Para muestras de 64 adolescentes:
+a) Indique cuál es la distribución de las medias muestrales.
+b) Calcule la probabilidad de que la media de una de las muestras esté comprendida entre 78 y
+9”5 horas.
+SOCIALES II. 2005 SEPTIEMBRE.EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2006.0,Junio,Ejercicio 3 Parte Ii Opción A,"En una población, una variable aleatoria sigue una ley Normal de media desconocida y
+desviación típica 9.
+¿De qué tamaño, como mínimo, debe ser la muestra con la cual se estime la media poblacional
+con un nivel de confianza del 97% y un error máximo admisible igual a 3?.
+SOCIALES II. 2006 JUNIO. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2006.0,Junio,Ejercicio 3 Parte Ii Opción B,"Se ha lanzado un dado 400 veces y se ha obtenido 80 veces el valor cinco. Estime mediante un
+intervalo de confianza al 95% el valor de la probabilidad de obtener un cinco.
+SOCIALES II. 2006 JUNIO. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2006.0,Reserva 2,Ejercicio 3 Parte Ii Opcion A,"a) Sea la población (1, 5, 7). Escriba todas las muestras de tamaño 2, mediante muestreo
+aleatorio simple, y calcule la varianza de las medias muestrales.
+b) De una población de 300 hombres y 200 mujeres se desea seleccionar, mediante muestreo
+aleatorio estratificado con afijación proporcional, una muestra de tamaño 30 distribuida en los
+dos estratos, ¿cuál será la composición de la muestra?
+SOCIALES II. 2006. RESERVA 2. EJERCICIO 3 PARTE II OPCION A"
+MATES_CCSS,Inferencia Estadística,2006.0,Reserva 3,Ejercicio 3 Parte Ii Opcion A,"Un fabricante produce tabletas de chocolate cuyo peso en gramos sigue una ley Normal de
+media 125 g y desviación típica 4 g.
+a) Si las tabletas se empaquetan en lotes de 25, ¿cuál es la probabilidad de que el peso medio de
+las tabletas de un lote se encuentre entre 124 y 126 gramos?
+b) Si los lotes fuesen de 64 tabletas, ¿cuál sería la probabilidad de que el peso medio de las
+tabletas del lote superase los 124 gramos?
+SOCIALES II. 2006. RESERVA 3. EJERCICIO 3 PARTE II OPCION A"
+MATES_CCSS,Inferencia Estadística,2006.0,Reserva 4,Ejercicio 3 Parte Ii Opcion A,"De una población Normal, con media desconocida y varianza 36, se extrae una muestra
+aleatoria que resulta tener una media muestral de 173.
+a) Obtenga un intervalo de confianza del 97 % para la media poblacional, si el tamaño de la
+muestra es 64.
+b) ¿Cuál debe ser el tamaño mínimo de la muestra, si se desea que el error cometido al estimar
+la media poblacional sea inferior a 12, para un nivel de confianza del 95 %?
+SOCIALES II. 2006. RESERVA 4. EJERCICIO 3 PARTE II OPCION A"
+MATES_CCSS,Inferencia Estadística,2006.0,Reserva 4,Ejercicio 3 Parte Ii Opción B,"Las calificaciones obtenidas por los estudiantes de Matemáticas siguen una ley Normal de
+media desconocida y desviación típica 1?19. Para una muestra de esa población se obtiene que
+(6801, 6899) es un intervalo de confianza, al 92 %, para la media poblacional.
+a) Determine la media muestral.
+b) Determine el tamaño de la muestra.
+SOCIALES II. 2006. RESERVA 4. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2006.0,Septiembre,Ejercicio 3 Parte Ii Opción A,"a) Los valores:
+52, 61, 58, 49, 53, 60, 68, 50, 53
+constituyen una muestra aleatoria de una variable aleatoria Normal, con desviación típica 6.
+Obtenga un inter valo de confianza para la media de la población, con un nivel de confianza del
+92%.
+b) Se desea estimar la media poblacional de otra variable aleatoria Normal, con varianza 49,
+mediante la media de una muestra aleatoria. Obtenga el tamaño mínimo de la muestra para
+que el error máximo de la estimación, mediante un intervalo de confianza al 97 % ,sea menor o
+igual que 2.
+SOCIALES II. 2006 SEPTIEMBRE. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2006.0,Septiembre,Ejercicio 3 Parte Ii Opción B,"En una muestra aleatoria de 1000 personas de una ciudad, 400 votan a un determinado partido
+político.
+Calcule un intervalo de confianza al 96 % para la proporción de votantes de ese partido en la
+ciudad.
+SOCIALES II. 2006. SEPTIEMBRE. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2007.0,Junio,Ejercicio 3 Parte Ii Opción A,"En una muestra aleatoria de 256 individuos se ha obtenido una edad media de 17'4 años. Se
+sabe que la desviación típica de la población normal de la que procede esa muestra es de 2 años.
+a) Obtenga un intervalo de confianza al 95% , para la edad media de la población.
+b) ¿Cuál debe ser el tamaño mínimo de la muestra para que el correspondiente intervalo de
+confianza, al 90 %, tenga de amplitud a lo sumo 0?5?.
+SOCIALES II. 2007 JUNIO. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2007.0,Junio,Ejercicio 3 Parte Ii Opción B,"En una granja avícola se ha tomado una muestra aleatoria de 200 polluelos de pato, entre los
+cuales se encontraron 120 hembras.
+a) Halle un intervalo de confianza, con un nivel del 98% , para la proporción de hembras entre
+estos polluelos.
+b) Razone, a la vista del intervalo encontrado, si a ese nivel de confianza puede admitirse que la
+verdadera proporción de hembras de pato en esa granja es 075.
+SOCIALES II. 2007 JUNIO. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2007.0,Reserva 1,Ejercicio 3 Parte Ii Opcion A,"El salario de los trabajadores de una ciudad sigue una distribución Normal con desviación
+típica 15 euros. Se quiere calcular un intervalo de confianza para el salario medio con un nivel
+de confianza del 98% . Determine cuál es el tamaño mínimo de la muestra que se necesitaría
+recoger para que el intervalo de confianza tenga una amplitud, como máximo, de 6 euros.
+SOCIALES II. 2007. RESERVA 1. EJERCICIO 3. PARTE II. OPCION A."
+MATES_CCSS,Inferencia Estadística,2007.0,Reserva 1,Ejercicio 3 Parte Il Opción B,"En una encuesta representativa realizada a 1230 personas de una ciudad, se obtuvo como
+resultado que 654 de ellas van al cine los fines de semana.
+Calcule un intervalo de confianza, al 97%, para la proporción de asistencia al cine los fines de
+semana en dicha ciudad.
+SOCIALES II. 2007. RESERVA 1. EJERCICIO 3. PARTE Il. OPCIÓN B."
+MATES_CCSS,Inferencia Estadística,2007.0,Reserva 2,Ejercicio 3 Parte Hi Opción A,"En una Universidad se toma, al azar,una muestra de 400 alumnos y se observa que 160 de ellos
+han aprobado todas las asignaturas.
+a) Halle un intervalo de confianza, al 97%, para estimar el porcentaje de alumnos de esa
+Universidad que aprueban todas las asignaturas.
+b) A la vista del resultado anterior se pretende repetir la experiencia para conseguir que el
+error no sea superior a 0.04, con el mismo nivel de confianza. ¿Cuántos alumnos, como
+mínimo, ha de tener la muestra?
+SOCIALES II. 2007. RESERVA 2. EJERCICIO 3. PARTE HI. OPCIÓN A."
+MATES_CCSS,Inferencia Estadística,2007.0,Reserva 2,Ejercicio 3 Parte Ii Opcion B,"Para realizar una encuesta en un Instituto se selecciona, aleatoriamente, una muestra de 50
+alumnos y se les pregunta si tienen reproductores de mp3, contestando afirmativamente 20 de
+ellos. Calcule un intervalo de confianza, al 96%, para la proporción de alumnos que poseen
+reproductores de mp3 en la población total de alumnos del Instituto.
+SOCIALES II. 2007. RESERVA 2. EJERCICIO 3. PARTE II. OPCION B."
+MATES_CCSS,Inferencia Estadística,2007.0,Reserva 3,Ejercicio 3 Parte Ih Opción A,"Se ha lanzado al aire una moneda 200 veces y se ha obtenido cara en 120 ocasiones.
+a) Estime, mediante un intervalo de confianza, al 90% , la probabilidad de obtener cara.
+b) Se pretende repetir la experiencia para conseguir que el error cometido sea inferior a 003,
+con un nivel de confianza del 97% . ¿Cuál debe ser el tamaño mínimo de la muestra?
+SOCIALES II. 2007. RESERVA 3. EJERCICIO 3. PARTE IH. OPCIÓN A."
+MATES_CCSS,Inferencia Estadística,2007.0,Reserva 3,Ejercicio 3 Parte Il Opción B,"Con los datos de una muestra aleatoria se estima que el porcentaje de hogares con conexión a
+Internet es del 30%, con un error máximo de la estimación de 006 y un nivel de confianza del
+93% .
+a) Obtenga el intervalo de confianza, al 93% , de la proporción de hogares con conexión a
+Internet.
+b) Calcule el tamaño mínimo de la muestra utilizada.
+SOCIALES II. 2007. RESERVA 3. EJERCICIO 3. PARTE Il. OPCIÓN B."
+MATES_CCSS,Inferencia Estadística,2007.0,Reserva 4,Ejercicio 3 Parte Ii Opción A,"En una población una variable aleatoria sigue una ley Normal con desviación típica 8.
+Se ha elegido, al azar, una muestra de tamaño 100 y su media ha sido 67.
+a) Calcule el intervalo de confianza, al 93% ,para la media de la población.
+b) ¿Cuántos datos, como mínimo, son necesarios para estimar, con un nivel de confianza del
+99% , la media de la población con un error no superior a 2?
+SOCIALES II. 2007. RESERVA 4. EJERCICIO 3. PARTE II. OPCIÓN A."
+MATES_CCSS,Inferencia Estadística,2007.0,Reserva 4,Ejercicio 3 Parte Ii Opción B,"Para estimar la proporción de estudiantes de una Universidad que está a favor de un aumento
+del importe de las becas, se entrevistó, aleatoriamente, a 500 estudiantes, de los cuales 465
+respondieron afirmativamente. Calcule el intervalo de confianza, al 98% , en el cual se hallará
+la proporción de la población universitaria que está a favor del aumento de la cuantía de las
+becas.
+SOCIALES II. 2007. RESERVA 4. EJERCICIO 3. PARTE II. OPCIÓN B."
+MATES_CCSS,Inferencia Estadística,2007.0,Septiembre,Ejercicio 3 Parte Ii Opcion B,"Se sabe que (45'13;51'03) es un intervalo de confianza, al 95% , para la media de una variable
+aleatoria que sigue una distribución Normal con desviación típica 15.
+a) ¿Cuál es el error cometido?.
+b) Calcule, con el mismo nivel de confianza, el tamaño muestral mínimo necesario para que el
+error no sea superior a 1?8.
+SOCIALES II. 2007 SEPTIEMBRE. EJERCICIO 3 PARTE II OPCION B"
+MATES_CCSS,Inferencia Estadística,2008.0,Junio,Ejercicio 3 Parte Ii Opción A,"El número de días de permanencia de los enfermos en un hospital sigue una ley Normal de
+media u días y desviación típica 3 días.
+a) Determine un intervalo de confianza para estimar H, a un nivel del 97% , con una muestra
+aleatoria de 100 enfermos cuya media es 8”1 días.
+b) ¿Qué tamaño mínimo debe tener una muestra aleatoria para poder estimar y con un error
+máximo de 1 día y un nivel de confianza del 92 %?.
+SOCIALES II. 2008 JUNIO. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2008.0,Junio,Ejercicio 3 Parte Il Opción B,"Sea la población (1,2,3,4) .
+a) Construya todas las muestras posibles de tamaño 2, mediante muestreo aleatorio simple.
+b) Calcule la varianza de las medias muestrales.
+SOCIALES II. 2008 JUNIO. EJERCICIO 3 PARTE Il OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2008.0,Reserva 1,Ejercicio 3 Parte Ii Opción A,"Se desea estimar la proporción de individuos zurdos en una determinada ciudad. Para ello se
+toma una muestra aleatoria de 300 individuos resultando que 45 de ellos son zurdos.
+a) Calcule, usando un nivel de confianza del 97%, el correspondiente intervalo de confianza
+para la proporción de individuos zurdos de la población.
+b) ¿Sería mayor o menor el error de estimación si se usara un nivel de confianza del 95% ?
+Razone la respuesta.
+SOCIALES II. 2008 RESERVA 1. EJERCICIO 3. PARTE II. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2008.0,Reserva 2,Ejercicio 3 Parte Ii Opción A,"Tomada al azar una muestra de 90 alumnos de un Instituto se encontró que un tercio habla
+inglés.
+Halle, con un nivel de confianza del 97% , un intervalo de confianza para estimar la proporción
+de alumnos de ese Instituto que habla inglés.
+SOCIALES II. 2008 RESERVA 2. EJERCICIO 3. PARTE II. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2008.0,Reserva 3,Ejercicio 3 Parte 1 Opciona,"El peso, en kg, de los alumnos de primaria de un colegio sigue una distribución Normal de
+media 28 kg y desviación típica 2”7 kg. Consideremos muestras aleatorias de 9 alumnos.
+a) ¿Qué distribución sigue la media de las muestras?.
+b) Si elegimos, al azar, una de esas muestras, ¿cuál es la probabilidad de que su media esté
+comprendida entre 26 y 29 kg?
+SOCIALES II. 2008. RESERVA 3. EJERCICIO 3. PARTE 1. OPCIONA"
+MATES_CCSS,Inferencia Estadística,2008.0,Reserva 3,Ejercicio 3 Parte Ii Opción B,"En un centro de anillamiento de aves se ha detectado que en una muestra de 250 ejemplares de
+una especie, 60 son portadoras de una bacteria. Obtenga un intervalo de confianza, al 97%,
+para la proporción de aves de esa especie que son portadoras de la bacteria.
+SOCIALES II. 2008. RESERVA 3. EJERCICIO 3. PARTE II. OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2008.0,Reserva 4,Ejercicio 3 Parte Ii Opción A,"En una muestra representativa de 1200 residentes de una ciudad, 450 utilizan habitualmente el
+transporte público. Obtenga el intervalo de confianza, al 90% , de la proporción de residentes
+en la ciudad que utilizan habitualmente el transporte público.
+SOCIALES II. 2008. RESERVA 4. EJERCICIO 3. PARTE II. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2008.0,Reserva 4,Ejercicio 3 Parte Ii Opción B,"El consumo, en gramos, de un cierto producto sigue una ley Normal con varianza 225 g?.
+a) A partir de una muestra de tamaño 25 se ha obtenido una media muestral igual a 175 g.
+Halle un intervalo de confianza, al 90% , para la media del consumo.
+b) ¿Cuál debe ser el tamaño mínimo de la muestra para que el correspondiente intervalo de
+confianza, al 95% , tenga una amplitud máxima de 5?
+SOCIALES II. 2008 RESERVA 4. EJERCICIO 3. PARTE II. OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2008.0,Septiembre,Ejercicio 3 Parte Il Opción A,"La longitud de los cables de los auriculares que fabrica una empresa es una variable aleatoria
+que sigue una ley Normal con desviación típica 45 cm. Para estimar la longitud media se han
+medido los cables de una muestra aleatoria de 9 auriculares y se han obtenido las siguientes
+longitudes, en cm:
+205, 198, 202, 204, 197, 195, 196,201, 202
+a) Halle un inter valo de confianza, al 97%, para la longitud media de los cables.
+b) Determine el tamaño mínimo que debe tener una muestra de estos auriculares para que el
+error de estimación de la longitud media sea inferior a 1 cm, con el mismo nivel de confianza
+del apartado anterior.
+SOCIALES II. 2008 SEPTIEMBRE. EJERCICIO 3. PARTE Il. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2008.0,Septiembreejercicio,3 Parte Hi Opción B,"Se ha aplicado un medicamento a una muestra de 200 enfermos y se ha observado una
+respuesta positiva en 140 de ellos. Estímese, mediante un intervalo de confianza del 99%, la
+proporción de enfermos que responderían positivamente si este medicamento se aplicase a la
+población de la que se ha extraído la muestra.
+SOCIALES II. 2008 SEPTIEMBRE.EJERCICIO 3. PARTE HI. OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2009.0,Junio,Ejercicio 3 Parte Ii Opción A,"El tiempo (en horas) que permanecen los coches en un determinado taller de reparación es una
+variable aleatoria con distribución Normal de desviación típica 4 horas.
+a) Se eligieron, al azar, 16 coches del taller y se comprobó que, entre todos, estuvieron 136
+horas en reparación. Determine un intervalo de confianza, al 98,5% , para la media del tiempo
+que permanecen los coches en ese taller.
+b) Determine el tamaño mínimo que debe tener una muestra que permita estimar la media del
+tiempo que permanecen en reparación los coches en ese taller con un error no superior a una
+hora y media y con el mismo nivel de confianza del apartado anterior.
+SOCIALES II. 2009 JUNIO. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2009.0,Junio,Ejercicio 3 Parte Ii Opción B,"En un estudio de mercado del automóvil en una ciudad se ha tomado una muestra aleatoria de
+300 turismos, y se ha encontrado que 75 de ellos tienen motor diésel. Para un nivel de confianza
+del 94% .
+a) Determine un inter valo de confianza de la proporción de turismos que tienen motor diésel en
+esa ciudad.
+b) ¿Cuál es el error máximo de la estimación de la proporción?.
+SOCIALES II. 2009 JUNIO. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2009.0,Reserva 1,Ejercicio 3 Parte Ii! Opcion A,"En una muestra aleatoria de 100 individuos se ha obtenido, para la edad, una media de 17.5
+años. Se sabe que la edad en la población, de la que procede esa muestra, sigue una distribución
+Normal con una desviación típica de 0.8 años.
+a) Obtenga un intervalo de confianza, al 94% , para la edad media de la población.
+b) ¿Qué error máximo se comete en la estimación anterior?.
+SOCIALES II. 2009 RESERVA 1. EJERCICIO 3 PARTE II! OPCION A"
+MATES_CCSS,Inferencia Estadística,2009.0,Reserva 1,Ejercicio 3 Parte Ii Opción B,"El cociente intelectual de los alumnos de un centro educativo se distribuye según una ley
+Normal de media 110 y desviación típica 15. Se extrae una muestra aleatoria simple de 25
+alumnos.
+a) ¿Cuál es la probabilidad de que la media del cociente intelectual de los alumnos de esa
+muestra sea superior a 1137.
+b) Razone cómo se vería afectada la respuesta a la pregunta anterior si el tamaño de la muestra
+aumentase.
+SOCIALES II. 2009 RESERVA 1. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2009.0,Reserva 2,Ejercicio 3 Parte Il Opción A,"Escriba todas las muestras de tamaño 2 que, mediante muestreo aleatorio simple (con
+reemplazamiento), se pueden extraer del conjunto [8 ,10 ,12) y determine el valor de la varianza
+de las medias de esas muestras.
+SOCIALES II. 2009 RESERVA 2. EJERCICIO 3 PARTE Il OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2009.0,Reserva 2,Ejercicio 3 Parte Ii! Opcion B,"a) En una población, una variable aleatoria X sigue una distribución Normal de media 50 y
+desviación típica 9. Se elige al azar, una muestra de tamaño 64 de esa población. ¿Cuál es la
+probabilidad de que la media muestral está comprendida entre 48 y 52?.
+b) En una empresa de gas trabajan 150 personas en mantenimiento, 450 en operaciones, 200 en
+servicios y 100 en cargos directivos. Con objeto de realizar una encuesta laboral, se quiere
+seleccionar una muestra de 180 trabajadores de esa empresa por muestreo aleatorio
+estratificado con afijación proporcional, ¿qué número de trabajadores se debe elegir de cada
+grupo?.
+SOCIALES II. 2009 RESERVA 2. EJERCICIO 3 PARTE II! OPCION B"
+MATES_CCSS,Inferencia Estadística,2009.0,Reserva 3,Ejercicio 3 Parte Ii Opción A,"Una variable aleatoria X se distribuye de forma Normal, con media u y desviación típica
+o=0.9.
+a) Una muestra aleatoria de tamaño 9 ha proporcionado los siguientes valores de X:
+70,64,80,7.1,73,74,5.6,88,7.2
+Obtenga un inter valo de confianza para la media con un nivel de confianza de 97%.
+b) Con otra muestra, se ha obtenido que un intervalo de confianza para H, al 95%, es el
+siguiente (6.906 , 7.494). ¿Cuál es el tamaño de la muestra utilizada?.
+SOCIALES II. 2009 RESERVA 3. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2009.0,Reserva 3,Ejercicio 3 Parte Ii Opción B,"Tomando, al azar, una muestra de 80 empleados de una empresa, se encontró que 20 usaban
+gafas. Halle, con un nivel de confianza del 90%, un intervalo de confianza para estimar la
+proporción de empleados de esa empresa que usan gafas.
+SOCIALES II. 2009 RESERVA 3. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2009.0,Reserva 4,Ejercicio 3 Parte Ii Opción A,"El gasto que hacen las familias españolas en regalos de Navidad sigue una ley Normal de media
+desconocida y desviación típica 84 euros. Para estimar esta media se seleccionó una muestra
+aleatoria y se obtuvo el intervalo de confianza (509.41 , 539.79), con un nivel de confianza del
+97%.
+a) ¿Cuál ha sido la media de la muestra escogida?.
+b) ¿Qué tamaño tenía la muestra?.
+SOCIALES II. 2009 RESERVA 4. EJERCICIO 3 PARTE II OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2009.0,Reserva 4,Ejercicio 3 Parte Ii Opción B,"Los jóvenes andaluces duermen un número de horas diarias que se distribuye según una ley
+Normal de media desconocida,h, y desviación típica 2 horas. A partir de una muestra de 64
+jóvenes se ha obtenido una media de 7 horas.
+a) Halle un inter valo de confianza, al 97%, para la media poblacional y .
+b) Manteniendo la misma confianza, ¿cuál debe ser el tamaño mínimo de la muestra para estimar
+la media de horas de sueño, cometiendo un error máximo de 0.25 horas?.
+SOCIALES II. 2009 RESERVA 4. EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2009.0,Septiembre,Ejercicio 3 Parte Il Opción A,"Se desea estimar la proporción de fumadores de una población mediante una muestra
+aleatoria.
+a) Si la proporción de fumadores en la muestra es 0.2 y el error cometido en la estimación ha
+sido inferior a 0.03, con un nivel de confianza del 95%, calcule el tamaño mínimo de la
+muestra.
+b) Si en otra muestra de tamaño 280 el porcentaje de fumadores es del 25% , determine, para
+un nivel de confianza del 99% , el correspondiente intervalo de confianza para la proporción de
+fumadores de esa población.
+SOCIALES II. 2009 SEPTIEMBRE. EJERCICIO 3 PARTE Il OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2009.0,Septiembreejercicio,3 Parte Ii Opción B,"El tiempo que se tarda en la caja de un supermercado en cobrar a los clientes sigue una ley
+Normal con media desconocida y desviación típica 0.5 minutos. Para una muestra aleatoria de
+25 clientes se obtuvo un tiempo medio de 5.2 minutos.
+a) Calcule un intervalo de confianza, al nivel del 97%, para el tiempo medio que se tarda en
+cobrar a los clientes.
+b) Indique el tamaño muestral mínimo necesario para estimar dicho tiempo medio con un
+error máximo de 0.5 y un nivel de confianza del 96% .
+SOCIALES II. 2009 SEPTIEMBRE.EJERCICIO 3 PARTE II OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2010.0,Junio,Ejercicio 4 Opcion A,"Una empresa consultora quiere estudiar algunos aspectos de la vida laboral de los trabajadores
+de una ciudad. Para ello selecciona una muestra aleatoria de 500 trabajadores, de los que 118
+afirman residir en otra ciudad. Con un nivel de confianza del 93%,
+a) Calcule un intervalo de confianza para la proporción de trabajadores que residen fuera.
+b) Calcule el error cometido en el intervalo anterior.
+SOCIALES II. 2010 JUNIO. EJERCICIO 4 OPCION A"
+MATES_CCSS,Inferencia Estadística,2010.0,Reserva 1,Ejercicio 4 Opción A,"a) En una población de 2000 hombres y 2500 mujeres se quiere seleccionar una muestra de 135
+personas mediante muestreo aleatorio estratificado con afijación proporcional, ¿cuál sería la
+composición de la muestra?.
+b) Dada la población ( 6, 8, 11,a ), ¿cuánto debe valer a sabiendo que la media de las medias
+muestrales de tamaño 3, obtenidas mediante muestreo aleatorio simple, es 10.3?
+SOCIALES II. 2010. RESERVA 1. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2010.0,Reserva 2,Ejercicio 4 Opción A,"De una muestra aleatoria de 350 individuos de una población, 50 son adultos.
+a) Calcule un intervalo de confianza, al 98% , para la proporción de adultos de esa población.
+b) ¿Puede admitirse, a ese nivel de confianza, que la proporción de adultos de esa población es
+2)
+15
+SOCIALES II. 2010. RESERVA 2. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2010.0,Reserva 3,Ejercicio 4 Opción A,"Se desea estimar la proporción de votantes a un determinado partido político mediante una
+muestra aleatoria.
+a) Si de una muestra de 500 personas 200 dicen que lo votan, calcule con un nivel de confianza
+del 97% un intervalo para la proporción de votantes a ese partido en la población.
+b) Si la proporción de votantes en otra muestra ha sido 0.2 y el error cometido en la estimación
+ha sido inferior a 0.05, con un nivel de confianza del 99% , calcule el tamaño mínimo de dicha
+muestra.
+SOCIALES II. 2010. RESERVA 3. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2010.0,Reserva 3,Ejercicio 4 Opción B,"Se sabe que el tiempo de reacción a un determinado estímulo se distribuye según una ley
+Normal de media desconocida y desviación típica 0.2 segundos.
+a) Observada una muestra aleatoria de tamaño 25 se ha obtenido una media muestral de 0.3
+segundos. Obtenga un intervalo de confianza para la media de la población con un nivel de
+confianza del 94% .
+b) A un nivel de confianza del 90% , ¿cuál será el tamaño muestral mínimo si el error cometido
+es inferior a 0.057.
+SOCIALES II. 2010. RESERVA 3. EJERCICIO 4. OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2010.0,Reserva 4,Ejercicio 4 Opción A,"En los individuos de una población, la concentración de una proteína en sangre se distribuye
+según una ley Normal de media desconocida y desviación típica 0.42 g/dl. Se toma una muestra
+aleatoria de 49 individuos y se obtiene una media muestral de 6.85 g/dl.
+a) Obtenga un intervalo de confianza, al 96%, para estimar la concentración media de la
+proteína en sangre de los individuos de esa población.
+b) ¿Es suficiente el tamaño de esa muestra para obtener un intervalo de confianza, al 98% , con
+un error menor que 0.125 g/dl?.
+SOCIALES II. 2010. RESERVA 4. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2010.0,Septiembre,Ejercicio 4 Opción B,"a) La altura de los alumnos de una Universidad sigue una distribución Normal de media
+desconocida y desviación típica 11 cm. Calcule el tamaño mínimo que ha de tener una muestra
+aleatoria de esos alumnos para que el error cometido al estimar la altura media sea inferior a 1
+cm, con un nivel de confianza del 98% .
+b) Dada la población (10, 12, 17), escriba todas las muestras de tamaño 2 mediante muestreo
+aleatorio simple y calcule la media y la desviación típica de las medias muestrales.
+SOCIALES I1. 2010. SEPTIEMBRE. EJERCICIO 4. OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2012.0,Junio,Ejercicio 4 Opción A,"De una muestra aleatoria de 120 alumnos presentados a las Pruebas de Acceso, sólo 15 han
+resultado no aptos.
+a) Calcule un intervalo de confianza, al 99% , para estimar la proporción de alumnos que han
+resultado aptos en dicha prueba.
+b) Manteniendo la misma confianza, ¿cuál debe ser el tamaño mínimo de la muestra para
+estimar la proporción de alumnos aptos, cometiendo un error inferior al 5% ?.
+SOCIALES II. 2012 JUNIO. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2012.0,Reserva 1,Ejercicio 4 Opción A,"La variable “tiempo de reacción de un conductor ante un obstáculo imprevisto” sigue una
+distribución Normal con desviación típica 0.05 segundos. Al medir dicho tiempo en 50
+conductores se ha obtenido un tiempo medio de 0.85 segundos.
+a) Halle el intervalo de confianza para el tiempo medio de reacción, con un nivel de confianza
+del 99% .
+b) ¿De qué tamaño mínimo ha de tomarse una muestra para que el error de estimación no
+supere 0.01 segundos, con un nivel de confianza del 95% ?.
+SOCIALES II. 2012. RESERVA 1. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2012.0,Reserva 2,Ejercicio 4 Opción A,"Una característica de una determinada población se distribuye según una variable aleatoria
+Normal X de media desconocida y desviación típica 0.9. Extraída al azar una muestra de
+tamaño 9 de esa población y observada X, dio como resultados:
+10.5,10,8,5,10,5,11,55,13,5,95,13,12
+a) Halle un intervalo de confianza, al 99% , para la media de la variable X.
+b) Determine el tamaño mínimo que debe tener una muestra de esa población, para que el
+error máximo que se cometa en la determinación de un intervalo de confianza para la media de
+X sea, a lo sumo, 0.3, con un nivel de confianza del 90% .
+SOCIALES II. 2012. RESERVA 2. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2012.0,Reserva 3,Ejercicio 4 Opción A,"Se acepta que los rendimientos anuales, medidos en porcentajes, que producen los depósitos
+bancarios a plazo, se distribuyen según una ley Normal con desviación típica 1.8 y se pretende
+realizar una estimación del rendimiento medio de los mismos. Para ello, se tiene una muestra
+de 36 entidades bancarias en las que se obser va que el rendimiento medio de los depósitos es del
+2.5.
+a) Calcule un intervalo de confianza, al 96% , para el rendimiento medio de los depósitos a
+plazo. ¿Cuál es el error máximo cometido en la estimación?.
+b) Manteniendo el mismo nivel de confianza,¿cuál debe ser el tamaño mínimo de la muestra
+para estimar el rendimiento medio de lo depósitos con un error máximo de 0.5?.
+SOCIALES II. 2012. RESERVA 3. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2012.0,Reserva 4,Ejercicio 4 Opción B,"La velocidad a la que circulan los conductores por una autopista sigue una distribución
+N (1,20) . En un control efectuado a 100 conductores elegidos al azar ha resultado una velocidad
+media de 110 Km/h.
+a) Determine el inter valo de confianza para u.,con un nivel del 99%.
+b) ¿Cuál es el máximo error cometido en esta estimación?.
+SOCIALES II. 2012. RESERVA 4. EJERCICIO 4. OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2012.0,Septiembre,Ejercicio 4 Opción B,"El peso de las calabazas de una determinada plantación sigue una ley Normal con desviación
+típica 1200 g.
+a) Halle el tamaño mínimo de la muestra que se ha de elegir para, con un nivel de confianza del
+95 % estimar el peso medio con un error menor de 450 g.
+b) Para el mismo nivel de confianza, indique razonando la respuesta, si el error aumenta o
+disminuye al aumentar el tamaño de la muestra.
+SOCIALES II. 2012 SEPTIEMBRE. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2013.0,Junio,Ejercicio 4 Opción A,"Se quiere estimar la proporción de hembras entre los peces de una piscifactoría; para ello se ha
+tomado una muestra aleatoria de 500 peces, y en ella hay 175 hembras.
+a) Calcule un intervalo de confianza para la proporción de hembras en esta población de peces,
+con un nivel de confianza del 94% .
+b) A la vista del resultado del muestreo se quiere repetir la experiencia para conseguir un
+intervalo de confianza con el mismo nivel y un error máximo de 0.02, ¿cuál es el tamaño
+mínimo que debe tener la nueva muestra?.
+SOCIALES II. 2013 JUNIO. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2013.0,Reserva 4,Ejercicio 4 Opción A,"Se conoce que la acidez de una solución es una variable aleatoria que sigue una distribución
+Normal con desviación típica 0.2. Se ha tomado una muestra aleatoria de cinco soluciones y se
+han obtenido las siguientes medidas de la acidez:
+7.92,7.95,791,7.9,7.94.
+a) Halle el inter valo de confianza, al 99% , para la media poblacional.
+b) ¿Qué error máximo se ha cometido en el intervalo anterior ?
+c) Para el mismo nivel de confianza, calcule el tamaño mínimo muestral que permita reducir el
+error anterior a la mitad.
+SOCIALES II. 2013 RESERVA 4. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2013.0,Reserva 4,Ejercicio 4 Opción B,"a) Se considera la población (2,4,6).. Escriba todas las posibles muestras de tamaño dos
+elegidas mediante muestreo aleatorio simple y determine la desviación típica de las medias
+muestrales.
+b) En una ciudad se seleccionó una muestra aleatoria de 500 alumnos de Bachillerato a los que
+se les preguntó si poseían una determinada marca de teléfono móvil, resultando que 80 de ellos
+contestaron afirmativamente. Obtenga un intervalo de confianza, al 92%, para estimar la
+proporción de estudiantes de Bachillerato que poseen esa marca de teléfono móvil.
+SOCIALES II. 2013 RESERVA 4. EJERCICIO 4. OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2013.0,Septiembre,Ejercicio 4 Opción B,"El gasto mensual de las familias de un municipio se distribuye según una variable Normal con
+desviación típica igual a 180 euros. Seleccionadas 30 familias al azar, han tenido un gasto medio
+mensual de 900 euros.
+a) Calcule un intervalo de confianza para el gasto medio mensual de las familias de ese
+municipio con un nivel de confianza del 98% .
+b) Calcule el tamaño muestral mínimo necesario para estimar el medio mensual de las familias
+con un error no superior a 60 euros, con el mismo nivel de confianza.
+SOCIALES II. 2013 SEPTIEMBRE. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2014.0,Junio,Ejercicio 4 Opción A,"Se quiere hacer un estudio de mercado para conocer el precio medio de los libros de narrativa
+que se venden en la actualidad. Para ello se elige una muestra aleatoria de 121 libros,
+encontrando que tienen un precio medio de 23 €. Se sabe que el precio de los libros de narrativa
+sigue una distribución Normal con media desconocida y desviación típica 5 €.
+a) Obtenga un intervalo de confianza al 988 %, para el precio medio de esos libros.
+b) ¿Cuántos libros habría que elegir como muestra para que, con la misma confianza, el error
+máximo de la estimación no excediera de 1 €?.
+SOCIALES II. 2014 JUNIO. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2014.0,Reserva 1,Ejercicio 4 Opciona,"Para estimar la proporción de balances contables incorrectos de un banco, se seleccionan
+aleatoriamente 200 balances, y se encuentran que 19 de ellos son incorrectos.
+a) Obtenga un intervalo de confianza, al 95% , para la proporción de balances incorrectos.
+b) ¿Cuántos balances se deberán seleccionar para que, con un nivel de confianza del 99% , el
+error de la estimación no sea superior a 002?
+SOCIALES II. 2014 RESERVA 1. EJERCICIO 4 OPCIONA"
+MATES_CCSS,Inferencia Estadística,2014.0,Reserva 1,Ejercicio 4 Opción B,"a) Determine todas las muestras de tamaño 2 que, mediante un muestreo aleatorio simple, se
+pueden extraer del conjunto (6,9,12) y calcule la varianza de las medias muestrales.
+b) Una empresa fabrica cuatro productos A, B, C y D, de los que elabora diariamente 40, 15, 25
+y 120 unidades respectivamente.
+Si un día se quiere elaborar una muestra de 40 unidades con los productos fabricados, por
+muestreo aleatorio estratificado con afijación proporcional, ¿qué número de unidades de cada
+producto se debe elegir?
+SOCIALES II. 2014 RESERVA 1. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2014.0,Reserva 2,Ejercicio 4 Opción A,"Una panadería produce barras de pan cuya longitud, medida en centímetros, sigue una
+distribución Normal con una desviación típica de 5 centímetros.
+a) A partir de una muestra de 100 barras de pan se ha calculado el intervalo de confianza para
+la media poblacional, resultando ser (31.2, 33.4). Halle la media muestral y el error de
+estimación.
+b) Para un nivel de confianza del 96% , halle el tamaño muestral mínimo necesario para que el
+error de estimación máximo sea 1.5.
+SOCIALES II. 2014 RESERVA 2. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2014.0,Reserva 3,Ejercicio 4 Opción A,"Con el fin de estudiar el precio medio del litro de gasolina en una provincia en un determinado
+día, se seleccionan al azar ese día 9 estaciones de servicio y se observan los siguientes precios, en
+euros, de un litro de gasolina:
+1.3, 1.2, 1.4, 1.27, 1.25, 1.32, 1.37, 1.38, 1.23.
+Se sabe que el precio del litro de gasolina se distribuye según una ley Normal con desviación
+típica igual a 0.18 euros.
+a) Obtenga un intervalo de confianza, al 95%, para estimar el precio medio del litro de
+gasolina.
+b) Calcule el tamaño muestral mínimo necesario para estimar el precio medio del litro de
+gasolina con un error no superior a 0.08 euros, con el mismo nivel de confianza.
+SOCIALES II. 2014 RESERVA 3. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2014.0,Reserva 3,Ejercicio 4 Opción B,"1) En un centro docente la tercera parte de los alumnos estudia el idioma A, la mitad el idioma
+B y el resto el idioma C (cada alumno estudia sólo uno de estos idiomas).
+a) Se desea seleccionar una muestra de 60 alumnos, mediante muestreo aleatorio estratificado
+con afijación proporcional al número de los alumnos de cada idioma. ¿Cómo debería estar
+conformada la muestra?
+b) En otra muestra seleccionada por el procedimiento anterior, el número de alumnos tomados
+del idioma A es 14. Determine cuántos se han elegido de los otros dos idiomas.
+2) Una población tiene 5 elementos. Mediante muestreo aleatorio simple se seleccionan
+muestras de tamaño 3, siendo la desviación típica de sus medias 2 y la media de las medias
+muestrales 7. ¿Cuánto valen la media y la varianza de la población?
+SOCIALES II. 2014 RESERVA 3. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2014.0,Reserva 4,Ejercicio 4 Opción B,"Para estimar la proporción de habitantes que es favorable a la construcción de un centro
+comercial en un municipio, se ha obtenido el intervalo de confianza (0.31, 0.39), al 94% .
+a) ¿Cuál ha sido el valor de la proporción muestral?
+b) Si la muestra aleatoria elegida de esa población para el estudio fue de 500 personas, ¿cuántas
+de ellas deseaban la construcción del centro comercial?
+c) Se desea repetir el estudio para obtener un intervalo de confianza con un error máximo de
+0.03 y el mismo nivel de confianza. ¿Cuántas personas, como mínimo, debe tener la nueva
+muestra aleatoria?
+SOCIALES II. 2014. RESERVA 4. EJERCICIO 4. OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2014.0,Septiembre,Ejercicio 4 Opción B,"El peso de los huevos de una granja sigue una ley Normal de media desconocida y desviación
+típica 1.23 gramos. Para estimar la media poblacional se ha tomado una muestra de dos
+docenas de huevos que han dado un peso total de 1615.2 gramos.
+a) Halle un inter valo de confianza, al 96% , para la media poblacional.
+b) Con el mismo nivel de confianza anterior, si nos exigieran que el intervalo tuviera una
+amplitud máxima de 0.8, ¿de qué tamaño, como mínimo, habría que tomar la muestra?.
+SOCIALES II. 2014 SEPTIEMBRE. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2015.0,Junio,Ejercicio 4 Opción B,"Un fabricante de tuberías PVC sabe que la distribución de los diámetros interiores de los tubos
+de conducción de agua que produce sigue una ley Normal con varianza 0? =0.25 mm”. Para
+estimar el diámetro medio de esas tuberías, toma una muestra aleatoria de 64 tubos y
+comprueba que el diámetro medio de esa muestra es de 20 mm.
+a) Calcule un intervalo de confianza, con un nivel del 98% , para la media de los diámetros de
+los tubos que fabrica.
+b) Halle el tamaño mínimo que debe tener una muestra de esa distribución para que la
+amplitud de un intervalo de confianza, con ese mismo nivel de confianza, sea inferior a 2 mm.
+SOCIALES II. 2015 JUNIO. EJERCICIO 4. OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2015.0,Reserva 1,Ejercicio 4 Opcion B,"El tiempo en horas dedicado cada día al uso de una aplicación de mensajería instantánea por
+los estudiantes de bachillerato de una ciudad, es una variable aleatoria que sigue una ley
+Normal con desviación típica 0.5 horas. Se toma una muestra aleatoria de 10 estudiantes y se
+obtienen los siguientes tiempos de uso en horas:
+3.5 4.25 2.25 3.75 42 2.75 125 1.2 1.75 2.1
+a) Determine un intervalo de confianza al 90% para el tiempo medio diario dedicado al uso de
+esta aplicación por los estudiantes.
+b) Calcule el tamaño muestral mínimo necesario para estimar el tiempo medio diario dedicado
+al uso de esta aplicación, para un error de estimación no superior a 0.1 horas y mismo nivel de
+confianza anterior.
+SOCIALES II. 2015 RESERVA 1 EJERCICIO 4. OPCION B"
+MATES_CCSS,Inferencia Estadística,2015.0,Reserva 2,Ejercicio 4 Opcion B,"Se ha lanzado un dado 400 veces, y en 72 de ellas ha salido un tres.
+a) Calcule un intervalo de confianza, al 99.2% , para la proporción de veces que se obtiene un
+tres.
+b) Calcule el error máximo admisible cometido con ese intervalo.
+SOCIALES II. 2015 RESERVA 2 EJERCICIO 4. OPCION B"
+MATES_CCSS,Inferencia Estadística,2015.0,Reserva 3,Ejercicio 4 Opcion B,"De una población Normal de media desconocida y desviación típica 2 se extrae la siguiente
+muestra aleatoria simple de tamaño 10:
+38 63 436 62 58 15 33 34 29
+a) Estime, mediante un inter valo de confianza, la media poblacional para un nivel de confianza
+del 92% . Obtenga su error de estimación.
+b) ¿Qué tamaño muestral mínimo sería necesario para reducir ese error a la mitad, con el
+mismo nivel de confianza?
+SOCIALES II. 2015 RESERVA 3 EJERCICIO 4. OPCION B"
+MATES_CCSS,Inferencia Estadística,2015.0,Reserva 4,Ejercicio 4 Opcion A,"El capital de las hipotecas constituidas sobre fincas urbanas en Andalucía es una variable
+aleatoria Normal con desviación típica 10000 €.
+a) Se toma una muestra aleatoria de 9 hipotecas con los siguientes capitales (en euros):
+95000 99000 105000 106000 108000 111000 112000 115000 120000
+Construya un intervalo de confianza, al 95% , para el capital medio de dichas hipotecas.
+b) ¿Qué número mínimo de hipotecas deberíamos considerar en una muestra para que, con el
+mismo nivel de confianza, el error máximo en la estimación del capital medio sea de 4000€?
+SOCIALES II. 2015 RESERVA 4 EJERCICIO 4. OPCION A"
+MATES_CCSS,Inferencia Estadística,2016.0,Junio,Ejercicio 4 Opción A,"Se desea estimar la media de una variable aleatoria Normal cuya desviación típica es 25. Para
+ello, se toma una muestra aleatoria, obteniéndose los siguientes resultados:
+18 185 14 165 19 20 205 17 185 18.
+a) Determine un intervalo de confianza al 96% para la media poblacional.
+b) ¿Cuál es el error máximo cometido con esta estimación?.
+c) Con el mismo nivel de confianza, si queremos que el error máximo sea inferior a 1, ¿qué
+tamaño muestral mínimo debemos tomar?.
+SOCIALES II. 2016 JUNIO. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2016.0,Junio,Ejercicio 4 Opción B,"El peso de los habitantes de una determinada ciudad sigue un ley Normal de media 65 kg y
+desviación típica 8 kg.
+a) ¿Qué distribución sigue la media de los pesos de las muestras de habitantes de tamaño 64
+extraídas de esa ciudad?.
+b) Si se extrae una muestra aleatoria de tamaño 100 de esa ciudad, ¿cuál es la probabilidad de
+que el peso medio de esa muestra está comprendido entre 64 y 65 kg?.
+SOCIALES II. 2016 JUNIO. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2016.0,Reserva 1,Ejercicio 4 Opción A,"El número de pulsaciones por minuto (p/m) de los pacientes de un centro de salud de una cierta
+población sigue una ley Normal de desviación típica 9.
+a) Se elige una muestra aleatoria de 100 pacientes que da como número medio de (p/m) 68. Con
+un nivel del 97% , determine un intervalo de confianza para el número medio de las p/m de los
+pacientes de ese centro.
+b) Con el mismo nivel de confianza, ¿cuántos pacientes, como mínimo, se necesitan en la
+muestra para estimar el número medio de p/m con un error no superior a 1?.
+SOCIALES II. 2016 RESERVA 1. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2016.0,Reserva 2,Ejercicio 4 Opcion A,"SELECTIVIDAD
+a) La talla de los individuos de una población sigue una distribución Normal con desviación
+típica 8 cm y media desconocida. A partir de una muestra aleatoria se ha obtenido un intervalo
+de confianza al 95% para estimar la talla media poblacional, que ha resultado ser
+(164.86 , 171.14) en cm.
+Calcule la talla media de la muestra y el tamaño muestral mínimo necesario para reducir a la
+mitad el error máximo de estimación anterior.
+b) En un club privado con 243 usuarios se ha seleccionado una muestra para hacer un sondeo,
+según la actividad realizada y por muestreo aleatorio estratificado. En esa muestra, 5 usuarios
+practican Yoga, 7 Pilates y 15 Mantenimiento, ¿cuántos usuarios están inscritos en cada
+actividad en ese club?
+SOCIALES II. 2016. RESERVA 2. EJERCICIO 4. OPCION A"
+MATES_CCSS,Inferencia Estadística,2016.0,Reserva 3,Ejercicio 4 Opcion B,"El peso de los paquetes de azúcar de una marca, medido en gramos, sigue una distribución
+Normal con desviación típica de 16 gramos. A partir de una muestra de 100 paquetes de azúcar
+de dicha marca, se obtuvo un peso medio de 247 gramos.
+a) Obtenga un intervalo de confianza para el peso medio de los paquetes de azúcar de esa
+marca, con un nivel de confianza del 97% .
+b) Determine el tamaño muestral mínimo necesario para estimar el peso medio con un error
+máximo de 0.5 gramos, a un nivel de confianza del 95%.
+SOCIALES II. 2016. RESERVA 3. EJERCICIO 4. OPCION B"
+MATES_CCSS,Inferencia Estadística,2016.0,Reserva 4,Ejercicio 4 Opcion A,"Para estudiar el número de personas que van al cine mensualmente en una ciudad, se ha
+seleccionado una muestra aleatoria de 10 meses y se ha registrado el número de entradas al
+cine vendidas en cada mes. Los datos son los siguientes:
+682 553 555 666 657 649 522 568 “700 552
+a) Suponiendo que el número de entradas vendidas mensualmente sigue una distribución
+Normal con desviación típica 50 entradas, calcule un intervalo de confianza, con un nivel del
+95% , para el número medio de personas que van al cine mensualmente en esa ciudad.
+b) ¿Cuál es el error máximo que se comete al estimar esta media con este inter valo?
+SOCIALES II. 2016. RESERVA 4. EJERCICIO 4. OPCION A"
+MATES_CCSS,Inferencia Estadística,2016.0,Septiembre,Ejercicio 4 Opción A,"Una cadena de hipermercados decide estudiar la proporción de artículos de un determinado
+tipo que tienen defectos en su envoltorio. Para ello, selecciona aleatoriamente 2000 artículos de
+este tipo entre sus hipermercados y encuentra que 19 de ellos tienen defectos en su envoltorio.
+a) Determine un intervalo, al 95% de confianza, para la proporción real de artículos con este
+tipo de defecto e interprete el resultado obtenido.
+b) ¿Cuántos artículos, como mínimo, deberá seleccionar para que, con un nivel de confianza
+del 99% , la proporción muestral difiera de la proporción real a lo sumo en un 1%?.
+SOCIALES II. 2016 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2016.0,Septiembre,Ejercicio 4 Opción B,"a) Se desea tomar una muestra aleatoria estratificada de las personas mayores de edad de un
+municipio, cuyos estratos son los siguientes intervalos de edades, en años: de 18 a 30,de 31 a 45,
+de 46 a 60 y mayores de 60. En el primer intervalo hay 7500 personas, en el segundo hay 8400,
+en el tercero 5700 y en el cuarto 3000. Calcule el tamaño de la muestra total y su composición,
+sabiendo que el muestreo se hace con afijación proporcional y se han elegido al azar 375
+personas del primer estrato.
+b) Dada la población ( 2,4,6 ) construya todas las muestras posibles de tamaño 2, que se puedan
+formar mediante muestreo aleatorio simple, y halle la varianza de las medias muestrales de todas
+las muestras.
+SOCIALES II. 2016 SEPTIEMBRE. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2017.0,Junio,Ejercicio 4 Opción A,"La altura de los estudiantes de 2” de Bachillerato de un centro sigue un ley Normal de media
+165 cm y desviación típica 10 cm.
+a) ¿Qué distribución sigue la altura media de las muestras de tamaño 257.
+b) Se elige al azar una muestra de 25 estudiantes y se le mide la altura. ¿Cuál es la probabilidad
+de que la altura media de esa muestra supere los 160 cm?.
+SOCIALES II. 2017 JUNIO. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2017.0,Reserva 2,Ejercicio 4 Opción A,"Se desea estimar la proporción de bares y restaurantes que en el camino de Santiago ofertan el
+menú del peregrino con un precio máximo de 12 €. Para ello se eligen aleatoriamente 120
+establecimientos que ofrecen este menú, de los que 80 tienen un precio máximo de 12 €.
+a) Con un nivel de confianza del 92 % , obtenga el intervalo de confianza para proporción de
+establecimientos que tienen un precio máximo de 12 €.
+b) Si aumentamos el nivel de confianza al 99 %, ¿qué efecto se produce en el error de
+estimación?
+c) ¿Cuántos establecimientos, como mínimo, deberíamos seleccionar para que, con un nivel de
+confianza del 99 % , el error de la estimación no sea superior a 0.04?
+SOCIALES II. 2017 RESERVA 2. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2017.0,Reserva 4,Ejercicio 4 Opción A,"En un centro docente hay 160 alumnos matriculados en 1? de ESO, 120 en 2”, 120 en 3%, 80 en
+4”, 240 en 1” de Bachillerato y 200 en 2”. Se quiere constituir una comisión en la que todos los
+cursos estén representados de forma proporcional.
+a) ¿Cuántos alumnos debe haber en la comisión y cuántos de cada curso si dicha comisión está
+formada por el 5 % del total del alumnado?
+b) ¿Cuál sería la composición de la comisión si queremos que haya 9 alumnos de 2* de ESO?
+SOCIALES II. 2017 RESERVA 4. EJERCICIO 4. OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2017.0,Septiembre,Ejercicio 4 Opcion A,"El tiempo de vida de una determinada especie de tortuga es una variable aleatoria que sigue
+una ley Normal de desviación típica 10 años. Se toma una muestra aleatoria simple de 10
+tortugas y se obtienen los siguientes valores:
+46 38 59 29 34 32 38 21 44 34
+a) Determine un intervalo de confianza, al 95%, para la vida media de dicha especie de
+tortugas.
+b) Calcule el tamaño mínimo que debe tener una muestra para que el error de estimación de la
+vida media no sea superior a 5 años, con un nivel de confianza del 98% .
+SOCIALES II. 2017. SEPTIEMBRE. EJERCICIO 4. OPCION A"
+MATES_CCSS,Inferencia Estadística,2017.0,Septiembre,Ejercicio 4 Opción B,"En una muestra, elegida al azar, de 100 estudiantes de una Universidad, se ha observado que
+25 desayunan en la cafetería del campus.
+a) Determine, con un nivel de confianza del 95%, un intervalo de confianza para estimar la
+proporción de estudiantes de esa Universidad que desayunan en la cafetería.
+b) Si la proporción de estudiantes de esa Universidad que desayunan en la cafetería del campus
+en una muestra aleatoria es de 02, y el error cometido en la estimación ha sido inferior a 003,
+con un nivel de confianza del 925%, calcule el tamaño mínimo de la muestra.
+SOCIALES II. 2017 SEPTIEMBRE. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2018.0,Junio,Ejercicio 4 Opción A,"Se dispone de cuatro tornillos de 1, 2, 3 y 4 gramos de peso respectivamente.
+a) Mediante muestreo aleatorio simple, exprese todas las muestras posibles de tamaño 2.
+b) Determine la media y la varianza de los pesos medios muestrales
+SOCIALES II. 2018 JUNIO. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2018.0,Junio,Ejercicio 4 Opción B,"En un estudio sobre la utilización de nuevas tecnologías entre los estudiantes de Bachillerato, se
+ha realizado una encuesta a 500 estudiantes elegidos mediantes muestreo aleatorio simple,
+resultando que 380 de ellos son usuarios de una determinada red social.
+a) Calcule un intervalo de confianza al 97% para estimar la proporción de estudiantes que son
+usuarios de esa red social
+b) Suponiendo que se mantiene la proporción muestral, determine el número mínimo de
+estudiantes a los que sería preciso entrevistar para que, con un nivel confianza del 96% , el error
+cometido al estimar la proporción de usuarios de la citada red social no supere el 2%.
+SOCIALES II. 2018 JUNIO. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2018.0,Reserva 1,Ejercicio 4 Opción A,"A la salida de unos grandes almacenes se ha tomado una muestra aleatoria simple de 100
+clientes, a los que se les ha preguntado por el gasto que han realizado, obteniéndose una media
+muestral de 110 euros. Se sabe que el gasto sigue una distribución Normal con desviación típica
+de 20 euros.
+a) ¿Qué distribución de probabilidad sigue la media muestral?.
+b) Obtenga un intervalo de confianza al 90%, para el gasto medio de todos los clientes que han
+comprado ese día.
+c) Si deseamos que el error máximo cometido, con el mismo nivel de confianza, sea 2 euros,
+¿cuál ha de ser el tamaño mínimo de la muestra?.
+SOCIALES II. 2018 RESERVA 1. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2018.0,Reserva 2,Ejercicio 4 Opción A,"El peso de las ciruelas de una determinada variedad sigue una distribución Normal con media
+desconocida y desviación típica 3 gramos. Se eligen al azar 25 ciruelas de esa variedad y se
+pesan, resultando un peso medio de 60 gramos.
+a) Calcule un intervalo al 95% de confianza para estimar el peso medio de las ciruelas de esa
+variedad.
+b) Calcule el tamaño mínimo de la muestra que se ha de tomar, para que al estimar el peso
+medio de esa variedad de ciruelas con un nivel de confianza del 99% , el error cometido sea
+inferior a 1 gramo.
+SOCIALES II. 2018 RESERVA 2. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2018.0,Reserva 3,Ejercicio 4 Opción A,"El gasto que tienen los jóvenes durante un fin de semana es una variable aleatoria que sigue
+una distribución Normal de media y desconocida y desviación típica igual a 6 euros.
+a) Se toma una muestra aleatoria simple y se obtiene que el intervalo de confianza al 95% para
+la media y es (24.47, 26.43). Calcule el valor de la media muestral y el tamaño de la muestra
+elegida.
+b) Escogida otra muestra de tamaño 49 para estimar y calcule el error máximo cometido para
+esa estimación con un nivel de confianza del 97%.
+SOCIALES II. 2018 RESERVA 3. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2018.0,Reserva 4,Ejercicio 4 Opción A,"La calificación que obtiene el alumnado en una determinada asignatura sigue una distribución
+Normal de media y y desviación típica 3 puntos.
+a) Se toma una muestra aleatoria simple de 100 alumnos, resultando una calificación media de
+5.7 puntos. Calcule un intervalo de confianza para estimar y a un nivel de confianza del 95%.
+b) Determine el tamaño mínimo que debe tener una muestra aleatoria para poder estimar yu
+con un error máximo de 0.5 puntos y un nivel de confianza del 99%.
+SOCIALES II. 2018 RESERVA 4. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2018.0,Reserva 4,Ejercicio 4 Opción B,"Una cadena de supermercados desea estimar la proporción de clientes que adquiere un
+determinado producto. Para ello ha tomado una muestra aleatoria simple de 1000 clientes y ha
+observado que 300 compraban ese producto.
+a) Halle, con un nivel de confianza del 95%, un intervalo de confianza para estimar la
+proporción de clientes del supermercado que compra ese producto.
+b) Si en otra muestra la proporción de clientes que compra ese producto es de 0.25 y el error
+cometido en la estimación ha sido inferior a 0.03, con un nivel de confianza del 92.5% , calcule
+el tamaño mínimo de la muestra.
+SOCIALES II. 2018 RESERVA 4. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2018.0,Septiembre,Ejercicio 4 Opcion B,"La edad de los empleados de una empresa sigue una ley Normal de varianza 64 y media
+desconocida. Se toma una muestra aleatoria simple de 16 empleados de dicha empresa,
+obteniéndose las siguientes edades:
+30 42 38 45 52 60 21 26 33 44 28 49 37 41 38 40
+a) Obtenga un intervalo de confianza para estimar la edad media de los empleados, con un
+nivel de confianza del 97% .
+b) Calcule el tamaño mínimo de la muestra que se ha de tomar para estimar la edad media de
+los empleados, con un error inferior a 2 años y con un nivel de confianza del 99%.
+SOCIALES II. 2018. SEPTIEMBRE. EJERCICIO 4. OPCION B"
+MATES_CCSS,Inferencia Estadística,2019.0,Junio,Ejercicio 4 Opción A,"Se desea estimar la proporción de individuos que piensan votar a un cierto partido político en
+una determinada ciudad. Para ello se toma una muestra aleatoria de 300 individuos de la
+ciudad, resultando que 135 de ellos piensan votar a ese partido.
+a) Calcule un intervalo de confianza al 97% para la proporción de individuos que piensan
+votar a ese partido en dicha ciudad.
+b) Suponiendo que se mantiene la misma proporción muestral y el mismo nivel de confianza del
+apartado anterior, determine el tamaño mínimo de la muestra para estimar la proporción con
+un error inferior al 2%.
+SOCIALES II. 2019 JUNIO. EJERCICIO 4 OPCIÓN A"
+MATES_CCSS,Inferencia Estadística,2019.0,Junio,Ejercicio 4 Opción B,"Los directivos de una empresa desean estimar el tiempo medio que tardan los empleados en
+llegar al puesto de trabajo desde sus domicilios. Admitimos que dicho tiempo sigue una
+distribución Normal de desviación típica 8 minutos. Se elige al azar una muestra de 9
+empleados de esa empresa, obteniéndose los siguientes resultados, expresados en minutos:
+10 17 8 27 6 9 32 5 21
+a) Determine un intervalo de confianza al 92% , para la media poblacional.
+b) Con una confianza del 955%, ¿Qué tamaño muestral mínimo sería necesario para estimar
+el tiempo medio con un error inferior a 1?5 minutos?.
+SOCIALES II. 2019 JUNIO. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2019.0,Reserva 1,Ejercicio 4 Opcion A,"La cantidad de azúcar que añade un fabricante de refrescos a sus productos sigue una ley Normal
+cuya varianza es 225 mg?. Se ha seleccionado al azar una muestra de 25 refrescos de ese
+fabricante, en la que se ha obtenido una media de 175 mg de azúcar añadido por refresco.
+a) Determine un intervalo de confianza al 90% para la cantidad media de azúcar añadida a cada
+refresco.
+b) ¿Cuál debe ser el tamaño mínimo de la muestra para que el intervalo de confianza
+correspondiente al 80% tenga una amplitud como máximo de 5 mg?
+SOCIALES II. 2019 RESERVA 1. EJERCICIO 4. OPCION A"
+MATES_CCSS,Inferencia Estadística,2019.0,Reserva 1,Ejercicio 4 Opcion B,"La Consejería de Educación elige una muestra de 5000 estudiantes de lo de Bachillerato de
+Ciencias Sociales y los encuesta para conocer la opinión que tienen sobre la elección de cierta
+materia entre las optativas para cursar 2” de Bachillerato. El resultado de la encuesta revela que
+2250 estudiantes piensan elegir dicha materia optativa.
+a) Halle un intervalo de confianza al 975% para estimar la proporción de estudiantes que
+piensan elegir esa materia optativa.
+b) Si en otra muestra la proporción de estudiantes que piensa elegir esa materia es de 05 y el
+error cometido en la estimación ha sido inferior a 003 con un nivel de confianza del 92*5%,
+calcule el tamaño muestral mínimo de esa muestra.
+SOCIALES II. 2019 RESERVA 1. EJERCICIO 4. OPCION B"
+MATES_CCSS,Inferencia Estadística,2019.0,Reserva 2,Ejercicio 4 Opcion A,"A la salida de una heladería se realizó una encuesta para comprobar si los clientes habían
+probado un nuevo sabor en promoción. Se observó que de 125 personas encuestadas, 20 no lo
+habían probado y el resto sí.
+a) Determine, con un nivel de confianza del 97%, un intervalo para estimar la proporción de
+clientes de esa heladería que no habían probado el nuevo helado.
+b) Mediante una nueva muestra se desea estimar la proporción de clientes de esa heladería que no
+habían probado el nuevo helado, con un error inferior al 5% y un nivel de confianza del 94%.
+Suponiendo que se mantiene la proporción muestral del apartado anterior, ¿qué tamaño mínimo
+debe tener dicha muestra?
+SOCIALES II. 2019 RESERVA 2. EJERCICIO 4. OPCION A"
+MATES_CCSS,Inferencia Estadística,2019.0,Reserva 2,Ejercicio 4 Opcion B,"La vida útil de los filtros de las máquinas de agua por ósmosis se distribuye según una ley Normal
+de media desconocida y desviación típica de 2000 horas. En una prueba realizada en 9 máquinas
+elegidas al azar, se obtuvieron los siguientes resultados:
+9500 10000 8500 10500 16500 10000 12000 14000 17000
+a) Calcule un intervalo de confianza al 99% para la vida útil media de los filtros de las máquinas.
+b) ¿Cuál debe ser el tamaño mínimo que debería tener una muestra, para que el error cometido
+en la estimación de la vida útil media de los filtros sea inferior a 500 horas, con un nivel de
+confianza del 95% ?
+SOCIALES II. 2019 RESERVA 2. EJERCICIO 4. OPCION B"
+MATES_CCSS,Inferencia Estadística,2019.0,Reserva 3,Ejercicio 4 Opcion A,"Para estimar la proporción de empleados de una empresa que usan lentillas, se toma una muestra
+al azar de 60 empleados de la misma y se observa que 16 usan lentillas.
+a) Halle, con un nivel de confianza del 90% , un intervalo para estimar la proporción.
+b) Con el mismo nivel de confianza del apartado anterior y manteniendo la misma proporción
+muestral, determine el tamaño mínimo de la muestra para que el error cometido en la estimación
+de la proporción sea inferior a 01.
+SOCIALES II. 2019 RESERVA 3. EJERCICIO 4. OPCION A"
+MATES_CCSS,Inferencia Estadística,2019.0,Reserva 3,Ejercicio 4 Opcion B,"El tiempo de duración, en horas, de un modelo de bombilla LED, sigue una ley Normal de media
+desconocida y desviación típica 150 horas. Con una muestra de bombillas de ese modelo y a un
+nivel de confianza del 98.5% se ha obtenido que el intervalo de confianza para la media es
+(18475'7 , 18524' 3).
+a) Calcule el valor que se obtuvo para la media de la muestra y el tamaño de la muestra utilizado.
+b) ¿Cuál será el error máximo de estimación de la media si se hubiese utilizado una muestra de
+tamaño 100 y un nivel de confianza del 96.6% ?
+SOCIALES II. 2019 RESERVA 3. EJERCICIO 4. OPCION B"
+MATES_CCSS,Inferencia Estadística,2019.0,Reserva 4,Ejercicio 4 Opcion A,"La producción en kilogramos por árbol de aguacates de una comarca sigue una distribución
+Normal de desviación típica 4 y media desconocida.
+a) Obtenga el tamaño muestral mínimo necesario para estimar la media poblacional con un error
+de estimación inferior a 2.1 kg y una confianza del 97% .
+b) Se toma una muestra aleatoria de 9 árboles, cuyas producciones en kilogramos han sido:
+15 120 50 40 5 46 52 48 10
+Obtenga el intervalo de confianza al 97% para estimar la producción media de aguacates por
+árbol y calcule el error máximo de estimación.
+SOCIALES II. 2019 RESERVA 4. EJERCICIO 4. OPCION A"
+MATES_CCSS,Inferencia Estadística,2019.0,Reserva 4,Ejercicio 4 Opcion B,"En una muestra de 320 personas jubiladas elegidas al azar en un distrito de una ciudad, resultó
+que 96 de ellas realizaban alguna actividad física.
+a) Construya un intervalo de confianza al 95% para la proporción de personas jubiladas que
+realizan alguna actividad física en ese distrito.
+b) Suponiendo que se mantiene la misma proporción muestral, halle el tamaño mínimo de la
+muestra para que el error cometido sea inferior a 0.1 con un nivel de confianza del 98% .
+SOCIALES II. 2019 RESERVA 4. EJERCICIO 4. OPCION B"
+MATES_CCSS,Inferencia Estadística,2019.0,Septiembre,Ejercicio 4 Opción B,"Se quiere estimar la proporción de enfermos hospitalizados por causas relacionadas con el
+consumo de tabaco. Para ello se escoge aleatoriamente una muestra de 50 expedientes sanitarios
+de enfermos hospitalizados, resultando que el 22% de ellos revelan que la enfermedad fue causada
+por el tabaco.
+a) Para un nivel de confianza del 92% , calcule un intervalo de confianza para la proporción de
+enfermos hospitalizados por causas relacionadas con el consumo de tabaco.
+b) Determine cuántos expedientes hay que elegir como mínimo para que, con el mismo nivel de
+confianza y la misma proporción muestral anteriores, el error que se cometa al estimar la
+proporción de los enfermos hospitalizados por causas debidas al tabaco sea inferior al 3%.
+SOCIALES II. 2019 SEPTIEMBRE. EJERCICIO 4 OPCIÓN B"
+MATES_CCSS,Inferencia Estadística,2020.0,Junio,Ejercicio D7,"La vida útil, en años, de las lavadoras de un determinado modelo, se distribuye según una Ley
+Normal de varianza 784. En una muestra de 12 lavadoras, la vida útil en años ha sido:
+95 9 102 86 114 108 126 11 1188 145 10% 98
+a) (15 puntos) Con estos datos, determine un intervalo de confianza al 935 % para estimar la
+vida útil media de estas lavadoras.
+b) (1 punto) Calcule el error máximo que se puede cometer al estimar la vida útil de este
+modelo de lavadoras, si se toma una muestra de 50 lavadoras y asumimos un nivel de confianza
+del 99 %.
+SOCIALES II. 2020. JUNIO. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2020.0,Junio,Ejercicio D8,"La renta anual de los hogares andaluces, en miles de euros, se distribuye según una Ley
+Normal con desviación típica 5 y media desconocida pH.
+a) (1 punto) Si se desea qu en el 99 % de las posibles muestras del mismo tamaño, elegidas
+entre los hogares andaluces, la media no difiera de la renta media anual poblacional de dichos
+hogares en más de una unidad, ¿cuál debe ser el tamaño mínimo de las muestras?.
+b) (05 puntos) Si se consideran muestras de hogares andaluces de tamaño 100, ¿Qué
+distribución de probabilidad sigue la variable aleatoria “Renta media anual muestral”?.
+c) (1 punto) Suponiendo que la renta media anual poblacional de los hogares andaluces es
+1 =24¿cuál es la probabilidad de que en una muestra de tamaño 100 la renta media anual sea
+superior a 257.
+SOCIALES II. 2020. JUNIO. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2020.0,Reserva 1,Ejercicio D7,"El precio de venta al público del kilogramo de frambuesas sigue una ley Normal de media
+desconocida y varianza 9. En una localidad se eligen 10 comercios de manera aleatoria,
+obteniéndose los siguientes precios en euros:
+123 10 91 11 105 11788 99 115 10% 13
+a) (05 puntos) ¿Qué distribución siguen las medias de las muestras de tamaño 10?
+b) (1 punto) Con los datos obtenidos de la muestra, determine un intervalo de confianza al 97%
+para el precio medio del kilogramo de frambuesas.
+c) (1 punto) Con el mismo nivel de confianza, calcule el tamaño mínimo que debe tener una
+muestra para que el error cometido al estimar el precio medio del kilogramo de frambuesas sea
+menor a 1”5 euros.
+SOCIALES II. 2020 RESERVA 1. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2020.0,Reserva 1,Ejercicio D8,"Se sabe que la longitud, en centímetros, de una especie de estrella de mar en una determinada
+zona sigue una ley Normal con desviación típica 3. Para estimar la longitud media de esa
+especie de estrella de mar, se extrae una muestra de tamaño 36 y se obtiene el intervalo de
+confianza (604, 8) al 95%. Se pide:
+a) (05 puntos) Calcule la media muestral.
+b) (05 puntos) Calcule el error de estimación máximo cometido.
+c) (1 punto) Si aumentamos el tamaño muestral a 49, ¿qué efecto produce sobre el error
+máximo cometido? Calcule este error.
+d) (0.5 puntos) Si aumentamos el nivel de confianza, ¿qué efecto produce sobre el error de
+estimación máximo? Justifique la respuesta
+SOCIALES II. 2020 RESERVA 1. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2020.0,Reserva 2,Ejercicio D7,"La distancia en kilómetros recorrida al día por los vehículos de una empresa de coches de
+alquiler sigue una distribución Normal de media desconocida y varianza 225. Se toma una
+muestra aleatoria simple de 36 coches y se obtiene el intervalo de confianza (15365, 162”35)
+para la media poblacional.
+a) (1 punto) Calcule la media muestral y el error máximo de estimación para ese intervalo de
+confianza.
+b) (05 puntos) Si con el mismo nivel de confianza, aumentamos el tamaño muestral, ¿cómo se
+vería afectado el error?
+c) (1 punto) Con un nivel de confianza del 95%, ¿cuál debería ser el tamaño mínimo de la
+muestra para que el error cometido sea inferior a 3 km?
+SOCIALES TI. 2020 RESERVA 2. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2020.0,Reserva 2,Ejercicio D8,"El tiempo de espera para ser atendido en un servicio hospitalario es una variable aleatoria que
+sigue una distribución Normal con desviación típica de 2 meses. Tomada una muestra al azar
+de 9 pacientes que han utilizado ese servicio, se han registrado los siguientes tiempos de espera
+en meses:
+$5 37 43 36 56 48 T0 14 60
+a) (15 puntos) Determine un intervalo de confianza al 95% para el tiempo de espera medio
+poblacional.
+b) (1 punto) Con un nivel de confianza del 97% , ¿qué tamaño muestral mínimo se ha de tomar
+para que el error máximo cometido en la estimación del tiempo de espera medio poblacional no
+exceda de un mes?
+SOCIALES II. 2020 RESERVA 2. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2020.0,Reserva 3,Ejercicio D7,"El tiempo de desfase, en minutos, entre la hora de paso programada de un autobús por cierta
+parada y la hora real a la que pasa, sigue una distribución Normal de media desconocida y
+varianza 4. Se observa el paso del autobús por la parada en 10 ocasiones elegidas al azar,
+registrándose los siguientes desfases:
+47 71 36 54 00 42 40 -0'2 P9 52
+a) (125 puntos) Obtenga un intervalo de confianza al 97% para el desfase medio en la hora de
+paso del autobús.
+b) (125 puntos) ¿Qué tamaño muestral mínimo sería necesario para estimar el desfase medio
+con un error inferior a 30 segundos y un nivel de confianza del 95% ? ¿Cómo variaría dicho
+tamaño muestral si se aumentara el nivel de confianza?
+SOCIALES TI. 2020 RESERVA 3. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2020.0,Reserva 3,Ejercicio D8,"Una tienda de ropa quiere estudiar la aceptación de un nuevo sistema de pago a través del
+teléfono móvil. Para ello realiza una encuesta entre 200 de sus clientes elegidos al azar,
+resultando que 150 de ellos sí estarían dispuestos a usar el nuevo sistema de pago.
+a) (1”5 puntos) Determine un intervalo de confianza al 97% para estimar la proporción de
+clientes de esa tienda que estarían dispuestos a usar el nuevo sistema de pago.
+b) (1 punto) Mediante una nueva encuesta se quiere estimar la proporción de clientes de esa
+tienda que usarían el nuevo sistema de pago, con un error máximo del 3% y un nivel de
+confianza del 94% . Suponiendo que se mantiene la proporción muestral del apartado anterior,
+¿a cuántos clientes como mínimo habría que realizar la encuesta?
+SOCIALES II. 2020 RESERVA 3. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2020.0,Reserva 4,Ejercicio D7,"a > A 2
+Tomada al azar una muestra de 600 alumnos de una universidad española, se encontró que 3
+de los mismos podían expresarse en inglés con fluidez.
+a) (1”5 puntos) Calcule un intervalo de confianza al 98% para estimar la proporción de
+alumnos de esa universidad que pueden expresarse en inglés con fluidez. ¿Se podría admitir a
+ese nivel de confianza que la proporción de alumnos de esa universidad que pueden expresarse
+13
+en inglés con fluidez es 20 2
+b) (025 puntos) Teniendo en cuenta el intervalo anterior, ¿qué error máximo se cometería en
+dicha estimación?
+e) (075 puntos) Si se mantienen la misma proporción muestral y la misma confianza, ¿cuántos
+alumnos como mínimo habría de tener una muestra para que el error de estimación sea
+inferior al 2% ?
+SOCIALES II. 2020 RESERVA 4. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2020.0,Reserva 4,Ejercicio D8,"La cantidad de café por taza que suministra una máquina de café sigue una distribución
+Normal con media desconocida y desviación típica 0'8cm* . En una muestra de 45 tazas
+suministradas por esa máquina, se ha medido un total de 5400 cm* de café.
+a) (05 puntos) Calcule el estimador puntual para la cantidad media de café por taza que
+suministra la máquina.
+b) (1 punto) Calcule un intervalo de confianza al 97% para estimar la cantidad media de café
+por taza que suministra la máquina.
+c) (1 punto) Calcule, con el mismo nivel de confianza, el tamaño muestral mínimo que se ha de
+tomar para que, al estimar la cantidad media de café por taza, el error cometido sea inferior a
+0'2cm?.
+SOCIALES II. 2020 RESERVA 4. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2020.0,Septiembre,Ejercicio D7,"a) (1 punto) Una población de 25.000 personas se ha dividido en cuatro estratos con tamaños
+15.000, 5.000, 3.000 y 2.000 personas respectivamente. En esa población se ha realizado un
+muestreo estratificado con afijación proporcional, en el que se han elegido al azar 36 personas
+del tercer estrato. Determine el tamaño de la muestra total obtenida con este muestreo y su
+composición.
+b) (15 puntos) Dada la población P = (2,4,6) , construya todas las muestras posibles de tamaño
+2 que se pueden formar mediante muestreo aleatorio simple y halle la desviación típica de las
+medias muestrales obtenidas con todas esas muestras.
+SOCIALES II. 2020 SEPTIEMBRE. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2020.0,Septiembre,Ejercicio D8,"Se ha tomado una muestra de 16 pacientes tratados por un especialista y se ha observado que el
+tiempo de espera en su consulta, en minutos, ha sido de:
+8 92 10 $5 12 9 113 7 $5 83 T6 9 94 105 89 68
+Supongamos que el tiempo de espera en esta consulta se distribuye según una ley Normal de
+varianza 4 y media desconocida.
+a) (1”5 puntos) Halle un intervalo de confianza al 975% para estimar el tiempo medio de
+espera de los pacientes tratados por este especialista.
+b) (1 punto) ¿Cuál debería ser el tamaño mínimo de la muestra para asegurar, con un nivel de
+confianza del 90%, que el error cometido sea, a lo sumo, de 03 minutos?.
+SOCIALES II. 2020. SEPTIEMBRE. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2021.0,Junio,Ejercicio D7,"a) En una Escuela Politécnica hay matriculados en el último curso 60 estudiantes de Ingeniería
+Eléctrica, 40 de Ingeniería Informática, 30 de Ingeniería Civil, 50 de Ingeniería Mecánica y 20
+de Ingeniería Aeronáutica. Se quiere hacer una encuesta al 20% de estos estudiantes, de
+manera proporcional al número de matriculados en cada titulación.
+1. ¿Qué tipo de muestreo se debe emplear?.
+2. ¿Cuántos alumnos debe haber en la muestra y cuántos de cada titulación?.
+b) Dada la población (a, 10, 12,11 ,18 y, ¿cuánto debe valer a , sabiendo que la media de las
+medias muestrales de tamaño 3, obtenidas mediante muestreo aleatorio simple, es 13.2?
+SOCIALES II. 2021. JUNIO. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2021.0,Reserva 1,Ejercicio D8,"La estatura de las mujeres de una población sigue una ley Normal de media desconocida y
+desviación típica 7 cm.
+a) Se toma una muestra aleatoria de 300 mujeres de esta población, que da una estatura media
+de 168 cm. Construya un intervalo de confianza al 97% para estimar la estatura media de las
+mujeres de esta población.
+b) Calcule el tamaño mínimo que debe tener una muestra de esta población para que, con un
+nivel de confianza del 94% , el error máximo cometido al estimar la estatura media de las
+mujeres de esa población sea inferior a 12 cm.
+SOCIALES II. 2021. RESERVA 1. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2021.0,Reserva 2,Ejercicio D8,"El tiempo, en horas, que los alumnos de un instituto dedican a estudiar para los exámenes
+finales, se distribuye siguiendo una ley Normal de media desconocida y varianza 81. Se toma
+una muestra aleatoria de 16 alumnos de dicho instituto, obteniéndose los siguientes tiempos:
+30 42 38 45 52 60 21 26 33 44 28 49 32 51 49 40
+a) Obtenga un intervalo, con un 95% de confianza, para estimar el tiempo medio de estudio de
+los alumnos de ese instituto.
+b) Calcule el mínimo tamaño de la muestra que se ha de tomar, para estimar el tiempo medio
+de estudio de esos alumnos con un error inferior a 2 horas y un nivel de confianza del 98% .
+SOCIALES II. 2021. RESERVA 2. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2021.0,Reserva 3,Ejercicio D7,"a) Se desea tomar una muestra aleatoria estratificada de las personas de un municipio, cuyos
+estratos son los siguientes tramos de edad: de O a 25 años, de 26 a 45, de 46 a 60 y de 61 años o
+más. En el primer tramo hay 15.000 personas, en el segundo hay 16.800, en el tercero 11.400 y
+en el cuarto 6.000. Sabiendo que el muestreo se hace con afijación proporcional y se han elegido
+al azar 375 persona del primer tramo, calcule el tamaño de la muestra total y su composición.
+b) Dada la población (£ 1, 3, 5 ), establezca todas las muestras posibles de tamaño 2 que se
+puedan formar mediante muestreo aleatorio simple y determine la media y la desviación típica
+de las medias muestrales obtenidas con todas estas muestras.
+SOCIALES II. 2021. RESERVA 3. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2021.0,Reserva 4,Ejercicio D8,"El peso de los paquetes de arroz de una marca comercial sigue una ley Normal de media 1000 g
+y varianza 256 g?.
+a) Calcule la probabilidad de que el peso media de la muestras de tamaño 64 sea menor que
+9% g.
+b) Tras varias denuncias presentadas por falta de peso en los citados paquetes, una
+organización de consumidores ha procedido a tomar una muestra de 64 paquetes, resultando
+que la suma de los pesos ha sido 63744 g. Halle un intervalo de confianza al 90% para estimar
+el peso medio real de los paquetes de arroz de esa marca.
+c) A la vista del intervalo obtenido y teniendo en cuenta que el peso que marca el paquete es de
+1000 g, ¿Cree que la denuncia tiene base?
+SOCIALES II. 2021. RESERVA 4. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2021.0,Julio,Ejercicio D7,"Para estimar la proporción de residentes británicos en España que están a favor de la salida del
+Reino Unido de la Unión Europea (UE), se toma una muestra aleatoria de 250 de estos residentes,
+obteniéndose que 115 estaban a favor de dejar de pertenecer a la UE.
+a) Calcule un intervalo de confianza al 995%, para estimar la proporción real de esos residentes
+que está a favor de la salida del Reino Unido de la UE.
+b) Manteniendo la misma proporción muestral y el mismo nivel de confianza del apartado
+anterior, determine el tamaño mínimo necesario de la muestra, para estimar la proporción de
+residentes británicos en España que están a favor de la salida del Reino Unido de la UE, con un
+error inferior al 5%.
+SOCIALES II. 2021 JULIO. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2021.0,Julio,Ejercicio D8,"Sea X una variable aleatoria que sigue una ley Normal de media poblacional desconocida y
+desviación típica 4.
+a) ¿cuál es la desviación típica de la distribución de medias de la muestras de tamaño 12 de la
+variable aleatoria X?.
+b) Para estimar la media poblacional de la variable X, se toma una muestra aleatoria de
+tamaño 12, obteniéndose los siguientes resultados:
+11”8,10,9”8,12,9”7,10”8,9'6,11”3,10”4,12”2,9”1,10'5
+Con los datos obtenidos de la muestra, determine un intervalo de confianza al 97% para
+estimar la media poblacional.
+c) Determine el tamaño mínimo que debe tener una muestra, para que, con el mismo nivel de
+confianza, el error cometido al estimar la media poblacional sea menor que 1?2.
+SOCIALES II. 2021. JULIO. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2022.0,Junio,Ejercicio D7,"La resistencia media a la ruptura de una nueva gama de herramientas sigue una distribución
+Normal de desviación típica 15 MPa (megapascales). Se seleccionan al azar 100 herramientas
+forjadas en la misma máquina durante el mismo proceso d producción, obteniéndose una
+resistencia media de 800 MPa.
+a) Realizando la estimación con un nivel de confianza del 92% , ¿entre qué valores se estima la
+resistencia media poblacional de esta gama de herramientas?.
+b) Manteniendo el mismo nivel de confianza, ¿cuál debe ser el tamaño mínimo de una nueva
+muestra para que el error máximo en la estimación de la resistencia media a la ruptura sea
+menor que 2 MPa?.
+SOCIALES II. 2022 JUNIO. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2022.0,Junio,Ejercicio D8,"Se quiere estudiar la proporción de perros que están vacunados en Andalucía. Para ello, se toma
+una muestra aleatoria de 400 perros de los que 320 resultan estar vacunados.
+a) Obtenga un intervalo con un nivel de confianza del 92% para estimar la proporción de perros
+vacunados en Andalucía y calcule el error máximo cometido.
+b) En una nueva muestra, manteniendo el mismo nivel de confianza y la misma proporción
+muestral, ¿cuántos perros, como mínimo, hay que elegir para que el error sea menor que 0*02?.
+SOCIALES II. 2022 JUNIO. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2022.0,Reserva 1,Ejercicio D7,"a) Se divide una población en cuatro estratos de tamaño 60.000, 20.000, 24.000 y 16.000
+personas. En dicha población se realiza un muestreo estratificado por afijación proporcional,
+seleccionándose 144 personas del tercer estrato. Determine el tamaño total de la muestra y su
+composición.
+b) Dada la población (1,4,7 ) , establezca todas las muestras posibles de tamaño 2 que se
+puedan formar mediante muestreo aleatorio simple, y determinar la media y la desviación
+típica de las medias muestrales obtenidas con todas estas muestras.
+SOCIALES II. 2022 RESERVA 1. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2022.0,Reserva 1,Ejercicio D8,"Se desea estimar la proporción de estudiantes de una universidad que proceden de otras
+provincias, para ello se selecciona una muestra de tamaño 2100 de los que 630 lo cumplen.
+a) Calcule un intervalo de confianza con un nivel del 975% para estimar la proporción
+poblacional de estudiantes de esa universidad procedentes de otras provincias.
+b) En una nueva muestra que mantiene la misma proporción muestral, y con el mismo nivel de
+confianza, queremos que el error máximo cometido sea 001. Halle su tamaño mínimo.
+SOCIALES II. 2022 RESERVA 1. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2022.0,Reserva 2,Ejercicio D7,"Se desea estimar la proporción de jóvenes de una localidad que están suscritos a una determinada
+plataforma de televisión. Para ello, se toma una muestra de 100 jóvenes de los que 36 afirman
+estar suscritos a dicha plataforma.
+a) Determine un intervalo de confianza, con un nivel del 92% , para la proporción de jóvenes que
+están suscritos a esta plataforma.
+b) Suponiendo que se mantiene la misma proporción muestral y el mismo nivel de confianza del
+apartado anterior, determine el tamaño muestral mínimo que se debería tomar si se quisiera que
+el error máximo fuera 0025.
+SOCIALES II. 2022 RESERVA 2. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2022.0,Reserva 2,Ejercicio D8,"La vida útil de un determinado modelo de teléfono móvil (en meses) se distribuye según una
+Ley Normal de varianza 961 meses”. En una muestra de 10 teléfonos, la vida útil de los mismos
+ha sido:
+3006 30 3173 297 323 32 328 315 312 305
+a) Determine un intervalo de confianza para estimar la vida útil de este modelo de teléfono
+móvil con un nivel de confianza del 97% .
+b) Determine el tamaño mínimo muestral para que, con el mismo nivel de confianza, el error
+que se comete al estimar la duración media de la vida útil de este modelo de teléfono móvil sea
+inferior a 015 meses.
+SOCIALES II. 2022 RESERVA 2. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2022.0,Reserva 3,Ejercicio D7,"Un taller desea estimar el grado de satisfacción de sus clientes. Para ello, a 120 clientes
+seleccionados al azar, les pregunta si volverían a solicitar sus servicios en caso de necesitarlo, de
+los que 96 respondieron que sí lo harían.
+a) Determine, con un nivel de confianza del 95%, un intervalo de confianza para estimar la
+proporción de clientes de este taller que volverían a solicitar sus servicios.
+b) Mediante una nueva muestra queremos estimar la proporción de clientes de ese taller que
+volverían a solicitar sus servicios con un error máximo del 5% y un nivel de confianza del 97% .
+Suponiendo que se mantiene la proporción muestral, ¿qué tamaño mínimo debe tener dicha
+muestra?.
+SOCIALES II. 2022 RESERVA 3. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2022.0,Reserva 3,Ejercicio D8,"El consumo de energía eléctrica mensual por vivienda medido en kilovatios hora (kWh) sigue
+una distribución Normal con varianza 4225 (kWh? .
+a) Se toma una muestra aleatoria de 100 viviendas, obteniéndose un consumo total de 26.830
+kWh. Calcule un intervalo de confianza al 92% para estimar el consumo medio poblacional.
+b) Calcule el tamaño mínimo de la muestra necesario para estimar el consumo medio de
+energía eléctrica mensual por vivienda, con un error máximo de 5 kWh y con un nivel de
+confianza del 98% .
+c) Tras una campaña para incentivar el ahorro energético se toma una nueva muestra y el
+intervalo de confianza para el consumo medio que se obtiene es (22408 , 255”92). Calcule la
+media del consumo de ener gía eléctrica mensual por vivienda para dicha muestra.
+SOCIALES II. 2022 RESERVA 3. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2022.0,Reserva 4,Ejercicio D7,"Se desea estimar la proporción de personas mayores de 45 años de una determinada ciudad que
+tienen presbicia (vista cansada). Para ello, se toma una muestra aleatoria de 540 personas
+mayores de 45 años, obteniéndose que 378 tienen presbicia.
+a) Obtenga un intervalo, con un nivel de confianza del 97%, para estimar la proporción
+“poblacional de personas mayores de 45 años con presbicia en dicha ciudad.
+b) Suponiendo que se mantiene la misma proporción muestral y el mismo nivel de confianza del
+apartado anterior, ¿cuántas personas se deberán seleccionar como mínimo para que la
+proporción muestral difiera de la proporción poblacional a lo sumo en un 3% ?.
+SOCIALES II. 2022 RESERVA 4. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2022.0,Reserva 4,Ejercicio D8,"El peso en gramos de las tortugas terrestres de una reserva natural sigue una Ley Normal de
+varianza 121 g? . Para estimar el peso medio de las tortugas de la reserva, se toma una muestra
+de 10 tortugas, obteniéndose los siguientes datos:
+980 1002 950 985 1100 1085 895 1000 912 1006
+a) Halle un intervalo de confianza para el peso medio de las tortugas con un nivel de confianza
+del 97% .
+b) ¿Cuál debe ser el tamaño minimo de la muestra para asegurar con un nivel de confianza del
+94% que el error máximo cometido sea de 5 g?.
+SOCIALES II. 2022 RESERVA 4. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2022.0,Julio,Ejercicio D7,"Una fábrica de tornillos quiere hacer un estudio sobre la proporción de tornillos que cumplen las
+especificaciones del fabricante. Para ello ha seleccionado una muestra de 1500 tornillos,
+resultando que 1425 cumplen las especificaciones del fabricante.
+a) Determine un intervalo de confianza para la proporción de tornillos que cumplen las
+especificaciones del fabricante con un nivel de confianza del 97% .
+b) Manteniendo la misma proporción muestral y el mismo nivel de confianza anterior, ¿cuál
+tendría que ser el tamaño mínimo de una nueva muestra para que el error de estimación sea
+inferior al 1%? .
+SOCIALES II. 2022 JULIO. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2022.0,Julio,Ejercicio D8,"El número de días que los titulados en un cierto master tardan en encontrar su primer trabajo
+sigue una distribución Normal de media uy desconocida y desviación típica 3 días.
+a) Se elige una muestra aleatoria de 100 titulados obteniéndose una media muestral de 8”1 días.
+Calcule un intervalo de confianza al 97% para estimar la media poblacional.
+b) Con un nivel de confianza del 92% , calcule el tamaño muestral mínimo necesario para que el
+error cometido, al estimar el número medio de días que estos titulados tardan en encontrar
+trabajo, sea inferior a un día.
+c) Suponiendo que u=7'61 días y tomando muestras aleatorias de 36 titulados ¿qué
+distribución de probabilidad sigue la variable aleatoria media muestral? ¿Cuál es la
+probabilidad de que la media muestral sea superior a 8 días?.
+SOCIALES II. 2022. JULIO. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2023.0,Junio,Ejercicio D7,"a) Una población está dividida en cuatro estratos de 250, 300, 400 y 350 individuos. Realizado
+un muestreo aleatorio estratificado con afijación proporcional se han seleccionado 20
+individuos del primer estrato. Determine el tamaño de la población, el tamaño de la muestra y
+el número de individuos seleccionados de los tres restantes estratos.
+b) En un centro de enseñanza la calificación media de los estudiantes fue de 64 puntos con una
+desviación típica de 0”7 puntos. Se seleccionó aleatoriamente una muestra de 49 estudiantes.
+b.1) Indique la distribución que sigue la media de las muestras de tamaño 49.
+b.2) Calcule la probabilidad de que la media de las calificaciones de los estudiantes de una de
+esas muestras esté comprendida entre 63 y 68 puntos.
+SOCIALES II. 2023 JUNIO. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2023.0,Junio,Ejercicio D8,"Se desea estimar la proporción de donantes de sangre en una universidad. Para ello se toma una
+muestra aleatoria de 400 personas de esa universidad, resultando que 64 son donantes de sangre.
+a) Calcule un intervalo de confianza, con un nivel del 98% , para estimar la proporción
+poblacional de donantes de sangre.
+b) Si el nivel de confianza es del 95% , calcule el error máximo cometido. Razone si este error será
+mayor o menor al disminuir el nivel de confianza.
+SOCIALES II. 2023 JUNIO. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2023.0,Reserva 1,Ejercicio D8,"El gasto mensual por vivienda en electricidad de los inquilinos de la zona centro de una
+determinada ciudad sigue una ley Normal con desviación típica 18”25 €. Se ha tomado una
+muestra aleatoria de 361 de estas viviendas obteniendo como resultado un gasto medio de 97 €.
+a) Obtenga un intervalo de confianza del 93% para el gasto medio mensual en electricidad por
+vivienda.
+b) ¿Cuál es el tamaño mínimo que debe tener una muestra para que el error cometido al
+estimar la media, con un nivel de confianza del 91%, sea un tercio del error cometido en el
+intervalo (955 , 98*5)?.
+SOCIALES II. 2023 RESERVA 1. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2023.0,Reserva 2,Ejercicio D7,"Se sabe que la vida útil en meses de una batería de coche sigue una distribución Normal de
+media desconocida y varianza 8 meses?. Se seleccionan al azar 100 clientes que habían
+comprado una de estas baterías y se les pregunta cuando las reemplazaron, obteniéndose una
+media de 4 años y 2 meses.
+a) Determine, con un nivel de confianza del 94%, un intervalo de confianza para estimar la
+vida media de estas baterías.
+b) Manteniendo el mismo nivel de confianza, determine el tamaño muestral mínimo que debe
+tomarse para que el error cometido al estimar la vida media de estas baterías sea menor que
+0”1 meses.
+SOCIALES II. 2023 RESERVA 2. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2023.0,Reserva 2,Ejercicio D8,"El tiempo de adaptación al uso de unas gafas progresivas depende de la persona, de la
+graduación de las lentes y del tipo de progresivo elegido. No obstante, se sabe que el tiempo de
+adaptación sigue una ley Normal de media 12”5 días y desviación típica 25 días.
+a) Si se toma una muestra aleatoria de 16 individuos que han comenzado a utilizar este tipo de
+gafas, ¿qué distribución sigue la media muestral del tiempo de adaptación? ¿Cuál es la
+probabilidad de que el tiempo medio de adaptación a las gafas progresivas para dicha muestra
+supere los 12 días?.
+b) Si la muestra elegida es de tamaño 25. ¿Cuál es la probabilidad de que el tiempo medio
+muestral de adaptación a las gafas progresivas diste de 12 días a lo sumo 1 día?.
+SOCIALES II. 2023 RESERVA 2. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2023.0,Reserva 3,Ejercicio D7,"El peso de la gamba roja de Garrucha, en gramos, sigue una distribución Normal de media
+poblacional desconocida y desviación típica 5 gramos.
+a) Se elige una muestra aleatoria de 100 gambas obteniéndose una media de 53 gramos. Calcule
+un intervalo de confianza al 975% para estimar el peso medio de la gamba roja.
+b) Sabiendo que la media poblacional es 533 gramos y escogiendo una muestra aleatoria de 64
+gambas, calcule la probabilidad de que el peso medio de la muestra sea superior a 5325
+gramos.
+SOCIALES II. 2023 RESERVA 3. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2023.0,Reserva 3,Ejercicio D8,"Se desea estimar la proporción de clientes de una compañía de seguros que han requerido el
+servicio de asistencia en carretera. Para ello, se ha recogido una muestra aleatoria de 300
+asegurados resultando que 90 han requerido este servicio.
+a) Obtenga un intervalo de confianza al 97% para estimar la proporción de asegurados que han
+solicitado este servicio.
+b) Con la proporción muestral facilitada y con un nivel de confianza del 95% , ¿cuál es el número
+mínimo de asegurados que se deberán seleccionar aleatoriamente para que la proporción
+muestral y la poblacional no difieran en más de un 3% ?.
+SOCIALES II. 2023 RESERVA 3. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2023.0,Reserva 4,Ejercicio D7,"Una empresa fabrica piezas cuyo diámetro sigue una distribución Normal de media
+desconocida y varianza 9 mm?.
+a) Se seleccionan al azar 144 piezas obteniéndose un diámetro medio de 81 mm. Determine un
+intervalo de confianza al 985% para estimar el diámetro medio de las piezas fabricadas por la
+empresa.
+b) Con el mismo nivel de confianza del apartado anterior, ¿de qué tamaño mínimo habría que
+tomar la muestra para obtener un intervalo de confianza con una amplitud máxima de 0?9?.
+c) Suponiendo que la media poblacional es de 80”4 mm y tomando muestras aleatorias de 64
+piezas, ¿qué distribución de probabilidad sigue la variable aleatoria diámetro medio muestral?
+¿Cuál es la probabilidad de que el diámetro medio muestral esté comprendido entre 79”5 mm y
+807 mm?
+SOCIALES II. 2023 RESERVA 4. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2023.0,Reserva 4,Ejercicio D8,"Se selecciona una muestra aleatoria de 300 habitantes de una ciudad, a los que se les pregunta si
+creen que llevan una dieta saludable. De las persona encuestadas, 180 han contestado
+afirmativamente, mientras que el resto ha respondido que no.
+a) Calcule un intervalo de confianza al 95% para la proporción de personas que creen seguir una
+dieta saludable.
+b) ¿Cuál sería el número de habitantes mínimo necesario en este estudio de opinión para que se
+reduzca a un tercio el error cometido en el intervalo (054, 066) con el mismo nivel de confianza?.
+SOCIALES II. 2023 RESERVA 4. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2023.0,Julio,Ejercicio D7,"a) Un gimnasio establece sus tarifas por grupos de edad: juvenil, adulto y senior. Tiene
+matriculados 25 juveniles, 75 adultos y 50 seniors. Se quiere seleccionar una muestra de 30
+personas del gimnasio utilizando un muestreo estratificado con afijación proporcional. ¿Cuál
+será la composición que debe tener dicha muestra?.
+b) Dada la población [9,11,13,18,204, calcule la varianza de la distribución de las medias
+muestrales de tamaño 2 obtenidas mediante muestreo aleatorio simple.
+SOCIALES II. 2023 JULIO. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2023.0,Julio,Ejercicio D8,"En el otoño de 2021, el municipio del Paso en la isla de La Palma sufrió la erupción del volcán
+Cumbre Vieja. Al finalizar la erupción, se escogió una muestra de 500 casas resultando que 325 de
+ellas estaban afectadas por la erupción.
+a) Calcule un intervalo, con un nivel de confianza del 97%, para estimar la proporción de casas
+afectadas por la erupción del volcán. Según el resultado obtenido, ¿se puede admitir que el
+porcentaje de casas afectadas por el volcán es del 64% ?.
+b) Para un nivel de confianza del 92% y manteniendo la proporción muestral, ¿cuál debe ser el
+tamaño mínimo de una muestra para que el error máximo de estimación sea del 2% ?.
+SOCIALES II. 2023 JULIO. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2024.0,Junio,Ejercicio D7,"a) Se realizan dos muestreos aleatorios estratificados con afijación proporcional para una
+población dividida en cuatro estratos E,,E,,E,yE,. En la primera muestra se han
+seleccionado 25 individuos de E, y 30 de E,. En la segunda muestra se han seleccionado 80
+individuos de E, y 100de E,. Sabiendo que el estrato E, tiene 500 individuos y que el estrato
+E, tiene 400, determine el tamaño de cada estrato de la población y el tamaño de las muestras en
+cada estrato.
+b) Dada la población (=3,-1,2,5,7) , Se consideran todas las muestras posibles de tamaño 2
+obtenidas mediante muestreo aleatorio simple. Calcule la media y la varianza de la distribución de
+las medias muestrales.
+SOCIALES II. 2024. JUNIO. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2024.0,Junio,Ejercicio D8,"Se desea conocer la proporción de habitantes de una determinada ciudad que realizan turismo
+sostenible durante sus vacaciones. Para ello se selecciona al azar una muestra de 2500 habitantes,
+resultando que 1825 realizan turismo sostenible.
+a) Calcule un intervalo, con un nivel de confianza del 95%, para estimar la proporción de
+habitantes de la ciudad que realizan turismo sostenible.
+b) Para un nivel de confianza del 97% y manteniendo la proporción muestral, ¿cuál sería el
+tamaño mínimo de una nueva muestra para que el error de estimación sea inferior al 1%?.
+c) Razone que efecto producirá sobre la amplitud del intervalo una disminución del tamaño de la
+muestra.
+SOCIALES II. 2024 JUNIO. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2024.0,Reserva 1,Ejercicio D7,"Se ha administrado un determinado medicamento a una muestra de 220 enfermos de una
+población que padece una cierta enfermedad y se ha observado una respuesta positiva en 165 de
+ellos.
+a) Estime, mediante un intervalo de confianza del 975%, la proporción de enfermos que
+responderían positivamente si este medicamento se administrase a la población de la que se ha
+extraído la muestra. Según el intervalo obtenido, razone si puede admitirse que el porcentaje de
+enfermos que responderían positivamente al medicamento administrado es del 70% .
+b) Con el mismo nivel de confianza y la misma proporción muestral, ¿cuál debe ser el tamaño
+mínimo de una nueva muestra para que el error de estimación sea menor que el 2?5%?.
+SOCIALES II. 2024 RESERVA 1. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2024.0,Reserva 1,Ejercicio D8,"Un atleta obtiene los siguientes tiempos, en minutos, de 10 repeticiones cronometradas de una
+prueba:
+271 384 326 228 286 308 307 246 254 258
+Poe experiencias anteriores se sabe que el tiempo en cada repetición sigue una ley Normal de
+media desconocida y desviación típica 036 minutos.
+a) Calcule un intervalo de confianza para el tiempo medio de estas repeticiones con un 935%
+de confianza.
+b) ¿Cuántas repeticiones como mínimo se tendrán que cronometrar si se quiere obtener un
+error en la estimación del tiempo medio inferior a 005 minutos manteniendo el mismo nivel de
+confianza?.
+SOCIALES II. 2024 RESERVA 1. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2024.0,Reserva 2,Ejercicio D7,"Una tienda decide evaluar a su empresa de transporte para determinar si está cumpliendo con sus
+estándares de calidad. Para ello se analizan 400 de sus envíos y se comprueba que 370 han sido
+entregados a tiempo.
+a) Si los estándares de calidad de dicha empresa requieren que al menos el 88% de los envíos sean
+entregados a tiempo, estime, mediante un intervalo de confianza al 93%, si la empresa de
+transporte cumple con los estándares de calidad.
+b) Si se mantiene la misma proporción muestral y se aumente el nivel de confianza al 95%,
+¡cuántos en víos, como mínimo, habrá que analizar para que la amplitud del inter valo de confianza
+sea inferior a 0037.
+SOCIALES II. 2024 RESERVA 2. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2024.0,Reserva 2,Ejercicio D8,"a) El tiempo que un carpintero necesita para fabricar una mesa sigue una distribución Normal
+de media 60 minutos y desviación típica 30 minutos. Si en un mes ese carpintero ha fabricado
+100 mesas, calcule la probabilidad de que el tiempo medio de fabricación de las mesas de esa
+muestra sea superior a 54 minutos.
+b) El tiempo que un carpintero necesita para fabricar una puerta sigue una distribución
+Normal de media desconocida y desviación típica 20 minutos. En un mes ese carpintero ha
+fabricado 25 puertas, obteniendo un tiempo medio de fabricación de 40 minutos. Halle un
+intervalo de confianza para el tiempo medio de fabricación de una puerta con un nivel de
+confianza del 97% . Determine el error máximo cometido al realizar la estimación.
+SOCIALES II. 2024 RESERVA 2. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2024.0,Reserva 3,Ejercicio D7,"a) Para estimar la proporción de mujeres matriculadas en carreras STEM en Andalucía, se
+realiza una encuesta a 2000 universitarias andaluzas elegidas al azar y se obtiene que 710 de ellas
+están matriculadas en carreras STEM. Con un nivel de confianza del 96.5% , calcule un inter valo
+de confianza para estimar la proporción de mujeres matriculadas en carreras STEM en
+Andalucía.
+b) En otra comunidad autónoma, al seleccionar una muestra de universitarias, se observa que el
+porcentaje de mujeres matriculadas en carreras STEM es del 37% . Con un nivel de confianza del
+98% , calcule el tamaño mínimo de esa nueva muestra para que el error máximo cometido sea del
+1.5%
+SOCIALES II. 2024 RESERVA 3. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2024.0,Reserva 3,Ejercicio D8,"La cuota mensual de las hipotecas en una ciudad es una variable aleatoria que sigue una
+distribución Normal de media desconocida y desviación típica igual a 140 €.
+a) Se toma una muestra aleatoria de hipotecas en dicha ciudad y se obtiene que el intervalo de
+confianza al 95% para la media de las cuotas mensuales es (517.65 ,551.95). Calcule el valor de
+la media muestral y el tamaño de la muestra elegida.
+b) Escogida otra muestra de 78 hipotecas en esa ciudad y con un nivel de confianza del 97%,
+calcule el error máximo cometido para estimar la cuota mensual media.
+c) Si en otra ciudad la cuota mensual de las hipotecas sigue una distribución Normal de media
+540 € y desviación típica de 150 € , calcule la probabilidad de que la cuota de una hipoteca
+elegida al azar en dicha ciudad esté comprendida entre 600 y 700 euros.
+SOCIALES II. 2024 RESERVA 3. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2024.0,Reserva 4,Ejercicio D7,"En un invernadero de Almería se realiza un estudio sobre dos de sus productos, melones y
+sandías.
+a) De los 4000 melones recolectados en un determinado periodo, 1420 son de la variedad A, 980
+de la B, 720 de la C y el resto de la D. Si se selecciona una muestra de 200 de estos melones,
+¿cuál debe ser la composición que debe tener dicha muestra si se realiza mediante muestreo
+aleatorio estratificado con afijación proporcional?
+b) El peso de las sandías sigue una distribución Normal de media 3.85 kg y desviación típica
+1.32 kg. Se selecciona, de forma aleatoria, una muestra de 121 sandías.
+b.1) Indique la distribución que sigue la media muestral del peso de las sandías.
+b.2) Calcule la probabilidad de que el peso medio de la muestra esté comprendido entre
+3.6 kg y 4 kg.
+SOCIALES II. 2024 RESERVA 4. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2024.0,Reserva 4,Ejercicio D8,"Una empresa farmacéutica desea revisar la efectividad de un nuevo medicamento antipirético
+(reduce la fiebre). Se conoce que el tiempo en el que este medicamento comienza a hacer efecto
+sigue una ley Normal de media desconocida y desviación típica de 5 minutos. Para estimar la
+media poblacional, se ha seleccionado una muestra aleatoria de 10 individuos con fiebre y tras
+administrarse el medicamento, se han anotado los tiempos en los que comienza a remitir. Los
+tiempos obtenidos, en minutos, fueron:
+20, 25,30, 35, 35, 20, 20, 25, 30, 30
+a) Determine un intervalo, con un nivel de confianza del 98% , para estimar el tiempo medio de
+respuesta de este medicamento. Según el intervalo obtenido, razone si puede admitirse que el
+tiempo medio en el que el medicamento comienza a hacer efecto es superior a 35 minutos.
+b) Un estudio posterior ha revelado que el tiempo de respuesta a este medicamento sigue una
+ley Normal de media 27.2 minutos y desviación típica de 5 minutos. Determine la probabilidad
+de que a un paciente con fiebre que ha ingerido el medicamento no le haya hecho efecto hasta
+pasados 20 minutos.
+SOCIALES II. 2024 RESERVA 4. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2024.0,Julio,Ejercicio D7,"La altura de un cierto tipo de plantas de maíz sigue una distribución Normal de media 145 cm
+y desviación típica de 22 cm.
+a) ¿Qué porcentaje de plantas tiene una altura comprendida entre 135 cm y 155 cm?.
+b) ¿Qué altura, como mínimo, debe tener una planta para estar entre el 50% de las más altas?.
+c) Se selecciona una muestra aleatoria de 16 plantas. Halle la probabilidad de que la altura
+media de las plantas de esta muestra esté comprendida entre 140 cm y 151 cm.
+SOCIALES II. 2024 JULIO. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2024.0,Julio,Ejercicio D8,"Se desea estimar la proporción de personas que viajan en tren con su mascota. Para ello se
+selecciona una muestra aleatoria de 300 viajeros, obteniéndose que 12 de ellos viajan con su
+mascota.
+a) Obtenga un intervalo, con un nivel de confianza del 97%, para estimar la proporción de
+personas que viajan en tren con su mascota.
+b) Manteniendo la misma proporción muestral y con un nivel de confianza del 95% , ¿cuántas
+personas que viajan en tren deberán seleccionarse aleatoriamente como mínimo para que la
+proporción muestral difiera de la proporción poblacional a lo sumo en un 2% ?.
+SOCIALES II. 2024 JULIO. EJERCICIO D8"
+MATES_CCSS,Inferencia Estadística,2024.0,Modelo,Ejercicio 4A,"El número de días de permanencia de los enfermos en un hospital sigue una ley Normal de
+media desconocida y desviación típica 3 días.
+a) Determine un intervalo de confianza para estimar la media poblacional, a un nivel de
+confianza del 97%, con una muestra aleatoria de 100 enfermos cuya media es 8”1 días.
+b) ¿Qué tamaño mínimo debe tener una muestra aleatoria para poder estimar la media
+poblacional con un error inferior a 1 día y un nivel de confianza del 92 %?.
+SOCIALES II. 2024 MODELO. EJERCICIO 4A"
+MATES_CCSS,Inferencia Estadística,2024.0,Modelo,Ejercicio 4B,"Una tienda de ropa quiere estudiar la aceptación de un nuevo sistema de pago a través del
+teléfono móvil. Para ello realiza una encuesta entre 200 de sus clientes elegidos al azar,
+resultando que 150 de ellos sí estarían dispuestos a usar el nuevo sistema de pago.
+a) (15 puntos) Determine un intervalo de confianza al 97% para estimar la proporción de
+clientes de esa tienda que estarían dispuestos a usar el nuevo sistema de pago.
+b) (1 punto) Mediante una nueva encuesta se quiere estimar la proporción de clientes de esa
+tienda que usarían el nuevo sistema de pago, con un error máximo del 3% y un nivel de
+confianza del 94% . Suponiendo que se mantiene la proporción muestral del apartado anterior,
+¿a cuántos clientes como mínimo habría que realizar la encuesta?
+SOCIALES II. 2024 MODELO. EJERCICIO 4B"
+MATES_CCSS,Inferencia Estadística,2025.0,Junio,Ejercicio D6,"El tiempo de estudio semanal de los estudiantes andaluces, medido en horas, se distribuye según
+una ley Normal de media desconocida y desviación típica 5 horas. A partir de una muestra de 81
+estudiantes se ha obtenido que el intervalo de confianza para la media poblacional es (10794 ,
+13206), con un nivel de confianza del 97%.
+a) Obtenga el tiempo medio de estudio de esa muestra de estudiantes.
+b) Si se amplía el tamaño de la muestra, razone si manteniendo el nivel de confianza, la amplitud
+del intervalo de confianza aumenta o disminuye.
+c) Si se desea reducir la amplitud del intervalo de confianza, razone si manteniendo el tamaño
+muestral, ha de reducirse o aumentarse el nivel de confianza.
+d) Si la media de la población es de 102 horas y sabiendo que la media muestral es de 12 horas,
+calcule el tamaño máximo de la muestra para obtener un inter valo de confianza que contenga la
+media poblacional, manteniendo el 97% de confianza.
+SOCIALES II. 2025 JUNIO. EJERCICIO D6"
+MATES_CCSS,Inferencia Estadística,2025.0,Junio,Ejercicio D7,"Los desajustes sobre el horario previsto de llegada de los trenes de alta velocidad, medidos en
+minutos, sigue una ley Normal con media O y desviación típica 2.2
+a) Calcule el porcentaje de trenes que tienen un desajuste máximo de 1 minuto.
+b) Elegidos al azar 15 trenes de alta velocidad, los desajustes han sido
+0,13,-2.1,-15,2,08,5,2.1,-3,18,3.1,4,-0.7,1.6,-5.4
+b.1) Calcule un intervalo de confianza, con un nivel de confianza del 96%, para la media
+poblacional. ¿Cuál es el error máximo que se comete en la estimación de esta media?. Con este nivel
+de confianza y a partir de los datos obtenidos, ¿puede afirmarse que un tren tenga un retraso de 2
+minutos?.
+b.2) Con un nivel de confianza del 98% , ¿cuántos trenes de alta velocidad deberían elegirse, como
+mínimo, para que la diferencia entre la media poblacional y su estimación muestral sea como
+máximo de 1.1 minutos?
+SOCIALES II. 2025. JUNIO. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2025.0,Reserva 1,Ejercicio D6,"El tiempo que tardan los usuarios de un sistema de salud en conseguir una cita en Atención
+Primaria sigue una distribución Normal con media desconocida y desviación típica 4”2 días.
+a) Elegidos al azar 30 usuarios, se obtiene que el tiempo medio que tardan en obtener cita en
+Atención Primaria es de 113 días. Determine un intervalo de confianza para estimar la media
+poblacional, con un nivel de confianza del 97%.
+b) La gerencia del sistema de salud asegura que el promedio de días para obtener una cita en
+Atención Primaria es de 9”8 días. Según el intervalo obtenido ¿podría asumirse la afirmación de
+la gerencia como posible?
+Cc) ¿Cuántos usuarios como mínimo se deberían seleccionar en una nueva muestra para que, con
+un nivel de confianza del 95%, el error máximo en el intervalo de la media poblacional sea de
+06 días.
+SOCIALES II. 2025. RESERVA 1. EJERCICIO D6"
+MATES_CCSS,Inferencia Estadística,2025.0,Reserva 1,Ejercicio D7,"Se desea estimar la proporción de personas de una determinada localidad que se muestran
+favorables a la celebración de las fiestas locales durante el mes de mayo. Para ello, se ha tomado
+una muestra aleatoria de 200 personas resultando que 130 de ellas están a favor.
+a) Obtenga un intervalo de confianza, con un nivel de confianza del 965%, para estimar la
+proporción de personas de esta localidad que está a favor de celebrar las fiestas locales durante el
+mes de mayo.
+b) Manteniendo la misma proporción muestral y con un nivel de confianza del 99% , ¿cuál es el
+número mínimo de personas que deberán seleccionarse aleatoriamente para que la proporción
+muestral y la poblacional no difieran en más de un 2%
+c) Manteniendo el tamaño de la muestra y la proporción muestral, si se aumenta el nivel de
+confianza, razone cómo influye en el error máximo de estimación.
+SOCIALES II. 2025. RESERVA 1. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2025.0,Reserva 2,Ejercicio D7,"En un invernadero de Palos de la Frontera (Huelva), se cultivan fresas y frambuesas. Se desea
+estimar la proporción de fresas y frambuesas que se recolectan. Para ello, se ha tomado una
+muestra aleatoria de 300 kg, obteniéndose que 180 kg de ellos son fresas y el resto frambuesas.
+a) Obtenga, con un nivel de confianza del 97 % , un inter valo para estimar la proporción de fresas
+recolectadas en el invernadero y otro intervalo para estimar la proporción de frambuesas
+recolectadas.
+b) Con las proporciones muestrales iniciales y con un nivel de confianza del 95 %, ¿cuántos
+kilogramos de frutos deberían seleccionarse aleatoriamente como mínimo para que las
+proporciones muestrales difieran de las proporciones poblacionales a lo sumo en un 2% ?
+SOCIALES II. 2025 RESERVA 2. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2025.0,Reserva 3,Ejercicio D6,"Una industria conservera envasa latas de anchoas cuyo peso en gramos sigue una distribución
+Normal con media poblacional desconocida y desviación típica 1 g. Para estimar la media
+poblacional, se selecciona al azar una muestra de 30 latas que dan un peso total de 24045 g.
+a) Determine un inter valo de confianza, con un nivel de confianza del 99 % , para estimar el peso
+medio de las latas envasadas por la conservera.
+b) Calcule el tamaño mínimo de una nueva muestra para que, manteniendo el mismo nivel de
+confianza, el error máximo de estimación de la media poblacional sea menor que 07 g.
+c) Explique, razonadamente, el efecto que tendría sobre el error máximo de estimación un
+aumento del número de latas seleccionadas en la muestra, manteniendo el mismo nivel de
+confianza, y explique también qué ocurriría con dicho error si se aumentara el nivel de confianza
+manteniendo el mismo tamaño muestral.
+SOCIALES II. 2025 RESERVA 3. EJERCICIO D6"
+MATES_CCSS,Inferencia Estadística,2025.0,Reserva 3,Ejercicio D7,"a) Dada la población [-4,-2, 1,4, 5), calcule la varianza de la distribución de las medias
+muestrales de tamaño 2 obtenidas mediante muestreo aleatorio simple.
+b) Una empresa multinacional con 10.000 empleados desea realizar un estudio sobre la brecha
+salarial de género en su organización. La empresa está dividida en tres niveles jerárquicos, en
+los que se tiene 1.000 empleados de nivel ejecutivo, siendo el 30 % mujeres, 3.000 empleados de
+nivel medio, de los cuales el 55 % son hombres, y el resto empleados de nivel operativo, de los
+que el 55 % son mujeres. Se quiere seleccionar una muestra estratificada de 2.000 empleados,
+manteniendo la proporción de cada nivel jerárquico y la distribución de género dentro de cada
+nivel. ¿Cuántos empleados deben seleccionarse en cada nivel jerárquico? y dentro de cada uno,
+¿Cuántos hombres y cuántas mujeres deben seleccionarse?
+SOCIALES II. 2025 RESERVA 3. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2025.0,Reserva 4,Ejercicio D6,"Se selecciona una muestra aleatoria de 600 familias a las que se les pregunta si tienen mascota,
+resultando que 240 de esas familias contestaron afirmativamente. Con un nivel de confianza del
+95%,
+a) Obtenga el correspondiente inter valo de confianza para estimar la proporción poblacional de
+familias que tienen mascota. ¿Puede suponerse que la mitad de las familias de esta población
+tiene mascota?
+b) ¿Qué tamaño muestral mínimo se debe tomar para que el error máximo al estimar esta
+proporción sea 0025?
+c) Explique razonadamente el efecto que tendría sobre la amplitud del intervalo de confianza de
+la proporción poblacional el aumento del tamaño de la muestra elegida.
+SOCIALES II. 2025 RESERVA 4. EJERCICIO D6"
+MATES_CCSS,Inferencia Estadística,2025.0,Reserva 4,Ejercicio D7,"Se ha realizado un estudio para analizar el peso, en kilogramos, de las mochilas de los estudiantes
+de ESO de los institutos de una localidad. Para ello, se seleccionó una muestra aleatoria de 13
+mochilas, obteniéndose los siguientes datos:
+45,53,49,52,55,55,57,48,56,47,42,58,4
+El peso de las mochilas se distribuye según una ley Normal de desviación típica 0”9 kg y media
+desconocida.
+a) Halle un intervalo de confianza, con un nivel de confianza del 985 %, para estimar el peso
+medio de las mochilas escolares.
+b) Para el mismo nivel de confianza, ¿qué tamaño muestral mínimo se debería tomar para que
+el error cometido al estimar el peso medio de estas mochilas sea inferior al 10 %?
+c) El peso medio de las mochilas de los estudiantes de ESO de esa localidad es de 49 kg y tomando
+una muestra aleatoria de 36 mochilas, ¿qué distribución sigue la variable que mide el peso medio
+de estas 36 mochilas? ¿Cuál es la probabilidad de que el peso medio no supere los 5”2 kg?
+SOCIALES II. 2025 RESERVA 4. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2025.0,Julio,Ejercicio D6,"A partir de un estudio muestral se sabe que, con un nivel de confianza del 95% , la proporción de
+estudiantes de una universidad que tienen carnet de conducir pertenece al intervalo
+(0'5616 ,0'7184),
+a) Calcule la proporción muestral de estudiantes que tienen carnet de conducir.
+b) Calcule el error máximo cometido en la estimación de la proporción poblacional.
+c) Calcule el tamaño de la muestra seleccionada.
+d) Razone qué efecto producirá sobre la amplitud del intervalo un aumento del tamaño muestral.
+SOCIALES II. 2025. JULIO. EJERCICIO D6"
+MATES_CCSS,Inferencia Estadística,2025.0,Julio,Ejercicio D7,"El tiempo de adaptación a la guardería, en días, de los menores de dos años andaluces, sigue una
+distribución Normal de media 10”5 días y desviación típica 1?5 días.
+a) Se toma una muestra aleatoria de 25 menores de estas características. ¿Qué distribución sigue
+la media muestral del tiempo de adaptación? ¿Cuál es la probabilidad de que el tiempo medio
+de adaptación de esta muestra supere los 10 días?.
+b) ¿Qué porcentaje de muestras de tamaño 25 nos proporcionará un tiempo medio de adaptación
+entre 8 y 11 días?.
+SOCIALES II. 2025 JULIO. EJERCICIO D7"
+MATES_CCSS,Inferencia Estadística,2026.0,Modelo,Ejercicio 4,"Sea X una variable aleatoria que sigue una Ley Normal de media desconocida y desviación típica
+3 días.
+a) Determine un intervalo de confianza para estimar la media poblacional, a un nivel de
+confianza del 97% ,a partir de una muestra de tamaño 100 cuya media es 8,1 días.
+b) ¿Qué tamaño mínimo debe tener una muestra aleatoria para poder estimar la media
+poblacional con un error inferior a 1 día y un nivel de confianza del 92% ?.
+SOCIALES II. 2026 MODELO. EJERCICIO 4"
+MATES_CCSS,Inferencia Estadística,2026.0,Junio,Ejercicio 3Aa,"a) Dada la población (-5,-2,13,18,20$, se consideran todas las muestras de tamaño 3
+obtenidas mediante muestreo aleatorio simple. Calcule la media y la varianza de la distribución
+de la variable media muestral.
+SOCIALES II. 2026. JUNIO. EJERCICIO 3A.a"
+MATES_CCSS,Inferencia Estadística,2026.0,Junio,Ejercicio 4,"Una empresa de transporte contrata una consultora para optimizar sus recursos. La consultora
+estudia la distancia en kilómetros que recorren en cada viaje los camiones de la empresa,
+sabiendo que la variable que mide dicha distancia se distribuye según una Normal de varianza
+225km” y media desconocida. Para ello, toma aleatoriamente una muestra de 49 viajes y obtiene
+una media de 325km recorridos por viaje.
+a) Calcule un intervalo de confianza al 97% para que la consultora pueda estimar la distancia
+media que recorren por viaje los camiones de la empresa.
+b) A la vista del intervalo obtenido, razone si la consultora puede considerar que los camiones de
+la empresa recorren por término medio 310km por viaje que realizan.
+c) ¿Cuántos viajes, como mínimo, tendría que seleccionar aleatoriamente la consultora para
+estimar la distancia media que recorren por viaje los camiones de la empresa mediante un
+intervalo de confianza del 99% que tuviera una amplitud inferior a 4km ?
+SOCIALES II. 2026 JUNIO. EJERCICIO 4"
