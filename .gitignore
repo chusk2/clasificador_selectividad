@@ -3,6 +3,8 @@ settings.json
 desktop.ini
 *.pdf
 pdf_files/
+cropped_pdf_files/
+source_pdf_files/
 SELECTIVIDAD/
 boot_credentials.py
 db_credentials.json
