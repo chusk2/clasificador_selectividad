@@ -1,0 +1,582 @@
+id,asignatura,tema,año,convocatoria,ejercicio,enunciado,imagen,archivo
+mates_2000_Junio_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2000,Junio,EJERCICIO 1. OPCIÓN A,"a) Dibuja el recinto limitado por las curvas: y e x2; y ex; x0
+b) Halla el área del recinto considerado en el apartado anterior.",enunciados_PNG/2000 - Integrales_png/2000_junio_1_opcion_a.png,2000 - Integrales.pdf
+mates_2000_Reserva 1_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2000,Reserva 1,EJERCICIO 1. OPCIÓN A,"a) Dibuja el recinto limitado por los semiejes positivos de coordenadas y las curvas: 2 y x2 1 ; y ; y x1 x
+b) Halla el área del recinto considerado en el apartado anterior.",enunciados_PNG/2000 - Integrales_png/2000_reserva_1_1_opcion_a.png,2000 - Integrales.pdf
+mates_2000_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2000,Reserva 1,EJERCICIO 2. OPCIÓN B,"9 x2
+a) Dibuja el recinto limitado por la curva y  , la recta tangente a esta curva en el punto de 4 abscisa x1 y el eje de abscisas.
+b) Calcula el área del recinto considerado en el apartado anterior.",enunciados_PNG/2000 - Integrales_png/2000_reserva_1_2_opcion_b.png,2000 - Integrales.pdf
+mates_2000_Reserva 2_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2000,Reserva 2,EJERCICIO 1. OPCIÓN A,"Considera la función f :  definida por f(x) 2 x x2. Calcula, 2, de forma que: 2 9  f(x)dx   2",enunciados_PNG/2000 - Integrales_png/2000_reserva_2_1_opcion_a.png,2000 - Integrales.pdf
+mates_2000_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2000,Reserva 2,EJERCICIO 2. OPCIÓN B,"Calcule el valor de  positivo, para que el área encerrada entre la curva yx x2 y el eje de abscisas sea 36. Representa la curva que se obtiene para dicho valor de .",enunciados_PNG/2000 - Integrales_png/2000_reserva_2_2_opcion_b.png,2000 - Integrales.pdf
+mates_2000_Reserva 3_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2000,Reserva 3,EJERCICIO 1. OPCIÓN A,3 Calcula el valor de la integral  (x2 5)ex dx 1,enunciados_PNG/2000 - Integrales_png/2000_reserva_3_1_opcion_a.png,2000 - Integrales.pdf
+mates_2000_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2000,Reserva 3,EJERCICIO 2. OPCIÓN B,"Considera las funciones f,g:  definidas por: f(x)6x2 ; g(x) x x .
+a) Dibuja el recinto limitado por las gráficas de f y g.
+b) Calcula el área del recinto descrito en el apartado anterior.",enunciados_PNG/2000 - Integrales_png/2000_reserva_3_2_opcion_b.png,2000 - Integrales.pdf
+mates_2000_Reserva 4_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2000,Reserva 4,EJERCICIO 1. OPCIÓN A,"x Sea F :   la función definida por: F(x)  (2t t) dt 0
+a) Determina F(1).
+b) Halla la ecuación de la recta tangente a la gráfica de F en el punto de abscisa x1.",enunciados_PNG/2000 - Integrales_png/2000_reserva_4_1_opcion_a.png,2000 - Integrales.pdf
+mates_2000_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2000,Reserva 4,EJERCICIO 2. OPCIÓN B,"Considera las funciones f,g:0,2 ; f(x) 2senx y g(x)sen2x
+a) Dibuja la región del plano limitada por las gráficas de f y de g.
+b) Calcula el área de la región descrita en el apartado anterior.",enunciados_PNG/2000 - Integrales_png/2000_reserva_4_2_opcion_b.png,2000 - Integrales.pdf
+mates_2000_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2000,Septiembre,EJERCICIO 2. OPCIÓN A,"Considera la función f :  definida por f(x)(1 x)ex
+a) Calcula  f(x) dx
+b) Calcula una primitiva de f cuya gráfica pase por el punto(0,3).",enunciados_PNG/2000 - Integrales_png/2000_septiembre_2_opcion_a.png,2000 - Integrales.pdf
+mates_2000_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2000,Septiembre,EJERCICIO 2. OPCIÓN B,2 dx Calcula la siguiente integral definida . ¿Qué representa geométricamente? 0 x2 4x3,enunciados_PNG/2000 - Integrales_png/2000_septiembre_2_opcion_b.png,2000 - Integrales.pdf
+mates_2001_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2001,Junio,EJERCICIO 2. OPCIÓN A,"Siendo ln x el logaritmo neperiano de x, considera la función f :(0,) definida por f(x) xlnx. Calcula:
+a)  f(x)dx.
+b) Una primitiva de f cuya gráfica pase por el punto (1,0).",enunciados_PNG/2001 - Integrales_png/2001_junio_2_opcion_a.png,2001 - Integrales.pdf
+mates_2001_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2001,Junio,EJERCICIO 2. OPCIÓN B,Halla el área del recinto rayado que aparece en la figura adjunta sabiendo que la parte curva 2x2 tiene como ecuación y 1 x,enunciados_PNG/2001 - Integrales_png/2001_junio_2_opcion_b.png,2001 - Integrales.pdf
+mates_2001_Reserva 1_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2001,Reserva 1,EJERCICIO 1. OPCIÓN A,Se quiere dividir la región plana encerrada entre la parábola y x2 y la recta y 1 en dos regiones de igual área mediante una recta y a. Hallar el valor de a.,enunciados_PNG/2001 - Integrales_png/2001_reserva_1_1_opcion_a.png,2001 - Integrales.pdf
+mates_2001_Reserva 1_EJERCICIO 1. OPCIÓN B,mates,ii_integrales_enunciados,2001,Reserva 1,EJERCICIO 1. OPCIÓN B," 5x10 si x 1 Sea f :  la función definida por: f(x)  x2 2x2 si x 1
+a) Esboza la gráfica de f.
+b) Calcula el área de la región limitada por la gráfica de f, el eje de abscisas y la recta x3.",enunciados_PNG/2001 - Integrales_png/2001_reserva_1_1_opcion_b.png,2001 - Integrales.pdf
+mates_2001_Reserva 2_EJERCICIO 1 OPCIÓN B,mates,ii_integrales_enunciados,2001,Reserva 2,EJERCICIO 1 OPCIÓN B,"a(x1) si 1 x1 Considera la función f :(1,) definida por: f(x) xlnx si x1
+a) Determina el valor de a sabiendo que f es derivable. 2
+b) Calcula  f(x) dx 0",enunciados_PNG/2001 - Integrales_png/2001_reserva_2_1_opcion_b.png,2001 - Integrales.pdf
+mates_2001_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2001,Reserva 2,EJERCICIO 2. OPCIÓN A,"Sea f :  la función dada por : f(x) x2 1
+a) Esboza la gráfica de f.
+b) Estudia la derivabilidad de f. 2
+c) Calcula  f(x) dx 0",enunciados_PNG/2001 - Integrales_png/2001_reserva_2_2_opcion_a.png,2001 - Integrales.pdf
+mates_2001_Reserva 3_EJERCICIO 1. OPCIÓN B,mates,ii_integrales_enunciados,2001,Reserva 3,EJERCICIO 1. OPCIÓN B,"Sea f :  la función definida por: f(x) 2x3 9x2 12x.
+a) Determina los intervalos de crecimiento y de decrecimiento de f. 
+b) Determina los extremos relativos  y  de f con  y calcula  f(x) dx ",enunciados_PNG/2001 - Integrales_png/2001_reserva_3_1_opcion_b.png,2001 - Integrales.pdf
+mates_2001_Reserva 4_EJERCICIO 1 OPCIÓN A,mates,ii_integrales_enunciados,2001,Reserva 4,EJERCICIO 1 OPCIÓN A," 1  si x0 Sea f :  la función definida por: f(x)  1 x  1mx x2 si x 0
+a) Determina m sabiendo que f es derivable. 1
+b) Calcula  f(x) dx 1",enunciados_PNG/2001 - Integrales_png/2001_reserva_4_1_opcion_a.png,2001 - Integrales.pdf
+mates_2001_Reserva 4_EJE RCICIO 1. OPCIÓN B,mates,ii_integrales_enunciados,2001,Reserva 4,EJE RCICIO 1. OPCIÓN B," 4x si 0x 1   16 Considera la función f :0,4 definida por: f(x)  si 1 x 3 (x1)2    4 x si 3 x 4
+a) Esboza la gráfica de f.
+b) Halla el área del recinto limitado por la gráfica de f y el eje de abscisas. EJE RCICIO 1. OPCIÓN B.",enunciados_PNG/2001 - Integrales_png/2001_reserva_4_eje_rcicio_1_opcion_b.png,2001 - Integrales.pdf
+mates_2001_Septiembre_EJERCICIO 1. OPCIÓN B,mates,ii_integrales_enunciados,2001,Septiembre,EJERCICIO 1. OPCIÓN B,Calcula el área encerrada entre la curva y  x3 4x y el eje de abscisas.,enunciados_PNG/2001 - Integrales_png/2001_septiembre_1_opcion_b.png,2001 - Integrales.pdf
+mates_2001_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2001,Septiembre,EJERCICIO 2. OPCIÓN A,"1 a ) Dibuja el recinto limitado por la curva y cosx, los ejes de coordenadas y la recta x  . 2
+b) Calcula el área del recinto descrito en el apartado anterior.",enunciados_PNG/2001 - Integrales_png/2001_septiembre_2_opcion_a.png,2001 - Integrales.pdf
+mates_2002_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2002,Junio,EJERCICIO 2. OPCIÓN A,Determina un polinomio P(x)de segundo grado sabiendo que P(0) P(2)1 y 2 1  P(x) dx  0 3,enunciados_PNG/2002 - Integrales_png/2002_junio_2_opcion_a.png,2002 - Integrales.pdf
+mates_2002_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2002,Junio,EJERCICIO 2. OPCIÓN B,"Sea f :  la función definida por: f(x) xex. Esboza el recinto limitado por la curva y  f(x), los ejes coordenados y la recta x  1. Calcula su área.",enunciados_PNG/2002 - Integrales_png/2002_junio_2_opcion_b.png,2002 - Integrales.pdf
+mates_2002_Reserva 1_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2002,Reserva 1,EJERCICIO 1. OPCIÓN A,"Sea Ln(x) el logaritmo neperiano de x y sea f :D la función definida por 1 f(x) x(Ln(x))2
+a) Determina el conjunto D sabiendo que está formado por todos los puntos x para los que existe f (x).
+b) Usa el cambio de variable t  Ln(x) para calcular una primitiva de f.",enunciados_PNG/2002 - Integrales_png/2002_reserva_1_1_opcion_a.png,2002 - Integrales.pdf
+mates_2002_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2002,Reserva 1,EJERCICIO 2. OPCIÓN B,x3 2x2 2x3 Calcula  dx x2 1,enunciados_PNG/2002 - Integrales_png/2002_reserva_1_2_opcion_b.png,2002 - Integrales.pdf
+mates_2002_Reserva 2_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2002,Reserva 2,EJERCICIO 1. OPCIÓN A,"a) Determina la función f :  sabiendo que f '(x)2x3 6x2 y que su valor mínimo es 12.
+b) Calcula la ecuación de las rectas tangentes a la gráfica de f en los puntos de inflexión de su gráfica.",enunciados_PNG/2002 - Integrales_png/2002_reserva_2_1_opcion_a.png,2002 - Integrales.pdf
+mates_2002_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2002,Reserva 2,EJERCICIO 2. OPCIÓN A,"Sea f :  la función definida por f(x) x x4 .
+a) Esboza la gráfica de f.
+b) Estudia su derivabilidad en x4.
+c) Calcula el área del recinto limitado por la gráfica de f y el eje de abscisas.",enunciados_PNG/2002 - Integrales_png/2002_reserva_2_2_opcion_a.png,2002 - Integrales.pdf
+mates_2002_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2002,Reserva 2,EJERCICIO 2. OPCIÓN B,Sea Ln(x) el logaritmo neperiano de x. Esboza el recinto limitado por los ejes coordenados y las gráficas de las funciones y 1 e y  Ln(x). Calcula su área.,enunciados_PNG/2002 - Integrales_png/2002_reserva_2_2_opcion_b.png,2002 - Integrales.pdf
+mates_2002_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2002,Reserva 3,EJERCICIO 2. OPCIÓN B,"Esboza el recinto limitado por la gráfica de la parábola y  (x2)2 2, la recta tangente a la gráfica de la parábola en el punto de abscisa x3, el semieje positivo de abscisas y el semieje negativo de ordenadas. Calcula su área.",enunciados_PNG/2002 - Integrales_png/2002_reserva_3_2_opcion_b.png,2002 - Integrales.pdf
+mates_2002_Reserva 4_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2002,Reserva 4,EJERCICIO 1. OPCIÓN A,2x2 10x Calcula una primitiva de la función f definida por f(x) para x1 y x  3. x2 2x3,enunciados_PNG/2002 - Integrales_png/2002_reserva_4_1_opcion_a.png,2002 - Integrales.pdf
+mates_2002_Septiembre_E JERCICIO 1 OPCIÓN A,mates,ii_integrales_enunciados,2002,Septiembre,E JERCICIO 1 OPCIÓN A,"x ConsideremosF(x)  f(t)dt . 0
+a) Si f fuese la función cuya gráfica aparece en el dibujo, indica si son verdaderas o falsas las siguientes afirmaciones, razonando la respuesta: i) F()0 ii) F'()0 iii) F es creciente en (0,) (0,) 1
+b) Calcula F(1) siendo f(t) t1 E JERCICIO 1 OPCIÓN A.",enunciados_PNG/2002 - Integrales_png/2002_septiembre_e_jercicio_1_opcion_a.png,2002 - Integrales.pdf
+mates_2002_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2002,Septiembre,EJERCICIO 2. OPCIÓN B, 1 3x3 1 Calcula dx x2  x2 0,enunciados_PNG/2002 - Integrales_png/2002_septiembre_2_opcion_b.png,2002 - Integrales.pdf
+mates_2003_Junio_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2003,Junio,EJERCICIO 1. OPCIÓN A,"Sea Ln(1 x2) el logaritmo neperiano de 1 x2 y sea f :(1,1) la función definida por f(x) Ln(1 x2). Calcula la primitiva de f cuya gráfica pasa por el punto (0,1).",enunciados_PNG/2003 - Integrales_png/2003_junio_1_opcion_a.png,2003 - Integrales.pdf
+mates_2003_Junio_EJERCICIO 1. OPCIÓN B,mates,ii_integrales_enunciados,2003,Junio,EJERCICIO 1. OPCIÓN B,"Dadas la parábola de ecuación y 1 x2 y la recta de ecuación y 1 x, se pide:
+a) Área de la región limitada por la recta y la parábola.
+b) Ecuación de la recta paralela a la dada que es tangente a la parábola.",enunciados_PNG/2003 - Integrales_png/2003_junio_1_opcion_b.png,2003 - Integrales.pdf
+mates_2003_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2003,Junio,EJERCICIO 2. OPCIÓN A,"Se sabe que la función f :  definida por f(x) x3 ax2 bxc tiene un extremo relativo en el punto de abscisa x0 y que su gráfica tiene un punto de inflexión en el punto de 1 abscisa x  1. Conociendo además que  f(x)dx 6, halla a, b y c. 0",enunciados_PNG/2003 - Integrales_png/2003_junio_2_opcion_a.png,2003 - Integrales.pdf
+mates_2003_Reserva 1_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2003,Reserva 1,EJERCICIO 1. OPCIÓN A,Sea la función f :  definida por f(x)2x3 6x4. Calcula el área del recinto limitado por la gráfica de f y su recta tangente en el punto de abscisa correspondiente al máximo relativo de la función.,enunciados_PNG/2003 - Integrales_png/2003_reserva_1_1_opcion_a.png,2003 - Integrales.pdf
+mates_2003_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2003,Reserva 1,EJERCICIO 2. OPCIÓN B,"Considera las funciones f,g:  definidas por: f(x)6x2 ; g(x) x x .
+a) Dibuja el recinto limitado por las gráficas de f y g.
+b) Calcula el área del recinto descrito en el apartado anterior.",enunciados_PNG/2003 - Integrales_png/2003_reserva_1_2_opcion_b.png,2003 - Integrales.pdf
+mates_2003_Reserva 2_EJERCICIO 1. OPCIÓN B,mates,ii_integrales_enunciados,2003,Reserva 2,EJERCICIO 1. OPCIÓN B,"Se sabe que la función f :(0,3) es derivable en todo punto de su dominio, siendo  x1 si 0x 2 f '(x) y que f(1) 0. Halla la expresión analítica de f. x3 si 2x 3",enunciados_PNG/2003 - Integrales_png/2003_reserva_2_1_opcion_b.png,2003 - Integrales.pdf
+mates_2003_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2003,Reserva 2,EJERCICIO 2. OPCIÓN A,"Sea f :  la función definida por f(x) x2 2x2.
+a) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x3.
+b) Calcula el área del recinto limitado por la gráfica de f, la recta tangente obtenida y el eje OY.",enunciados_PNG/2003 - Integrales_png/2003_reserva_2_2_opcion_a.png,2003 - Integrales.pdf
+mates_2003_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2003,Reserva 3,EJERCICIO 2. OPCIÓN A,"Se sabe que la función f :  definida por f(x)ax2 bxc tiene un máximo absoluto en 3 32 el punto de abscisax 1, que su gráfica pasa por el punto (1,4) y que  f(x)dx  . Halla a, 1 3 b y c.",enunciados_PNG/2003 - Integrales_png/2003_reserva_3_2_opcion_a.png,2003 - Integrales.pdf
+mates_2003_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2003,Reserva 3,EJERCICIO 2. OPCIÓN B,"Resolviendo el sistema s ale: a1; b2 ; c3 En la figura adjunta puedes ver representada en el intervalo 0,2 la gráfica de la parábola de x2 ecuación y  . Halla el valor de m para el que las áreas de las superficies rayadas son iguales. 4 m",enunciados_PNG/2003 - Integrales_png/2003_reserva_3_2_opcion_b.png,2003 - Integrales.pdf
+mates_2003_Reserva 4_EJERCICIO 1. OPCIÓN B,mates,ii_integrales_enunciados,2003,Reserva 4,EJERCICIO 1. OPCIÓN B,"Sea f :  la función definida por f(x) 3 x .
+a) Calcula la recta tangente a la gráfica de f en el punto de abscisa x1.
+b) Esboza el recinto limitado por la gráfica de f y la recta tangente obtenida.
+c) Calcula el área del recinto descrito en el apartado anterior.",enunciados_PNG/2003 - Integrales_png/2003_reserva_4_1_opcion_b.png,2003 - Integrales.pdf
+mates_2003_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2003,Reserva 4,EJERCICIO 2. OPCIÓN A,Determina el valor positivo de  para el que el área del recinto limitado por la parábola y x2 y la recta y  x es 1.,enunciados_PNG/2003 - Integrales_png/2003_reserva_4_2_opcion_a.png,2003 - Integrales.pdf
+mates_2003_Septiembre_EJERCICIO 1. OPCIÓN B,mates,ii_integrales_enunciados,2003,Septiembre,EJERCICIO 1. OPCIÓN B,"Sea f :(0,) la función definida por f(x)(x1)Lnx . Calcula la primitiva de f cuya  3 gráfica pasa por el punto 1, .    2",enunciados_PNG/2003 - Integrales_png/2003_septiembre_1_opcion_b.png,2003 - Integrales.pdf
+mates_2003_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2003,Septiembre,EJERCICIO 2. OPCIÓN A,"x S ea f :  la función definida por f(x) e3
+a) ¿En qué punto de la gráfica de f la recta tangente a ésta pasa por el origen de coordenadas?. Halla la ecuación de dicha tangente.
+b) Calcula el área del recinto acotado que está limitado por la gráfica de f, la recta tangente obtenida y el eje de ordenadas.",enunciados_PNG/2003 - Integrales_png/2003_septiembre_2_opcion_a.png,2003 - Integrales.pdf
+mates_2004_Junio_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2004,Junio,EJERCICIO 1. OPCIÓN A,"3 De la función f :(1,) se sabe que f '(x) y que f(2)0. (x1)2
+a) Determina f.
+b) Halla la primitiva de f cuya gráfica pasa por (0,1).",enunciados_PNG/2004 - Integrales_png/2004_junio_1_opcion_a.png,2004 - Integrales.pdf
+mates_2004_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2004,Junio,EJERCICIO 2. OPCIÓN B,Determina b sabiendo que b0 y que el área de la región limitada por la curva y x2 y la recta 9 y bx es igual a . 2,enunciados_PNG/2004 - Integrales_png/2004_junio_2_opcion_b.png,2004 - Integrales.pdf
+mates_2004_Reserva 1_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2004,Reserva 1,EJERCICIO 1. OPCIÓN A,0  1 Calcula dx x2 2x3 2,enunciados_PNG/2004 - Integrales_png/2004_reserva_1_1_opcion_a.png,2004 - Integrales.pdf
+mates_2004_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2004,Reserva 1,EJERCICIO 2. OPCIÓN B,"Sea f :  la función definida por f(x)(x1)e2x. Calcula la primitiva de f cuya gráfica pasa por el punto(1,e2).",enunciados_PNG/2004 - Integrales_png/2004_reserva_1_2_opcion_b.png,2004 - Integrales.pdf
+mates_2004_Reserva 2_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2004,Reserva 2,EJERCICIO 1. OPCIÓN A,"Considera la integral definida I   9 1 dx 1 1 x
+a) Expresa la anterior integral definida aplicando el cambio de variables1 x  t .
+b) Calcula I.",enunciados_PNG/2004 - Integrales_png/2004_reserva_2_1_opcion_a.png,2004 - Integrales.pdf
+mates_2004_Reserva 2_EJE RCICIO 1. OPCIÓN B,mates,ii_integrales_enunciados,2004,Reserva 2,EJE RCICIO 1. OPCIÓN B,"1 2 Sea f :  la función definida por f(x) x2  x1. 3 3
+a) Halla la ecuación de la recta tangente a la gráfica de f en un punto de la misma de ordenada y 1, teniendo en cuenta que dicha recta tangente tiene pendiente negativa.
+b) Calcula el área de la región del plano limitada por la gráfica de f, la recta tangente obtenida y el eje de ordenadas. EJE RCICIO 1. OPCIÓN B.",enunciados_PNG/2004 - Integrales_png/2004_reserva_2_eje_rcicio_1_opcion_b.png,2004 - Integrales.pdf
+mates_2004_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2004,Reserva 3,EJERCICIO 2. OPCIÓN A,"Considera las funciones f :(0,) y g:  definidas, respectivamente, por f(x) Lnx y g(x)12x siendo Ln x el logaritmo neperiano de x. Calcula el área del recinto limitado por las rectas x1 y x2 y las gráficas de f y g.",enunciados_PNG/2004 - Integrales_png/2004_reserva_3_2_opcion_a.png,2004 - Integrales.pdf
+mates_2004_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2004,Reserva 3,EJERCICIO 2. OPCIÓN B,Determina b sabiendo que b > 0 y que el área del recinto limitado por la parábola de ecuación 2 1  y  xb y los ejes coordenados es igual a 8.   3 ,enunciados_PNG/2004 - Integrales_png/2004_reserva_3_2_opcion_b.png,2004 - Integrales.pdf
+mates_2004_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2004,Reserva 4,EJERCICIO 2. OPCIÓN A,"Considera la función f :  definida por f(x) x x .
+a) Dibuja la región acotada del plano que está limitada por la gráfica de f y la bisectriz del primer y tercer cuadrante.
+b) Calcula el área de la región descrita en el apartado anterior.",enunciados_PNG/2004 - Integrales_png/2004_reserva_4_2_opcion_a.png,2004 - Integrales.pdf
+mates_2004_Reserva 4_EJE RCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2004,Reserva 4,EJE RCICIO 2. OPCIÓN B,"Considera la función f :  definida por f(x)ex 4ex.
+a) Determina los intervalos de crecimiento y de decrecimiento de f y halla sus extremos absolutos o globales (puntos en los que se obtienen y valores que alcanza la función).
+b) Calcula el área del recinto limitado por la gráfica de f, el eje de abscisas y las rectas x0 y x2. EJE RCICIO 2. OPCIÓN B.",enunciados_PNG/2004 - Integrales_png/2004_reserva_4_eje_rcicio_2_opcion_b.png,2004 - Integrales.pdf
+mates_2004_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2004,Septiembre,EJERCICIO 2. OPCIÓN A,"Siendo Ln x el logaritmo neperiano de x, halla el área de la superficie sombreada.",enunciados_PNG/2004 - Integrales_png/2004_septiembre_2_opcion_a.png,2004 - Integrales.pdf
+mates_2004_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2004,Septiembre,EJERCICIO 2. OPCIÓN B,Calcula el área del recinto acotado que está limitado por la recta y  2x y por las curvas y x2 x2 e y  . 2,enunciados_PNG/2004 - Integrales_png/2004_septiembre_2_opcion_b.png,2004 - Integrales.pdf
+mates_2005_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2005,Junio,EJERCICIO 2. OPCIÓN A,"Se sabe que las dos gráficas del dibujo corresponden a la función f :  definida por f(x) x2ex y a su derivada f '. a ) Indica, razonando la respuesta, cuál es la gráfica de f y cuál la de f '. b ) Calcula el área de la región sombreada. (2) (1)",enunciados_PNG/2005 - Integrales_png/2005_junio_2_opcion_a.png,2005 - Integrales.pdf
+mates_2005_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2005,Junio,EJERCICIO 2. OPCIÓN B,"x  Considera la función f :  definida por f(x)e 2 .
+a) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x0.
+b) Calcula el área de la región acotada que está limitada por la gráfica de f, la recta de ecuación x2 y la recta obtenida en (a).",enunciados_PNG/2005 - Integrales_png/2005_junio_2_opcion_b.png,2005 - Integrales.pdf
+mates_2005_Reserva 1_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2005,Reserva 1,EJERCICIO 2. OPCIÓN A,3x3  x2 10x1 Calcula la integral  dx x2  x2,enunciados_PNG/2005 - Integrales_png/2005_reserva_1_2_opcion_a.png,2005 - Integrales.pdf
+mates_2005_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2005,Reserva 1,EJERCICIO 2. OPCIÓN B," ax si 0 x  8  S e sabe que la función f :0, definida por: f(x) x2 32  si x  8  x4 es continua en [0,).
+a) Halla el valor de a. 10 b ) Calcula  f(x)dx 0",enunciados_PNG/2005 - Integrales_png/2005_reserva_1_2_opcion_b.png,2005 - Integrales.pdf
+mates_2005_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2005,Reserva 2,EJERCICIO 2. OPCIÓN A,"2x4 si x0 Sea f :  la función definida por: f(x)  R E S O L U C(x I 2Ó) 2 Nsi x 0
+a) Calcula los puntos de corte de la gráfica de f con el eje de abscisas y esboza dicha gráfica.
+b) Halla el área de la región acotada que está limitada por la gráfica de f y por el eje de abscisas.",enunciados_PNG/2005 - Integrales_png/2005_reserva_2_2_opcion_a.png,2005 - Integrales.pdf
+mates_2005_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2005,Reserva 2,EJERCICIO 2. OPCIÓN B,"0 Calcula  Ln(2 x)dx, siendo Ln la función logaritmo neperiano. 1",enunciados_PNG/2005 - Integrales_png/2005_reserva_2_2_opcion_b.png,2005 - Integrales.pdf
+mates_2005_Reserva 3_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2005,Reserva 3,EJERCICIO 1. OPCIÓN A,"Se sabe que la gráfica de la función f :  definida por f(x) x3 ax2 bxc es la que aparece en el dibujo.
+a) Determina f.
+b) Calcula el área de la región sombreada.",enunciados_PNG/2005 - Integrales_png/2005_reserva_3_1_opcion_a.png,2005 - Integrales.pdf
+mates_2005_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2005,Reserva 3,EJERCICIO 2. OPCIÓN B,"Sea f :  la función definida por f(x) x2sen(2x). Calcula la primitiva de f cuya gráfica pasa por el punto (0,1).",enunciados_PNG/2005 - Integrales_png/2005_reserva_3_2_opcion_b.png,2005 - Integrales.pdf
+mates_2005_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2005,Reserva 4,EJERCICIO 2. OPCIÓN A,"Considera la función f :  Rd e fEin Sid aO p oLr Uf ( Cx ) I Óx2 N 5x4.
+a) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x3.
+b) Calcula el área de la región acotada que está limitada por el eje de ordenadas, por la gráfica de f y por la recta tangente obtenida.",enunciados_PNG/2005 - Integrales_png/2005_reserva_4_2_opcion_a.png,2005 - Integrales.pdf
+mates_2005_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2005,Reserva 4,EJERCICIO 2. OPCIÓN B,"Calcula las siguientes integrales:
+a) cos(5x1)dx. 1
+b)  dx. (x2)3 1
+c)  xe3x dx 0",enunciados_PNG/2005 - Integrales_png/2005_reserva_4_2_opcion_b.png,2005 - Integrales.pdf
+mates_2005_Septiembre_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2005,Septiembre,EJERCICIO 1. OPCIÓN A,"De una función f :  se sabe que f(0) 2 y que f '(x) 2x
+a) Determina f.
+b) Calcula el área de la región limitada por la gráfica de f, por el eje de abscisas y por las rectas x2 y x2",enunciados_PNG/2005 - Integrales_png/2005_septiembre_1_opcion_a.png,2005 - Integrales.pdf
+mates_2005_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2005,Septiembre,EJERCICIO 2. OPCIÓN B,"Considera la integral definidaI   8 1 dx. 3 1 x 1
+a) Exprésala aplicando el cambio de variables 1 x 1 t
+b) Calcula I.",enunciados_PNG/2005 - Integrales_png/2005_septiembre_2_opcion_b.png,2005 - Integrales.pdf
+mates_2006_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2006,Junio,EJERCICIO 2. OPCIÓN B,"x2 El área del recinto limitado por las curvas de ecuaciones y  e y  ax , con a0, vale 3. a Calcula el valor de a.",enunciados_PNG/2006 - Integrales_png/2006_junio_2_opcion_b.png,2006 - Integrales.pdf
+mates_2006_Reserva 1_EJE RCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2006,Reserva 1,EJE RCICIO 2. OPCIÓN A," ex 1 si x0 Sea f la función definida por f(x)  xex2 si x0
+a) Estudia la derivabilidad de f en x0 y, si es posible, calcula la derivada de f en dicho punto.
+b) Calcula el área del recinto limitado por la gráfica de f, el eje de abscisas y la rectax 1. EJE RCICIO 2. OPCIÓN A.",enunciados_PNG/2006 - Integrales_png/2006_reserva_1_eje_rcicio_2_opcion_a.png,2006 - Integrales.pdf
+mates_2006_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2006,Reserva 1,EJERCICIO 2. OPCIÓN B," a  si x1 Sea f :  la función definida por f(x)  x  x2 1 si x1
+a) Halla el valor de a sabiendo que f es continua.
+b) Esboza la gráfica de f.
+c) Calcula el área del recinto limitado por la gráfica de f, el eje de abscisas y las rectas x20 y x20.",enunciados_PNG/2006 - Integrales_png/2006_reserva_1_2_opcion_b.png,2006 - Integrales.pdf
+mates_2006_Reserva 2_EJERCICIO 1. OPCIÓN A,mates,ii_integrales_enunciados,2006,Reserva 2,EJERCICIO 1. OPCIÓN A,"a) Sea f :  la función dada por f(x)ax2 b. Halla los valores de a y b sabiendo 6  f(x)dx 6 y que la pendiente de la recta tangente a la gráfica de la función f en el punto 0 de abscisa 3 vale 12.
+b) Sea f :  la función dada por f(x) x2  pxq. Calcula los valores de p y q sabiendo que la función f tiene un extremo en x  6 y su valor en él es 2.",enunciados_PNG/2006 - Integrales_png/2006_reserva_2_1_opcion_a.png,2006 - Integrales.pdf
+mates_2006_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2006,Reserva 2,EJERCICIO 2. OPCIÓN A,Calcula  (x2 1)exdx,enunciados_PNG/2006 - Integrales_png/2006_reserva_2_2_opcion_a.png,2006 - Integrales.pdf
+mates_2006_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2006,Reserva 2,EJERCICIO 2. OPCIÓN B,Halla el área del recinto limitado por la gráfica de la función f(x)senx y las rectas tangentes a dicha gráfica en los puntos de abscisas x = 0 y x  . R E S O L U C I Ó N,enunciados_PNG/2006 - Integrales_png/2006_reserva_2_2_opcion_b.png,2006 - Integrales.pdf
+mates_2006_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2006,Reserva 3,EJERCICIO 2. OPCIÓN A,"Sea f :[0,4] una función tal que su función derivada viene dada por  2  x si 0 x  3 f '(x)  3  2x8 si 3 x 4 16
+a) Determina la expresión de f sabiendo que f(1) 3
+b) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x = 1.",enunciados_PNG/2006 - Integrales_png/2006_reserva_3_2_opcion_a.png,2006 - Integrales.pdf
+mates_2006_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2006,Reserva 3,EJERCICIO 2. OPCIÓN B,"Sean las funciones f y g : [0,] , dadas por f(x) x2 yg(x) x , donde  es un número real positivo fijo. CalculRa eEl v Sa l oOr dLe U Csa bI i eÓn dNo que el área del recinto limitado por 1 las gráficas de ambas funciones es . 3",enunciados_PNG/2006 - Integrales_png/2006_reserva_3_2_opcion_b.png,2006 - Integrales.pdf
+mates_2006_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2006,Reserva 4,EJERCICIO 2. OPCIÓN A," Lnx si 0 x1 Sea f :(0,2) la función definida por f (x) Ln(2 x) si 1 x2 siendo Ln la función logaritmo neperiano.
+a) Estudia la derivabilidad de f en el punto x = 1. 1'5
+b) Calcula  f(x)dx 1",enunciados_PNG/2006 - Integrales_png/2006_reserva_4_2_opcion_a.png,2006 - Integrales.pdf
+mates_2006_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2006,Reserva 4,EJERCICIO 2. OPCIÓN B,"15
+a) Haz un esbozo del recinto limitado por las curvas y  e y  x2 1. 1 x2
+b) Calcula el área de dicho recinto.",enunciados_PNG/2006 - Integrales_png/2006_reserva_4_2_opcion_b.png,2006 - Integrales.pdf
+mates_2006_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2006,Septiembre,EJERCICIO 2. OPCIÓN A,"Calcula 5x2  x160
+a)  dx. x2 25
+b) (2x3)tg(x2 3x)dx, siendo tg la función tangente.",enunciados_PNG/2006 - Integrales_png/2006_septiembre_2_opcion_a.png,2006 - Integrales.pdf
+mates_2007_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2007,Junio,EJERCICIO 2. OPCIÓN A,"Sean f :  y g:  las funciones definidas mediante f(x) x3 3x2 y g(x) x3
+a) Esboza las gráficas de f y de g calculando sus puntos de corte.
+b) Calcula el área de cada uno de los dos recinto s limitados entre las gráficas de f y g.",enunciados_PNG/2007 - Integrales_png/2007_junio_2_opcion_a.png,2007 - Integrales.pdf
+mates_2007_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2007,Junio,EJERCICIO 2. OPCIÓN B,"Dada la función f :  definida por f(x) Ln(1 x2), halla la primitiva de f cuya gráfica pasa por el origen de coordenadas (Ln denota la función logaritmo neperiano).",enunciados_PNG/2007 - Integrales_png/2007_junio_2_opcion_b.png,2007 - Integrales.pdf
+mates_2007_Reserva 1_EJERCICIO 2.OPCIÓN B,mates,ii_integrales_enunciados,2007,Reserva 1,EJERCICIO 2.OPCIÓN B,"Sea f :  la función definida por f(x) x(x3)2.
+a) Calcula los intervalos de crecimiento y de decrecimiento de f.
+b) Haz un esbozo de la gráfica de f.
+c) Calcula el área del recinto limitado por la gráfica de f y el eje de abscisas.",enunciados_PNG/2007 - Integrales_png/2007_reserva_1_2_opcion_b.png,2007 - Integrales.pdf
+mates_2007_Reserva 2_EJERCICIO 2.OPCIÓN B,mates,ii_integrales_enunciados,2007,Reserva 2,EJERCICIO 2.OPCIÓN B,"  si 2 x 1   x S ea f :(2,0) la función definida mediante f(x)   x2  si 1 x0  2 a ) Determina  y  sabiendo que f es derivable. 1
+b) Calcula  f(x) dx. 2",enunciados_PNG/2007 - Integrales_png/2007_reserva_2_2_opcion_b.png,2007 - Integrales.pdf
+mates_2007_Reserva 3_EJER CICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2007,Reserva 3,EJER CICIO 2. OPCIÓN A,"1x si x0 S ea f :  la función definida por f(x)   ex si x0 a ) Determina el valor de  sabiendo que f es derivable. b ) Haz un esbozo de la gráfica de f. 1
+c) Calcula f(x) dx. 1 EJER CICIO 2. OPCIÓN A.",enunciados_PNG/2007 - Integrales_png/2007_reserva_3_ejer_cicio_2_opcion_a.png,2007 - Integrales.pdf
+mates_2007_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2007,Reserva 4,EJERCICIO 2. OPCIÓN B,"Sea Sea f :  la función definida por f(x) x2.
+a) Determina la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x1.
+b) Dibuja el recinto limitado por la gráfica de f, la recta tangente obtenida en el apartado anterior y el eje OX. Calcula su área.",enunciados_PNG/2007 - Integrales_png/2007_reserva_4_2_opcion_b.png,2007 - Integrales.pdf
+mates_2007_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2007,Septiembre,EJERCICIO 2. OPCIÓN A,"Sea Sea f :  la función definida por f(x) x x2 .
+a) Estudia la derivabilidad de f en x2.
+b) Esboza la gráfica de f.
+c) Calcula el área del recinto limitado por la gráfica de f y el eje de abscisas.",enunciados_PNG/2007 - Integrales_png/2007_septiembre_2_opcion_a.png,2007 - Integrales.pdf
+mates_2007_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2007,Septiembre,EJERCICIO 2. OPCIÓN B,"Sea f :(1,) la función definida por f(x) Ln(x1). (Ln denota la función logaritmo neperiano).
+a) Determina la ecuación de la recta tangente a la gráfica de f en el punto de abscisax0.
+b) Calcula el área del recinto limitado por la gráfica de f, la recta tangente obtenida en el apartado anterior y la recta x1.",enunciados_PNG/2007 - Integrales_png/2007_septiembre_2_opcion_b.png,2007 - Integrales.pdf
+mates_2008_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2008,Junio,EJERCICIO 2. OPCIÓN A,1 dx Calcula  (x2  x)(x1) 2,enunciados_PNG/2008 - Integrales_png/2008_junio_2_opcion_a.png,2008 - Integrales.pdf
+mates_2008_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2008,Junio,EJERCICIO 2. OPCIÓN B,"Sea f :  la función dada por f(x) e2x
+a) Justifica que la recta de ecuación y  2ex es la recta tangente a la gráfica de f en el punto de 1 abscisa x   . 2
+b) Calcula el área del recinto limitado por la grá fica de f, el eje de ordenadas y la recta tangente del apartado anterior.",enunciados_PNG/2008 - Integrales_png/2008_junio_2_opcion_b.png,2008 - Integrales.pdf
+mates_2008_Reserva 1_EJERCICIO 1. OPCIÓN B,mates,ii_integrales_enunciados,2008,Reserva 1,EJERCICIO 1. OPCIÓN B,"Sea f :  la función definida por f(x)ax3 bx2 cxd Se sabe que tiene un máximo local en x1, que el punto (0,1) es un punto de inflexión de su 1 9 gráfica y que f(x)dx  .Calcula a, b, c y d. 4 0",enunciados_PNG/2008 - Integrales_png/2008_reserva_1_1_opcion_b.png,2008 - Integrales.pdf
+mates_2008_Reserva 1_EJERCICIO 2.OPCIÓN A,mates,ii_integrales_enunciados,2008,Reserva 1,EJERCICIO 2.OPCIÓN A,"Sea Dadas las funciones f :0, y g:0, definidas por f(x) x y g(x) 3 x calcula el área del recinto limitado por las gráficas de f y g.",enunciados_PNG/2008 - Integrales_png/2008_reserva_1_2_opcion_a.png,2008 - Integrales.pdf
+mates_2008_Reserva 1_EJERCICIO 2.OPCIÓN B,mates,ii_integrales_enunciados,2008,Reserva 1,EJERCICIO 2.OPCIÓN B,"Sea g:(0,) la función dada porg(x)ln x (ln x denota logaritmo neperiano). 1
+a) Justifica que la recta de ecuación y  x es la recta tangente a la gráfica de g en el punto de e abscisa x  e.
+b) Calcula el área del recinto limitado por la gráfica de g, el eje de abscisas y la recta tangente del apartado anterior.",enunciados_PNG/2008 - Integrales_png/2008_reserva_1_2_opcion_b.png,2008 - Integrales.pdf
+mates_2008_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2008,Reserva 2,EJERCICIO 2. OPCIÓN B,1 Calcula xln(x1)dx . 0,enunciados_PNG/2008 - Integrales_png/2008_reserva_2_2_opcion_b.png,2008 - Integrales.pdf
+mates_2008_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2008,Reserva 3,EJERCICIO 2. OPCIÓN B,e Calcula x2lnxdx. 1,enunciados_PNG/2008 - Integrales_png/2008_reserva_3_2_opcion_b.png,2008 - Integrales.pdf
+mates_2008_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2008,Reserva 4,EJERCICIO 2. OPCIÓN A,"Sea   C onsidera las funciones f :  0,   y g:(0,) definidas por  2 senx f(x) y g(x)x3lnx cos3 x  a ) Halla la primitiva de f que tima el valor 1 cuandox  . 3 (Se puede hacer el cambio de variable t cosx).
+b) Calcula  g(x)dx",enunciados_PNG/2008 - Integrales_png/2008_reserva_4_2_opcion_a.png,2008 - Integrales.pdf
+mates_2008_Reserva 4_EJERCICIO 2.OPCIÓN B,mates,ii_integrales_enunciados,2008,Reserva 4,EJERCICIO 2.OPCIÓN B,"1 Sea g:  la función dada porg(x) x3  x2  x. 4
+a) Esboza la gráfica de g.
+b) Determina la ecuación de la recta tangente a la gráfica de g en el punto de abscisa x2.
+b) Calcula el área del recinto limitado por la gráfica de g y el eje de abscisas.",enunciados_PNG/2008 - Integrales_png/2008_reserva_4_2_opcion_b.png,2008 - Integrales.pdf
+mates_2008_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2008,Septiembre,EJERCICIO 2. OPCIÓN A,"Sea Dada la función g:  definida por g(x)2x x2 1 . a ) Esboza la gráfica de g. 2
+c) Calcula  g(x) dx. 0",enunciados_PNG/2008 - Integrales_png/2008_septiembre_2_opcion_a.png,2008 - Integrales.pdf
+mates_2008_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2008,Septiembre,EJERCICIO 2. OPCIÓN B,"Sean f :  y g:  las funciones definidas por f(x) x2 1 , g(x) 2x2
+a) Esboza las gráficas de f y g.
+b) Calcula el área del recinto limitado por dichas gráficas.",enunciados_PNG/2008 - Integrales_png/2008_septiembre_2_opcion_b.png,2008 - Integrales.pdf
+mates_2009_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2009,Junio,EJERCICIO 2. OPCIÓN A,"Sea f :  la función definida por f(x) x x1 .
+a) Esboza la gráfica de f.
+b) Comprueba que la recta de ecuación y x es la recta tangente a la gráfica de f en el punto de abscisa x0.
+c) Calcula el área del recinto limitado por la gráfica de f y la de dicha tangente.",enunciados_PNG/2009 - Integrales_png/2009_junio_2_opcion_a.png,2009 - Integrales.pdf
+mates_2009_Reserva 1_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2009,Reserva 1,EJERCICIO 2. OPCIÓN A,"Considera las funciones f,g:  definidas por f(x) x , g(x)6 x2
+a) Esboza el recinto limitado por sus gráficas.
+b) Calcula el área de dicho recinto.",enunciados_PNG/2009 - Integrales_png/2009_reserva_1_2_opcion_a.png,2009 - Integrales.pdf
+mates_2009_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2009,Reserva 1,EJERCICIO 2. OPCIÓN B,"La recta tangente a la gráfica de la función f :  , definida por f(x)mx2 nx3, en el punto(1,6), es paralela a la recta de ecuación y  x
+a) Determina las constantes m y n. Halla la ecuación de dicha recta tangente.
+b) Calcula el área del recinto limitado por la gráfica de la función, la recta tangente anterior y el eje de ordenadas.",enunciados_PNG/2009 - Integrales_png/2009_reserva_1_2_opcion_b.png,2009 - Integrales.pdf
+mates_2009_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2009,Reserva 2,EJERCICIO 2. OPCIÓN A,"Sea f :(0,) la función definida por f(x)1ln(x), siendo ln la función logaritmo neperiano. 1
+a) Comprueba que la recta de ecuación y1 x es la recta tangente a la gráfica de f en el e punto de abscisa x  e.
+b) Calcula el área del recinto limitado por la gráfica de f, el eje de abscisas y la recta tangente obtenida en el apartado anterior.",enunciados_PNG/2009 - Integrales_png/2009_reserva_2_2_opcion_a.png,2009 - Integrales.pdf
+mates_2009_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2009,Reserva 2,EJERCICIO 2. OPCIÓN B,"Se consideran las funciones f : [0,] y g:  definidas por f(x) 3x y 1 R E S O L U C I Ó N g(x) x2 3
+a) Haz un esbozo de sus gráficas
+b) Calcula el área del recinto limitado por las gráficas de ambas funciones.",enunciados_PNG/2009 - Integrales_png/2009_reserva_2_2_opcion_b.png,2009 - Integrales.pdf
+mates_2009_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2009,Reserva 3,EJERCICIO 2. OPCIÓN A,"a) Calcula  xsenx dx
+b) Sean las funciones f,g:  , definidas por: f(x)x2 1 ; g(x) x1 Calcula el área del recinto limitado por sus gráficas.",enunciados_PNG/2009 - Integrales_png/2009_reserva_3_2_opcion_a.png,2009 - Integrales.pdf
+mates_2009_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2009,Reserva 3,EJERCICIO 2. OPCIÓN B,"Las dos gráficas del dibujo corresponden a la función f :(0,) definida por 2 f(x) 2ln(x) x y a la de su derivada f ':(0,) a b
+a) Indica, razonando la respuesta, cuál es la gráfica de f y cuál la de f ’.
+b) Calcula el área de la región sombreada.",enunciados_PNG/2009 - Integrales_png/2009_reserva_3_2_opcion_b.png,2009 - Integrales.pdf
+mates_2009_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2009,Reserva 4,EJERCICIO 2. OPCIÓN A,"Sean f :  y g:  las funciones definidas por: f(x) x2  x ; g(x) 2
+a) Determina los puntos de corte de las gráficas de f y g. Esboza dichas gráficas.
+b) Calcula el área del recinto limitado por dichas gráficas.",enunciados_PNG/2009 - Integrales_png/2009_reserva_4_2_opcion_a.png,2009 - Integrales.pdf
+mates_2009_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2009,Reserva 4,EJERCICIO 2. OPCIÓN B,"Calcula un número positivo a, menor que 4, para que el recinto limitado por la parábola de 28 ecuación y x2 y las dos rectas de ecuaciones y  4 e y a, tenga un área de unidades 3 cuadradas.",enunciados_PNG/2009 - Integrales_png/2009_reserva_4_2_opcion_b.png,2009 - Integrales.pdf
+mates_2009_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2009,Septiembre,EJERCICIO 2. OPCIÓN A,"1 L a curva y  x2 divide al rectángulo de vértices A(0,0), B (2,0), C (2,1) y D (0,1) en 2 dos recintos.
+a) Dibuja dichos recintos.
+b) Halla el área de cada uno de ellos",enunciados_PNG/2009 - Integrales_png/2009_septiembre_2_opcion_a.png,2009 - Integrales.pdf
+mates_2009_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2009,Septiembre,EJERCICIO 2. OPCIÓN B,x Sea f la función definida por f(x) . 49x4 Halla la primitiva F de f que cumpleF(0) 3. (Sugerencia: utiliza el cambio de variable 3 t  x2). 2,enunciados_PNG/2009 - Integrales_png/2009_septiembre_2_opcion_b.png,2009 - Integrales.pdf
+mates_2010_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2010,Junio,EJERCICIO 2. OPCIÓN A,Calcula  2 sen( x) dx. 0 Sugerencia: Efectúa el cambio x  t,enunciados_PNG/2010 - Integrales_png/2010_junio_2_opcion_a.png,2010 - Integrales.pdf
+mates_2010_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2010,Junio,EJERCICIO 2. OPCIÓN B,"4 Considera la función f dada por f(x)5 x y la función g definida como g(x) para x x0.
+a) Esboza el recinto limitado por las gráficas de f y g indicando sus puntos de corte.
+b) Calcula el área de dicho recinto.",enunciados_PNG/2010 - Integrales_png/2010_junio_2_opcion_b.png,2010 - Integrales.pdf
+mates_2010_Reserva 1_EJER CICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2010,Reserva 1,EJER CICIO 2. OPCIÓN B,"Dada la función f :(0,) definida por f(x)lnx, donde ln es la función logaritmo neperiano, se pide:
+a) Comprueba que la recta de ecuación y  ex1e2 es la recta normal a la gráfica de f en el punto de abscisa x  e.
+b) Calcula el área de la región limitada por la g ráfica de f, el eje de abscisas y la recta normal del apartado (a). EJER CICIO 2. OPCIÓN B",enunciados_PNG/2010 - Integrales_png/2010_reserva_1_ejer_cicio_2_opcion_b.png,2010 - Integrales.pdf
+mates_2010_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2010,Reserva 3,EJERCICIO 2. OPCIÓN B,"C onsidera la función f :  definida por f(x) x 2x . a ) Esboza su gráfica. b ) Calcula el área del recinto limitado por la gráfica de f, el eje de abscisas y la recta de ecuación x3.",enunciados_PNG/2010 - Integrales_png/2010_reserva_3_2_opcion_b.png,2010 - Integrales.pdf
+mates_2010_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2010,Reserva 4,EJERCICIO 2. OPCIÓN A,1 Sea la función f dada por f(x) para x  1 y x0. Determina una primitiva F de f x2  x t al que F(1)1.,enunciados_PNG/2010 - Integrales_png/2010_reserva_4_2_opcion_a.png,2010 - Integrales.pdf
+mates_2010_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2010,Reserva 4,EJERCICIO 2. OPCIÓN B,"1 Sean f,g:  las funciones definidas por f (x) x2 2x3 y g(x) x2 1. 2
+a) Esboza las gráficas de f y g, y halla su punto de corte.
+b) Calcula el área del recinto limitado por las gráficas de ambas funciones y el eje de ordenadas.",enunciados_PNG/2010 - Integrales_png/2010_reserva_4_2_opcion_b.png,2010 - Integrales.pdf
+mates_2010_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2010,Septiembre,EJERCICIO 2. OPCIÓN A,"5 CalculaI   dx. 1 e x
+a) Expresa I haciendo el cambio de variable t2  ex.
+b) Determina I.",enunciados_PNG/2010 - Integrales_png/2010_septiembre_2_opcion_a.png,2010 - Integrales.pdf
+mates_2010_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2010,Septiembre,EJERCICIO 2. OPCIÓN B,"Considera la función f :  dada por f(x) x2 4.
+a) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x1.
+b) Esboza el recinto limitado por la gráfica de f, el eje de ordenadas y la recta de ecuación y  2x3. Calcula su área.",enunciados_PNG/2010 - Integrales_png/2010_septiembre_2_opcion_b.png,2010 - Integrales.pdf
+mates_2011_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2011,Junio,EJERCICIO 2. OPCIÓN A,"Sea f :1, la función definida por f(x)ln(x1), donde ln denota la función logaritmo neperiano.
+a) Esboza el recinto limitado por la gráfica de f, el eje OY y la recta y 1. Calcula los puntos de corte de las gráficas.
+b) Halla el área del recinto anterior",enunciados_PNG/2011 - Integrales_png/2011_junio_2_opcion_a.png,2011 - Integrales.pdf
+mates_2011_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2011,Junio,EJERCICIO 2. OPCIÓN B,ex Halla:  dx (e2x 1)(ex 1) Sugerencia: efectúa el cambio de variable t  ex,enunciados_PNG/2011 - Integrales_png/2011_junio_2_opcion_b.png,2011 - Integrales.pdf
+mates_2011_Reserva 1_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2011,Reserva 1,EJERCICIO 2. OPCIÓN A,"1 Determina la función f :(0,) tal que f ''(x) y su gráfica tiene tangente horizontal x e n el punto P(1,1).",enunciados_PNG/2011 - Integrales_png/2011_reserva_1_2_opcion_a.png,2011 - Integrales.pdf
+mates_2011_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2011,Reserva 1,EJERCICIO 2. OPCIÓN B,x3  x2 Calcula  dx x2  x2,enunciados_PNG/2011 - Integrales_png/2011_reserva_1_2_opcion_b.png,2011 - Integrales.pdf
+mates_2011_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2011,Reserva 2,EJERCICIO 2. OPCIÓN A,"C alcula el valor de b0, sabiendo que el área de la región comprendida entre la curva y  x 4 y la recta y bx es de unidades cuadradas. 3",enunciados_PNG/2011 - Integrales_png/2011_reserva_2_2_opcion_a.png,2011 - Integrales.pdf
+mates_2011_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2011,Reserva 2,EJERCICIO 2. OPCIÓN B,"Sea f :(0,) la función definida por f(x) x(1ln(x)), donde ln denota la función logaritmo neperiano. Determina la primitiva de f cuya gráfica pasa por el puntoP(1,1).",enunciados_PNG/2011 - Integrales_png/2011_reserva_2_2_opcion_b.png,2011 - Integrales.pdf
+mates_2011_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2011,Reserva 3,EJERCICIO 2. OPCIÓN A,"Sean f :  y g:  las funciones definidas por: f(x) 43 x y g(x)x2.
+a) Esboza las gráficas de f y g. Determina sus puntos de corte.
+b) Calcula el área del recinto limitado por las gráficas de f y g.",enunciados_PNG/2011 - Integrales_png/2011_reserva_3_2_opcion_a.png,2011 - Integrales.pdf
+mates_2011_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2011,Reserva 4,EJERCICIO 2. OPCIÓN A,"C alcula un número positivo a, menor que 2, para que el recinto limitado por la parábola de 1 ecuación y  x2 y las dos rectas horizontales de ecuaciones y a e y  2, tenga un área de 2 14 unidades cuadradas. 3",enunciados_PNG/2011 - Integrales_png/2011_reserva_4_2_opcion_a.png,2011 - Integrales.pdf
+mates_2011_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2011,Reserva 4,EJERCICIO 2. OPCIÓN B,"D ada la función f :  definida por f(x) 2x2 3x1 a ) Prueba que las rectas y  x1 e y  3x1 son tangentes a su gráfica.
+b) Halla el área del recinto limitado por la gráfica de f y las rectas mencionadas en el apartado anterior.",enunciados_PNG/2011 - Integrales_png/2011_reserva_4_2_opcion_b.png,2011 - Integrales.pdf
+mates_2011_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2011,Septiembre,EJERCICIO 2. OPCIÓN A,"Considera las funciones f,g:  definidas por f(x)6x x2 y g(x) x2 2x.
+a) Esboza sus gráficas en unos mismos ejes coordenados y calcula sus puntos de corte.
+b) Calcula el área del recinto limitado por las gráficas de f y g.",enunciados_PNG/2011 - Integrales_png/2011_septiembre_2_opcion_a.png,2011 - Integrales.pdf
+mates_2011_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2011,Septiembre,EJERCICIO 2. OPCIÓN B,"1 Sean f,g:  las funciones definidas por f(x) x2 4 y g(x) x2 1. 4
+a) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisax  2.
+b) Esboza el recinto limitado por las gráficas de ambas funciones y la recta y  x5. Calcula el área de este recinto.",enunciados_PNG/2011 - Integrales_png/2011_septiembre_2_opcion_b.png,2011 - Integrales.pdf
+mates_2012_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2012,Junio,EJERCICIO 2. OPCIÓN A,"Sea f una función continua en el intervalo 2,3 y F una función primitiva de f tal que , F(2)1 y F(3) 2. Calcula: 3
+a)  f(x)dx 2 3
+b)  5f(x)7dx 2 3
+c)  F(x)2  f(x)dx 2",enunciados_PNG/2012 - Integrales_png/2012_junio_2_opcion_a.png,2012 - Integrales.pdf
+mates_2012_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2012,Junio,EJERCICIO 2. OPCIÓN B,"2 Sea la función f definida por f(x) para x  1 y x 1. x2 1
+a) Halla una primitiva de f.
+b) Calcula el valor de k para que el área del recinto limitado por el eje de abscisas y la gráfica de f en el intervalo 2,k sea ln2, donde ln denota el logaritmo neperiano.",enunciados_PNG/2012 - Integrales_png/2012_junio_2_opcion_b.png,2012 - Integrales.pdf
+mates_2012_Reserva 1_EJER CICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2012,Reserva 1,EJER CICIO 2. OPCIÓN A,"S ean f,g:  las funciones definidas por: f(x) sen x y g(x)cos x, respectivamente.  
+a) Realiza un esbozo de las gráficas de f y g en el intervalo 0 , .    2  b ) Calcula el área total de los recintos limitados por ambas gráficas y las rectas x0 y x  2 EJER CICIO 2. OPCIÓN A.",enunciados_PNG/2012 - Integrales_png/2012_reserva_1_ejer_cicio_2_opcion_a.png,2012 - Integrales.pdf
+mates_2012_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2012,Reserva 1,EJERCICIO 2. OPCIÓN B,"Sea f la función f :  definida por f(x) x2cosx. Determina la primitiva de f cuya gráfica pasa por el punto (,0).",enunciados_PNG/2012 - Integrales_png/2012_reserva_1_2_opcion_b.png,2012 - Integrales.pdf
+mates_2012_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2012,Reserva 2,EJERCICIO 2. OPCIÓN A,"Sea f :  la función definida por: f(x) x3 4x
+a) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x1. R E S O L U C I Ó N
+b) Esboza el recinto limitado por la gráfica de f y la recta y  x2, determinando los puntos de corte de ambas gráficas.
+c) Calcula el área del recinto anterior.",enunciados_PNG/2012 - Integrales_png/2012_reserva_2_2_opcion_a.png,2012 - Integrales.pdf
+mates_2012_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2012,Reserva 2,EJERCICIO 2. OPCIÓN B,"Sea f,g:  las funciones definidas por: f(x) x2 2x y g(x)x2 4x, respectivamente. R E S O L U C I Ó N
+a) Halla los puntos de corte de sus gráficas y realiza un esbozo del recinto que limitan.
+b) Calcula el área de dicho recinto.",enunciados_PNG/2012 - Integrales_png/2012_reserva_2_2_opcion_b.png,2012 - Integrales.pdf
+mates_2012_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2012,Reserva 3,EJERCICIO 2. OPCIÓN A,"Se considera el recinto del plano situado en el primer cuadrante limitado por las rectas y  4x, y  84x y la curva y  2xx2. R E S O L U C I Ó N
+a) Realiza un esbozo de dicho recinto.
+b) Calcula su área.",enunciados_PNG/2012 - Integrales_png/2012_reserva_3_2_opcion_a.png,2012 - Integrales.pdf
+mates_2012_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2012,Reserva 3,EJERCICIO 2. OPCIÓN B,"C alcula los valores de a y b sabiendo que la función f :(0,) definida por f(x)ax2 bln(x), donde ln denota la función logaritmo neperiano, tiene un extremo relativo 4 e n x1 y que f(x)dx  278ln4. 1",enunciados_PNG/2012 - Integrales_png/2012_reserva_3_2_opcion_b.png,2012 - Integrales.pdf
+mates_2012_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2012,Reserva 4,EJERCICIO 2. OPCIÓN A,"Sea la función f :  definida por f(x)(1 x2)ex. Determina la primitiva de f cuya gráfica pasa por el punto(1,0).",enunciados_PNG/2012 - Integrales_png/2012_reserva_4_2_opcion_a.png,2012 - Integrales.pdf
+mates_2012_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2012,Reserva 4,EJERCICIO 2. OPCIÓN B,"x2 Sean las funciones f :  y g:(0,) definidas por f(x) y g(x)2 x 4 r espectivamente. a ) Halla los puntos de corte de las gráficas de f y g. Realiza un esbozo del recinto que limitan. b ) Calcula el área de dicho recinto.",enunciados_PNG/2012 - Integrales_png/2012_reserva_4_2_opcion_b.png,2012 - Integrales.pdf
+mates_2012_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2012,Septiembre,EJERCICIO 2. OPCIÓN A,"1 x Sea I   dx. 0 1 1 x
+a) Expresa la integral I aplicando el cambio de variable t  1 x .
+b) Calcula el valor de I.",enunciados_PNG/2012 - Integrales_png/2012_septiembre_2_opcion_a.png,2012 - Integrales.pdf
+mates_2012_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2012,Septiembre,EJERCICIO 2. OPCIÓN B,"9 x2 Sea f :  la función definida por f(x) . 4
+a) Halla la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x1.
+b) Esboza el recinto limitado por la gráfica de f, la recta x2y  5 y el eje de abscisas. Calcula el área de dicho recinto.",enunciados_PNG/2012 - Integrales_png/2012_septiembre_2_opcion_b.png,2012 - Integrales.pdf
+mates_2013_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2013,Junio,EJERCICIO 2. OPCIÓN A,"S ean f :  y g:  las funciones definidas mediante f(x) x(x2) y g(x) x4
+a) Esboza las gráficas de f y g sobre los mismos ejes. Calcula los puntos de corte entre ambas gráficas.
+b) Calcula el área del recinto limitado por gráficas de f y g.",enunciados_PNG/2013 - Integrales_png/2013_junio_2_opcion_a.png,2013 - Integrales.pdf
+mates_2013_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2013,Junio,EJERCICIO 2. OPCIÓN B,Sea g:  la función definida por g(x) ln(x2 1)(donde ln denota el logaritmo neperiano). Calcula la primitiva de g cuya gráfica pasa por el origen de coordenadas.,enunciados_PNG/2013 - Integrales_png/2013_junio_2_opcion_b.png,2013 - Integrales.pdf
+mates_2013_Reserva 1_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2013,Reserva 1,EJERCICIO 2. OPCIÓN A,"De la función f :  definida por f(x)ax3 bx2 cxd se sabe que tiene un máximo 1 5 relativo enx1, un punto de inflexión en (0,0) y que f(x)dx .Calcula a, b, c y d. 0 4",enunciados_PNG/2013 - Integrales_png/2013_reserva_1_2_opcion_a.png,2013 - Integrales.pdf
+mates_2013_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2013,Reserva 1,EJERCICIO 2. OPCIÓN B, 4 x2 Calcula dx x2 6x5 2,enunciados_PNG/2013 - Integrales_png/2013_reserva_1_2_opcion_b.png,2013 - Integrales.pdf
+mates_2013_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2013,Reserva 2,EJERCICIO 2. OPCIÓN A,x1 Halla dx. Sugerencia: se puede hacer el cambio de variable t  x 1 x,enunciados_PNG/2013 - Integrales_png/2013_reserva_2_2_opcion_a.png,2013 - Integrales.pdf
+mates_2013_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2013,Reserva 2,EJERCICIO 2. OPCIÓN B,"Sea g:(0,) la función definida por g(x) lnx (donde ln denota el logaritmo neperiano).
+a) Esboza el recinto limitado por la gráfica de g y la recta y 1. Calcula los puntos de corte entre ellas.
+b) Calcula el área del recinto anterior.",enunciados_PNG/2013 - Integrales_png/2013_reserva_2_2_opcion_b.png,2013 - Integrales.pdf
+mates_2013_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2013,Reserva 3,EJERCICIO 2. OPCIÓN A,"1 Sea g:(0,) la función definida por g(x) x x Determina la primitiva de g cuya gráfica pasa por el puntoP(1,0). Sugerencia: se puede hacer el cambio de variable t  x",enunciados_PNG/2013 - Integrales_png/2013_reserva_3_2_opcion_a.png,2013 - Integrales.pdf
+mates_2013_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2013,Reserva 3,EJERCICIO 2. OPCIÓN B, Calcula  2 xsen(2x) dx 0,enunciados_PNG/2013 - Integrales_png/2013_reserva_3_2_opcion_b.png,2013 - Integrales.pdf
+mates_2013_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2013,Reserva 4,EJERCICIO 2. OPCIÓN A,"2 Sean f y g las funciones definidas por f(x) 2 x y g(x) para x  1. x1
+a) Calcula los puntos de corte entre las gráficas de f y g.
+b) Esboza las gráficas de f y g sobre los mismos ejes.
+c) Halla el área del recinto limitado por las gráficas de f y g.",enunciados_PNG/2013 - Integrales_png/2013_reserva_4_2_opcion_a.png,2013 - Integrales.pdf
+mates_2013_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2013,Reserva 4,EJERCICIO 2. OPCIÓN B,4 ex Calcula dx. Sugerencia: se puede hacer el cambio de variable t  ex . 2 1 ex,enunciados_PNG/2013 - Integrales_png/2013_reserva_4_2_opcion_b.png,2013 - Integrales.pdf
+mates_2013_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2013,Septiembre,EJERCICIO 2. OPCIÓN A,"a) Determina la función f :  tal que f '(x)(2x1)ex y su gráfica pasa por el origen de coordenadas.
+b) Calcula la recta tangente a la gráfica de f en el punto de abscisa x0.",enunciados_PNG/2013 - Integrales_png/2013_septiembre_2_opcion_a.png,2013 - Integrales.pdf
+mates_2013_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2013,Septiembre,EJERCICIO 2. OPCIÓN B,"Sea g:  la función definida por g(x)x2 6x5.
+a) Halla la ecuación de la recta normal a la gráfica de g en el punto de abscisa x4.
+b) Esboza el recinto limitado por la gráfica de g, la recta x2y20. Calcula el área de este recinto.",enunciados_PNG/2013 - Integrales_png/2013_septiembre_2_opcion_b.png,2013 - Integrales.pdf
+mates_2014_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2014,Junio,EJERCICIO 2. OPCIÓN A,"Sean f :  y g:  las funciones definidas respectivamente por x 1 f(x) y g(x) 2 1 x2
+a) Esboza las gráficas de f y g sobre los mismos ejes y calcula los puntos de corte entre ambas gráficas.
+b) Calcula el área del recinto limitado por las gráficas de f y g.",enunciados_PNG/2014 - Integrales_png/2014_junio_2_opcion_a.png,2014 - Integrales.pdf
+mates_2014_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2014,Junio,EJERCICIO 2. OPCIÓN B,"Sea f la función definida por f(x) xln(x1) para x  1 (ln denota el logaritmo neperiano). Determina la primitiva de f cuya gráfica pasa por el punto (1,0).",enunciados_PNG/2014 - Integrales_png/2014_junio_2_opcion_b.png,2014 - Integrales.pdf
+mates_2014_Reserva 1_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2014,Reserva 1,EJERCICIO 2. OPCIÓN A,Determina una función derivable f :  sabiendo que f(1) 1 y que x2 2x si x0 f '(x)  ex 1 si x0,enunciados_PNG/2014 - Integrales_png/2014_reserva_1_2_opcion_a.png,2014 - Integrales.pdf
+mates_2014_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2014,Reserva 1,EJERCICIO 2. OPCIÓN B,"Considera el recinto limitado por las siguientes curvas: y x2 , y  2 x2 , y 4
+a) Haz un esbozo del recinto y calcula los puntos de corte de las curvas.
+b) Calcula el área del recinto.",enunciados_PNG/2014 - Integrales_png/2014_reserva_1_2_opcion_b.png,2014 - Integrales.pdf
+mates_2014_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2014,Reserva 2,EJERCICIO 2. OPCIÓN A,1 Calcula  ln(4 x) dx. 1,enunciados_PNG/2014 - Integrales_png/2014_reserva_2_2_opcion_a.png,2014 - Integrales.pdf
+mates_2014_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2014,Reserva 2,EJERCICIO 2. OPCIÓN B,"Sea f :  la función definida por f(x) x 2 2x3
+a) Calcula la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x2.
+b) Esboza el recinto limitado por la gráfica de f, la recta 2x y70 y el eje OX, calculando los puntos de corte.
+c) Halla el área del recinto descrito en el apartado anterior.",enunciados_PNG/2014 - Integrales_png/2014_reserva_2_2_opcion_b.png,2014 - Integrales.pdf
+mates_2014_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2014,Reserva 3,EJERCICIO 2. OPCIÓN A,"Sea f :  la función definida por f(x) x3 3x2  x3.
+a) Halla, si existe, el punto de la gráfica de f en el que la recta tangente es y  3 x.
+b) Calcula el área del recinto limitado por la gráfica de f y la recta del apartado anterior.",enunciados_PNG/2014 - Integrales_png/2014_reserva_3_2_opcion_a.png,2014 - Integrales.pdf
+mates_2014_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2014,Reserva 3,EJERCICIO 2. OPCIÓN B,"x9 Sea f :(1,3) la función definida por f(x) . Determina la primitiva de f (x1)(x3) cuya gráfica pasa por el punto (1,0).",enunciados_PNG/2014 - Integrales_png/2014_reserva_3_2_opcion_b.png,2014 - Integrales.pdf
+mates_2014_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2014,Reserva 4,EJERCICIO 2. OPCIÓN A,dx Calcula  (Sugerencia: cambio de variable t  x) 2x(x x),enunciados_PNG/2014 - Integrales_png/2014_reserva_4_2_opcion_a.png,2014 - Integrales.pdf
+mates_2014_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2014,Reserva 4,EJERCICIO 2. OPCIÓN B,"u ex; du ex dx u ex; du ex dx Sea f :  la función definida por f( x)e xcosx dvcosxdx; vsenx dvcosxdx; vsenx
+a) Calcula la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x0.
+b) Calcula la primitiva de f cuya gráfica pasa por el punto (0,0)",enunciados_PNG/2014 - Integrales_png/2014_reserva_4_2_opcion_b.png,2014 - Integrales.pdf
+mates_2014_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2014,Septiembre,EJERCICIO 2. OPCIÓN A,1 x 2 Calcula  dx. 2x 2 2x4 0,enunciados_PNG/2014 - Integrales_png/2014_septiembre_2_opcion_a.png,2014 - Integrales.pdf
+mates_2014_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2014,Septiembre,EJERCICIO 2. OPCIÓN B, Calcula  4 x dx. (Sugerencia: integración por partes). 0 cos2 x,enunciados_PNG/2014 - Integrales_png/2014_septiembre_2_opcion_b.png,2014 - Integrales.pdf
+mates_2015_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2015,Junio,EJERCICIO 2. OPCIÓN A,x2 Calcula  dx x2  x2,enunciados_PNG/2015 - Integrales_png/2015_junio_2_opcion_a.png,2015 - Integrales.pdf
+mates_2015_Reserva 1_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2015,Reserva 1,EJERCICIO 2. OPCIÓN A,dx Calcula  (Sugerencia x2 t) (x2) x2,enunciados_PNG/2015 - Integrales_png/2015_reserva_1_2_opcion_a.png,2015 - Integrales.pdf
+mates_2015_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2015,Reserva 1,EJERCICIO 2. OPCIÓN B,"Sea g la función definida por g(x)ln(x) para x0 (ln denota la función logaritmo neperiano). Calcula el valor de a1 para el que el área del recinto limitado por la gráfica de g, el eje de abscisas y la recta x  a es 1.",enunciados_PNG/2015 - Integrales_png/2015_reserva_1_2_opcion_b.png,2015 - Integrales.pdf
+mates_2015_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2015,Reserva 2,EJERCICIO 2. OPCIÓN A,"Sea f la función definida por f(x) ln(x) para x0 (ln denota la función logaritmo neperiano).
+a) Esboza el recinto limitado por la gráfica de f y la recta y 1.
+b) Calcula los puntos de corte de la gráfica de f con la recta y 1.
+c) Calcula el área del recinto citado.",enunciados_PNG/2015 - Integrales_png/2015_reserva_2_2_opcion_a.png,2015 - Integrales.pdf
+mates_2015_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2015,Reserva 2,EJERCICIO 2. OPCIÓN B,Calcula e 2x sen(x)dx,enunciados_PNG/2015 - Integrales_png/2015_reserva_2_2_opcion_b.png,2015 - Integrales.pdf
+mates_2015_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2015,Reserva 3,EJERCICIO 2. OPCIÓN A,"ln(x) Sea f la función definida por f(x) para x0 (ln denota la función logaritmo neperiano) 2x y sea F la primitiva de f tal que F(1) 2.
+a) Calcula F'(e).
+b) Halla la ecuación de la recta tangente a la gráfica de F en el punto de abscisa x  e.",enunciados_PNG/2015 - Integrales_png/2015_reserva_3_2_opcion_a.png,2015 - Integrales.pdf
+mates_2015_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2015,Reserva 3,EJERCICIO 2. OPCIÓN B,"1 Sean f :0, y g:  las funciones definidas por f(x) 2x y g(x) x2. 2
+a) Halla los puntos de corte de las gráficas de f y g. Haz un esbozo del recinto que limitan.
+b) Calcula el área de dicho recinto.",enunciados_PNG/2015 - Integrales_png/2015_reserva_3_2_opcion_b.png,2015 - Integrales.pdf
+mates_2015_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2015,Reserva 4,EJERCICIO 2. OPCIÓN A,Calcula el valor de a1 sabiendo que el área del recinto comprendido entre la parábola 4 y x2 ax y la recta y x es . 3,enunciados_PNG/2015 - Integrales_png/2015_reserva_4_2_opcion_a.png,2015 - Integrales.pdf
+mates_2015_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2015,Reserva 4,EJERCICIO 2. OPCIÓN B,"x2 1 Sea f la función definida por f(x) para x0 y x1 y sea F la primitiva de f cuya x2(x1) gráfica pasa por el punto P(2,ln2) (ln denota logaritmo neperiano).
+a) Calcula la recta tangente a la gráfica de F en el punto P.
+b) Determina la función F.",enunciados_PNG/2015 - Integrales_png/2015_reserva_4_2_opcion_b.png,2015 - Integrales.pdf
+mates_2015_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2015,Septiembre,EJERCICIO 2. OPCIÓN A, Calcula  x2sen(x)dx. 0,enunciados_PNG/2015 - Integrales_png/2015_septiembre_2_opcion_a.png,2015 - Integrales.pdf
+mates_2015_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2015,Septiembre,EJERCICIO 2. OPCIÓN B,"Sea f :  la función definida por: f(x) x2 4
+a) Haz un esbozo de la gráfica de f.
+b) Calcula el área del recinto limitado por la gráfica de f y la recta y  5.",enunciados_PNG/2015 - Integrales_png/2015_septiembre_2_opcion_b.png,2015 - Integrales.pdf
+mates_2016_Junio_EJERCICIO 2.OPCIÓN A,mates,ii_integrales_enunciados,2016,Junio,EJERCICIO 2.OPCIÓN A,Halla la ecuación de la recta tangente a la gráfica de una función f en el punto de abscisa x1 (x1)2 sabiendo que f(0)0 y f '(x) para x  1. x1,enunciados_PNG/2016 - Integrales_png/2016_junio_2_opcion_a.png,2016 - Integrales.pdf
+mates_2016_Junio_EJERCICIO 2.OPCIÓN B,mates,ii_integrales_enunciados,2016,Junio,EJERCICIO 2.OPCIÓN B,"Sea f :(0,) la función dada por f(x)ln x (ln representa logaritmo neperiano).
+a) Calcula la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x1.
+b) Esboza el recinto comprendido entre la gráfica de f, y  x1 y la recta x3. Calcula su área.",enunciados_PNG/2016 - Integrales_png/2016_junio_2_opcion_b.png,2016 - Integrales.pdf
+mates_2016_Reserva 1_EJE RCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2016,Reserva 1,EJE RCICIO 2. OPCIÓN A,"ln x Considera la función f dada por f(x) x  para x0. x
+a) Halla todas las primitivas de f. 3
+b) Halla  f(x) dx 1
+c) Determina la primitiva de f que toma el valo r 3 para x1. EJE RCICIO 2. OPCIÓN A.",enunciados_PNG/2016 - Integrales_png/2016_reserva_1_eje_rcicio_2_opcion_a.png,2016 - Integrales.pdf
+mates_2016_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2016,Reserva 1,EJERCICIO 2. OPCIÓN B,"2x Sea f :  la función dada por f(x) . Calcula el área del recinto limitado por la (x2 1)2 gráfica de f, el eje de abscisas y las recta x0 y x1.",enunciados_PNG/2016 - Integrales_png/2016_reserva_1_2_opcion_b.png,2016 - Integrales.pdf
+mates_2016_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2016,Reserva 2,EJERCICIO 2. OPCIÓN A,"De la función f :  definida por f(x)ae x bx, donde a,b se sabe que su gráfica tiene tangente horizontal en x0 y que  1 f(x)dx e 3 . Halla los valores de a y b. 0 2",enunciados_PNG/2016 - Integrales_png/2016_reserva_2_2_opcion_a.png,2016 - Integrales.pdf
+mates_2016_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2016,Reserva 2,EJERCICIO 2. OPCIÓN B,"3x(2m x) Considera la función f :  definida por f(x) , con m0. Calcula el área m3 del recinto encerrado por la gráfica de f y el eje OX.",enunciados_PNG/2016 - Integrales_png/2016_reserva_2_2_opcion_b.png,2016 - Integrales.pdf
+mates_2016_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2016,Reserva 3,EJERCICIO 2. OPCIÓN A,a x Calcula el valor de a0 para el que se verifica  dx 1. 2 x2 0,enunciados_PNG/2016 - Integrales_png/2016_reserva_3_2_opcion_a.png,2016 - Integrales.pdf
+mates_2016_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2016,Reserva 3,EJERCICIO 2. OPCIÓN B,Considera la función f :  dada por f(x) x 2 mx siendo m0. Esboza el recinto limitado por la gráfica de f y la recta ymx y calcula el valor de m para que el área de dicho recinto sea 36.,enunciados_PNG/2016 - Integrales_png/2016_reserva_3_2_opcion_b.png,2016 - Integrales.pdf
+mates_2016_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2016,Reserva 4,EJERCICIO 2. OPCIÓN A,2x1 Calcula  dx (sugerencia: t  2x1) 2x1 2x1,enunciados_PNG/2016 - Integrales_png/2016_reserva_4_2_opcion_a.png,2016 - Integrales.pdf
+mates_2016_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2016,Reserva 4,EJERCICIO 2. OPCIÓN B,"Determina la función f :  tal que  f ''(x)2sen2x , f(0)1 y f 0    2",enunciados_PNG/2016 - Integrales_png/2016_reserva_4_2_opcion_b.png,2016 - Integrales.pdf
+mates_2016_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2016,Septiembre,EJERCICIO 2. OPCIÓN A,Sea f :  la función definida por f(x) x4. Encuentra la recta horizontal que corta a la 8 g ráfica de f formando con ella un recinto con área . 5,enunciados_PNG/2016 - Integrales_png/2016_septiembre_2_opcion_a.png,2016 - Integrales.pdf
+mates_2016_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2016,Septiembre,EJERCICIO 2. OPCIÓN B,x Calcula  dx. Sugerencia: se puede hacer el cambio de variable t  x 1 x,enunciados_PNG/2016 - Integrales_png/2016_septiembre_2_opcion_b.png,2016 - Integrales.pdf
+mates_2017_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2017,Junio,EJERCICIO 2. OPCIÓN A,"Considera la región limitada por las curvas y  x 2 e yx2 4x
+a) Esboza la gráfica de la región dada, hallando los puntos de corte de ambas curvas.
+b) Expresa el área como una integral.
+c) Calcula el área.",enunciados_PNG/2017 - Integrales_png/2017_junio_2_opcion_a.png,2017 - Integrales.pdf
+mates_2017_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2017,Junio,EJERCICIO 2. OPCIÓN B,16 dx Calcula  (sugerencia t 4 x). 1 x  4 x,enunciados_PNG/2017 - Integrales_png/2017_junio_2_opcion_b.png,2017 - Integrales.pdf
+mates_2017_Reserva 1_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2017,Reserva 1,EJERCICIO 2. OPCIÓN A,"Considera la función dada por f(x) 3 x para x3,3.
+a) Expresa la función f definida a trozos. 3
+b) Halla  f(x) dx 3",enunciados_PNG/2017 - Integrales_png/2017_reserva_1_2_opcion_a.png,2017 - Integrales.pdf
+mates_2017_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2017,Reserva 1,EJERCICIO 2. OPCIÓN B,"Sea f :  la función definida por f(x) xarctg(x). Determina la primitiva de f cuya gráfica pasa por el punto (0,).",enunciados_PNG/2017 - Integrales_png/2017_reserva_1_2_opcion_b.png,2017 - Integrales.pdf
+mates_2017_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2017,Reserva 2,EJERCICIO 2. OPCIÓN A,"Sea f la función definida como f(x)(x2) ln(x) para x0, donde ln(x) representa al logaritmo neperiano de x.
+a) Calcula  f(x) dx
+b) Encuentra la primitiva de f cuya gráfica pasa por el punto (1,0).",enunciados_PNG/2017 - Integrales_png/2017_reserva_2_2_opcion_a.png,2017 - Integrales.pdf
+mates_2017_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2017,Reserva 2,EJERCICIO 2. OPCIÓN B," x 2
+a) Halla dx (sugerencia t 1 x 3). 3 (1 x 3) 2
+b) Halla la primitiva cuya gráfica pasa por (2,0).",enunciados_PNG/2017 - Integrales_png/2017_reserva_2_2_opcion_b.png,2017 - Integrales.pdf
+mates_2017_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2017,Reserva 3,EJERCICIO 2. OPCIÓN A,"8 1 Sea I   dx 2 x1 0
+a) Expresa I aplicando el cambio de variable t 2 x1.
+b) Calcula el valor de I.",enunciados_PNG/2017 - Integrales_png/2017_reserva_3_2_opcion_a.png,2017 - Integrales.pdf
+mates_2017_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2017,Reserva 3,EJERCICIO 2. OPCIÓN B,"Considera la región limitada por la gráfica de la función dada por f(x) 2x2 para x1, la recta y  x5 y el eje de abscisas.
+a) Esboza la gráfica de la región dada, hallando los puntos de corte entre la gráfica de f y las rectas.
+b) Expresa mediante integrales el área del recinto anterior.
+c) Calcula el área.",enunciados_PNG/2017 - Integrales_png/2017_reserva_3_2_opcion_b.png,2017 - Integrales.pdf
+mates_2017_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2017,Reserva 4,EJERCICIO 2. OPCIÓN A,3 1 Calcula  dx (sugerencia t  3 x) 0 1 3 x,enunciados_PNG/2017 - Integrales_png/2017_reserva_4_2_opcion_a.png,2017 - Integrales.pdf
+mates_2017_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2017,Reserva 4,EJERCICIO 2. OPCIÓN B,1 x 2 1 Calcula  dx (x1)2 0,enunciados_PNG/2017 - Integrales_png/2017_reserva_4_2_opcion_b.png,2017 - Integrales.pdf
+mates_2017_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2017,Septiembre,EJERCICIO 2. OPCIÓN A,"Determina la función f :  tal que f ''(x) xe x, cuya gráfica pasa por el origen de coordenadas y tiene un extremo relativo en x1.",enunciados_PNG/2017 - Integrales_png/2017_septiembre_2_opcion_a.png,2017 - Integrales.pdf
+mates_2017_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2017,Septiembre,EJERCICIO 2. OPCIÓN B,"Considera el recinto del primer cuadrante limitado por el eje OX, la recta y x, la gráfica 1 y  y la recta x3. x3
+a) Haz un esbozo del recinto descrito.
+b) Calcula el área del recinto 1 1
+c) Si consideras la gráfica y en lugar de y  , el área del recinto correspondiente ¿será x x3 mayor o será menor que la del recinto inicial.?. ¿Por qué?",enunciados_PNG/2017 - Integrales_png/2017_septiembre_2_opcion_b.png,2017 - Integrales.pdf
+mates_2018_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2018,Junio,EJERCICIO 2. OPCIÓN A,"Considera las funciones f,g:  dadas por f(x)6x x2 y g(x) x2 2x .
+a) Esboza el recinto limitado por las gráficas de f y g y calcula los puntos de corte de dichas gráficas.
+b) Calcula el área del recinto limitado por las gráficas de f y g.",enunciados_PNG/2018 - Integrales_png/2018_junio_2_opcion_a.png,2018 - Integrales.pdf
+mates_2018_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2018,Junio,EJERCICIO 2. OPCIÓN B,"x 2 Considera las funciones f,g:  dadas por f(x)3 x2 y g(x)  . 4
+a) Calcula la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x1 y comprueba que también es tangente a la gráfica de g. Determina el punto de tangencia con la gráfica de g.
+b) Esboza el recinto limitado por la recta y  42x y las gráficas de f y g. Calcula todos los puntos de corte entre las gráficas (y la recta).
+c) Calcula el área del recinto descrito en el apartado anterior.",enunciados_PNG/2018 - Integrales_png/2018_junio_2_opcion_b.png,2018 - Integrales.pdf
+mates_2018_Reserva 1_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2018,Reserva 1,EJERCICIO 2. OPCIÓN A,"Sea f :  la función definida por f(x)e2x
+a) Calcula la ecuación de la recta tangente a la gráfica de f en el punto de abscisa x2.
+b) Esboza el recinto limitado por la gráfica de f, el eje de ordenadas y la recta x y  3.
+c) Calcula el área del recinto indicado.",enunciados_PNG/2018 - Integrales_png/2018_reserva_1_2_opcion_a.png,2018 - Integrales.pdf
+mates_2018_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2018,Reserva 1,EJERCICIO 2. OPCIÓN B," e  Considera la función f :   ,   definida por f(x) ln(2xe), donde ln denota  2  logaritmo neperiano.
+a) Haz un esbozo de la gráfica de f calculando sus puntos de corte con los ejes coordenados.
+b) Calcula el área del recinto limitado por la gráfica de f y los ejes de coordenadas.",enunciados_PNG/2018 - Integrales_png/2018_reserva_1_2_opcion_b.png,2018 - Integrales.pdf
+mates_2018_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2018,Reserva 2,EJERCICIO 2. OPCIÓN A,"1 Determina la función f :(1,) sabiendo que f ''(x) y que la ecuación de la (x1)2 recta tangente a la gráfica de f en el punto de abscisa x2 es y  x2.",enunciados_PNG/2018 - Integrales_png/2018_reserva_2_2_opcion_a.png,2018 - Integrales.pdf
+mates_2018_Reserva 2_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2018,Reserva 2,EJERCICIO 2. OPCIÓN B," x S ea f :  la función definida por f(x) xcos   .  2 a ) Calcula  f(x) dx
+b) Encuentra la primitiva de f cuya gráfica pasa por el punto (0,1).",enunciados_PNG/2018 - Integrales_png/2018_reserva_2_2_opcion_b.png,2018 - Integrales.pdf
+mates_2018_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2018,Reserva 3,EJERCICIO 2. OPCIÓN A,"Siendo a1, considera el rectángulo de vértices A(1,0),B(1,1),C(a,1) y D(a,0). La gráfica de 1 la función f definida por f(x) para x0 divide al rectángulo anterior en dos recintos. x2
+a) Haz un esbozo de la gráfica de f y del rectángulo descrito.
+b) Determina el valor de a para el que los dos recintos descritos tienen igual área.",enunciados_PNG/2018 - Integrales_png/2018_reserva_3_2_opcion_a.png,2018 - Integrales.pdf
+mates_2018_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2018,Reserva 3,EJERCICIO 2. OPCIÓN B,ln2 1 C alcula  dx donde ln denota logaritmo neperiano (sugerencia t e x). 1e x 0,enunciados_PNG/2018 - Integrales_png/2018_reserva_3_2_opcion_b.png,2018 - Integrales.pdf
+mates_2018_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2018,Reserva 4,EJERCICIO 2. OPCIÓN A,"Considera las funciones f,g:  definidas por f(x) x2  x3 y g(x) x .
+a) Esboza el recinto limitado por las gráficas de f y g y calcula los puntos de corte entre ambas gráficas.
+b) Calcula el área del recinto descrito en el apartado anterior.",enunciados_PNG/2018 - Integrales_png/2018_reserva_4_2_opcion_a.png,2018 - Integrales.pdf
+mates_2018_Reserva 4_EJER CICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2018,Reserva 4,EJER CICIO 2. OPCIÓN B," ax si 0 x  8  S e sabe que la función f :0, dada por f(x) x2 32 es continua.  si x  8  x4 a ) Determina a. 10
+b) Para a8, calcula  f(x)dx 0 EJER CICIO 2. OPCIÓN B.",enunciados_PNG/2018 - Integrales_png/2018_reserva_4_ejer_cicio_2_opcion_b.png,2018 - Integrales.pdf
+mates_2018_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2018,Septiembre,EJERCICIO 2. OPCIÓN A,Considera la función f definida por f(x)axln(x)bx para x0 (ln denota la función logaritmo neperiano). Determina a y b sabiendo que f tiene un extremo relativo en x1 y que 2  f(x) dx 8ln(2)9 1,enunciados_PNG/2018 - Integrales_png/2018_septiembre_2_opcion_a.png,2018 - Integrales.pdf
+mates_2018_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2018,Septiembre,EJERCICIO 2. OPCIÓN B,"Considera la función f :  definida por f(x) e2x.
+a) Determina el punto de la gráfica de f en el que la recta tangente es y  2ex.
+b) Esboza el recinto limitado por la gráfica de f , la recta y  2ex y el eje de ordenadas.
+c) Calcula el área del recinto descrito en el apartado anterior.",enunciados_PNG/2018 - Integrales_png/2018_septiembre_2_opcion_b.png,2018 - Integrales.pdf
+mates_2019_Junio_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2019,Junio,EJERCICIO 2. OPCIÓN A,"1ex Sea la función f :0, definida por: f(x) . Halla la primitiva de f cuya 1ex gráfica pasa por el punto (1,1). (Sugerencia: efectúa el cambio de variable t  ex)",enunciados_PNG/2019 - Integrales_png/2019_junio_2_opcion_a.png,2019 - Integrales.pdf
+mates_2019_Junio_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2019,Junio,EJERCICIO 2. OPCIÓN B,"Considera las funciones f :(2,) , definida por f(x)ln(x2)(ln denota la función 1 l ogaritmo neperiano) y g:  , definida por g(x) (x3). 2
+a) Esboza el recinto que determinan la gráfica de f, la gráfica de g, la recta x1 y la recta x3 . (No es necesario calcular los puntos de corte entre las dos gráficas).
+b) Determina el área del recinto anterior.",enunciados_PNG/2019 - Integrales_png/2019_junio_2_opcion_b.png,2019 - Integrales.pdf
+mates_2019_Reserva 1_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2019,Reserva 1,EJERCICIO 2. OPCIÓN B,"Sean las funciones f,g:0, definidas por f(x)senx y g(x)sen2x
+a) Esboza sus gráficas en unos mismos ejes coordenados y calcula sus puntos de corte. 
+b) Calcula el área del recinto limitado por ambas gráficas y las rectas x0 y x  . 3",enunciados_PNG/2019 - Integrales_png/2019_reserva_1_2_opcion_b.png,2019 - Integrales.pdf
+mates_2019_Reserva 2_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2019,Reserva 2,EJERCICIO 2. OPCIÓN A,"x 4 Sea f la función definida por f(x) par a x 1,1. x 2 1
+a) Halla todas las funciones primitivas de f.
+b) Calcula la primitiva que pasa por (2,0).",enunciados_PNG/2019 - Integrales_png/2019_reserva_2_2_opcion_a.png,2019 - Integrales.pdf
+mates_2019_Reserva 3_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2019,Reserva 3,EJERCICIO 2. OPCIÓN A,"Dado un número real a0, considera la función f :  , dada por f(x) x 2 ax, y la recta y  2ax. Determina a sabiendo que el área del recinto limitado por la gráfica de f y la recta anterior es 36.",enunciados_PNG/2019 - Integrales_png/2019_reserva_3_2_opcion_a.png,2019 - Integrales.pdf
+mates_2019_Reserva 3_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2019,Reserva 3,EJERCICIO 2. OPCIÓN B,"   Sea f : 0,  una función continua y sea F la primitiva de f que cumple F(0) y    6 3  F  . Calcula:    6 
+a)  6 3 f(x)cos(x) dx 0 
+b)  6 senF(x) f(x) dx 0",enunciados_PNG/2019 - Integrales_png/2019_reserva_3_2_opcion_b.png,2019 - Integrales.pdf
+mates_2019_Reserva 4_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2019,Reserva 4,EJERCICIO 2. OPCIÓN A,"x 2 6x8 si x4 Sea f :  la función dada por f(x)   x 2 6x8 si x4
+a) Calcula los puntos de corte entre la gráfica de f y la recta y  2x4. Esboza el recinto que delimitan la gráfica de f y la recta.
+b) Calcula el área del recinto anterior.",enunciados_PNG/2019 - Integrales_png/2019_reserva_4_2_opcion_a.png,2019 - Integrales.pdf
+mates_2019_Reserva 4_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2019,Reserva 4,EJERCICIO 2. OPCIÓN B,"Considera la función f :  dada por f(x)4x2 a, siendo a0 un número real. Esboza el recinto limitado por la gráfica de f y la recta y  0. Calcula a sabiendo que el área del recinto es 18.",enunciados_PNG/2019 - Integrales_png/2019_reserva_4_2_opcion_b.png,2019 - Integrales.pdf
+mates_2019_Septiembre_EJERCICIO 2. OPCIÓN A,mates,ii_integrales_enunciados,2019,Septiembre,EJERCICIO 2. OPCIÓN A,"Determina la función f :(0,) sabiendo que es derivable, que su función derivada cumple ln(x) f '(x) x (ln denota la función logaritmo neperiano) y que la gráfica de f pasa por el punto (1,0).",enunciados_PNG/2019 - Integrales_png/2019_septiembre_2_opcion_a.png,2019 - Integrales.pdf
+mates_2019_Septiembre_EJERCICIO 2. OPCIÓN B,mates,ii_integrales_enunciados,2019,Septiembre,EJERCICIO 2. OPCIÓN B,"Sea la función f :  dada por: f(x) xex2 .
+a) Calcula los puntos de corte de la gráfica de f con los ejes coordenados y los extremos relativos de f (abscisas en los que se obtienen y los valores que se alcanzan). 1
+b) Determina a0 de manera que sea el área del recinto determinado por la gráfica de f en 4 el intervalo 0,a y el eje de abscisas.",enunciados_PNG/2019 - Integrales_png/2019_septiembre_2_opcion_b.png,2019 - Integrales.pdf
+mates_2020_Junio_EJERCICIO 2,mates,ii_integrales_enunciados,2020,Junio,EJERCICIO 2,"(2’5 puntos) Calcula a0 sabiendo que el área de la región determinada por la gráfica de la 1 función f(x) xe3x, el eje de abscisas y la recta x  a vale . 9",enunciados_PNG/2020 - Integrales_png/2020_junio_2.png,2020 - Integrales.pdf
+mates_2020_Junio_EJERCICIO 6,mates,ii_integrales_enunciados,2020,Junio,EJERCICIO 6,"3x2 4 Sea f la función dada por: f(x) para x2 (x2)2
+a) (2 puntos) Calcula  f(x) dx
+b) (0’5 puntos) Calcula la primitiva de f que pasa por el punto (3,5)",enunciados_PNG/2020 - Integrales_png/2020_junio_6.png,2020 - Integrales.pdf
+mates_2020_Reserva 1_EJERCICIO 2,mates,ii_integrales_enunciados,2020,Reserva 1,EJERCICIO 2,"x3 2x3 (2’5 puntos) Sea f la función definida por f(x) para x0, x1. Halla la x2  x primitiva de f cuya gráfica pasa por el punto (2,3ln2), donde ln denota la función logaritmo neperiano.",enunciados_PNG/2020 - Integrales_png/2020_reserva_1_2.png,2020 - Integrales.pdf
+mates_2020_Reserva 1_EJERCICIO 6,mates,ii_integrales_enunciados,2020,Reserva 1,EJERCICIO 6,( 2’5 puntos) Calcula ln(x2 2x2)dx donde ln denota logaritmo neperiano. (Sugerencia: efectúa el cambio de variable t  x1).,enunciados_PNG/2020 - Integrales_png/2020_reserva_1_6.png,2020 - Integrales.pdf
+mates_2020_Reserva 2_EJERCICIO 2,mates,ii_integrales_enunciados,2020,Reserva 2,EJERCICIO 2,"(2’5 Puntos). Determina la función f :(1,) , sabiendo que es dos veces derivable, su 1 g ráfica pasa por el punto (0,1), f '(0)0 y f ''(x) . x1",enunciados_PNG/2020 - Integrales_png/2020_reserva_2_2.png,2020 - Integrales.pdf
+mates_2020_Reserva 2_EJERCICIO 6,mates,ii_integrales_enunciados,2020,Reserva 2,EJERCICIO 6,"Considera las funciones f,g:  definidas por f(x) 4x2 y g(x)x2 2xc.
+a) (1 punto). Halla el valor de c sabiendo que sus gráficas se cortan en el punto en el que g alcanza su máximo.
+b) (1’5 Puntos). Para c  3, calcula el área de la región limitada por ambas gráficas.",enunciados_PNG/2020 - Integrales_png/2020_reserva_2_6.png,2020 - Integrales.pdf
+mates_2020_Reserva 3_EJERCICIO 2,mates,ii_integrales_enunciados,2020,Reserva 3,EJERCICIO 2,"(2’5 Puntos). Determina la única función derivable f :  que cumple que f(0)1, f '(0)1 y f ''(x)ex(x2).",enunciados_PNG/2020 - Integrales_png/2020_reserva_3_2.png,2020 - Integrales.pdf
+mates_2020_Reserva 3_EJERCICIO 6,mates,ii_integrales_enunciados,2020,Reserva 3,EJERCICIO 6,(2’5 Puntos). Calcula el valor de a0 para que el área comprendida entre la parábola y 3x2 2ax y el eje de abscisas sea de 4 unidades cuadradas.,enunciados_PNG/2020 - Integrales_png/2020_reserva_3_6.png,2020 - Integrales.pdf
+mates_2020_Reserva 4_EJE RCICIO 2,mates,ii_integrales_enunciados,2020,Reserva 4,EJE RCICIO 2,"1 Considera la función f :  definida por f(t) 1et
+a) (1’5 Puntos). Calcula  f(t) dt (Sugerencia: efectúa el cambio de variable x 1e t). x g(x)
+b) (1 Punto). Se define g(x)  f(t) dt. Calcula lim 0 x0 x EJE RCICIO 2",enunciados_PNG/2020 - Integrales_png/2020_reserva_4_eje_rcicio_2.png,2020 - Integrales.pdf
+mates_2020_Reserva 4_EJERCICIO 6,mates,ii_integrales_enunciados,2020,Reserva 4,EJERCICIO 6,(2’5 Puntos). Calcula cos(lnx)dx (ln denota la función logaritmo neperiano),enunciados_PNG/2020 - Integrales_png/2020_reserva_4_6.png,2020 - Integrales.pdf
+mates_2020_Septiembre_EJERCICIO 2,mates,ii_integrales_enunciados,2020,Septiembre,EJERCICIO 2, (2’5 puntos) Calcula  xsen2(x) dx 0,enunciados_PNG/2020 - Integrales_png/2020_septiembre_2.png,2020 - Integrales.pdf
+mates_2020_Septiembre_EJERCICIO 6,mates,ii_integrales_enunciados,2020,Septiembre,EJERCICIO 6,"Considera las funciones f,g:  definidas por f(x) x y g(x)x 2 2.
+a) (1 punto) Calcula los puntos de corte de las gráficas de f y g. Esboza el recinto que determinan.
+b) (1’5 puntos) Determina el área del recinto anterior.",enunciados_PNG/2020 - Integrales_png/2020_septiembre_6.png,2020 - Integrales.pdf
+mates_2021_Junio_EJERCICIO 3,mates,ii_integrales_enunciados,2021,Junio,EJERCICIO 3,"Considera la función f :  definida por f(x)4x3  x4
+a) Determina los intervalos de crecimiento y de decrecimiento de f.
+b) Esboza la gráfica de f y calcula el área del recinto limitado por dicha gráfica y el eje de abscisas.",enunciados_PNG/2021 - Integrales_png/2021_junio_3.png,2021 - Integrales.pdf
+mates_2021_Junio_EJERCICIO 4,mates,ii_integrales_enunciados,2021,Junio,EJERCICIO 4,"Considera la función F :0, definida por: F(x)  x (2t t) dt 0 Halla la ecuación de la recta tangente a la gráfica de F en el punto de abscisa x1.",enunciados_PNG/2021 - Integrales_png/2021_junio_4.png,2021 - Integrales.pdf
+mates_2021_Reserva 1_EJERCICIO 3,mates,ii_integrales_enunciados,2021,Reserva 1,EJERCICIO 3,"Considera la función f :  definida por f(x)e x
+a) Calcula a para que la recta tangente a la gráfica de f en el punto a, f(a) pase por el origen de coordenadas.
+b) Calcula el área del recinto limitado por la grá fica de f, la recta tangente a la misma en el punto 1, f(1) y el eje de ordenadas.",enunciados_PNG/2021 - Integrales_png/2021_reserva_1_3.png,2021 - Integrales.pdf
+mates_2021_Reserva 1_EJERCICIO 4,mates,ii_integrales_enunciados,2021,Reserva 1,EJERCICIO 4,3 Calcula  x2 3x2 dx 1,enunciados_PNG/2021 - Integrales_png/2021_reserva_1_4.png,2021 - Integrales.pdf
+mates_2021_Reserva 2_EJERCICIO 3,mates,ii_integrales_enunciados,2021,Reserva 2,EJERCICIO 3,"Considera la función f :  definida por f(x) x2  x1 .
+a) Determina los intervalos de crecimiento y de decrecimiento de f. 2
+c) Calcula  f(x) dx 0",enunciados_PNG/2021 - Integrales_png/2021_reserva_2_3.png,2021 - Integrales.pdf
+mates_2021_Reserva 2_EJERCICIO 4,mates,ii_integrales_enunciados,2021,Reserva 2,EJERCICIO 4,"Considera la función f :0, definida por f(x) xex
+a) Esboza el recinto limitado por la gráfica de f y las rectas x  2 , y  x
+b) Determina el área del recinto anterior.",enunciados_PNG/2021 - Integrales_png/2021_reserva_2_4.png,2021 - Integrales.pdf
+mates_2021_Reserva 3_EJERCICIO 3,mates,ii_integrales_enunciados,2021,Reserva 3,EJERCICIO 3,"Considera la función f :0, definida por f(x)ln(x)2 (ln denota la función logaritmo neperiano).
+a) Determina los intervalos de crecimiento y de decrecimiento de f, así como sus extremos relativos (abscisas donde se obtienen y valores que se alcanzan.
+c) Calcula el área de la región limitada por la gráfica de la función f y las rectas y 0; x 1; x  e",enunciados_PNG/2021 - Integrales_png/2021_reserva_3_3.png,2021 - Integrales.pdf
+mates_2021_Reserva 3_EJERCICIO 4,mates,ii_integrales_enunciados,2021,Reserva 3,EJERCICIO 4,2 1 Calcula dx. (Sugerencia: efectúa el cambio de variable t  ex ). 0 1 ex,enunciados_PNG/2021 - Integrales_png/2021_reserva_3_4.png,2021 - Integrales.pdf
+mates_2021_Reserva 4_EJERCICIO 3,mates,ii_integrales_enunciados,2021,Reserva 4,EJERCICIO 3, Calcula  2  2sen2(x)cos2(x)  dx 0,enunciados_PNG/2021 - Integrales_png/2021_reserva_4_3.png,2021 - Integrales.pdf
+mates_2021_Reserva 4_EJERCICIO 4,mates,ii_integrales_enunciados,2021,Reserva 4,EJERCICIO 4,"Considera las funciones f,g:  definidas por f(x) x 2 y g(x)4 x 2.
+a) Halla los puntos de corte de las gráficas de ambas funciones y esboza el recinto que delimitan.
+b) Determina el área del recinto anterior.",enunciados_PNG/2021 - Integrales_png/2021_reserva_4_4.png,2021 - Integrales.pdf
+mates_2021_Julio_EJERCICIO 3,mates,ii_integrales_enunciados,2021,Julio,EJERCICIO 3,x Considera la función f :  definida por f(x)1 te t dt 0 Determina los intervalos de concavidad y convexidad de f y sus puntos de inflexión (abscisas donde se obtienen y valores que se alcanzan.,enunciados_PNG/2021 - Integrales_png/2021_julio_3.png,2021 - Integrales.pdf
+mates_2021_Julio_EJERCICIO 4,mates,ii_integrales_enunciados,2021,Julio,EJERCICIO 4,"x 2 1 Considera la función f definida f(x) (para x  1 , x 1. Halla una primitiva de f x 2 1 cuya gráfica pase por el punto (2,4).",enunciados_PNG/2021 - Integrales_png/2021_julio_4.png,2021 - Integrales.pdf
+mates_2022_Junio_EJERCICIO 3,mates,ii_integrales_enunciados,2022,Junio,EJERCICIO 3,"2x4 si x0 Sea f la función definida por: f(x)  R E S ( O x  L 2 ) U 2 s C i I x Ó  0 N
+a) Calcula los puntos de corte de la gráfica de f con el eje de abscisas y esboza la gráfica de la función.
+b) Halla el área del recinto limitado por la gráfica de f y por el eje de abscisas.",enunciados_PNG/2022 - Integrales_png/2022_junio_3.png,2022 - Integrales.pdf
+mates_2022_Junio_EJERCICIO 4,mates,ii_integrales_enunciados,2022,Junio,EJERCICIO 4,"x3 Considera la función f definida por: f(x) para x1. Halla una primitiva de f que x2 2x1 pase por el punto (2,6)",enunciados_PNG/2022 - Integrales_png/2022_junio_4.png,2022 - Integrales.pdf
+mates_2022_Reserva 1_EJERCICIO 3,mates,ii_integrales_enunciados,2022,Reserva 1,EJERCICIO 3,"u ex; du ex dx u ex; du ex dx Considera la función f :  definida por f(x)e xsen(2x). Halla la primitiva de f cuya dvcosxdx; vsenx dvcosxdx; vsenx gráfica pase por el punto (0,0)",enunciados_PNG/2022 - Integrales_png/2022_reserva_1_3.png,2022 - Integrales.pdf
+mates_2022_Reserva 1_EJERCICIO 4,mates,ii_integrales_enunciados,2022,Reserva 1,EJERCICIO 4,"Considera las funciones f,g:  definidas por f(x)1 x2 y g(x) 2x2
+a) Calcula los puntos de corte de las gráficas de f y g. Esboza el recinto que delimitan.
+b) Determina el área del recinto anterior.",enunciados_PNG/2022 - Integrales_png/2022_reserva_1_4.png,2022 - Integrales.pdf
+mates_2022_Reserva 2_EJERCICIO 3,mates,ii_integrales_enunciados,2022,Reserva 2,EJERCICIO 3,"x Considera la función F :0,2 definida por F(x)  2tcos(t) dt 0
+a) Determina los intervalos de crecimiento y de decrecimiento de F.
+b) Halla la ecuación de la recta tangente a la gráfica de F en el punto de abscisa x  ",enunciados_PNG/2022 - Integrales_png/2022_reserva_2_3.png,2022 - Integrales.pdf
+mates_2022_Reserva 2_EJERCICIO 4,mates,ii_integrales_enunciados,2022,Reserva 2,EJERCICIO 4,1  Calcula xarctg(x) dx (donde arctg denota la función arcotangente). 0,enunciados_PNG/2022 - Integrales_png/2022_reserva_2_4.png,2022 - Integrales.pdf
+mates_2022_Reserva 3_EJERCICIO 3,mates,ii_integrales_enunciados,2022,Reserva 3,EJERCICIO 3,Considera la función f :  definida por f(x) x3  x. Calcula el área total de los recintos limitados por la gráfica de la función f y la recta normal a dicha gráfica en el punto de abscisa x0.,enunciados_PNG/2022 - Integrales_png/2022_reserva_3_3.png,2022 - Integrales.pdf
+mates_2022_Reserva 3_EJERCICIO 4,mates,ii_integrales_enunciados,2022,Reserva 3,EJERCICIO 4,3  x Calcula dx .(Sugerencia: efectúa el cambio de variable t  1 x ). 1 x 0,enunciados_PNG/2022 - Integrales_png/2022_reserva_3_4.png,2022 - Integrales.pdf
+mates_2022_Reserva 4_EJERCICIO 3,mates,ii_integrales_enunciados,2022,Reserva 4,EJERCICIO 3, 2x3 2x2 2x7 Calcula dx x2  x2,enunciados_PNG/2022 - Integrales_png/2022_reserva_4_3.png,2022 - Integrales.pdf
+mates_2022_Julio_EJERCICIO 3,mates,ii_integrales_enunciados,2022,Julio,EJERCICIO 3,8 1 Calcula  dx .(Sugerencia: efectúa el cambio t  1 x 1) 1 x 1 3,enunciados_PNG/2022 - Integrales_png/2022_julio_3.png,2022 - Integrales.pdf
+mates_2022_Julio_EJERCICIO 4,mates,ii_integrales_enunciados,2022,Julio,EJERCICIO 4,"Considera las funciones f,g:  definidas por f(x) x3 2 y g(x) x2 2x2 Sea
+a) Calcula los puntos de corte de las gráficas de f y g. Esboza sus gráficas.
+b) Determina el área del recinto limitado por las gráficas de f y g en el primer cuadrante.",enunciados_PNG/2022 - Integrales_png/2022_julio_4.png,2022 - Integrales.pdf
+mates_2023_Junio_EJERCICIO 3,mates,ii_integrales_enunciados,2023,Junio,EJERCICIO 3,Considera la función f :  definida por f(x) x x1 . Calcula el área del recinto limitado por la gráfica de dicha función y su recta tangente en el punto de abscisa x0.,enunciados_PNG/2023 - Integrales_png/2023_junio_3.png,2023 - Integrales.pdf
+mates_2023_Junio_EJERCICIO 4,mates,ii_integrales_enunciados,2023,Junio,EJERCICIO 4,x xF(x) Considera la función F:  definida por: F(x)  sen(t2) dt. Calcula lim . 0 x0 sen(x2),enunciados_PNG/2023 - Integrales_png/2023_junio_4.png,2023 - Integrales.pdf
+mates_2023_Reserva 1_EJERCICIO 3,mates,ii_integrales_enunciados,2023,Reserva 1,EJERCICIO 3,9 dx Calcula  9 x2 6,enunciados_PNG/2023 - Integrales_png/2023_reserva_1_3.png,2023 - Integrales.pdf
+mates_2023_Reserva 1_EJERCICIO 4,mates,ii_integrales_enunciados,2023,Reserva 1,EJERCICIO 4,"Considera la función f :  definida por f(x) x2 1
+a) Determina el punto de la gráfica de f en el que la recta tangente es y  4x3.
+b) Haz un esbozo del recinto limitado por la gráfica de f, la recta y  4x3 y el eje de ordenadas. Calcula el área del recinto indicado.",enunciados_PNG/2023 - Integrales_png/2023_reserva_1_4.png,2023 - Integrales.pdf
+mates_2023_Reserva 2_EJERCICIO 3,mates,ii_integrales_enunciados,2023,Reserva 2,EJERCICIO 3,"Sabiendo que F:  definida por: F(x)ex2 es una primitiva de f.
+a) Comprueba que f es creciente.
+b) Calcula el área del recinto limitado por la gráfica de la función f, el eje de abscisas y la recta x1.",enunciados_PNG/2023 - Integrales_png/2023_reserva_2_3.png,2023 - Integrales.pdf
+mates_2023_Reserva 2_EJERCICIO 4,mates,ii_integrales_enunciados,2023,Reserva 2,EJERCICIO 4,"Considera la función f(x):0, definida por f(x)cos  x  .Calcula, si es posible, una primitiva de f cuya gráfica pase por el punto (0,5). Sugerencia: haz el cambio x  t",enunciados_PNG/2023 - Integrales_png/2023_reserva_2_4.png,2023 - Integrales.pdf
+mates_2023_Reserva 3_EJERCICIO 3,mates,ii_integrales_enunciados,2023,Reserva 3,EJERCICIO 3,"Determina la función f :(0,) , sabiendo que es dos veces derivable, su gráfica pasa por el punto (1,0), f '(e) e y f ''(x) 2ln(x)1, para todo x0 (ln denota la función logaritmo neperiano).",enunciados_PNG/2023 - Integrales_png/2023_reserva_3_3.png,2023 - Integrales.pdf
+mates_2023_Reserva 3_EJERCICIO 4,mates,ii_integrales_enunciados,2023,Reserva 3,EJERCICIO 4,"Considera las funciones f,g:  dadas por f(x) x2 1 y g(x) x5.
+a) Calcula los puntos de corte de las gráficas de ambas funciones y esboza el recinto que determinan.
+b) Determina el área del recinto anterior.",enunciados_PNG/2023 - Integrales_png/2023_reserva_3_4.png,2023 - Integrales.pdf
+mates_2023_Reserva 4_EJERCICIO 3,mates,ii_integrales_enunciados,2023,Reserva 4,EJERCICIO 3,"  Calcula una primitiva de la función f :0, definida por f(x)arctg x cuya gráfica pase por el punto (0,1) (arc tg denota la función arco tangente). Sugerencia: efectúa el cambio x  t 2.",enunciados_PNG/2023 - Integrales_png/2023_reserva_4_3.png,2023 - Integrales.pdf
+mates_2023_Reserva 4_EJERCICIO 4,mates,ii_integrales_enunciados,2023,Reserva 4,EJERCICIO 4,"Considera la función f :1, , definida por f(x)ln(x1), donde ln denota la función logaritmo neperiano. Calcula el área del recinto limitado por la gráfica de f, el eje de abscisas y la recta xe1.",enunciados_PNG/2023 - Integrales_png/2023_reserva_4_4.png,2023 - Integrales.pdf
+mates_2023_Julio_EJERCICIO 3,mates,ii_integrales_enunciados,2023,Julio,EJERCICIO 3,"1 ln(x) Calcula a con 0a1, tal que  dx20(ln denota la función logaritmo neperiano). x a",enunciados_PNG/2023 - Integrales_png/2023_julio_3.png,2023 - Integrales.pdf
+mates_2023_Julio_EJERCICIO 4,mates,ii_integrales_enunciados,2023,Julio,EJERCICIO 4,"4 Considera las funciones f :  y g: 0 definidas por f(x)5 x2 y g(x) x2
+a) Esboza las gráficas de las dos funciones y calcula los puntos de corte entre ellas.
+b) Calcula la suma de las áreas de los recintos limitados por las gráficas de f y g.",enunciados_PNG/2023 - Integrales_png/2023_julio_4.png,2023 - Integrales.pdf
+mates_2024_Junio_EJERCICIO 3,mates,ii_integrales_enunciados,2024,Junio,EJERCICIO 3,"Considera la función f definida por f ( x ) = x x 3 2 + − 2 1 , para x  − 1 , x  1 . Calcula una primitiva de f cuya gráfica pase por el punto (0,1).",enunciados_PNG/2024 - Integrales_png/2024_junio_3.png,2024 - Integrales.pdf
+mates_2024_Junio_EJERCICIO 4,mates,ii_integrales_enunciados,2024,Junio,EJERCICIO 4,"Halla la función f : → tal que f ' ' ( x ) = x c o s ( x ) y cuya gráfica pasa por los puntos  0 ,  2  y (  , 2  ) .",enunciados_PNG/2024 - Integrales_png/2024_junio_4.png,2024 - Integrales.pdf
+mates_2024_Reserva 1_EJERCICIO 3,mates,ii_integrales_enunciados,2024,Reserva 1,EJERCICIO 3,"Halla la función f : ( 2 , +  ) → que pasa por el punto (3,−4ln5) y verifica 3x2 +4x+12 f '(x)= donde ln denota la función logaritmo neperiano. x2 −4",enunciados_PNG/2024 - Integrales_png/2024_reserva_1_3.png,2024 - Integrales.pdf
+mates_2024_Reserva 1_EJERCICIO 4,mates,ii_integrales_enunciados,2024,Reserva 1,EJERCICIO 4,"Sea f : → la función definida por f ( x ) = ( x 2 − 3 x + 5 )  e x . Halla una primitiva de f cuya gráfica pase por el punto(0,5).",enunciados_PNG/2024 - Integrales_png/2024_reserva_1_4.png,2024 - Integrales.pdf
+mates_2024_Julio_EJERCICIO 3,mates,ii_integrales_enunciados,2024,Julio,EJERCICIO 3,"Sean f,g: → las funciones definidas por f ( x ) = − x 2 + 7 y g(x)= x2 −1 .
+a) Halla los puntos de intersección de f y g. Realiza un esbozo del recinto acotado y limitado por dichas gráficas.
+b) Calcula el área de dicho recinto.",enunciados_PNG/2024 - Integrales_png/2024_julio_3.png,2024 - Integrales.pdf
+mates_2024_Julio_EJERCICIO 4,mates,ii_integrales_enunciados,2024,Julio,EJERCICIO 4,u =ex; du =ex dx u =ex; du =ex dx dv=cosxdx; v=senx dv=cosxdx; v=senx Halla  2 0 e x  c o s ( x ) d x,enunciados_PNG/2024 - Integrales_png/2024_julio_4.png,2024 - Integrales.pdf
+mates_2025_Junio_EJERCICIO 6,mates,ii_integrales_enunciados,2025,Junio,EJERCICIO 6,"Halla la función f : ( 0 , +  ) → , que pasa por los puntos ( 2 , e − 2 − 2 l n ( 2 ) ) y ( 1 , 0 ) y que verifica que f ' ' ( x ) = e x − 1 − 1 x .",enunciados_PNG/2025 - Integrales_png/2025_junio_6.png,2025 - Integrales.pdf
+mates_2025_Reserva 1_EJERCICIO 2,mates,ii_integrales_enunciados,2025,Reserva 1,EJERCICIO 2,"Sea la función f : → definida por f ( x ) = ( x − 1 ) 2 .
+a) Esboza el recinto acotado y limitado por la gráfica de f y la recta y = a con a  0 .
+b) Calcula a  0 para que el área del recinto acotado y limitado por la gráfica de f y la recta y = a a sea 4 3 unidades cuadradas.",enunciados_PNG/2025 - Integrales_png/2025_reserva_1_2.png,2025 - Integrales.pdf
+mates_2025_Reserva 1_EJERCICIO 3,mates,ii_integrales_enunciados,2025,Reserva 1,EJERCICIO 3,Considera la función f ( x ) =  c x o s s e n (  ( x 2 ) x − ) 1 s s i i x x   0 0 Calcula  − 1 4 f ( x ) d x,enunciados_PNG/2025 - Integrales_png/2025_reserva_1_3.png,2025 - Integrales.pdf
+mates_2025_Reserva 2_EJERCICIO 2,mates,ii_integrales_enunciados,2025,Reserva 2,EJERCICIO 2,Calcula  2 3 x 4 − 4 6 x x 2 + 1 0 d x .(Sugerencia: efectúa el cambio de variable t = x 2 − 3 ).,enunciados_PNG/2025 - Integrales_png/2025_reserva_2_2.png,2025 - Integrales.pdf
+mates_2025_Reserva 2_EJERCICIO 3,mates,ii_integrales_enunciados,2025,Reserva 2,EJERCICIO 3,"SSeaea n las funciones f,g: → definidas por f ( x ) = x 3 − x y g ( x ) = − x 2 + 1
+a) Halla los puntos de corte (abscisas donde se obtienen y valores que se alcanzan) de las gráficas de f y g. Realiza un esbozo del recinto acotado y limitado por dichas gráficas.
+b) Calcula el área del recinto acotado y limitado por las gráficas de f y g .",enunciados_PNG/2025 - Integrales_png/2025_reserva_2_3.png,2025 - Integrales.pdf
+mates_2025_Reserva 3_EJERCICIO 1,mates,ii_integrales_enunciados,2025,Reserva 3,EJERCICIO 1,"Sea f : → la función definida por f ( x ) = x x 3 2 + + 1 1 . Calcula una primitiva de f cuya gráfica pase por el punto (0, 5).",enunciados_PNG/2025 - Integrales_png/2025_reserva_3_1.png,2025 - Integrales.pdf
+mates_2025_Reserva 4_EJERCICIO 6,mates,ii_integrales_enunciados,2025,Reserva 4,EJERCICIO 6,"C onsidera las funciones f , g : → definidas por f ( x ) = − e x y g ( x ) = − e − x .
+a) Esboza las gráficas de dichas funciones.
+b) Calcula la suma de las áreas de los recintos acotados y limitados por las gráficas de dichas funciones y las rectas x = −1 y x =1.",enunciados_PNG/2025 - Integrales_png/2025_reserva_4_6.png,2025 - Integrales.pdf
+mates_2025_Julio_EJERCICIO 2,mates,ii_integrales_enunciados,2025,Julio,EJERCICIO 2,"Considera la función f : → definida por f ( x ) = x 2 + 1 2 x + 2 . Calcula una primitiva de f cuya   gráfica pase por el punto 0, .    4",enunciados_PNG/2025 - Integrales_png/2025_julio_2.png,2025 - Integrales.pdf
+mates_2025_Julio_EJERCICIO 3,mates,ii_integrales_enunciados,2025,Julio,EJERCICIO 3,C alcula el valor de k para que  1 3 e x − k ( x − 2 ) d x = 2,enunciados_PNG/2025 - Integrales_png/2025_julio_3.png,2025 - Integrales.pdf
+mates_2026_Junio_EJERCICIO 4.1,mates,ii_integrales_enunciados,2026,Junio,EJERCICIO 4.1,"Dada la función f : → definida por: f ( x ) = 8 e x 1 − + 4 e e x 2 x , halla la primitiva de f cuya gráfica tiene por tangente a la recta y = 2 x + 1 2 l n 2 en el punto de abscisa x = 0 . (Sugerencia: puedes hacer el cambio e x = t ) 1",enunciados_PNG/2026 - Integrales_png/2026_junio_4_1.png,2026 - Integrales.pdf

@@ -1,0 +1,668 @@
+id,asignatura,tema,año,convocatoria,ejercicio,enunciado,imagen,archivo
+mates_2001_Junio_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2001,Junio,EJERCICIO 3. PARTE I. OPCIÓN A,"Dos urnas A y B, que contienen bolas de colores, tienen la siguiente composición: A : 5 blancas, 3 negras y 2 rojas; B : 4 blancas y 6 negras También tenemos un dado que tiene 4 caras marcadas con la letra A y las otras dos con la letra B. Tiramos el dado y sacamos una bola al azar de la urna que indica el dado.
+a) ¿Cuál es la probabilidad de que esa bola sea blanca?
+b) ¿Cuál es la probabilidad de que esa bola sea roja?
+c) La bola extraída ha resultado ser blanca, ¿cuál es la probabilidad de que proceda de la urna B? PARTE I. OPCIÓN A",enunciados_PNG/2001 - Probabilidad_png/2001_junio_3_parte_i_opcion_a.png,2001 - Probabilidad.pdf
+mates_2001_Junio_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2001,Junio,EJERCICIO 3. PARTE I. OPCIÓN B,"En el experimento aleatorio de lanzar una moneda tres veces se consideran los siguientes sucesos: A: “sacar al menos una cara y una cruz”. B: “sacar a lo sumo una cara”.
+a) Determine el espacio muestral asociado a ese experimento y los sucesos A y B.
+b) ¿Son independientes ambos sucesos?. PARTE I. OPCIÓN B",enunciados_PNG/2001 - Probabilidad_png/2001_junio_3_parte_i_opcion_b.png,2001 - Probabilidad.pdf
+mates_2001_Reserva 2_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2001,Reserva 2,EJERCICIO 3. PARTE I. OPCIÓN B,"5 La probabilidad de que un jugador A marque un gol de penalti es de , mientras que la de otro 6 4 j ugador B es . Si cada uno lanza un penalti, 5
+a) Halle la probabilidad de que marque gol uno solo de los dos jugadores.
+b) Halle la probabilidad de que al menos uno marque gol. PARTE I. OPCIÓN B",enunciados_PNG/2001 - Probabilidad_png/2001_reserva_2_3_parte_i_opcion_b.png,2001 - Probabilidad.pdf
+mates_2001_Reserva 3_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2001,Reserva 3,EJERCICIO 3. PARTE I. OPCIÓN A,"1 1 1 Sean A y B dos sucesos tales que P(A) , P(B) y P(AB) . Calcule: 2 3 4 a ) P(A/B)y P(B/ A).
+b) P(AB).
+c) P(AC B). (AC indica el contrario del suceso A). PARTE I. OPCIÓN A",enunciados_PNG/2001 - Probabilidad_png/2001_reserva_3_3_parte_i_opcion_a.png,2001 - Probabilidad.pdf
+mates_2001_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2001,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN A,"Una caja contiene 10 tornillos, de los que dos son defectuosos.
+a) Si vamos extrayendo tornillos, uno tras otro, hasta localizar los dos defectuosos, ¿cuál es la probabilidad de necesitar exactamente tres extracciones para localizarlos?.
+b) Si extraemos solo dos tornillos, y el segundo ha resultado ser defectuoso, ¿cuál es la probabilidad de que el primero también lo haya sido?. PARTE I. OPCIÓN A",enunciados_PNG/2001 - Probabilidad_png/2001_septiembre_3_parte_i_opcion_a.png,2001 - Probabilidad.pdf
+mates_2001_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2001,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN B,"Disponemos de tres dados, uno de los cuales está trucado. La probabilidad de sacar 5 con el dado trucado es 0’25, siendo los otros resultados equiprobables. Se elige un dado al azar y se realiza un lanzamiento con él.
+a) Determine la probabilidad de obtener un 2.
+b) Dado que ha salido un 2, ¿cuál es la probabilidad de que hayamos elegido el dado trucado?. PARTE I. OPCIÓN B",enunciados_PNG/2001 - Probabilidad_png/2001_septiembre_3_parte_i_opcion_b.png,2001 - Probabilidad.pdf
+mates_2002_Junio_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2002,Junio,EJERCICIO 3. PARTE I. OPCIÓN A,"Los alumnos de Bachillerato de un I.E.S. proceden de 3 localidades A, B y C, siendo un 20% de A, un 30% de B y el resto de C. El 80% de los alumnos de A cursa 1o de Bachillerato y el resto 2o. El 50% de los alumnos de B cursa 1o de Bachillerato y el resto 2o. El 60% de los alumnos de C cursa 1o de Bachillerato y el resto 2o.
+a) Seleccionado, al azar, un alumno de Bachillerato de ese I.E.S., ¿cuál es la probabilidad de que sea de 2o?.
+b) Si elegimos, al azar, un alumno de Bachillerato de ese I.E.S. y éste es un alumno de 1o, ¿cuál es la probabilidad de que proceda de la localidad B?. PARTE I. OPCIÓN A",enunciados_PNG/2002 - Probabilidad_png/2002_junio_3_parte_i_opcion_a.png,2002 - Probabilidad.pdf
+mates_2002_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2002,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN A,"El partido A y el partido B concurren a unas elecciones en un municipio donde el 55 % de los votantes son mujeres. Se sabe que el 40 % de los hombres votan al partido A y el 50 % al B. El 60 % de las mujeres votan al partido A y el 20 % al B. El resto de electores no vota.
+a) Halle la probabilidad de que una persona, elegida al azar, no vote.
+b) Sabiendo que una persona, elegida al azar, ha votado al partido A, halle la probabilidad de que sea mujer. PARTE I. OPCIÓN A",enunciados_PNG/2002 - Probabilidad_png/2002_septiembre_3_parte_i_opcion_a.png,2002 - Probabilidad.pdf
+mates_2002_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2002,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN B,"En una ciudad, el 60 % de los niños usa zapatillas deportivas, el 50 % usa ropa deportiva y el 20 % usa ambas prendas.
+a) ¿Cuál es la probabilidad de que un niño, elegido al azar, no use ninguna de las dos prendas?
+b) Si un niño usa zapatillas deportivas, ¿cuál es la probabilidad de que no use ropa deportiva? PARTE I. OPCIÓN B",enunciados_PNG/2002 - Probabilidad_png/2002_septiembre_3_parte_i_opcion_b.png,2002 - Probabilidad.pdf
+mates_2003_Junio_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2003,Junio,EJERCICIO 3. PARTE I. OPCIÓN A,"Blanca y Alfredo escriben, al azar, una vocal cada uno en papeles distintos.
+a) Determine el espacio muestral asociado al experimento.
+b) Calcule la probabilidad de que no escriban la misma vocal. PARTE I. OPCIÓN A",enunciados_PNG/2003 - Probabilidad_png/2003_junio_3_parte_i_opcion_a.png,2003 - Probabilidad.pdf
+mates_2003_Junio_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2003,Junio,EJERCICIO 3. PARTE I. OPCIÓN B,"El 70% de los alumnos de un Instituto son de Bachillerato y el resto de E.S.O. De los alumnos de Bachillerato, el 60% estudia más de 3 horas al día, y sólo el 30% de los de E.S.O. estudia más de 3 horas al día.
+a) Calcule la probabilidad de que un alumno de dicho Instituto, elegido al azar, estudie más de 3 horas al día.
+b) Sabiendo que un alumno de ese Instituto, elegido al azar, estudia más de 3 horas al día, ¿cuál es la probabilidad de que sea de Bachillerato?. PARTE I. OPCIÓN B",enunciados_PNG/2003 - Probabilidad_png/2003_junio_3_parte_i_opcion_b.png,2003 - Probabilidad.pdf
+mates_2003_Reserva 2_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2003,Reserva 2,EJERCICIO 3. PARTE I. OPCIÓN A,"D e dos sucesos A y B, asociados a un mismo experimento aleatorio, se conocen las probabilidades P(B) 0'7, P(A/B)0'8y P(ABC)0'24. C alcule:
+a) P(AB);
+b) P(A);
+c) Determine si A y B son independientes. PARTE I. OPCIÓN A",enunciados_PNG/2003 - Probabilidad_png/2003_reserva_2_3_parte_i_opcion_a.png,2003 - Probabilidad.pdf
+mates_2003_Reserva 3_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2003,Reserva 3,EJERCICIO 3. PARTE I. OPCIÓN B,"En una biblioteca sólo hay libros de física y de matemáticas, que están escritos en inglés o en español. Se sabe que el 70% de los libros son de física, el 80% de los libros están escritos en español y el 10% son libros de matemáticas escritos en inglés.
+a) Calcule qué tanto por ciento de los libros son de física y escritos en español.
+b) Si escogemos un libro de física, ¿cuál es la probabilidad de que esté escrito en español?. PARTE I. OPCIÓN B",enunciados_PNG/2003 - Probabilidad_png/2003_reserva_3_3_parte_i_opcion_b.png,2003 - Probabilidad.pdf
+mates_2003_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2003,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN A,"Una máquina A fabrica 100 piezas al día, de las cuales un 6% son defectuosas. Otra máquina B fabrica 50 piezas al día, con un porcentaje de defectuosas del 2%. Mezclamos las piezas fabricadas por ambas máquinas en un día y extraemos una al azar.
+a) ¿Cuál es la probabilidad de que la pieza extraída sea defectuosa?.
+b) Sabiendo que la pieza extraída es defectuosa, ¿cuál es la probabilidad de que la haya fabricado la máquina B?. PARTE I. OPCIÓN A",enunciados_PNG/2003 - Probabilidad_png/2003_septiembre_3_parte_i_opcion_a.png,2003 - Probabilidad.pdf
+mates_2003_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2003,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN B,"Sean A y B dos sucesos aleatorios independientes. Se sabe que P(A) 0'3; P(B) 0'4. Calcule las siguientes probabilidades:
+a) P(AB) ;
+b) P(A/BC) PARTE I. OPCIÓN B",enunciados_PNG/2003 - Probabilidad_png/2003_septiembre_3_parte_i_opcion_b.png,2003 - Probabilidad.pdf
+mates_2004_Junio_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2004,Junio,EJERCICIO 3. PARTE I. OPCIÓN A,"María y Laura idean el siguiente juego: cada una lanza un dado, si en los dos dados sale el mismo número, gana Laura; si la suma de ambos es 7, gana María; y en cualquier otro caso hay empate.
+a) Calcule la probabilidad de que gane Laura.
+b) Calcule la probabilidad de que gane María. PARTE I. OPCIÓN A",enunciados_PNG/2004 - Probabilidad_png/2004_junio_3_parte_i_opcion_a.png,2004 - Probabilidad.pdf
+mates_2004_Reserva 1_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2004,Reserva 1,EJERCICIO 3. PARTE I. OPCIÓN A,"S ean A y B dos sucesos tales queP(A)0'4, P(BC)0'7 y P(AB)0'6 , donde BC es el s uceso contrario de B. a ) ¿Son independientes A y B ? b ) Calcule P(A/BC) PARTE I. OPCIÓN A",enunciados_PNG/2004 - Probabilidad_png/2004_reserva_1_3_parte_i_opcion_a.png,2004 - Probabilidad.pdf
+mates_2004_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2004,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN A,"Consideramos el experimento aleatorio de lanzar dos dados distintos y anotar el producto de sus puntuaciones.
+a) ¿Cuál es la probabilidad de que dicho producto sea igual a 6?.
+b) Si sabemos que el producto ha sido 4, ¿cuál es la probabilidad de que hayan salido los dos dados con la misma puntuación?. PARTE I. OPCIÓN A",enunciados_PNG/2004 - Probabilidad_png/2004_septiembre_3_parte_i_opcion_a.png,2004 - Probabilidad.pdf
+mates_2004_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2004,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN B,"En una ciudad, el 40% de sus habitantes lee el diario A, el 25% lee el diario B y el 50% lee al menos uno de los dos diarios.
+a) Los sucesos “leer el diario A” y “leer el diario B” ¿son independientes?.
+b) Entre los que leen el diario A,¿qué porcentaje lee también el diario B?.
+c) Entre los que leen, al menos, un diario ¿Qué porcentaje lee los dos?.
+d) Entre los que no leen el diario A,¿qué porcentaje lee el diario B?. PARTE I. OPCIÓN B",enunciados_PNG/2004 - Probabilidad_png/2004_septiembre_3_parte_i_opcion_b.png,2004 - Probabilidad.pdf
+mates_2005_Junio_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2005,Junio,EJERCICIO 3. PARTE I. OPCIÓN A,"En un juego se sortea cada día un premio utilizando papeletas con tres cifras, numeradas del 000 al 999.
+a) Calcule la probabilidad de que el número premiado termine en 5.
+b) Calcule la probabilidad de que el número premiado termine en 55.
+c) Sabiendo que ayer salió premiado un número terminado en 5, calcule la probabilidad de que el número premiado hoy también termine en 5. PARTE I. OPCIÓN A",enunciados_PNG/2005 - Probabilidad_png/2005_junio_3_parte_i_opcion_a.png,2005 - Probabilidad.pdf
+mates_2005_Reserva 2_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2005,Reserva 2,EJERCICIO 3. PARTE I. OPCIÓN B,"S ean A y B dos sucesos del mismo experimento aleatorio tales que: 1 1 1 P(A) , P(B) y P(AB) . 6 3 2 a ) ¿Son A y B incompatibles? ¿Son independientes? b ) Calcule PA/(AB) PARTE I. OPCIÓN B",enunciados_PNG/2005 - Probabilidad_png/2005_reserva_2_3_parte_i_opcion_b.png,2005 - Probabilidad.pdf
+mates_2005_Reserva 3_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2005,Reserva 3,EJERCICIO 3. PARTE I. OPCIÓN B,"Sean A y B dos sucesos independientes tales que P(A)0'4 y P(AB)0'05
+a) Calcule P(B)
+b) Calcule P(ABc)
+c) Sabiendo que no ha sucedido B, calcule la probabilidad de que suceda A. PARTE I. OPCIÓN B",enunciados_PNG/2005 - Probabilidad_png/2005_reserva_3_3_parte_i_opcion_b.png,2005 - Probabilidad.pdf
+mates_2005_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2005,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN A,"Sean A y B dos sucesos independientes tales que P(B)0'05 y P(A/B)0'35.
+a) ¿Cuál es la probabilidad de que suceda al menos uno de ellos?.
+b) ¿Cuál es la probabilidad de que ocurra el suceso A pero no el B?. PARTE I. OPCIÓN A",enunciados_PNG/2005 - Probabilidad_png/2005_septiembre_3_parte_i_opcion_a.png,2005 - Probabilidad.pdf
+mates_2005_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2005,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN B,"En un determinado curso el 60% de los estudiantes aprueban Economía y el 45% aprueban Matemáticas. Se sabe además que la probabilidad de aprobar Economía habiendo aprobado Matemáticas es 0’75.
+a) Calcule el porcentaje de estudiantes que aprueban las dos asignaturas.
+b) Entre lo que aprueban Economía ¿qué porcentaje aprueba Matemáticas?. PARTE I. OPCIÓN B",enunciados_PNG/2005 - Probabilidad_png/2005_septiembre_3_parte_i_opcion_b.png,2005 - Probabilidad.pdf
+mates_2006_Reserva 1_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2006,Reserva 1,EJERCICIO 3. PARTE I. OPCIÓN A,S ean A y B dos sucesos tales que p(Ac)0'60 ; p(B)0'25 y p(AB)0'55 a ) Razone si A y B son independientes. b ) Calcule p(Ac Bc) PARTE I. OPCIÓN A,enunciados_PNG/2006 - Probabilidad_png/2006_reserva_1_3_parte_i_opcion_a.png,2006 - Probabilidad.pdf
+mates_2006_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2006,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN A,"Laura tiene un dado con tres caras pintadas de azul y las otras tres de rojo. María tiene otro dado con tres caras pintadas de rojo, dos de verde y una de azul. Cada una tira su dado y observan el color.
+a) Describa el espacio muestral asociado y las probabilidades de los sucesos elementales.
+b) Si salen los dos colores iguales gana Laura; y si sale el color verde, gana María. Calcule la probabilidad que tiene cada una de ganar. PARTE I. OPCIÓN A",enunciados_PNG/2006 - Probabilidad_png/2006_septiembre_3_parte_i_opcion_a.png,2006 - Probabilidad.pdf
+mates_2006_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2006,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN B,"De un estudio sobre accidentes de tráfico se dedujeron los siguientes datos: En el 23 % de los casos no se llevaba puesto el cinturón de seguridad, en el 65 % no se respetaron los límites de velocidad permitidos y en el 30 % de los casos se cumplían ambas normas, es decir, llevaban puesto el cinturón y respetaban los límites de velocidad.
+a) Calcule la probabilidad de que, en un accidente de tráfico, no se haya cumplido alguna de las dos normas.
+b) Razone si son independientes los sucesos “llevar puesto el cinturón” y “respetar los límites de velocidad”. PARTE I. OPCIÓN B",enunciados_PNG/2006 - Probabilidad_png/2006_septiembre_3_parte_i_opcion_b.png,2006 - Probabilidad.pdf
+mates_2007_Junio_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2007,Junio,EJERCICIO 3. PARTE I. OPCIÓN A,"La baraja española consta de diez cartas de oros, diez de copas, diez de espadas y diez de bastos. Se extraen dos cartas. Calcule razonadamente la probabilidad de que, al menos, una de las dos cartas sea de espadas en los siguientes supuestos:
+a) Si se extraen las cartas con reemplazamiento.
+b) Si se extraen las cartas sin reemplazamiento. PARTE I. OPCIÓN A",enunciados_PNG/2007 - Probabilidad_png/2007_junio_3_parte_i_opcion_a.png,2007 - Probabilidad.pdf
+mates_2007_Junio_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2007,Junio,EJERCICIO 3. PARTE I. OPCIÓN B,"En una urna hay cuatro bolas blancas y dos rojas. Se lanza una moneda, si sale cara se extrae una bola de la urna y si sale cruz se extraen, sin reemplazamiento, dos bolas de la urna.
+a) Calcule la probabilidad de que se hayan extraído dos bolas rojas.
+b) Halle la probabilidad de que no se haya extraido ninguna bola roja. PARTE I. OPCIÓN B",enunciados_PNG/2007 - Probabilidad_png/2007_junio_3_parte_i_opcion_b.png,2007 - Probabilidad.pdf
+mates_2007_Reserva 1_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2007,Reserva 1,EJERCICIO 3. PARTE I. OPCIÓN A,"Se tienen dos dados, uno (A) con dos caras rojas y cuatro verdes, y otro (B) con dos caras verdes y cuatro rojas. Se lanza una moneda; si sale cara se arroja el dado A y si sale cruz el dado B.
+a) Halle la probabilidad de obtener una cara de color rojo.
+b) Si sabemos que ha salido una cara de color verde en el dado, ¿cuál es la probabilidad de que en la moneda haya salido cara? PARTE I. OPCIÓN A.",enunciados_PNG/2007 - Probabilidad_png/2007_reserva_1_3_parte_i_opcion_a.png,2007 - Probabilidad.pdf
+mates_2007_Reserva 1_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2007,Reserva 1,EJERCICIO 3. PARTE I. OPCIÓN B,"En una población, el porcentaje de personas que ven un determinado programa de televisión es del 40%. Se sabe que el 60% de las personas que lo ven tiene estudios superiores y que el 30% de las personas que no lo ven no tiene estudios superiores.
+a) Calcule la probabilidad de que una persona vea dicho programa y tenga estudios superiores.
+b) Halle la probabilidad de que una persona que tiene estudios superiores vea el citado programa. PARTE I. OPCIÓN B.",enunciados_PNG/2007 - Probabilidad_png/2007_reserva_1_3_parte_i_opcion_b.png,2007 - Probabilidad.pdf
+mates_2007_Reserva 2_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2007,Reserva 2,EJERCICIO 3. PARTE I. OPCIÓN A,En un espacio muestral se consideran dos sucesos A y B tales que 1 1 p(AB)1 ; p(AB) y p(A/B) 6 3 Halle la probabilidad del suceso A y la del suceso B. PARTE I. OPCIÓN A.,enunciados_PNG/2007 - Probabilidad_png/2007_reserva_2_3_parte_i_opcion_a.png,2007 - Probabilidad.pdf
+mates_2007_Reserva 2_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2007,Reserva 2,EJERCICIO 3. PARTE I. OPCIÓN B,"Un experimento aleatorio consiste en lanzar simultáneamente dos dados con las caras numeradas del 1 al 6. Calcule la probabilidad de cada uno de los siguientes sucesos:
+a) Obtener dos unos.
+b) Obtener al menos un dos.
+c) Obtener dos números distintos.
+d) Obtener una suma igual a cuatro. PARTE I. OPCIÓN B.",enunciados_PNG/2007 - Probabilidad_png/2007_reserva_2_3_parte_i_opcion_b.png,2007 - Probabilidad.pdf
+mates_2007_Reserva 3_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2007,Reserva 3,EJERCICIO 3. PARTE I. OPCIÓN A,"El 30% de los clientes de una tienda de música solicita la colaboración de los dependientes y el 20% realiza una compra antes de abandonar la tienda. El 15% de los clientes piden la colaboración de los dependientes y hacen una compra.
+a) Calcule la probabilidad de que un cliente ni compre, ni solicite la colaboración de los dependientes.
+b) Sabiendo que un cliente ha realizado una compra, ¿cuál es la probabilidad de que no haya solicitado colaboración a los dependientes? PARTE I. OPCIÓN A.",enunciados_PNG/2007 - Probabilidad_png/2007_reserva_3_3_parte_i_opcion_a.png,2007 - Probabilidad.pdf
+mates_2007_Reserva 4_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2007,Reserva 4,EJERCICIO 3. PARTE I. OPCIÓN A,"Se lanza una moneda tres veces y se consideran los sucesos: A: “Obtener al menos dos veces cara” y B: “Obtener cara en el segundo lanzamiento”.
+a) Describa el espacio muestral asociado al experimento. Calcule p(A) y p(AB).
+b) Los sucesos A y B, ¿son independientes?, ¿son incompatibles? PARTE I. OPCIÓN A.",enunciados_PNG/2007 - Probabilidad_png/2007_reserva_4_3_parte_i_opcion_a.png,2007 - Probabilidad.pdf
+mates_2007_Reserva 4_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2007,Reserva 4,EJERCICIO 3. PARTE I. OPCIÓN B,"En un tribunal se han examinado 140 alumnos de un Instituto A y 150 de otro Instituto B. Aprobaron el 80% de los alumnos del A y el 72% del B.
+a) Determine el tanto por ciento de alumnos aprobados por ese tribunal.
+b) Un alumno, elegido al azar, no ha aprobado, ¿cuál es la probabilidad de que pertenezca al Instituto B? PARTE I. OPCIÓN B.",enunciados_PNG/2007 - Probabilidad_png/2007_reserva_4_3_parte_i_opcion_b.png,2007 - Probabilidad.pdf
+mates_2007_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2007,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN A,"E n un espacio muestral se sabe que para dos sucesos A y B se verifica: P(AB)0'1 ; P(Ac Bc)0'6 ; P(A/B)0'5. a ) Calcule P(B).
+b) Calcule P(AB).
+c) ¿Son A y B independientes?. PARTE I. OPCIÓN A",enunciados_PNG/2007 - Probabilidad_png/2007_septiembre_3_parte_i_opcion_a.png,2007 - Probabilidad.pdf
+mates_2008_Junio_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2008,Junio,EJERCICIO 3. PARTE I. OPCIÓN A,"a) Sean A y B dos sucesos de un mismo espacio muestral. Sabiendo que p(A)  0'5, que p(B)  0'4 y que p(AB) 0'8, determine p(A/B).
+b) Sean C y D dos sucesos de un mismo espacio muestral. Sabiendo que p(C)  0'3, que p(D) 0'8 y que C y D son independientes, determine p(C  D). PARTE I. OPCIÓN A",enunciados_PNG/2008 - Probabilidad_png/2008_junio_3_parte_i_opcion_a.png,2008 - Probabilidad.pdf
+mates_2008_Junio_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2008,Junio,EJERCICIO 3. PARTE I. OPCIÓN B,"Se sabe que el 30 % de los individuos de una población tiene estudios superiores; también se sabe que, de ellos, el 95 % tiene empleo. Además, de la parte de la población que no tiene estudios superiores, el 60 % tiene empleo.
+a) Calcule la probabilidad de que un individuo, elegido al azar, tenga empleo.
+b) Se ha elegido un individuo aleatoriamente y tiene empleo; calcule la probabilidad de que tenga estudios superiores.. PARTE I. OPCIÓN B",enunciados_PNG/2008 - Probabilidad_png/2008_junio_3_parte_i_opcion_b.png,2008 - Probabilidad.pdf
+mates_2008_Reserva 1_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2008,Reserva 1,EJERCICIO 3. PARTE I. OPCIÓN A,"Laura tiene en su monedero 6 monedas francesas, 2 italianas y 4 españolas. Vicente tiene 9 francesas y 3 italianas. Cada uno saca, al azar, una moneda de su monedero y observa la nacionalidad.
+a) Obtenga el espacio muestral asociado al experimento.
+b) ¿Cuál es la probabilidad de que las monedas extraídas no sean de la misma nacionalidad?.
+c) ¿Cuál es la probabilidad de que ninguna de las monedas extraídas sea francesa?. PARTE I. OPCIÓN A",enunciados_PNG/2008 - Probabilidad_png/2008_reserva_1_3_parte_i_opcion_a.png,2008 - Probabilidad.pdf
+mates_2008_Reserva 1_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2008,Reserva 1,EJERCICIO 3. PARTE I. OPCIÓN B,"De los 150 coches de un concesionario, 90 tienen motor diesel y el resto de gasolina. De los coches con motor diesel, 72 son nuevos y el resto usados; mientras que de los coches con motor de gasolina hay el mismo número de coches nuevos que de usados. Se elige, al azar, un coche de dicho concesionario; calcule la probabilidad de que:
+a) Sea nuevo.
+b) Tenga motor diesel, sabiendo que es usado. PARTE I. OPCIÓN B",enunciados_PNG/2008 - Probabilidad_png/2008_reserva_1_3_parte_i_opcion_b.png,2008 - Probabilidad.pdf
+mates_2008_Reserva 2_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2008,Reserva 2,EJERCICIO 3. PARTE I. OPCIÓN A,"En una población, donde el 45% son hombres y el resto mujeres, se sabe que el 10% de los hombres y el 8% de las mujeres son inmigrantes.
+a) ¿Qué porcentaje de inmigrantes hay en esta población?
+b) Si se elige, al azar, un inmigrante de esta población, ¿cuál es la probabilidad de que sea hombre? PARTE I. OPCIÓN A",enunciados_PNG/2008 - Probabilidad_png/2008_reserva_2_3_parte_i_opcion_a.png,2008 - Probabilidad.pdf
+mates_2008_Reserva 2_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2008,Reserva 2,EJERCICIO 3. PARTE I. OPCIÓN B,"Una caja contiene 12 bombillas, de las cuales 4 están fundidas. Se eligen, al azar y sin reemplazamiento, tres bombillas de esa caja.
+a) Calcule la probabilidad de que ninguna de las tres bombillas esté fundida.
+b) Calcule la probabilidad de que las tres bombillas estén fundidas. PARTE I. OPCIÓN B",enunciados_PNG/2008 - Probabilidad_png/2008_reserva_2_3_parte_i_opcion_b.png,2008 - Probabilidad.pdf
+mates_2008_Reserva 3_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2008,Reserva 3,EJERCICIO 3. PARTE I. OPCIÓN A,"En un aula de informática hay 20 puestos de ordenador. De ellos, 10 son compartidos y otros 10 son individuales. De los puestos compartidos, hay 3 en los que el ordenador no funciona, de los individuales hay 2 en los que el ordenador no funciona.
+a) Seleccionado al azar un puesto en el aula, ¿cuál es la probabilidad de que no funcione el ordenador?.
+b) Si se elige al azar un puesto en el que funciona el ordenador, ¿cuál es la probabilidad de que sea compartido?. PARTE I. OPCIÓN A",enunciados_PNG/2008 - Probabilidad_png/2008_reserva_3_3_parte_i_opcion_a.png,2008 - Probabilidad.pdf
+mates_2008_Reserva 3_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2008,Reserva 3,EJERCICIO 3. PARTE I. OPCIÓN B,"Se dispone de los siguientes datos sobre el equipamiento de los hogares de una ciudad: En el 60% de los hogares se puede ver la TDT (Televisión Digital Terrestre) y el 70% de los hogares dispone de ordenador. De entre los hogares que disponen de ordenador, el 80% puede ver la TDT.
+a) ¿Son sucesos independientes “disponer de ordenador” y “poder ver la TDT”?.
+b) ¿Qué porcentaje de hogares no disponen de ordenador ni pueden ver la TDT? PARTE I. OPCIÓN B",enunciados_PNG/2008 - Probabilidad_png/2008_reserva_3_3_parte_i_opcion_b.png,2008 - Probabilidad.pdf
+mates_2008_Reserva 4_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2008,Reserva 4,EJERCICIO 3. PARTE I. OPCIÓN A,"Ana y Blas deciden jugar con un dado de la siguiente forma: “Ana lanza el dado y, si saca un 6, gana y se acaba el juego. En caso contrario lanza Blas, que gana si saca un 2 o un 3, y también se acaba el juego. De no ocurrir esto, la partida se acaba sin ganador. Halle la probabilidad de los siguientes sucesos: “gana Ana”, “gana Blas”, “ninguno gana”. PARTE I. OPCIÓN A",enunciados_PNG/2008 - Probabilidad_png/2008_reserva_4_3_parte_i_opcion_a.png,2008 - Probabilidad.pdf
+mates_2008_Reserva 4_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2008,Reserva 4,EJERCICIO 3. PARTE I. OPCIÓN B,"En una industria de calzado se producen botas y sandalias. De cada 12 pares producidos, 7 pares son botas y 5 de sandalias. La probabilidad de que un par de botas sea defectuoso es 0’08 y de que lo sea un par de sandalias es 0’03. Se escoge al azar un par y resulta ser “no defectuoso”.
+a) ¿Cuál es la probabilidad de que se haya escogido un par de botas?
+b) ¿Cuál es la probabilidad de que se haya escogido un par de sandalias? PARTE I. OPCIÓN B",enunciados_PNG/2008 - Probabilidad_png/2008_reserva_4_3_parte_i_opcion_b.png,2008 - Probabilidad.pdf
+mates_2008_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2008,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN A,"El examen de Matemáticas de un alumno consta de dos ejercicios. La probabilidad de que resuelva el primero es del 30%, la de que resuelva ambos es del 10%, y la de que no resuelva ninguno es del 35%. Calcule las probabilidades de los siguientes sucesos:
+a) Que el alumno resuelva el segundo ejercicio.
+b) Que resuelva el segundo ejercicio, sabiendo que no ha resuelto el primero. PARTE I. OPCIÓN A",enunciados_PNG/2008 - Probabilidad_png/2008_septiembre_3_parte_i_opcion_a.png,2008 - Probabilidad.pdf
+mates_2008_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2008,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN B,"Se consideran los sucesos A y B.
+a) Exprese, utilizando las operaciones con sucesos, los siguientes sucesos: 1. Que no ocurra ninguno de los dos. 2. Que ocurra al menos uno de los dos. 3. Que ocurra B, pero que no ocurra A.
+b) Sabiendo que p(A)0'5, p(B)0'5 y p(A/B)0'3 halle p(AB). PARTE I. OPCIÓN B",enunciados_PNG/2008 - Probabilidad_png/2008_septiembre_3_parte_i_opcion_b.png,2008 - Probabilidad.pdf
+mates_2009_Junio_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2009,Junio,EJERCICIO 3. PARTE I. OPCIÓN B,"En un centro escolar, los alumnos de 2o Bachillerato pueden cursar, como asignaturas optativas, Estadística o Diseño Asistido por Ordenador (DAO). El 70% de los alumnos estudia Estadística y el resto DAO. Además, el 60% de los alumnos que estudia Estadística son mujeres y, de los alumnos que estudian DAO son hombres el 70%.
+a) Elegido un alumno al azar, ¿cuál es la probabilidad de que sea hombre?.
+b) Sabiendo que se ha seleccionado una mujer, ¿cuál es la probabilidad de que estudie Estadística?. PARTE I. OPCIÓN B",enunciados_PNG/2009 - Probabilidad_png/2009_junio_3_parte_i_opcion_b.png,2009 - Probabilidad.pdf
+mates_2009_Reserva 1_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2009,Reserva 1,EJERCICIO 3. PARTE I. OPCIÓN A,"7 Lena y Adrián son aficionados al tiro con arco. Lena da en el blanco con probabilidad y 11 9 A drián con probabilidad . Si ambos sucesos son independientes, calcule la probabilidad de los 13 siguientes sucesos:
+a) “Ambos dan en el blanco”.
+b) “Sólo Lena da en el blanco”.
+c) “Al menos uno da en el blanco”. PARTE I. OPCIÓN A",enunciados_PNG/2009 - Probabilidad_png/2009_reserva_1_3_parte_i_opcion_a.png,2009 - Probabilidad.pdf
+mates_2009_Reserva 2_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2009,Reserva 2,EJERCICIO 3. PARTE I. OPCIÓN A,"S ean A y B dos sucesos de un experimento aleatorio tales que: p(AC)0.2 , p(B)0.25 , p(AB)0.85 a ) ¿Son los sucesos A y B independientes?. b ) Calcule p(AC /BC). PARTE I. OPCIÓN A",enunciados_PNG/2009 - Probabilidad_png/2009_reserva_2_3_parte_i_opcion_a.png,2009 - Probabilidad.pdf
+mates_2009_Reserva 3_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2009,Reserva 3,EJERCICIO 3. PARTE I. OPCIÓN A,"S ean A y B dos sucesos tales que: p(A)0.3 , p(B)0.4 , p(AB)0.65 C onteste razonadamente las siguientes preguntas: a ) ¿Son incompatible A y B?. b ) ¿Son independientes A y B?. c ) Calcule p(A/BC). PARTE I. OPCIÓN A",enunciados_PNG/2009 - Probabilidad_png/2009_reserva_3_3_parte_i_opcion_a.png,2009 - Probabilidad.pdf
+mates_2009_Reserva 3_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2009,Reserva 3,EJERCICIO 3. PARTE I. OPCIÓN B,"S ean A y B dos sucesos independientes de un mismo experimento aleatorio, tales que: p(A)0.4 , p(B)0.6 a ) Calcule p(AB) y p(AB). b ) Calcule p(A/B) y p(B/ AC). PARTE I. OPCIÓN B",enunciados_PNG/2009 - Probabilidad_png/2009_reserva_3_3_parte_i_opcion_b.png,2009 - Probabilidad.pdf
+mates_2009_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN A,mates,ccss_probabilidad_enunciados,2009,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN A,"Una enfermedad afecta al 10% de la población. Una prueba de diagnóstico tiene las siguientes características: si se aplica a una persona con la enfermedad, da positivo en el 98% de los casos; si se aplica a una persona que no tiene la enfermedad, da positivo en el 6% de los casos. Se elige una persona, al azar, y se le aplica la prueba.
+a) ¿Cuál es la probabilidad de que dé positivo?.
+b) Si no dá positivo, ¿Cuál es la probabilidad de que tenga la enfermedad?. PARTE I. OPCIÓN A",enunciados_PNG/2009 - Probabilidad_png/2009_septiembre_3_parte_i_opcion_a.png,2009 - Probabilidad.pdf
+mates_2009_Septiembre_EJERCICIO 3. PARTE I. OPCIÓN B,mates,ccss_probabilidad_enunciados,2009,Septiembre,EJERCICIO 3. PARTE I. OPCIÓN B,"En una editorial hay dos máquinas A y B que encuadernan 100 y 900 libros al día, respectivamente. Además, se sabe que la probabilidad de que un libro encuadernado por A tenga algún fallo de encuadernación es del 2% y del 10% si ha sido encuadernado por la máquina B. Se elige, al azar, un libro encuadernado por esa editorial.
+a) Calcule la probabilidad de que no sea defectuoso.
+b) Si es defectuoso, halle la probabilidad de haber sido encuadernado por la máquina A. PARTE I. OPCIÓN B",enunciados_PNG/2009 - Probabilidad_png/2009_septiembre_3_parte_i_opcion_b.png,2009 - Probabilidad.pdf
+mates_2010_Reserva 1_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2010,Reserva 1,EJERCICIO 3. OPCIÓN A,"2 3 De dos sucesos aleatorios A y B del mismo espacio de sucesos se sabe queP(A) , P(B) y 3 4 5 P(AB) . Calcule: 8
+a) La probabilidad de que se verifique alguno de los dos sucesos.
+b) La probabilidad de que no ocurra ninguno de los dos sucesos.
+c) La probabilidad de que ocurra A si se ha verificado B.",enunciados_PNG/2010 - Probabilidad_png/2010_reserva_1_3_opcion_a.png,2010 - Probabilidad.pdf
+mates_2010_Reserva 2_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2010,Reserva 2,EJERCICIO 3. OPCIÓN A,"U na empresa utiliza dos servidores para conectarse a Internet. El primero, S , lo utiliza el 45% 1 d e las veces y el segundo, S , el resto. 2 Cuando se conecta a Internet con S , los ordenadores se bloquean el 5% de las veces, y cuando 1 l o hace con S el 8%. Si un día, al azar, la empresa está conectada a Internet, 2
+a) ¿cuál es la probabilidad de que los ordenadores se queden bloqueados?.
+b) ¿Cuál es la probabilidad de que la empresa esté utilizando el servidor S , sabiendo que los 1 ordenadores se han quedado bloqueados?.",enunciados_PNG/2010 - Probabilidad_png/2010_reserva_2_3_opcion_a.png,2010 - Probabilidad.pdf
+mates_2010_Reserva 4_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2010,Reserva 4,EJERCICIO 3. OPCIÓN A,E n el experimento aleatorio consistente en lanzar un dado equilibrado con las caras numeradas d el 1 al 6 y observar el resultado se consideran los siguientes sucesos: A : “Obtener un número mayor que 4”. B: “Obtener un número par” a ) Escriba los elementos de cada uno de los siguientes sucesos: A; B ; AC B ; ABC ;(AB)C b ) Calcule las probabilidades P(AC BC) y P(AC BC).,enunciados_PNG/2010 - Probabilidad_png/2010_reserva_4_3_opcion_a.png,2010 - Probabilidad.pdf
+mates_2011_Septiembre_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2011,Septiembre,EJERCICIO 3. OPCIÓN B,"S ean A y B dos sucesos aleatorios tales que: p(A)0.4 ; p(B)0.5 ; p(AB)0.2 a ) Calcule las siguientes probabilidades p(AB) , p(A/B) y p(B/ AC)
+b) Razone si A y B son sucesos incompatibles.
+c) Razone si A y B son independientes.",enunciados_PNG/2011 - Probabilidad_png/2011_septiembre_3_opcion_b.png,2011 - Probabilidad.pdf
+mates_2012_Septiembre_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2012,Septiembre,EJERCICIO 3. OPCIÓN A,"U n pescador tiene tres tipos de carnada de las que sólo una es adecuada para pescar salmón. Si 1 utiliza la carnada correcta la probabilidad de que pesque un salmón es , mientras que si usa 3 1 u na de las inadecuadas esa probabilidad se reduce a . 5
+a) Si elige aleatoriamente la carnada, ¿cuál es la probabilidad de que pesque un salmón?.
+b) Si ha pescado un salmón, ¿cuál es la probabilidad de que lo haya hecho con la carnada adecuada?.",enunciados_PNG/2012 - Probabilidad_png/2012_septiembre_3_opcion_a.png,2012 - Probabilidad.pdf
+mates_2012_Septiembre_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2012,Septiembre,EJERCICIO 3. OPCIÓN B,"S ean A y B dos sucesos de un espacio muestral, de los que se conocen las probabilidades p(A)0.60 y p(B)0.25. Determine las probabilidades que deben asignarse a los sucesos AB y AB en cada uno de los siguientes supuestos: a ) Si A y B fuesen incompatibles. b ) Si A y B fueran independientes. c ) Si p(A/B)0.40.",enunciados_PNG/2012 - Probabilidad_png/2012_septiembre_3_opcion_b.png,2012 - Probabilidad.pdf
+mates_2013_Junio_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2013,Junio,EJERCICIO 3. OPCIÓN B,"De los sucesos aleatorios independientes A y B se sabe que p(A)0.3 y que p(BC)0.25. Calcule las siguientes probabilidades: a ) p(AB) b ) p(AC BC)
+c) p(A/BC)",enunciados_PNG/2013 - Probabilidad_png/2013_junio_3_opcion_b.png,2013 - Probabilidad.pdf
+mates_2013_Reserva 1_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2013,Reserva 1,EJERCICIO 3. OPCIÓN A,"Una granja avícola dedicada a la producción de huevos posee un sistema automático de clasificación en tres calibres según el peso: grande, mediano y pequeño. Se conoce que el 40% de la producción es clasificada como huevas grandes, el 35% como medianos y el 25% restante como pequeños. Además, se sabe que este sistema de clasificación produce defectos por rotura en el cascarón que dependen del peso. Así, la probabilidad de que un hueva grande sea defectuoso por esta razón es del 5%, la de uno mediano del 3% y de un 2% la de uno pequeño. Elegido aleatoriamente un huevo
+a) ¿Cuál es la probabilidad de que sea defectuoso?.
+b) Si el huevo es defectuoso, ¿cuál es la probabilidad de que sea grande.",enunciados_PNG/2013 - Probabilidad_png/2013_reserva_1_3_opcion_a.png,2013 - Probabilidad.pdf
+mates_2013_Reserva 1_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2013,Reserva 1,EJERCICIO 3. OPCIÓN B,"A la Junta General de Accionistas de una empresa asisten 105 accionistas de los cuales 45 tienen m enos de 40 años y 18 más de 60 años. Sometida a votación una propuesta, es rechazada por la t ercera parte de los menores de 40 años, por la tercera parte de los que están entre 40 y 60 años y p or 4 personas mayores de 60 años; los demás la aceptan. a ) Calcule la probabilidad de que, elegida una persona al azar, tenga menos de 40 años y haya a ceptado la propuesta. b ) La prensa afirmó que la propuesta había sido aceptada por el 80% de los asistentes, ¿es c orrecta la afirmación? c ) Si una persona escogida al azar ha rechazado la propuesta, ¿qué probabilidad hay de que t enga más de 60 años?",enunciados_PNG/2013 - Probabilidad_png/2013_reserva_1_3_opcion_b.png,2013 - Probabilidad.pdf
+mates_2013_Reserva 2_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2013,Reserva 2,EJERCICIO 3. OPCIÓN A,"En un experimento aleatorio, la probabilidad de que ocurra un suceso A es 0.68, la de que ocurra otro suceso B es 0.2, y la de que no ocurra ninguno de los dos es 0.27. Halle la probabilidad de que:
+a) Ocurran los dos a la vez.
+b) Ocurra B pero no A.
+c) Ocurra B, sabiendo que no ha ocurrido A.",enunciados_PNG/2013 - Probabilidad_png/2013_reserva_2_3_opcion_a.png,2013 - Probabilidad.pdf
+mates_2013_Reserva 2_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2013,Reserva 2,EJERCICIO 3. OPCIÓN B,"Una encuesta realizada en un banco indica que el 60% de sus clientes tiene un préstamo hipotecario, el 50% tiene un préstamo personal y un 20% tiene un préstamo de cada tipo. Se elige, al azar, un cliente de ese banco:
+a) Calcule la probabilidad de que no tenga ninguno de los dos préstamos.
+b) Calcule la probabilidad de que tenga un préstamo hipotecario sabiendo que no tiene préstamo personal.",enunciados_PNG/2013 - Probabilidad_png/2013_reserva_2_3_opcion_b.png,2013 - Probabilidad.pdf
+mates_2013_Reserva 3_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2013,Reserva 3,EJERCICIO 3. OPCIÓN A,"En una urna A hay 10 bolas verdes y 10 rojas, y en otra urna B hay 15 verdes y 5 rojas. Se lanza un dado, de forma que si sale múltiplo de 3 se extrae una bola de la urna A y en el resto de casos se extrae una bola de la urna B.
+a) Calcule la probabilidad de que la bola extraída sea roja.
+b) Si la bola extraída resulta ser de color verde, ¿cuál es la probabilidad de que proceda de la urna B?",enunciados_PNG/2013 - Probabilidad_png/2013_reserva_3_3_opcion_a.png,2013 - Probabilidad.pdf
+mates_2013_Reserva 3_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2013,Reserva 3,EJERCICIO 3. OPCIÓN B,"En una empresa, el 65% de sus empleados habla inglés, y de éstos, el 40% habla también alemán. De los que no hablan inglés, el 25% habla alemán. Se escoge un empleado al azar:
+a) ¿Cuál es la probabilidad de que hable ambos idiomas?
+b) ¿Cuál es la probabilidad de que hable alemán?
+c) ¿Cuál es la probabilidad de que, sabiendo que habla alemán, hable también inglés?",enunciados_PNG/2013 - Probabilidad_png/2013_reserva_3_3_opcion_b.png,2013 - Probabilidad.pdf
+mates_2013_Reserva 4_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2013,Reserva 4,EJERCICIO 3. OPCIÓN A,"Un Centro de Salud propone dos terapias, A y B, para dejar de fumar. De las personas que acuden al Centro para dejar de fumar, el 45% elige la terapia A, y el resto la B. Después de un año el 70% de los que siguieron la terapia A y el 80% de los que siguieron la B no han vuelto a fumar. Se elige al azar un usuario del Centro que siguió una de las dos terapias:
+a) Calcule la probabilidad de que después de un año no haya vuelto a fumar.
+b) Si transcurrido un año esa persona sigue sin fumar, calcule la probabilidad de que hubiera seguido la terapia A.
+c) Si transcurrido un año esa persona ha vuelto a fumar, calcule la probabilidad de que hubiera seguido la terapia A.",enunciados_PNG/2013 - Probabilidad_png/2013_reserva_4_3_opcion_a.png,2013 - Probabilidad.pdf
+mates_2013_Reserva 4_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2013,Reserva 4,EJERCICIO 3. OPCIÓN B,"De los sucesos independientes A y B se sabe que P(AC)0.4 y P(AB)0.8.
+a) Halle la probabilidad de B.
+b) Halle la probabilidad de que no se verifique B si se ha verificado A.
+c) ¿Son incompatibles los sucesos A y B ?",enunciados_PNG/2013 - Probabilidad_png/2013_reserva_4_3_opcion_b.png,2013 - Probabilidad.pdf
+mates_2014_Reserva 1_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2014,Reserva 1,EJERCICIO 3. OPCIÓN A,"El 65% de la población española adulta no fuma, el 15% fuma ocasionalmente y el resto fuma habitualmente. Elegidos al azar dos adultos españoles, calcule las probabilidades de los siguientes sucesos:
+a) Los dos sean no fumadores.
+b) Uno de ellos sea no fumador y el otro sea fumador ocasional.",enunciados_PNG/2014 - Probabilidad_png/2014_reserva_1_3_opcion_a.png,2014 - Probabilidad.pdf
+mates_2014_Reserva 1_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2014,Reserva 1,EJERCICIO 3. OPCIÓN B,"Se sabe que el 80% de los visitantes de un determinado museo son andaluces y que el 55% son andaluces y adultos. Además, el 17% de los visitantes son no andaluces y adultos. Se elige, al azar, un visitante del museo:
+a) ¿Cuál es la probabilidad de que no sea adulto?
+b) Si es adulto, ¿cuál es la probabilidad de que sea andaluz?",enunciados_PNG/2014 - Probabilidad_png/2014_reserva_1_3_opcion_b.png,2014 - Probabilidad.pdf
+mates_2014_Reserva 2_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2014,Reserva 2,EJERCICIO 3. OPCIÓN A,"Sean A y B dos sucesos aleatorios independientes de los que se conoce que: p(A)0.5 y p(B)0.3 a ) Diga, razonadamente, si A y B son sucesos incompatibles.
+b) ¿Cuál es la probabilidad de que suceda A y no suceda B?
+c) Calcule p(A/Bc)",enunciados_PNG/2014 - Probabilidad_png/2014_reserva_2_3_opcion_a.png,2014 - Probabilidad.pdf
+mates_2014_Reserva 2_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2014,Reserva 2,EJERCICIO 3. OPCIÓN B,"Un estudio estadístico de la producción de una fábrica de batidoras determina que el 4.5% de las batidoras presenta defectos eléctricos, el 3.5% presenta defectos mecánicos y el 1% presenta ambos defectos. Se escoge al azar una batidora. a ) Calcule la probabilidad de que no tenga ninguno de los dos defectos. b ) Calcule la probabilidad de que tenga un defecto mecánico sabiendo que tiene un defecto e léctrico.
+c) Justifique si los sucesos “tener un defecto eléctrico” y “tener un defecto mecánico” son independientes. ¿Son incompatibles?",enunciados_PNG/2014 - Probabilidad_png/2014_reserva_2_3_opcion_b.png,2014 - Probabilidad.pdf
+mates_2014_Reserva 3_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2014,Reserva 3,EJERCICIO 3. OPCIÓN B,"Se elige un número, al azar, entre el siguiente conjunto: {225, 201, 162, 210, 180, 172, 156, 193, 218, 167, 176, 222, 215, 120, 190, 171}.
+a) Calcule la probabilidad de que el número elegido sea impar. b ) Si el número elegido es múltiplo de 5, ¿cuál es la probabilidad de que sea mayor que 200? c ) Determine si son independientes los sucesos S: “el número elegido es mayor que 200” y T: “el n úmero elegido es par”.
+d) Halle la probabilidad del suceso ST.",enunciados_PNG/2014 - Probabilidad_png/2014_reserva_3_3_opcion_b.png,2014 - Probabilidad.pdf
+mates_2014_Reserva 4_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2014,Reserva 4,EJERCICIO 3. OPCIÓN A,"En un Instituto de Educación Secundaria el 40% de los alumnos juegan al fútbol, el 30% juegan al baloncesto y el 20% practican ambos deportes.
+a) ¿Cuál es la probabilidad de que un alumno, elegido al azar, no practique ninguno de los dos d eportes? b ) Si un alumno, elegido al azar, juega al fútbol, ¿cuál es la probabilidad de que no juegue al b aloncesto?
+c) ¿Son independientes los sucesos “jugar al fútbol” y “jugar al baloncesto”?",enunciados_PNG/2014 - Probabilidad_png/2014_reserva_4_3_opcion_a.png,2014 - Probabilidad.pdf
+mates_2014_Reserva 4_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2014,Reserva 4,EJERCICIO 3. OPCIÓN B,"El 25% de los estudiantes de una Universidad lee las noticias en prensa escrita en papel, el 70% en prensa digital y el 10% en ambos formatos. Elegido, al azar, un estudiante de esa U niversidad: a ) Calcule la probabilidad de que lea las noticias en formato papel o digital. b ) Sabiendo que lee las noticias en prensa digital, calcule la probabilidad de que también las lea en prensa escrita en papel.
+c) ¿Cuál es la probabilidad de que lea las noticias exclusivamente en uno de los dos formatos?",enunciados_PNG/2014 - Probabilidad_png/2014_reserva_4_3_opcion_b.png,2014 - Probabilidad.pdf
+mates_2014_Septiembre_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2014,Septiembre,EJERCICIO 3. OPCIÓN A,"Se sabe que dos alumnos de la asignatura de Matemáticas asisten a clase, de forma independiente, el primero a un 85% de las clases y el segundo a un 35%. Tomado al azar un día de clase, calcule la probabilidad de cada uno de los siguientes sucesos:
+a) Que los dos hayan asistido a clase ese día.
+b) Que alguno de ellos haya asistido a clase ese día.
+c) Que ninguno haya asistido a clase ese día.
+d) Que haya asistido a clase el segundo, sabiendo que el primero no ha asistido",enunciados_PNG/2014 - Probabilidad_png/2014_septiembre_3_opcion_a.png,2014 - Probabilidad.pdf
+mates_2014_Septiembre_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2014,Septiembre,EJERCICIO 3. OPCIÓN B,"En una tienda de complementos disponen de 100 bolsos, de los cuales 80 son de una conocida marca y 20 son imitaciones casi perfectas de dicha marca. Una inspección encarga a un experto el peritaje de los bolsos de la tienda. Se sabe que este experto acierta en el 95% de sus peritajes cuando el bolso es auténtico y que detecta el 98% de las imitaciones. Se elige, al azar, un bolso para su examen:
+a) Calcule la probabilidad de que el experto acierte en su dictamen sobre ese bolso.
+b) Si el experto no ha acertado en su peritaje, calcule la probabilidad de que el bolso sea auténtico.",enunciados_PNG/2014 - Probabilidad_png/2014_septiembre_3_opcion_b.png,2014 - Probabilidad.pdf
+mates_2015_Junio_EJERCICIO 3. OP CIÓN B,mates,ccss_probabilidad_enunciados,2015,Junio,EJERCICIO 3. OP CIÓN B,"L a proporción de personas de una población que tiene una determinada enfermedad es de 1 por c ada 500 personas. Se dispone de una prueba para detectar dicha enfermedad. La prueba detecta l a enfermedad en el 90% de los casos en que la persona está enferma, pero también da como e nfermas al 5% de las personas sanas. a ) se elige al azar una persona y se le hace la prueba, ¿Cuál es la probabilidad de que haya sido d iagnosticada correctamente? b ) Si la prueba ha diagnosticado que la persona está enferma, ¿cuál es la probabilidad de que realmente lo esté?. ¿Y de que está sana?. OP CIÓN B",enunciados_PNG/2015 - Probabilidad_png/2015_junio_3_op_cion_b.png,2015 - Probabilidad.pdf
+mates_2015_Reserva 1_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2015,Reserva 1,EJERCICIO 3. OPCION A,"a) Un ilusionista tiene seis cartas: cuatro ases y dos reyes. Saca una carta, la enseña al público y, sin verla, la vuelve a mezclar con las demás. A continuación saca una segunda carta que resulta ser un as. ¿Cuál es la probabilidad de que la primera carta haya sido también un as?
+b) Si el ilusionista no devolviera la primera carta a la baraja y la segunda carta extraída fuera un as, ¿cuál es la probabilidad de que la primera carta haya sido también un as?",enunciados_PNG/2015 - Probabilidad_png/2015_reserva_1_3_opcion_a.png,2015 - Probabilidad.pdf
+mates_2015_Reserva 1_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2015,Reserva 1,EJERCICIO 3. OPCION B,"El 30% de los habitantes de una ciudad lee el diario A, el 13% el diario B, y el 6% ambos diarios.
+a) ¿Qué porcentaje de habitantes de esta ciudad no lee ninguno de los diarios?
+b) Si se elige al azar un habitante de esta ciudad de entre los no lectores del diario B, ¿cuál es la probabilidad de que lea el diario A?",enunciados_PNG/2015 - Probabilidad_png/2015_reserva_1_3_opcion_b.png,2015 - Probabilidad.pdf
+mates_2015_Reserva 2_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2015,Reserva 2,EJERCICIO 3. OPCION A,"El 70% de los clientes de un supermercado realizan las compras en el local y el resto de los clientes las realizan por internet. De las compras realizadas en el local, sólo el 30% supera los 100 €, mientras que de las realizadas por internet el 80% supera esa cantidad.
+a) Elegida una compra al azar, ¿cuál es la probabilidad de que supere los 100 €?
+b) Si se sabe que una compra supera los 100 €, ¿cuál es la probabilidad de que se haya hecho en el local?",enunciados_PNG/2015 - Probabilidad_png/2015_reserva_2_3_opcion_a.png,2015 - Probabilidad.pdf
+mates_2015_Reserva 2_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2015,Reserva 2,EJERCICIO 3. OPCION B,"Sean dos sucesos A y B tales que p(A)0.25 , p(B)0.6 , p(ABc)0.1
+a) Calcule la probabilidad de que ocurra A y ocurra B.
+b) Calcule la probabilidad de que no ocurra A pero sí ocurra B.
+c) Calcule la probabilidad de que ocurra A sabiendo que ha ocurrido B.
+d) ¿Son independientes A y B?",enunciados_PNG/2015 - Probabilidad_png/2015_reserva_2_3_opcion_b.png,2015 - Probabilidad.pdf
+mates_2015_Reserva 3_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2015,Reserva 3,EJERCICIO 3. OPCION A,"a) Calcule la probabilidad de que al lanzar dos dados, la suma de sus puntuaciones sea un múltiplo de 4.
+b) De un experimento aleatorio se conocen las siguientes probabilidades p(Ac)0.8 , p(Bc)0.7 , p(AB)0.5 ¿Son A y B incompatibles?",enunciados_PNG/2015 - Probabilidad_png/2015_reserva_3_3_opcion_a.png,2015 - Probabilidad.pdf
+mates_2015_Reserva 3_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2015,Reserva 3,EJERCICIO 3. OPCION B,"Una empresa dedicada a la producción de jamones ibéricos dispone de dos secaderos, A y B, con distintas condiciones ambientales y de almacenamiento. En el secadero B se curan la tercera parte de los jamones. El 25% de los jamones curados en el secadero A son catalogados como Reserva, mientras que en el B este porcentaje asciende al 80%. Elegido un jamón al azar de uno de los secaderos, calcule la probabilidad de los siguientes sucesos:
+a) El jamón no es de Reserva.
+b) Si el jamón es de Reserva, que proceda del secadero A.",enunciados_PNG/2015 - Probabilidad_png/2015_reserva_3_3_opcion_b.png,2015 - Probabilidad.pdf
+mates_2015_Reserva 4_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2015,Reserva 4,EJERCICIO 3. OPCION A,"Un estudio estadístico determina que la noche del 31 de diciembre conduce el 5% de la población, el 20% consume alcohol esa noche y el 2% conduce y consume alcohol.
+a) ¿Son independientes los sucesos “conducir” y “consumir alcohol”?
+b) ¿Qué porcentaje de la población no conduce ni consume alcohol esa noche?
+c) De las personas que consumen alcohol, ¿qué porcentaje conduce esa noche?",enunciados_PNG/2015 - Probabilidad_png/2015_reserva_4_3_opcion_a.png,2015 - Probabilidad.pdf
+mates_2015_Reserva 4_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2015,Reserva 4,EJERCICIO 3. OPCION B,"Una enfermedad puede estar provocada por solo una de estas tres causas: A, B o C. La probabilidad de que la causa sea A es 0.3, la de que sea B es 0.2 y la de que sea C es 0.5. El tratamiento de esta enfermedad requiere hospitalización en el 20% de los casos si está provocada por A, en el 55% si la causa es B y en el 10% si la causa es C.
+a) ¿Cuál es la probabilidad de que un enfermo con la citada enfermedad no necesite hospitalización?
+b) Si un enfermo está hospitalizado debido a esta enfermedad, ¿cuál es la probabilidad de que la causa haya sido A?",enunciados_PNG/2015 - Probabilidad_png/2015_reserva_4_3_opcion_b.png,2015 - Probabilidad.pdf
+mates_2016_Junio_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2016,Junio,EJERCICIO 3. OPCIÓN A,"Marta tiene dos trajes rojos, un traje azul y uno blanco. Además, tiene un par de zapatos de color rojo, otro de color azul y dos pares blancos. Si decide aleatoriamente qué ponerse, determine las probabilidades de los siguientes sucesos:
+a) Llevar un traje rojo y unos zapatos blancos.
+b) No ir toda vestida de blanco.
+c) Calzar zapatos azules o blancos.",enunciados_PNG/2016 - Probabilidad_png/2016_junio_3_opcion_a.png,2016 - Probabilidad.pdf
+mates_2016_Junio_EJERCICIO 3. O PCIÓN B,mates,ccss_probabilidad_enunciados,2016,Junio,EJERCICIO 3. O PCIÓN B,"En una encuesta sobre la nacionalidad de los veraneantes en un municipio de la costa andaluza, se ha observado que el 40% de los encuestados son españoles y el 60% extranjeros, que el 30% de los españoles y el 80% de los extranjeros residen en un hotel y el resto en otro tipo de residencia. Se elige al azar un veraneante del municipio
+a) ¿Cuál es la probabilidad de que no resida en un hotel?
+b) Si no reside en un hotel, ¿cuál es la probabilidad de que sea español?
+c) ¿Son independientes los sucesos “ser extranjero” y “residir en un hotel”?. O PCIÓN B",enunciados_PNG/2016 - Probabilidad_png/2016_junio_3_o_pcion_b.png,2016 - Probabilidad.pdf
+mates_2016_Reserva 1_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2016,Reserva 1,EJERCICIO 3. OPCIÓN A,"El 55% de los asistentes a un concierto son menores de 20 años. El 30% de los menores de 20 años y el 25% de los mayores de esa edad son chicas. Se elige uno de los asistentes al azar
+a) ¿Cuál es la probabilidad de que sea chica?
+b) ¿Cuál es la probabilidad de que sea mayor de 20 años, sabiendo que es una chica?
+c) ¿Cuál es la probabilidad de que sea menor de 20 años, sabiendo que es un chico?",enunciados_PNG/2016 - Probabilidad_png/2016_reserva_1_3_opcion_a.png,2016 - Probabilidad.pdf
+mates_2016_Reserva 1_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2016,Reserva 1,EJERCICIO 3. OPCIÓN B,"Disponemos de tres dados. Dos de ellos tienen sus caras numeradas del 1 al 6 y el tercero tiene cinco caras numeradas con el 3 y la otra con el 1. Se elige al azar uno de los tres dados y se realiza el lanzamiento
+a) Determina la probabilidad de que se obtenga un 3.
+b) Determina la probabilidad de que se obtenga un número par.
+c) Si se ha obtenido un 3, ¿cuál es la probabilidad de que hayamos elegido el tercer dado?",enunciados_PNG/2016 - Probabilidad_png/2016_reserva_1_3_opcion_b.png,2016 - Probabilidad.pdf
+mates_2016_Reserva 2_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2016,Reserva 2,EJERCICIO 3. OPCION A,"El 60% de los jóvenes de una ciudad usa Facebook, el 80% usa WhatsApp y el 4% usa Facebook pero no WhatsApp.
+a) Halle el porcentaje de jóvenes de esa ciudad que usa ambas aplicaciones.
+b) Calcule el porcentaje de esos jóvenes que usa WhatsApp pero no Facebook.
+c) Entre los jóvenes que usan WhatsApp, ¿qué porcentaje usa también Facebook?
+d) Los sucesos “usar Facebook” y “usar WhatsApp”, ¿son independientes?",enunciados_PNG/2016 - Probabilidad_png/2016_reserva_2_3_opcion_a.png,2016 - Probabilidad.pdf
+mates_2016_Reserva 2_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2016,Reserva 2,EJERCICIO 3. OPCION B,"De los sucesos A y B de un experimento aleatorio se conocen las siguientes probabilidades: P(A)0.4 , P(B)0.5 , P  (AB)C 0.1
+a) Razone si A y B son sucesos compatibles.
+b) Razone si A y B son sucesos independientes.
+c) Calcule P(ABC)
+d) Calcule P(A/BC).",enunciados_PNG/2016 - Probabilidad_png/2016_reserva_2_3_opcion_b.png,2016 - Probabilidad.pdf
+mates_2016_Reserva 3_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2016,Reserva 3,EJERCICIO 3. OPCION A,"En un centro de estudios que tiene 250 estudiantes, hay 50 que tienen problemas visuales y 20 que tienen problemas auditivos. Los sucesos “tener problemas visuales” y “tener problemas auditivos” son independientes. Se elige un estudiante al azar, calcule las probabilidades de los sucesos siguientes:
+a) Tener problemas visuales y auditivos.
+b) No tener problemas visuales ni auditivos.
+c) Tener algún problema auditivo si no tiene problemas visuales.",enunciados_PNG/2016 - Probabilidad_png/2016_reserva_3_3_opcion_a.png,2016 - Probabilidad.pdf
+mates_2016_Reserva 3_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2016,Reserva 3,EJERCICIO 3. OPCION B,"En un aeropuerto internacional operaron 300000 vuelos en un determinado año, distribuidos de la siguiente forma: 150000 en la terminal A, 100000 en la B y 50000 en la C. En ese año se sabe que sufrieron retrasos el 10% de los vuelos de la terminal A, el 8% de la B y el 5% de la C. Determine, para un vuelo elegido al azar, las probabilidades de los siguientes sucesos:
+a) Que no sufriera retraso.
+b) Que operase en la terminal A, sabiendo que tuvo retraso.",enunciados_PNG/2016 - Probabilidad_png/2016_reserva_3_3_opcion_b.png,2016 - Probabilidad.pdf
+mates_2016_Reserva 4_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2016,Reserva 4,EJERCICIO 3. OPCION A,"Disponemos de tres monedas: 1 dólar, 1 libra y 1 euro. La moneda de 1 dólar está trucada y la probabilidad de que salga cara es el doble de la probabilidad de que salga cruz. La moneda de 1 libra también está trucada y tiene dos caras y la de 1 euro es correcta. Se escoge una de las tres monedas al azar y se lanza.
+a) ¿Cuál es la probabilidad de que salga cara?
+b) Sabiendo que salió cruz, ¿cuál es la probabilidad de que la moneda lanzada fuera la de 1 dólar?",enunciados_PNG/2016 - Probabilidad_png/2016_reserva_4_3_opcion_a.png,2016 - Probabilidad.pdf
+mates_2016_Reserva 4_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2016,Reserva 4,EJERCICIO 3. OPCION B,"De los alumnos que se presentaron a las pruebas de selectividad de una provincia, 1150 se examinaron de Geografía; de estos, 598 eligieron la opción A. Se sabe que aprobaron esa asignatura el 78% de los que eligieron la opción A y el 74% de los que eligieron la opción B. Se ha escogido al azar uno de los alumnos que se examinaron de Geografía.
+a) ¿Cuál es la probabilidad de que este alumno haya aprobado esta asignatura?
+b) Si se sabe que este alumno ha aprobado Geografía, ¿cuál es la probabilidad de que haya elegido la opción A?",enunciados_PNG/2016 - Probabilidad_png/2016_reserva_4_3_opcion_b.png,2016 - Probabilidad.pdf
+mates_2016_Septiembre_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2016,Septiembre,EJERCICIO 3. OPCION A,"Sean A y B dos sucesos aleatorios tales que p(A)0.3 , p(B)0.6 , p(Ac Bc)0.28
+a) Halle la probabilidad de que ocurran ambos sucesos a la vez.
+b) Calcule la probabilidad de que ocurra A sabiendo que no ha ocurrido B.
+c) ¿Son A y B independientes?",enunciados_PNG/2016 - Probabilidad_png/2016_septiembre_3_opcion_a.png,2016 - Probabilidad.pdf
+mates_2016_Septiembre_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2016,Septiembre,EJERCICIO 3. OPCIÓN B,"El aparcamiento de una sala de conciertos está completo el 85% de los días. El 90% de los días que el aparcamiento está completo, la sala de conciertos está llena, y el 22% de los días que el aparcamiento no está completo, la sala de conciertas no está llena. Elegido un día al azar,
+a) ¿cuál es la probabilidad de que la sala de conciertos esté llena?.
+b) Si se sabe que la sala de conciertos está llena, ¿cuál es la probabilidad de que el aparcamiento esté completo?.",enunciados_PNG/2016 - Probabilidad_png/2016_septiembre_3_opcion_b.png,2016 - Probabilidad.pdf
+mates_2017_Junio_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2017,Junio,EJERCICIO 3. OPCIÓN A,"Se sabe que el 90% de los alumnos de un centro docente está interesado por las redes sociales, el 60% está interesado por sus notas y el 55% por ambas cuestiones. Se elige al azar un alumno de ese centro.
+a) Calcule la probabilidad de que dicho alumno esté interesado por alguna de las dos cuestiones
+b) Calcule la probabilidad de que esté interesado por sus notas, sabiendo que no está interesado por las redes sociales.
+c) Calcule la probabilidad de que no esté interesado por ninguna de estas dos cuestiones.",enunciados_PNG/2017 - Probabilidad_png/2017_junio_3_opcion_a.png,2017 - Probabilidad.pdf
+mates_2017_Junio_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2017,Junio,EJERCICIO 3. OPCIÓN B,"En una ciudad hay dos fábricas de pasta, F1 y F2, que producen dos tipos de productos, A y B, que venden a un distribuidor en paquetes de 1 kg. En un mes, la fábrica F1 produce 20000 kg de pasta, de los que 12000 son del tipo A y la fábrica F2 produce 25000 kg de pasta de los que 15000 son del tipo A. Se escoge al azar un paquete del distribuidor.
+a) ¿Cuál es la probabilidad de que sea del tipo B?
+b) Si el paquete elegido resulta der del tipo A, ¿qué es más probable, que proceda de la fábrica F1 o que proceda de la F2?",enunciados_PNG/2017 - Probabilidad_png/2017_junio_3_opcion_b.png,2017 - Probabilidad.pdf
+mates_2017_Reserva 1_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2017,Reserva 1,EJERCICIO 3. OPCIÓN A,"En un departamento de una Universidad hay 8 profesores y 14 profesoras. Se quiere constituir una comisión formada por 2 miembros del departamento, elegidos al azar.
+a) ¿Cuál es la probabilidad de que sean profesoras?
+b) Calcule la probabilidad de que la comisión esté constituida por un profesor y una profesora.
+c) Halle la probabilidad de que en la comisión no haya ninguna profesora.",enunciados_PNG/2017 - Probabilidad_png/2017_reserva_1_3_opcion_a.png,2017 - Probabilidad.pdf
+mates_2017_Reserva 1_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2017,Reserva 1,EJERCICIO 3. OPCIÓN B,"Los alumnos que cursan una asignatura deben realizar dos exámenes: uno teórico y otro práctico. El 50 % de los alumnos aprueba los dos exámenes, el 6 % no aprueba ninguno y el 20 % solo aprueba el teórico. Se elige un alumno al azar.
+a) ¿Cuál es la probabilidad de que apruebe al menos uno de los dos exámenes?
+b) Si ha aprobado el teórico, ¿cuál es la probabilidad de que no apruebe el examen práctico?",enunciados_PNG/2017 - Probabilidad_png/2017_reserva_1_3_opcion_b.png,2017 - Probabilidad.pdf
+mates_2017_Reserva 2_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2017,Reserva 2,EJERCICIO 3. OPCIÓN A,"De los sucesos A y B se sabe que P(A)0.6 , P(B/ A)0.8 y P(B/ Ac)0.1.
+a) Calcule las probabilidades P(B) , P(AB) y P(AB).
+b) ¿Son los sucesos A y B independientes?",enunciados_PNG/2017 - Probabilidad_png/2017_reserva_2_3_opcion_a.png,2017 - Probabilidad.pdf
+mates_2017_Reserva 2_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2017,Reserva 2,EJERCICIO 3. OPCIÓN B,"El 10 % de las personas que acuden a un servicio de urgencias lo hace por problemas respiratorios, de éstos el 80 % son fumadores, mientras que de los que acuden por otros problemas solo el 5 % son fumadores. Se elige, al azar, una persona de las que acuden al servicio de urgencias.
+a) ¿Cuál es la probabilidad de que haya acudido por problemas respiratorios y no sea fumador?
+b) Si la persona elegida es fumadora, ¿cuál es la probabilidad de que haya acudido por problemas que no son respiratorios?",enunciados_PNG/2017 - Probabilidad_png/2017_reserva_2_3_opcion_b.png,2017 - Probabilidad.pdf
+mates_2017_Reserva 3_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2017,Reserva 3,EJERCICIO 3. OPCIÓN A,"Sean A, B y C tres sucesos de los que se sabe que A y B son independientes, A y C son incompatibles, P(A)0.4 , P(AB)0.1 y P(C)0.2. Calcule las probabilidades de los siguientes sucesos:
+a) Que suceda A si no sucede B.
+b) Que no suceda ni A ni C.
+c) Que si no sucede B tampoco suceda A.",enunciados_PNG/2017 - Probabilidad_png/2017_reserva_3_3_opcion_a.png,2017 - Probabilidad.pdf
+mates_2017_Reserva 3_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2017,Reserva 3,EJERCICIO 3. OPCIÓN B,"Para superar una asignatura un estudiante hace un examen teórico y otro práctico. La probabilidad de que apruebe el examen teórico es 0.8, la de que apruebe el examen práctico es 0.6 y la de que apruebe ambos es 0.5.
+a) ¿Cuál es la probabilidad de que apruebe al menos uno de los dos exámenes?
+b) ¿Cuál es la probabilidad de que apruebe el examen práctico en caso de no haber aprobado el examen teórico?
+c) ¿Son independientes los sucesos “aprobar el examen teórico” y “aprobar el examen práctico”?",enunciados_PNG/2017 - Probabilidad_png/2017_reserva_3_3_opcion_b.png,2017 - Probabilidad.pdf
+mates_2017_Reserva 4_EJERCICIO 3. OPCIÓN A,mates,ccss_probabilidad_enunciados,2017,Reserva 4,EJERCICIO 3. OPCIÓN A,"En un estudio sobre los niveles de audiencia de dos cadenas de radio, se obtuvo que el 50 % de la población escucha la cadena A, el 40 % escucha la cadena B y el 20 % oye ambas.
+a) Halle el porcentaje de la población que escucha alguna de las dos cadenas.
+b) Calcule el porcentaje de la población que escucha solo la cadena B.
+c) Halle el porcentaje de la población que escucha solo una de las dos cadenas.",enunciados_PNG/2017 - Probabilidad_png/2017_reserva_4_3_opcion_a.png,2017 - Probabilidad.pdf
+mates_2017_Reserva 4_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2017,Reserva 4,EJERCICIO 3. OPCIÓN B,"A una asamblea en la Universidad asisten 420 alumnos de los cuales 180 son de Empresariales, 72 de Relaciones Laborales y el resto de Derecho. Un tercio de los alumnos de Empresariales, dos tercios de los de Derecho y 16 alumnos de Relaciones Laborales votan NO a la huelga. El resto ha votado SÍ.
+a) Calcule la probabilidad de que elegido un alumno al azar, sea de Empresariales y haya votado SÍ a la huelga.
+b) ¿Cuál es la probabilidad de que elegido un alumno al azar haya votado SÍ a la huelga?
+c) Si elegido un alumno al azar, resulta que ha votado NO a la huelga, ¿cuál es la probabilidad de que sea de Relaciones Laborales?",enunciados_PNG/2017 - Probabilidad_png/2017_reserva_4_3_opcion_b.png,2017 - Probabilidad.pdf
+mates_2017_Septiembre_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2017,Septiembre,EJERCICIO 3. OPCION A,"Supongamos que el 20% de los votantes de Trump apoya la construcción del muro en la frontera de México y que sólo el 5% de los que no lo votaron lo apoya. En un grupo formado por 5000 votantes de Trump y 10000 estadounidenses que no lo votaron se elige una persona al azar
+a) ¿Cuál es la probabilidad de que ésta apoye la construcción del muro?.
+b) Si la persona elegida apoya la construcción del muro, ¿cuál es la probabilidad de que no haya votado a Trump?.
+c) Calcule la probabilidad de que sea votante de Trump o apoye la construcción del muro.",enunciados_PNG/2017 - Probabilidad_png/2017_septiembre_3_opcion_a.png,2017 - Probabilidad.pdf
+mates_2017_Septiembre_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2017,Septiembre,EJERCICIO 3. OPCIÓN B,"Una urna contiene 5 bolas rojas y 3 verdes. Se extrae una bola y se reemplaza por dos bolas del otro color. A continuación se extrae una segunda bola.
+a) Calcule la probabilidad de que la segunda bola extraída sea verde.
+b) Halle la probabilidad de que la primera haya sido roja, sabiendo que la segunda también ha sido roja.",enunciados_PNG/2017 - Probabilidad_png/2017_septiembre_3_opcion_b.png,2017 - Probabilidad.pdf
+mates_2018_Junio_EJERCICIO 3 OPCIÓN A,mates,ccss_probabilidad_enunciados,2018,Junio,EJERCICIO 3 OPCIÓN A,"En una determinada población residen 5000 personas en el centro y 10000 en la periferia. Se sabe que el 95% de los residentes en el centro y que el 20% de los que viven en la periferia opina que el Ayuntamiento debería restringir el acceso de vehículos privados al centro urbano. Se elige al azar un residente de la población.
+a) ¿Cuál es la probabilidad de que esté a favor de restringir el acceso de vehículos privados al centro de la ciudad?
+b) ¿Cuál es la probabilidad de que de que resida en el centro y esté a favor de la restricción de acceso?
+c) Si la persona elegida opina que se debería restringir el acceso, ¿cuál es la probabilidad de que de que resida en el centro de la ciudad?",enunciados_PNG/2018 - Probabilidad_png/2018_junio_3_opcion_a.png,2018 - Probabilidad.pdf
+mates_2018_Junio_EJERCICIO 3 OPCIÓN B,mates,ccss_probabilidad_enunciados,2018,Junio,EJERCICIO 3 OPCIÓN B,"Un campus universitario dispone de 3000 plazas numeradas de aparcamiento para vehículos, distribuidos en tres zonas A, B y C. La zona A está constituida por las plazas del 1 al 1500, estando 1350 de ellas protegidas del sol. La zona B la conforman las plazas numeradas desde 1501 a 2500, estando el 80% protegidas del sol. La zona C contiene plazas numeradas desde 2501 hasta 3000, estando protegidas solamente 250 protegidas del sol. Aleatoriamente se elige una de las plazas de aparcamiento del campus.
+a) ¿Cuál es la probabilidad de que esté en la zona A o en la B?
+b) ¿Cuál es la probabilidad de que no esté protegida del sol?
+c) Si se ha elegido una plaza protegida del sol, ¿cuál es la probabilidad de que esté ubicada en la zona B?",enunciados_PNG/2018 - Probabilidad_png/2018_junio_3_opcion_b.png,2018 - Probabilidad.pdf
+mates_2018_Reserva 1_EJERCICIO 3 OPCIÓN A,mates,ccss_probabilidad_enunciados,2018,Reserva 1,EJERCICIO 3 OPCIÓN A,"El 80% del alumnado de una determinada universidad accede a los estudios que marca como primera opción. De ellos, el 75% termina el Grado, mientras que sólo el 40% de los que acceden a estudios que no han marcado como primera opción termina el Grado. Se elige un alumno al azar de esa universidad.
+a) Calcule la probabilidad de que no haya terminado el grado.
+b) Calcule la probabilidad de que no accediera a los estudios marcados como primera opción, sabiendo que no ha terminado el grado.",enunciados_PNG/2018 - Probabilidad_png/2018_reserva_1_3_opcion_a.png,2018 - Probabilidad.pdf
+mates_2018_Reserva 1_EJERCICIO 3 OPCIÓN B,mates,ccss_probabilidad_enunciados,2018,Reserva 1,EJERCICIO 3 OPCIÓN B,"Una caja contiene 3 bolas negras, 2 blancas y 1 roja. Se realiza el siguiente experimento aleatorio: “Extraer de esa caja dos bolas al azar, una a continuación de la otra sin reposición y anotar el color de las bolas en el orden en que han sido extraídas”.
+a) Describa el espacio muestral asociado a este experimento aleatorio.
+b) Indique la probabilidad de cada uno de los sucesos elementales del espacio muestral.",enunciados_PNG/2018 - Probabilidad_png/2018_reserva_1_3_opcion_b.png,2018 - Probabilidad.pdf
+mates_2018_Reserva 2_EJERCICIO 3 OPCIÓN A,mates,ccss_probabilidad_enunciados,2018,Reserva 2,EJERCICIO 3 OPCIÓN A,"En un centro de enseñanza secundaria el 48% de los estudiantes son chicos. El 85% de los chicos del centro y el 82% de las chicas supera todas las asignaturas. Se elige al azar un estudiante del centro.
+a) ¿Cuál es la probabilidad de que supere todas las asignaturas?
+b) Si ha superado todas las asignaturas, ¿cuál es la probabilidad de que sea una chica?",enunciados_PNG/2018 - Probabilidad_png/2018_reserva_2_3_opcion_a.png,2018 - Probabilidad.pdf
+mates_2018_Reserva 2_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2018,Reserva 2,EJERCICIO 3. OPCION B,"Sean A, B, C, D, E y F sucesos de un experimento aleatorio.
+a) Se sabe que P(A)0.5 , P(AB)0.7 y P(AB)0.4. Halle la probabilidad de que ocurra B
+b) Se sabe que P(C)0.4 , P(D)0.3 y P(CD)0.5. Halle la probabilidad de que ocurra C sabiendo que no ocurre D.
+c) Se sabe que los sucesos E y F son independientes, que P(E)0.6 y que P(F)0.8 . Calcule la probabilidad de que no ocurra ninguno de los dos sucesos.",enunciados_PNG/2018 - Probabilidad_png/2018_reserva_2_3_opcion_b.png,2018 - Probabilidad.pdf
+mates_2018_Reserva 3_EJERCICIO 3 OPCIÓN A,mates,ccss_probabilidad_enunciados,2018,Reserva 3,EJERCICIO 3 OPCIÓN A,"En un polideportivo municipal hay inscritos 520 usuarios de los que 220 son niños, 208 son adultos menores de 60 años y el resto adultos mayores de 60 años. De los inscritos, 1/5 de los niños, el 75% de los adultos menores de 60 años y 23 adultos mayores de 60 años utilizan las duchas normalmente. Se elige un usuario al azar.
+a) Calcule la probabilidad de que se duche en las instalaciones del polideportivo.
+b) Calcule la probabilidad de que sea adulto menor de 60 años y utilice las duchas.
+c) Sabiendo que utiliza las duchas, halle la probabilidad de que sea un niño.",enunciados_PNG/2018 - Probabilidad_png/2018_reserva_3_3_opcion_a.png,2018 - Probabilidad.pdf
+mates_2018_Reserva 3_EJERCICIO 3 OPCIÓN B,mates,ccss_probabilidad_enunciados,2018,Reserva 3,EJERCICIO 3 OPCIÓN B,"Una almazara recibe cajas de aceitunas de dos productoras, A y B, que cultivan dos variedades, picual y arbequina. El 40% proviene de la productora A, de las cuales el 60% es de la variedad picual. De las que provienen de la productora B, el 30% es de la variedad arbequina. Se elige una caja de aceitunas al azar.
+a) ¿Cuál es la probabilidad de que sea de la variedad picual?
+b) Si se sabe que es de la variedad picual, ¿cuál es la probabilidad de que provenga de la productora A?
+c) Calcule la probabilidad de que sea de la productora A o de la variedad picual.",enunciados_PNG/2018 - Probabilidad_png/2018_reserva_3_3_opcion_b.png,2018 - Probabilidad.pdf
+mates_2018_Reserva 4_EJERCICIO 3 OPCIÓN A,mates,ccss_probabilidad_enunciados,2018,Reserva 4,EJERCICIO 3 OPCIÓN A,"Se ha realizado un referéndum en el que se ha convocado a la ciudadanía a expresar con “SÍ” o con “NO” su opinión sobre cierta cuestión. En una determinada mesa electoral hay tres urnas que contienen las siguientes papeletas: la urna A tiene 200 papeletas con “SÍ” y 300 con “NO”, la urna B, 500 “SÍ” y 400 “NO” y la urna C contiene 200 “SÍ” y 100 “NO”. Se elige una urna al azar y de ella se extrae aleatoriamente una papeleta.
+a) Calcule la probabilidad de que sea un “SÍ”.
+b) Si la papeleta extraída es “NO”, calcule la probabilidad de que haya sido extraída de la urna A.",enunciados_PNG/2018 - Probabilidad_png/2018_reserva_4_3_opcion_a.png,2018 - Probabilidad.pdf
+mates_2018_Reserva 4_EJERCICIO 3 OPCIÓN B,mates,ccss_probabilidad_enunciados,2018,Reserva 4,EJERCICIO 3 OPCIÓN B,"En una concentración de 250 deportistas hay 120 que juegan al fútbol, 60 que juegan al tenis y 70 que juegan al baloncesto. El 75% de los que juegan al fútbol, el 65% de los que juegan al tenis y el 60% de los que juegan al baloncesto son además aficionados al ciclismo. Se selecciona al azar uno de los deportistas.
+a) ¿Cuál es la probabilidad de que sea aficionado al ciclismo?
+b) Si es aficionado al ciclismo, ¿cuál es la probabilidad de que juegue al tenis?",enunciados_PNG/2018 - Probabilidad_png/2018_reserva_4_3_opcion_b.png,2018 - Probabilidad.pdf
+mates_2018_Septiembre_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2018,Septiembre,EJERCICIO 3. OPCION A,"En una localidad, el 25% de los habitantes asiste periódicamente a la consulta del dentista, el 10% se hace una analítica y el 8% hace ambas cosas.
+a) Razone si los sucesos “Asistir a la consulta del dentista” y “Hacerse una analítica” son independientes.
+b) ¿Qué porcentaje de habitantes ni se hace una analítica ni va al dentista?.
+c) Si elegimos un habitante al azar de esa localidad de entre los que no van al dentista, ¿cuál es la probabilidad de que se haga una analítica?.",enunciados_PNG/2018 - Probabilidad_png/2018_septiembre_3_opcion_a.png,2018 - Probabilidad.pdf
+mates_2019_Junio_EJERCICIO 3 OPCIÓN A,mates,ccss_probabilidad_enunciados,2019,Junio,EJERCICIO 3 OPCIÓN A,"El 65% de los turistas que visitan una provincia elige alojamientos en la capital y el resto en zonas rurales. Además, el 75% de los turistas que se hospedan en la capital y el 15% de los que se hospedan en zonas rurales, lo hacen en hoteles, mientras que el resto lo hace en apartamentos turísticos. Se elige al azar un turista de los que se han alojado en esa provincia.
+a) ¿Cuál es la probabilidad de que se haya hospedado en un hotel?
+b) Si se sabe que se ha hospedado en un apartamento turístico, ¿cuál es la probabilidad de que el apartamento esté en zonas rurales?",enunciados_PNG/2019 - Probabilidad_png/2019_junio_3_opcion_a.png,2019 - Probabilidad.pdf
+mates_2019_Junio_EJERCICIO 3. OPCIÓN B,mates,ccss_probabilidad_enunciados,2019,Junio,EJERCICIO 3. OPCIÓN B,"El 69% de los habitantes de una determinada ciudad ven series, el 35% películas y el 18% no ven ni series ni películas. Se elige al azar un habitante de la ciudad.
+a) Calcule la probabilidad de que vea series o películas.
+b) Sabiendo que ve series, calcule la probabilidad de que vea películas.
+c) ¿Cuál es la probabilidad de que vea series y no vea películas?",enunciados_PNG/2019 - Probabilidad_png/2019_junio_3_opcion_b.png,2019 - Probabilidad.pdf
+mates_2019_Reserva 1_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2019,Reserva 1,EJERCICIO 3. OPCION A,"El 17% de la población adulta de una ciudad sigue una dieta de adelgazamiento y practica algún deporte regularmente. El 58% ni sigue una dieta de adelgazamiento ni hace deporte regularmente. Además, se sabe que de los que hacen deporte regularmente, el 50% hace dieta de adelgazamiento. Se elige al azar un adulto de esa población.
+a) ¿Cuál es la probabilidad de que siga una dieta de adelgazamiento o que practique deporte regularmente?
+b) Si el individuo elegido sigue una dieta de adelgazamiento, ¿cuál es la probabilidad de que practique deporte con regularidad?
+c) ¿Son independientes los sucesos “Seguir una dieta de adelgazamiento” y “Practicar algún deporte regularmente”?",enunciados_PNG/2019 - Probabilidad_png/2019_reserva_1_3_opcion_a.png,2019 - Probabilidad.pdf
+mates_2019_Reserva 1_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2019,Reserva 1,EJERCICIO 3. OPCION B,"Sean A y B dos sucesos de un experimento aleatorio dado. Se sabe que P(A)0'5, P(AB)0'75 y P(AB)0'3.
+a) Calcule P(AB).
+b) Calcule P(A/Bc).
+c) ¿Son independientes los sucesos A y B? ¿Son los sucesos A y B incompatibles?",enunciados_PNG/2019 - Probabilidad_png/2019_reserva_1_3_opcion_b.png,2019 - Probabilidad.pdf
+mates_2019_Reserva 2_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2019,Reserva 2,EJERCICIO 3. OPCION A,"En una localidad andaluza hay tres institutos de ESO. De los 500 estudiantes que cursan 1o de ESO en dicha localidad, 250 están matriculados en el instituto A, 150 en el B y el resto están matriculados en el instituto C. Se sabe que han superado la materia de Matemáticas el 70% del alumnado de 1o de ESO matriculado en el instituto A, el 68% de B y el 73% de C. Se elige al azar un estudiante de 1o de ESO de la citada localidad.
+a) Calcule la probabilidad de que no haya superado Matemáticas.
+b) Calcule la probabilidad de que esté matriculado en el instituto A, sabiendo que ha superado Matemáticas.
+c) Calcule la probabilidad de que esté matriculado en el instituto C y no haya superado Matemáticas.",enunciados_PNG/2019 - Probabilidad_png/2019_reserva_2_3_opcion_a.png,2019 - Probabilidad.pdf
+mates_2019_Reserva 2_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2019,Reserva 2,EJERCICIO 3. OPCION B,"El 70% de los taxistas de una ciudad tiene 40 años o más y de estos, el 60% es propietario de la licencia del vehículo. Sin embargo, en el caso de los menores de 40 años, son propietarios de la licencia el 23%. Se escoge al azar un taxista de esa ciudad.
+a) Calcule la probabilidad de que sea propietario de la licencia del vehículo.
+b) Sabiendo que no es propietario de la licencia, calcule la probabilidad de que tenga 40 años o más.
+c) Calcule la probabilidad de que sea propietario de la licencia o tenga menos de 40 años.",enunciados_PNG/2019 - Probabilidad_png/2019_reserva_2_3_opcion_b.png,2019 - Probabilidad.pdf
+mates_2019_Reserva 3_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2019,Reserva 3,EJERCICIO 3. OPCION A,"Una cooperativa envasa zumos de naranja, zumos de piña y zumos de melocotón en botellas de 1 litro y de 2 litros. Se sabe que el 60% de las botellas son de zumo de naranja y el 30% de piña. Además, el 80% de las botellas de zumo de naranja y el 70% de las de zumo de piña son de 2 litros, mientras que el 60% de las de melocotón son botellas de 1 litro. Se elige al azar una botella envasada por la cooperativa.
+a) Calcule la probabilidad de que la botella sea de 2 litros.
+b) Calcule la probabilidad de que el zumo sea de naranja, sabiendo que la botella es de 2 litros.
+c) Calcule la probabilidad de que el zumo sea de melocotón, sabiendo que la botella es de 1 litro.",enunciados_PNG/2019 - Probabilidad_png/2019_reserva_3_3_opcion_a.png,2019 - Probabilidad.pdf
+mates_2019_Reserva 3_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2019,Reserva 3,EJERCICIO 3. OPCION B,"Una determinada enfermedad puede estar provocada por una sola de las causas, A, B o C. En el 35% de los casos está provocada por A, en el 40% por B y en el 25% por C. Se sabe que el tratamiento de esta enfermedad requiere hospitalización en el 15% de los casos si está provocada por A, en el 45% si está provocada por B y en un 20% si está provocada por C. Se elige al azar una persona afectada por esa enfermedad.
+a) ¿Cuál es la probabilidad de que necesite hospitalización?
+b) Si no necesita hospitalización, ¿cuál es la probabilidad de que la causa de la enfermedad sea C?",enunciados_PNG/2019 - Probabilidad_png/2019_reserva_3_3_opcion_b.png,2019 - Probabilidad.pdf
+mates_2019_Reserva 4_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2019,Reserva 4,EJERCICIO 3. OPCION A,"Para tratar cierta enfermedad, en un hospital se utilizan tres fármacos distintos, A, B y C, administrándose a cada enfermo un solo fármaco. El 30% de los pacientes es tratado con el fármaco A, el 50% es tratado con el B y el resto con el fármaco C. La probabilidad de que la enfermedad se cure con el fármaco A es de 0.6, de que se cure con el fármaco B es de 0.8 y de que se cure con el fármaco C es de 0.7. Se elige al azar un paciente de ese hospital con esa enfermedad.
+a) Calcule la probabilidad de que el paciente se cure.
+b) Sabiendo que el paciente se ha curado, ¿cuál es la probabilidad de que haya sido tratado con el fármaco A?",enunciados_PNG/2019 - Probabilidad_png/2019_reserva_4_3_opcion_a.png,2019 - Probabilidad.pdf
+mates_2019_Reserva 4_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2019,Reserva 4,EJERCICIO 3. OPCION B,"Sean A y B dos sucesos asociados a un experimento aleatorio tales que P(B) 0'4, P(A/B)0'25 y P(AB) 0'4.
+a) Calcule P(AB).
+b) Calcule P(A) y P(AB).
+c) ¿Son A y B independientes? ¿Son incompatibles?",enunciados_PNG/2019 - Probabilidad_png/2019_reserva_4_3_opcion_b.png,2019 - Probabilidad.pdf
+mates_2019_Septiembre_EJERCICIO 3. OPCION A,mates,ccss_probabilidad_enunciados,2019,Septiembre,EJERCICIO 3. OPCION A,"Una marca de patinetes eléctricos fabrica tres modelos distintos A, B y C. El modelo A supone el 25% de su producción, el B el 40% y el resto de la producción corresponde al modelo C. Transcurridos tres meses desde su venta, se comprobó que el 15% de patinetes del modelo A, el 10% del B y el 12% del C había presentado alguna avería. Se elige al azar un patinete de esta marca.
+a) Calcule la probabilidad de que dicho patinete haya presentado alguna avería.
+b) Si sabemos que el patinete elegido es del modelo A, ¿cuál es la probabilidad de que no haya presentado avería?.
+c) Calcule la probabilidad de que haya presentado avería o sea del modelo C.",enunciados_PNG/2019 - Probabilidad_png/2019_septiembre_3_opcion_a.png,2019 - Probabilidad.pdf
+mates_2019_Septiembre_EJERCICIO 3. OPCION B,mates,ccss_probabilidad_enunciados,2019,Septiembre,EJERCICIO 3. OPCION B,"De dos sucesos A y B de un mismo espacio muestral se sabe que: P(AB)0.2 , P(AB)0.4 y P(A/B)0.8
+a) Calcule p(B) y p(A)
+b) ¿Son los sucesos A y B independientes?. Razone la respuesta
+c) Calcule p(Ac Bc)",enunciados_PNG/2019 - Probabilidad_png/2019_septiembre_3_opcion_b.png,2019 - Probabilidad.pdf
+mates_2020_Junio_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2020,Junio,EJERCICIO C5,"A 120 estudiantes se les ha recomendado la lectura de dos libros. Se sabe que 46 de ellos han leído el primer libro recomendado, 34 el segundo y 16 estudiantes han leído ambos libros. Se elige un estudiante al azar.
+a) (0’6 puntos) Calcule la probabilidad de que haya leído alguno de los dos libros.
+b) (0’6 puntos) Calcule la probabilidad de que no haya leído ninguno de los dos libros.
+c) (0’6 puntos) Calcule la probabilidad de que solamente haya leído el primer libro.
+d) (0’7 puntos) Calcule la probabilidad de que haya leído el primer libro, si se sabe que no ha leído el segundo.",enunciados_PNG/2020 - Probabilidad_png/2020_junio_c5.png,2020 - Probabilidad.pdf
+mates_2020_Junio_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2020,Junio,EJERCICIO C6,"Las bicicletas de alquiler de una ciudad se clasifican por su calidad: buena, media, mala. El 30% de dichas bicicletas son gestionadas por una empresa E y el resto por una empresa E . 1 2 De las bicicletas de la empresa E , el 80% son de buena calidad, el 5% de calidad media y el resto 1 de mala calidad. De las bicicletas de la empresa E se sabe que el 60% son de buena calidad, pero 2 se desconocen los porcentajes de calidad media y de calidad mala. Se elige al azar una bicicleta de alquiler de esa ciudad.
+a) (1 punto) Calcule la probabilidad de que sea de buena calidad.
+b) (0’75 puntos) Calcule la probabilidad de que sea de la empresa E y de mala calidad. 1
+c) (0’75 puntos) Si se sabe que el porcentaje de bicicletas de calidad media en toda la ciudad es del 19%, ¿cuál es la probabilidad de que sea de calidad media, sabiendo que la bicicleta elegida es de la empresa E ?. 2",enunciados_PNG/2020 - Probabilidad_png/2020_junio_c6.png,2020 - Probabilidad.pdf
+mates_2020_Reserva 1_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2020,Reserva 1,EJERCICIO C5,"Se han mezclado 90 llaves electrónicas de apertura de un determinado garaje, con apariencia idéntica, de las cuales 60 funcionan correctamente y 30 no funcionan. Se eligen al azar 2 de las 90 llaves.
+a) (0’7 puntos) ¿Cuál es la probabilidad de que las dos llaves elegidas abran la puerta del garaje?
+b) (0’8 puntos) ¿Cuál es la probabilidad de poder abrir el garaje con alguna de ellas?
+c) (1 punto) ¿Cuál es la probabilidad de que una de las llaves elegidas funcione correctamente y la otra no?",enunciados_PNG/2020 - Probabilidad_png/2020_reserva_1_c5.png,2020 - Probabilidad.pdf
+mates_2020_Reserva 1_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2020,Reserva 1,EJERCICIO C6,"Una empresa almacena el mismo número de latas de refresco de cola, naranja y limón. De las 30000 latas de refresco almacenadas, se sabe que 1800 latas de cola, 2400 de naranja y 3000 de limón caducan en 2021.
+a) (1’5 puntos) ¿Cuál es la probabilidad de que una lata elegida al azar caduque en 2021?
+b) (1 punto) Si se ha elegido al azar una lata que no caduca en 2021, ¿cuál es la probabilidad de que sea de cola?",enunciados_PNG/2020 - Probabilidad_png/2020_reserva_1_c6.png,2020 - Probabilidad.pdf
+mates_2020_Reserva 2_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2020,Reserva 2,EJERCICIO C5,"Tres personas se encargan de los cobros de la caja de un supermercado. El mes pasado, la primera de ellas realizó el 30% de los cobros, la segunda el 45% y la tercera el resto. La dirección del supermercado ha comprobado que de los cobros realizados por la primera persona, el 1% son erróneos, que la segunda cometió errores en el 3% de los cobros y la tercera en el 2%.
+a) (1’5 puntos) Calcule la probabilidad de que un cobro elegido al azar haya sido erróneo.
+b) (1 punto) Se elige al azar un cobro correcto. ¿Cuál es la probabilidad de que haya sido realizado por la segunda persona?",enunciados_PNG/2020 - Probabilidad_png/2020_reserva_2_c5.png,2020 - Probabilidad.pdf
+mates_2020_Reserva 2_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2020,Reserva 2,EJERCICIO C6,"En un centro de enseñanza secundaria, el 11% de los profesores ocupan cargos directivos y el 13% pertenecen a alguna comisión. Además, el 6% ocupan un cargo directivo y pertenecen a alguna comisión.
+a) (1 punto) ¿Cuál es el porcentaje de profesores que pertenecen a alguna comisión y no ocupan ningún cargo directivo?
+b) (1 punto) Calcule el porcentaje de profesores que no ocupan cargos directivos ni pertenecen a ninguna comisión.
+c) (0’5 puntos) De los profesores que ocupan un cargo directivo, ¿qué porcentaje pertenece a alguna comisión?",enunciados_PNG/2020 - Probabilidad_png/2020_reserva_2_c6.png,2020 - Probabilidad.pdf
+mates_2020_Reserva 3_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2020,Reserva 3,EJERCICIO C5,"Sean A y B dos sucesos de un mismo experimento aleatorio.
+a) (0’5 puntos) Si p(A)0 y p(B)0, ¿pueden ser los sucesos A y B independientes e incompatibles a la vez? Justifique la respuesta.
+b) (2 puntos) Sabiendo que p(A) 0'3, p(B) 0'5 y p(A/ B) 0'2, calcule las siguientes probabilidades: p(AB) p(AB) p(AC BC) p(AB)",enunciados_PNG/2020 - Probabilidad_png/2020_reserva_3_c5.png,2020 - Probabilidad.pdf
+mates_2020_Reserva 3_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2020,Reserva 3,EJERCICIO C6,"El censo de una población andaluza está compuesto en total por 15000 personas, de las cuales 8500 son mujeres. Se sabe que el 15% de las mujeres y el 20% de los hombres censados en dicha población han viajado alguna vez a un país extranjero. Se elige al azar una persona censada en dicha población.
+a) (1’25 puntos) ¿Cuál es la probabilidad de que haya viajado al extranjero?
+b) (1’25 puntos) Si se sabe que esta persona no ha viajado al extranjero, ¿cuál es la probabilidad de que sea hombre?",enunciados_PNG/2020 - Probabilidad_png/2020_reserva_3_c6.png,2020 - Probabilidad.pdf
+mates_2020_Reserva 4_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2020,Reserva 4,EJERCICIO C5,"Se sabe que el 65% de los estudiantes de bachillerato de Andalucía ha participado en programas Erasmus+ y que de ellos, el 80% ha mejorado su calificación en lengua extranjera. De los estudiantes que no han participado en programas Erasmus+, mejoran su calificación en lengua extranjera el 30%. Se elige al azar un estudiante de bachillerato de Andalucía.
+a) (1’5 puntos) ¿Cuál es la probabilidad de que haya mejorado su calificación en lengua extranjera?
+b) (1 punto) Si se sabe que ha mejorado su calificación en lengua extranjera, ¿cuál es la probabilidad de que haya participado en un programa Erasmus+?",enunciados_PNG/2020 - Probabilidad_png/2020_reserva_4_c5.png,2020 - Probabilidad.pdf
+mates_2020_Reserva 4_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2020,Reserva 4,EJERCICIO C6,"El 47% de los jóvenes andaluces tienen una vida sedentaria. De ellos, el 72% presentan obesidad, mientras que solamente la presentan el 22% de los jóvenes no sedentarios. Se elige al azar un joven andaluz.
+a) (1 punto) Calcule la probabilidad de que sea sedentario y no presente obesidad.
+b) (0’75 puntos) Calcule la probabilidad de que presente obesidad.
+c) (0’75 puntos) Calcule la probabilidad de que sea sedentario, sabiendo que presenta obesidad.",enunciados_PNG/2020 - Probabilidad_png/2020_reserva_4_c6.png,2020 - Probabilidad.pdf
+mates_2020_Septiembre_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2020,Septiembre,EJERCICIO C5,"Una urna contiene 6 bolas rojas y 4 azules. Se extrae una bola al azar y se reemplaza por seis bolas del otro color. A continuación, se vuelve a extraer una segunda bola de la urna.
+a) (1’5 puntos) Calcule la probabilidad de que la segunda bola extraída sea roja.
+b) (1 punto) Si sabemos que la segunda bola extraída es azul, ¿cuál es la probabilidad de que también lo haya sido la primera?.",enunciados_PNG/2020 - Probabilidad_png/2020_septiembre_c5.png,2020 - Probabilidad.pdf
+mates_2020_Septiembre_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2020,Septiembre,EJERCICIO C6,"Una empresa fabrica dos tipos de bombillas: una LED y otra halógena. Se sabe que un 5% de las LED y un 2% de las halógenas salen defectuosas. Se elige al azar una bombilla de una caja que contiene 40 bombillas LED y 10 halógenas.
+a) (1’5 puntos) Calcule la probabilidad de que la bombilla elegida no sea defectuosa.
+b) (1 punto) Calcule la probabilidad de que la bombilla elegida sea LED, sabiendo que es defectuosa.",enunciados_PNG/2020 - Probabilidad_png/2020_septiembre_c6.png,2020 - Probabilidad.pdf
+mates_2021_Junio_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2021,Junio,EJERCICIO C5,"Se desea probar la eficacia de dos tipos de vacunas, A y B, contra un virus determinado. Para ello, se seleccionan 5000 voluntarios sin anticuerpos para este virus, a los que se les administra una de las vacunas o un placebo, resultando que 3000 reciben la vacuna A, 1500la vacuna B y el resto el placebo. Se comprueba que el 90% de los vacunados con la A y el 95% de los vacunados con la B, generan anticuerpos, no generando anticuerpos los que han recibido el placebo. Se selecciona uno de esos voluntarios al azar.
+a) ¿Cuál es la probabilidad de que haya generado anticuerpos?.
+b) Si dicho voluntario no ha generado anticuerpos, ¿qué probabilidad hay de que se le haya administrado placebo?.",enunciados_PNG/2021 - Probabilidad_png/2021_junio_c5.png,2021 - Probabilidad.pdf
+mates_2021_Junio_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2021,Junio,EJERCICIO C6,"De las compras realizadas en el último periodo de rebajas del pasado año, el 55% se dedicaron a productos electrónicos, el 72% se hicieron a través de internet y, de las compras que se hicieron por internet, el 64% fueron de productos electrónicos. Se elige una compra al azar.
+a) Calcule la probabilidad de que haya sido de productos electrónicos y se haya realizado por internet.
+b) Calcule la probabilidad de que la compra se haya realizado por internet o que se hayan comprado productos electrónicos.
+c) Calcule la probabilidad de que sabiendo que no se compraron productos electrónicos, la compra no se hiciera a través de internet.",enunciados_PNG/2021 - Probabilidad_png/2021_junio_c6.png,2021 - Probabilidad.pdf
+mates_2021_Reserva 1_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2021,Reserva 1,EJERCICIO C5,"Una empresa dedicada a la fabricación de coches lanza al mercado un nuevo modelo que fabrica en tres plantas diferentes, A, B y C La planta A produce el 45% de los vehículos, la planta B el 21% y el resto los produce la planta C. Se ha detectado un defecto en la colocación del airbag, que afecta al 1% de los coches procedentes de la planta A, al 3% de los procedentes de la planta B y al 2% de los de la planta C. Se selecciona un coche al azar de este nuevo modelo.
+a) ¿Cuál es la probabilidad de que no sea defectuoso y proceda de la planta C?.
+b) Si el coche elegido no es defectuoso, ¿cuál es la probabilidad de que proceda de la planta A?.",enunciados_PNG/2021 - Probabilidad_png/2021_reserva_1_c5.png,2021 - Probabilidad.pdf
+mates_2021_Reserva 1_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2021,Reserva 1,EJERCICIO C6,"La probabilidad de que una persona sana se contagie de otra enferma por un virus es del 80% si coinciden en una reunión.
+a) Si una persona enferma se reúne con dos personas sanas, teniendo en cuenta que contagiar a distintas personas son sucesos independientes entre sí, ¿cuál es la probabilidad de que se contagien las dos personas a la vez? ¿Cuál es la probabilidad de que se contagie alguna de ellas?.
+b) Una prueba para detectar la enfermedad da el resultado correcto en el 90% de los casos cuando se le aplica a personas contagiadas y da falsos positivos en el 5% de los casos cuando se aplica a personas sanas. Si una persona sana se reúne con una enferma y resulta positivo en una prueba posterior, ¿qué probabilidad hay de que se haya contagiado en la reunión?.",enunciados_PNG/2021 - Probabilidad_png/2021_reserva_1_c6.png,2021 - Probabilidad.pdf
+mates_2021_Reserva 2_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2021,Reserva 2,EJERCICIO C5,"Un equipo andaluz de baloncesto jugó en la temporada un 40% de los partidos en casa y el resto fuera. De los partidos que jugó en casa, obtuvo un 60% de victorias y el resto fueron derrotas, mientras que de los que jugó fuera, obtuvo un 30% de victorias y el resto derrotas. Se elige un partido de este equipo al azar.
+a) Calcule la probabilidad de que el partido acabase en victoria.
+b) Calcule la probabilidad de que el partido haya sido jugado en casa, sabiendo que el resultado final fue una derrota.
+c) Si además se sabe que el 10% de las victorias obtenidas en casa y el 20% de las obtenidas fuera se produjeron tras una prórroga, calcule la probabilidad de que el partido acabase en victoria y que además esa victoria haya sido tras una prórroga",enunciados_PNG/2021 - Probabilidad_png/2021_reserva_2_c5.png,2021 - Probabilidad.pdf
+mates_2021_Reserva 2_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2021,Reserva 2,EJERCICIO C6,"Sean A y B dos sucesos asociados a un mismo espacio muestral con P(Ac)0'4 y P(ABc)0'12.
+a) Calcule P(A) y P(AB).
+b) Determine P(B) para que A y B sean independientes.
+c) Si P(Bc)0'2, calcule P(AB),P(Ac Bc) y P(A/Bc)",enunciados_PNG/2021 - Probabilidad_png/2021_reserva_2_c6.png,2021 - Probabilidad.pdf
+mates_2021_Reserva 3_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2021,Reserva 3,EJERCICIO C5,"Sean A y B dos sucesos de un mismo experimento aleatorio de los que se sabe que: P(AB) 0'3 , P(Ac)0'35 y P(B)0'55.
+a) Calcule la probabilidad de que suceda al menos uno de ellos.
+b) Calcule la probabilidad de que ocurra B, sabiendo que no ha ocurrido A.
+c) Calcule la probabilidad de que no ocurra ninguno de los dos sucesos.
+d) Razone si los sucesos A y B son independientes.",enunciados_PNG/2021 - Probabilidad_png/2021_reserva_3_c5.png,2021 - Probabilidad.pdf
+mates_2021_Reserva 3_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2021,Reserva 3,EJERCICIO C6,"En una determinada muestra de suelo se han aislado dos tipos de bacterias, A y B, de las cuales el 70% son de A y el 30% de B. La probabilidad de que una bacteria de tipo A reaccione a la prueba del nitrato es 0’15 y para la bacteria B es 0’8. De las bacterias aisladas se selecciona una al azar.
+a) Calcule la probabilidad de que reaccione a la prueba del nitrato.
+b) Si la bacteria ha reaccionado a la prueba del nitrato, calcule la probabilidad de que sea del tipo B.
+c) Calcule la probabilidad de que la bacteria sea del tipo A y no reaccione a la prueba del nitrato.",enunciados_PNG/2021 - Probabilidad_png/2021_reserva_3_c6.png,2021 - Probabilidad.pdf
+mates_2021_Reserva 4_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2021,Reserva 4,EJERCICIO C5,"Una determinada ciudad tiene en la plantilla del ayuntamiento 1000 agentes de la policía local, 600 bomberos y 400 funcionarios de protección civil. En esta plantilla, el 42% de policías, el 20% de bomberos y el 50% de funcionarios de protección civil son mujeres. Se elige una persona al azar de la plantilla.
+a) ¿Cuál es la probabilidad de que sea mujer?.
+b) Si las persona elegida es hombre, ¿cuál es la probabilidad de que sea bombero?.",enunciados_PNG/2021 - Probabilidad_png/2021_reserva_4_c5.png,2021 - Probabilidad.pdf
+mates_2021_Reserva 4_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2021,Reserva 4,EJERCICIO C6,"Una urna A contiene 4 bolas rojas y 5 verdes y otra urna B contiene 6 bolas rojas y 3 verdes. Lanzamos dos dados y si la suma es mayor o igual a 9, extraemos una bola de la urna A y en caso contrario, la extraemos de la urna B.
+a) Calcule la probabilidad de que la bola extraída sea verde y de la urna B.
+b) Halle la probabilidad de que la bola extraída sea roja.",enunciados_PNG/2021 - Probabilidad_png/2021_reserva_4_c6.png,2021 - Probabilidad.pdf
+mates_2021_Julio_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2021,Julio,EJERCICIO C5,"En una población, se sabe que el 15% de las personas padece una determinada enfermedad. Si la persona está enferma, un test da positivo en el 92% de los casos, mientras que si la persona está sana, el test da positivo en el 4% de los casos (falso positivo). Se elige una persona al azar de esa población.
+a) Calcule la probabilidad de que, habiendo dado positivo el test, la persona está enferma.
+b) Calcule la probabilidad de que la persona esté enferma y el test salga negativo.
+c) Calcule la probabilidad de que saliendo el test negativo, la persona esté enferma",enunciados_PNG/2021 - Probabilidad_png/2021_julio_c5.png,2021 - Probabilidad.pdf
+mates_2021_Julio_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2021,Julio,EJERCICIO C6,"En una comunidad de vecinos, el 90% de sus miembros tiene vehículo propio, el 40% hace uso del transporte público y u 3% ni tiene vehículo propio ni usa el transporte público. Se elige al azar un miembro de esa comunidad.
+a) Calcule la probabilidad de que tenga vehículo propio o use el transporte público.
+b) Calcule la probabilidad de que use el transporte público y no tenga vehículo propio.
+c) Calcule la probabilidad de que use el transporte público, sabiendo que no tiene vehículo propio.",enunciados_PNG/2021 - Probabilidad_png/2021_julio_c6.png,2021 - Probabilidad.pdf
+mates_2022_Junio_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2022,Junio,EJERCICIO C5,"En un estudio realizado en una sucursal bancaria se ha determinado que el 70% de los créditos concedidos son hipotecarios y el 25% de los créditos superan los 200.000 €. El 20% de los créditos son hipotecarios y de más de 200.000 €. Se elige al azar un cliente al que le han concedido un crédito. Calcule la probabilidad de que:
+a) El crédito no sea hipotecario y no supere los 200.000 €.
+b) Si su crédito no es hipotecario, este no supere los 200.000 €.
+c) Si su crédito supera los 200.000 €, que este no sea hipotecario.",enunciados_PNG/2022 - Probabilidad_png/2022_junio_c5.png,2022 - Probabilidad.pdf
+mates_2022_Junio_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2022,Junio,EJERCICIO C6,"En su tiempo libre, el 65% de los estudiantes de un centro educativo juega con videojuegos, el 45% lee libros y el 15% no hace ninguna de las dos cosas. Elegido al azar un estudiante de dicho centro, calcule la probabilidad de que:
+a) Juegue con videojuegos o lea libros.
+b) Juegue con videojuegos y no lea libros.
+c) Lea libros sabiendo que no juega con videojuegos.",enunciados_PNG/2022 - Probabilidad_png/2022_junio_c6.png,2022 - Probabilidad.pdf
+mates_2022_Reserva 1_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2022,Reserva 1,EJERCICIO C5,"El 80% de los restaurantes de una localidad admite el pago con tarjeta de crédito, el 50% admite pagar mediante el móvil y el 10% no admite el pago con ninguno de estos métodos. Escogido al azar un restaurante de dicha localidad.
+a) Calcule la probabilidad de que el restaurante admita i) alguno de estos dos medios de pago ii) Pagar con móvil sabiendo que admite pagar con tarjeta de crédito
+b) ¿Son independientes los sucesos “Pagar con tarjeta” y “Pagar con móvil”?",enunciados_PNG/2022 - Probabilidad_png/2022_reserva_1_c5.png,2022 - Probabilidad.pdf
+mates_2022_Reserva 1_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2022,Reserva 1,EJERCICIO C6,"En una localidad se han vendido 1335 boletos de lotería en tres establecimientos A, B y C. En el establecimiento A se han vendido 1054 boletos, 99 en el B y el resto en C. De los boletos premiados, 5 han sido vendidos en B y 13 en C. Sabemos que 95 de cada 100 boletos vendidos no han obtenido premio. Elegido un boleto al azar, se pide:
+a) ¿Cuál es el establecimiento que tiene una mayor probabilidad de haber vendido un boleto no premiado?.
+b) ¿Cuál es la probabilidad de que un boleto no premiado haya sido vendido en el establecimiento A?.",enunciados_PNG/2022 - Probabilidad_png/2022_reserva_1_c6.png,2022 - Probabilidad.pdf
+mates_2022_Reserva 2_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2022,Reserva 2,EJERCICIO C5,"Se ha llevado a cabo una encuesta en un centro educativo para saber qué actividades extraescolares se realizan por la tarde. El 80% de los encuestados practican deporte o estudian idiomas, el 35% realizan ambas actividades y el 60% no estudian idiomas.
+a) Elegido un estudiante de ese centro al azar, calcule la probabilidad de que: i) Practique deporte y no estudie idiomas. ii) Estudie idiomas y no practique deporte. iii) Haga solamente una de las dos actividades. iv) No haga ninguna de las dos actividades.
+b) ¿Son independientes los sucesos “Practicar deporte” y “Estudiar idiomas”?",enunciados_PNG/2022 - Probabilidad_png/2022_reserva_2_c5.png,2022 - Probabilidad.pdf
+mates_2022_Reserva 2_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2022,Reserva 2,EJERCICIO C6,"Del total de personas vacunadas en un país para prevenir una enfermedad, el 48% recibió la vacuna A, el 35% la vacuna B y el resto la vacuna C. La efectividad de la vacuna A se sitúa en el 70%, la de B en el 95% y la de C en el 94%. Elegida al azar una persona vacunada:
+a) ¿Cuál es la probabilidad de que haya sido vacunada con A y no le sea efectiva?.
+b) ¿Qué probabilidad hay de que la vacuna le sea efectiva?.
+c) Sabiendo que la vacuna no le ha sido efectiva, ¿cuál es la probabilidad de que haya sido vacunada con C?.",enunciados_PNG/2022 - Probabilidad_png/2022_reserva_2_c6.png,2022 - Probabilidad.pdf
+mates_2022_Reserva 3_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2022,Reserva 3,EJERCICIO C5,"De los sucesos A y B de un mismo experimento aleatorio se conocen las siguientes probabilidades: P(A)0'7 ; P(B)0'6 ; P(AB)0'8. Calcule la probabilidad de que:
+a) Ocurra A y B.
+b) No ocurra ni A ni B.
+c) Ocurra A pero no B.
+d) Ocurra A sabiendo que no ha ocurrido B.",enunciados_PNG/2022 - Probabilidad_png/2022_reserva_3_c5.png,2022 - Probabilidad.pdf
+mates_2022_Reserva 3_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2022,Reserva 3,EJERCICIO C6,"El porcentaje de conductores que consumen alcohol durante la madrugada del sábado es del 5%. La policía realiza controles de alcoholemia mediante un test del que se sabe que da positivo en un 96% si la persona ha bebido alcohol y en un 10% si la persona no ha bebido alcohol Elegido al azar un conductor en la madrugada del sábado y realizado el test de alcoholemia, halle la probabilidad de que:
+a) Si el test da positivo, el conductor haya consumido alcohol.
+b) El test dé negativo y el conductor no haya consumido alcohol.
+c) Si el test ha dado negativo, el conductor no haya consumido alcohol.",enunciados_PNG/2022 - Probabilidad_png/2022_reserva_3_c6.png,2022 - Probabilidad.pdf
+mates_2022_Reserva 4_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2022,Reserva 4,EJERCICIO C5,"Juan realiza el siguiente juego: Lanza dos dados simultáneamente y si la suma es 2 o mayor que 7, gana y termina el juego. En caso contrario, tiene una segunda y última oportunidad lanzando de nuevo los dos dados y ganaría si la suma es mayor que 9.
+a) ¿Cuál es la probabilidad de que Juan gane lanzando una sola vez los dados?.
+b) ¿Cuál es la probabilidad de que Juan gane en la segunda oportunidad?.
+c) ¿Cuál es la probabilidad de que Juan gane?.",enunciados_PNG/2022 - Probabilidad_png/2022_reserva_4_c5.png,2022 - Probabilidad.pdf
+mates_2022_Reserva 4_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2022,Reserva 4,EJERCICIO C6,"Una encuesta realizada a los clientes de un banco muestra que el 60% de sus clientes tiene un ordenador, el 50% tiene una tablet y el 20% posee un ordenador y una tablet. Se elige al azar un cliente de ese banco.
+a) Calcule la probabilidad de que: i) Tenga un ordenador o una tablet. ii) No tenga tablet si no tiene ordenador. iii) Tenga ordenador y no tenga tablet.
+b) ¿Son los sucesos “Tener un ordenador” y “Tener una tablet” incompatibles? ¿Son sucesos independientes?",enunciados_PNG/2022 - Probabilidad_png/2022_reserva_4_c6.png,2022 - Probabilidad.pdf
+mates_2022_Julio_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2022,Julio,EJERCICIO C5,"En una determinada región hay tres universidades A, B y C. De los estudiantes que terminaron sus estudios el año pasado, el 60% procedían de la universidad A, el 30% de la B y el resto de la C. Además, se conoce que la probabilidad de que un estudiante de la universidad A no encuentre trabajo en su región es 0’4, y para un estudiante de B es 0’5.
+a) Si la probabilidad de que un estudiante no encuentre trabajo en su región es 0’395, determine la probabilidad de que un estudiante de la universidad C encuentre trabajo en su región.
+b) Calcule la probabilidad de que un estudiante no haya encontrado trabajo en su región proceda de la universidad A o de la B.",enunciados_PNG/2022 - Probabilidad_png/2022_julio_c5.png,2022 - Probabilidad.pdf
+mates_2022_Julio_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2022,Julio,EJERCICIO C6,"Sean A y B dos sucesos del mismo espacio muestral tales que: 3 5 2 P(AB) ; p(Ac) ; p(Bc) . 7 7 3
+a) ¿Son A y B independientes?. ¿Son A y B incompatibles?.
+b) Calcule p(Ac Bc).
+c) Calcule p(B/ Ac)",enunciados_PNG/2022 - Probabilidad_png/2022_julio_c6.png,2022 - Probabilidad.pdf
+mates_2023_Junio_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2023,Junio,EJERCICIO C5,"Disponemos de una moneda trucada en la que la probabilidad de obtener cara, al lanzarla, es el doble de la de obtener cruz.
+a) Halle la probabilidad de que, al lanzar la moneda, se obtenga cara.
+b) Halle la probabilidad de que, al lanzar dos veces la moneda, se obtenga una cara y una cruz sin importar el orden.
+c) Halle la probabilidad de que, al lanzar dos veces la moneda, se obtenga al menos una cara.
+d) Si al lanzar la moneda dos veces observamos que ha salido al menos una cara, halle la probabilidad de que se obtengan dos caras.",enunciados_PNG/2023 - Probabilidad_png/2023_junio_c5.png,2023 - Probabilidad.pdf
+mates_2023_Junio_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2023,Junio,EJERCICIO C6,"En una base de datos de correos electrónicos se ha observado que el 20% de los correos recibidos son spam. Además, se ha observado que la palabra “lottery” ha aparecido en el 40% de los correos que son spam y en el 0’6% de los correos que no lo son.
+a) Halle la probabilidad de que en un correo elegido al azar en el que aparezca la palabra “lottery” sea spam.
+b) Halle la probabilidad de que un correo elegido al azar en el que no aparezca la palabra “lottery” no sea spam.
+c) Si un correo se etiqueta como spam si aparece la palabra “lottery” y como no spam si esta palabra no aparece, calcule la probabilidad de que un correo se etiquete incorrectamente.",enunciados_PNG/2023 - Probabilidad_png/2023_junio_c6.png,2023 - Probabilidad.pdf
+mates_2023_Reserva 1_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2023,Reserva 1,EJERCICIO C5,"Una empresa de transporte dispone de tres tipos de camiones, A, B y C. El 30% de los transportes son realizados por camiones del tipo A, el 20% por camiones de tipo B y el resto por camiones de tipo C. Se sabe que los transportes tienen una probabilidad de 0’02 de sufrir algún tipo de incidencia si son realizados en camiones de tipo A, de 0’01 si son realizados en camiones de tipo B y de 0’05 si son realizados en camiones de tipo C. Se elige un transporte de esta empresa al azar.
+a) Calcule la probabilidad de que no haya sufrido ningún tipo de incidencia.
+b) Calcule la probabilidad de que lo haya realizado un camión de tipo C si se sabe que sufrió algún tipo de incidencia.
+c) Si además se conoce que el 40% de las incid encias sufridas por los camiones de tipo A fueron debidas a la lluvia, calcule la probabilidad d e que el transporte haya sido realizado por un camión de tipo A, haya sufrido incidencia y también esta sea debida a la lluvia.",enunciados_PNG/2023 - Probabilidad_png/2023_reserva_1_c5.png,2023 - Probabilidad.pdf
+mates_2023_Reserva 1_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2023,Reserva 1,EJERCICIO C6,"Una tienda vende caramelos con sabor a frutas (naranja ó limón) y a menta. El 60% son azucarados y de estos el 25% son de limón. De los no azucarados, el 40% son de naranja, el 30% son de limón y el resto de menta. Además, el 40% de todos los caramelos son de naranja. Se escoge un caramelo al azar de esa tienda.
+a) Calcule la probabilidad de que sea de naranja sabiendo que es azucarado.
+b) Razone si es más probable que sea de sabor a frutas o a menta.",enunciados_PNG/2023 - Probabilidad_png/2023_reserva_1_c6.png,2023 - Probabilidad.pdf
+mates_2023_Reserva 2_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2023,Reserva 2,EJERCICIO C5,"En una encuesta realizada en un instituto sobre los hábitos de los estudiantes en su tiempo libre, el 80% de los encuestados dedica el tiempo libre a enviar mensajes con el móvil o a jugar videojuegos, el 45% realiza ambas cosas y el 40% no juega a videojuegos. Si se elige un estudiante de ese instituto al azar, calcule la probabilidad de que dedique su tiempo libre a:
+a) Enviar mensajes con el móvil y no jugar a videojuegos.
+b) Jugar a videojuegos sabiendo que no envía mensajes con el móvil.
+c) Hacer solamente una de las dos cosas.
+d) No hacer ninguna de las dos cosas.",enunciados_PNG/2023 - Probabilidad_png/2023_reserva_2_c5.png,2023 - Probabilidad.pdf
+mates_2023_Reserva 2_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2023,Reserva 2,EJERCICIO C6,"Un componente electrónico se produce en dos fábricas, A y B. Se exporta el 40% de los componentes producidos en A y la cuarta parte de los producidos en B, mientras que el resto es para consumo nacional. Además, el 37% de todos los componentes producidos es exportado. Si se elige un componente electrónico al azar, halle la probabilidad de que:
+a) Se haya producido en la fábrica A.
+b) Se haya producido en la fábrica A sabiendo que no es exportado.",enunciados_PNG/2023 - Probabilidad_png/2023_reserva_2_c6.png,2023 - Probabilidad.pdf
+mates_2023_Reserva 3_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2023,Reserva 3,EJERCICIO C5,"Durante la pasada temporada, una tenista ganó el 90% de los partidos que jugó sobre tierra y la mitad cuando lo hizo sobre otro tipo de superficie. De los 40 partidos que jugó la temporada pasada, 25 lo hizo sobre tierra. Elegido al azar un partido de la temporada pasada de esta tenista, halle la probabilidad de que:
+a) Ganase el partido.
+b) No ganase sabiendo que jugó sobre tierra.
+c) Jugase sobre tierra sabiendo que ganó.",enunciados_PNG/2023 - Probabilidad_png/2023_reserva_3_c5.png,2023 - Probabilidad.pdf
+mates_2023_Reserva 3_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2023,Reserva 3,EJERCICIO C6,"El 32% de las microempresas tiene página web y el 64% ni tiene página web ni realiza ventas por comercio electrónico. De las microempresas que tienen página web, el 30% realiza ventas por comercio electrónico. Se selecciona al azar una microempresa.
+a) Calcule la probabilidad de que tenga página web o realice ventas por comercio electrónico.
+b) Calcule la probabilidad de que realice ventas por comercio electrónico.
+c) Calcule la probabilidad de que no tenga página web y realice ventas por comercio electrónico.
+d) Razone si son independientes los sucesos “Tener página web” y “Realizar ventas por comercio electrónico”. ¿Son incompatibles?.",enunciados_PNG/2023 - Probabilidad_png/2023_reserva_3_c6.png,2023 - Probabilidad.pdf
+mates_2023_Reserva 4_EJERCICI O C5,mates,ccss_probabilidad_enunciados,2023,Reserva 4,EJERCICI O C5,"Una fábrica produce procesadores que se clasifican en un primer control en tres tipos, A, B y C, según la frecuencia a la que pueden trabajar. El 60% de los procesadores fabricados se clasifican de tipo A, el 30% de tipo B y el resto de tipo C. En un segundo control, se desechan el 20% de los procesadores de tipo A, el 50% de los de tipo B y el 60% de los de tipo C, por problemas al trabajar a ciertas temperatura. Si se elige un procesador de esta fábrica al azar, calcule la probabilidad de que:
+a) Sea descartado y sea de tipo A o de tipo B.
+b) Sea descartado.
+c) Sea de tipo C sabiendo que no ha sido desca rtado. EJERCICI O C5",enunciados_PNG/2023 - Probabilidad_png/2023_reserva_4_ejercici_o_c5.png,2023 - Probabilidad.pdf
+mates_2023_Reserva 4_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2023,Reserva 4,EJERCICIO C6,"El 75% del alumnado de un instituto utiliza la plataforma del centro como medio para comunicarse con sus profesores y el 40% lo hace a través del correo electrónico. Además, hay un 15% que no usa ninguno de estos medios. Se elige un estudiante de este instituto al azar.
+a) Calcule la probabilidad de que utilice ambos medios de comunicación.
+b) Calcule la probabilidad de que utilice solamente uno de estos medios de comunicación.
+c) Calcule la probabilidad de que utilice la plataforma del centro sabiendo que no usa el correo electrónico como medio de comunicación.
+d) Razone si los sucesos “Utilizar la plataforma del centro” y “Utilizar el correo electrónico” son independientes.",enunciados_PNG/2023 - Probabilidad_png/2023_reserva_4_c6.png,2023 - Probabilidad.pdf
+mates_2023_Julio_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2023,Julio,EJERCICIO C5,"Una caja contiene 3 fichas verdes, 2 fichas azules y 4 fichas rojas. Un juego consiste en realizar dos extracciones, sin reemplazamiento, de tal manera que el jugador que saque dos fichas azules gana el primer premio, el jugador que saque dos fichas verdes gana el segundo premio y el jugador que, de las dos fichas, una sea azul y otra de un color diferente gana el tercer premio.
+a) Calcule la probabilidad de que un jugador consiga el primer o el segundo premio.
+b) Calcule la probabilidad de que un jugador gane el tercer premio.
+c) Sabiendo que un jugador ha obtenido premio, ¿cuál es la probabilidad de que haya ganado el tercer premio?",enunciados_PNG/2023 - Probabilidad_png/2023_julio_c5.png,2023 - Probabilidad.pdf
+mates_2023_Julio_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2023,Julio,EJERCICIO C6,"Dados dos sucesos A y B de un experimento aleatorio, se sabe que: p(A)0'6; p(B)0'3; p(A/ B)0'6. Se pide:
+a) p(AB).
+b) p(AB) p(B A).
+c) p(B/ Ac)
+d) Razone si los sucesos A y B son independientes. ¿Son incompatibles?",enunciados_PNG/2023 - Probabilidad_png/2023_julio_c6.png,2023 - Probabilidad.pdf
+mates_2024_Reserva 1_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2024,Reserva 1,EJERCICIO C5,"En una encuesta realizada en una librería se ha determinado que el 45% de sus clientes compran novelas históricas, mientras que el 40% no compra novelas de fantasía. Además, de los clientes que compran novelas de fantasía, sólo el 30% compran también novelas históricas. Elegido un c liente al azar, calcule la probabilidad de que: a ) Compre novelas históricas y de fantasía. b ) No compre novelas históricas y tampoco de fantasía.
+c) Compre una novela de fantasía, sabiendo que no ha comprado ninguna novela histórica.",enunciados_PNG/2024 - Probabilidad_png/2024_reserva_1_c5.png,2024 - Probabilidad.pdf
+mates_2024_Reserva 2_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2024,Reserva 2,EJERCICIO C5,"Un grupo de 15 amigas se van a pasar un fin de semana a una casa rural. Al llegar reparten las tareas: 3 irán al mercado, 2 a comprar leña y el resto se quedarán en la casa. Para realizar el reparto de las tareas se introducen 15 papeletas en una urna de las que 3 tienen la palabra “mercado”, 2 la palabra “leña” y el resto la palabra “casa”. Cada una coge una papeleta de forma ordenada y sin reposición. Calcule la probabilidad de los siguientes sucesos:
+a) Las dos primeras papeletas extraídas tienen escrita la palabra “mercado”.
+b) Las dos primeras papeletas extraídas no tienen escrita la palabra “casa”.
+c) Si la segunda papeleta extraída tiene escrita “leña”, ¿cuál es la probabilidad de que la primera también tenga escrita “leña”?",enunciados_PNG/2024 - Probabilidad_png/2024_reserva_2_c5.png,2024 - Probabilidad.pdf
+mates_2024_Reserva 3_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2024,Reserva 3,EJERCICIO C5,"Una tienda vende ropa de tallas M, L y XL. Se sabe que el 65% de sus clientes son mujeres. El 50% de las mujeres que compran ropa en esa tienda usan la talla M y el 10 % la talla XL. De los hombres, el 40% usan la talla L y el 45% la XL.
+a) ¿Qué porcentaje de mujeres que compran ropa en esa tienda no usan la talla XL?
+b) Halle el porcentaje de clientes que no usan la talla L.
+c) De los clientes que usan la talla M, ¿qué porcentaje son mujeres?",enunciados_PNG/2024 - Probabilidad_png/2024_reserva_3_c5.png,2024 - Probabilidad.pdf
+mates_2024_Reserva 3_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2024,Reserva 3,EJERCICIO C6,"El 75% de los estudiantes de un centro aprueba la asignatura A y un 55% aprueba la asignatura B. Además, un 35% del total de estudiantes aprueba ambas. Elegido un estudiante al azar de este centro, calcule las siguientes probabilidades:
+a) No apruebe B sabiendo que ha aprobado A.
+b) Aprueba alguna de estas asignaturas.
+c) No apruebe ni A ni B.
+d) Haya aprobado A si se sabe que ha aprobado alguna de estas dos asignaturas. e) Estudie si los sucesos “aprobar A” y “aprobar B” son independientes.",enunciados_PNG/2024 - Probabilidad_png/2024_reserva_3_c6.png,2024 - Probabilidad.pdf
+mates_2024_Reserva 4_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2024,Reserva 4,EJERCICIO C5,"En cierta localidad el 30% de los habitantes profesan la religión A y el 50% profesan otras religiones diferentes de A. De los que profesan la religión A el 40% son mujeres. De las mujeres el 25% profesa la religión A. Se elige un habitante al azar de esa localidad. Calcule la probabilidad de que:
+a) No profese ninguna religión.
+b) Sea hombre.
+c) Solo verifique uno de los siguientes sucesos: ""profesa la religión A""; ""es mujer"".",enunciados_PNG/2024 - Probabilidad_png/2024_reserva_4_c5.png,2024 - Probabilidad.pdf
+mates_2024_Reserva 4_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2024,Reserva 4,EJERCICIO C6,"En una empresa, el 30% de los empleados ejercen de economistas y el 25% ejercen de abogados. El 75% de los economistas y el 60% de los abogados ocupan puestos directivos, mientras que, de los empleados que no ejercen ni de economistas ni de abogados, el 15% ocupa un puesto directivo. Seleccionado un empleado al azar de esta empresa, calcule la probabilidad de que:
+a) No ocupe un puesto directivo.
+b) Ejerza de economista sabiendo que ocupa un puesto directivo.",enunciados_PNG/2024 - Probabilidad_png/2024_reserva_4_c6.png,2024 - Probabilidad.pdf
+mates_2024_Julio_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2024,Julio,EJERCICIO C5,"El 7% de los habitantes de una ciudad no tienen coche ni moto. De entre los que tienen coche el 36% tienen moto y de entre los que no tienen coche el 28% no tienen moto. Se elige al azar un habitante de esa ciudad:
+a) Calcule la probabilidad de que solo tenga uno de los dos vehículos.
+b) Calcule la probabilidad de que al menos tenga uno de los dos vehículos.
+c) Si tiene coche, ¿cuál es la probabilidad de que no tenga moto?.
+d) ¿Son independientes los sucesos “tener coche” y “no tener moto”?¿Son incompatibles?",enunciados_PNG/2024 - Probabilidad_png/2024_julio_c5.png,2024 - Probabilidad.pdf
+mates_2024_Julio_EJERCICIO C6,mates,ccss_probabilidad_enunciados,2024,Julio,EJERCICIO C6,"Se ha realizado un estudio a personas que están teletrabajando actualmente. De estos, el 72% trabajan por cuenta ajena con contrato indefinido, el 11% lo hacen por cuenta ajena con contrato temporal y el resto trabajan por cuenta propia. El 87% de los que tienen contrato indefinido y el 86% de los que trabajan por cuenta propia piensan que el teletrabajo mejora la conciliación familiar. Además, este estudio ha revelado que el 12’51% de los trabajadores opinan que el teletrabajo no mejora la conciliación familiar. Seleccionado un teletrabajador al azar, determine la probabilidad de que:
+a) Opine que el teletrabajo sí mejora la conciliación familiar sabiendo que tienen un contrato temporal.
+b) No esté trabajando por cuenta propia sabiendo que opina que el teletrabajo mejora la conciliación familiar.",enunciados_PNG/2024 - Probabilidad_png/2024_julio_c6.png,2024 - Probabilidad.pdf
+mates_2024_Modelo_EJERCICIO 3A,mates,ccss_probabilidad_enunciados,2024,Modelo,EJERCICIO 3A,"Para tratar cierta enfermedad, en un hospital se utilizan tres fármacos distintos, A, B y C, administrándose a cada enfermo un solo fármaco. El 30% de los pacientes es tratado con el fármaco A, el 50% es tratado con el B y el resto con el fármaco C. La probabilidad de que la enfermedad se cure con el fármaco A es de 0.6, de que se cure con el fármaco B es de 0.8 y de que se cure con el fármaco C es de 0.7. Se elige al azar un paciente de ese hospital con esa enfermedad.
+a) Calcule la probabilidad de que el paciente se cure.
+b) Sabiendo que el paciente se ha curado, ¿cuál es la probabilidad de que haya sido tratado con el fármaco A? SOCIALES II. 2024 MODELO. EJERCICIO 3A",enunciados_PNG/2024 - Probabilidad_png/2024_modelo_3a.png,2024 - Probabilidad.pdf
+mates_2025_Junio_EJERCICIO C4,mates,ccss_probabilidad_enunciados,2025,Junio,EJERCICIO C4,"En una casa con trastero viven tres personas y cada una tiene un llavero con las llaves de la casa. El primer llavero contiene 7 llaves, el segundo 8 y el tercer 5. En cada uno de los llaveros hay una única llave que abre el trastero. Otra persona necesita abrir el trastero y, para ello, selecciona un l lavero al azar y, de este, elige una llave aleatoriamente e intenta abrirlo. Calcule la probabilidad d e que: a ) No haya acertado con la llave seleccionada.
+b) El llavero sea el tercero y la llave abra el trastero.
+c) Sabiendo que la llave elegida abre el trastero, esta pertenezca al primer o al tercer llavero.
+d) Si la llave no abre el trastero, esta no pertenezca al primer llavero.",enunciados_PNG/2025 - Probabilidad_png/2025_junio_c4.png,2025 - Probabilidad.pdf
+mates_2025_Reserva 2_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2025,Reserva 2,EJERCICIO C5,"Una encuesta realizada a personas que utilizan productos de cosmética arroja los siguientes datos: el 66% de las personas encuestadas son mujeres y, de estas, el 71 % utilizan cosmética natural. Además, se sabe que el 17’86 % son hombres que no utilizan cosmética natural. Se selecciona una de estas personas al azar.
+a) Calcule la probabilidad de que sea mujer o use cosmética natural.
+b) Calcule la probabilidad de que sea hombre y utilice cosmética natural.
+c) Sabiendo que no usa cosmética natural, calcule la probabilidad de que sea hombre.
+d) ¿Son sucesos incompatibles ""utilizar cosmética natural"" y ""ser mujer""? ¿Son independientes?",enunciados_PNG/2025 - Probabilidad_png/2025_reserva_2_c5.png,2025 - Probabilidad.pdf
+mates_2025_Reserva 3_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2025,Reserva 3,EJERCICIO C5,"En un estudio sobre la presencia de mujeres en las empresas tecnológicas se observa que el 20 % de los operarios, el 40 % de los ingenieros y el 30 % de los directivos son mujeres. Se sabe que en estas empresas el 20 % de las plantillas son directivos, el 35 % son ingenieros y el resto son operarios. Se elige un trabajador al azar de una de estas empresas.
+a) ¿Cuál es la probabilidad de que no sea un operario y sea mujer?
+b) Si el trabajador elegido no es un operario, ¿cuál es la probabilidad de que sea mujer?
+c) Si el trabajador elegido es hombre, ¿a qué colectivo es más probable que pertenezca?",enunciados_PNG/2025 - Probabilidad_png/2025_reserva_3_c5.png,2025 - Probabilidad.pdf
+mates_2025_Reserva 4_EJERCICIO C4,mates,ccss_probabilidad_enunciados,2025,Reserva 4,EJERCICIO C4,"Una empresa de tecnología fabrica tres modelos de teléfonos móviles: Básico, Intermedio y Premium. Cada modelo puede estar fabricado con uno de los siguientes tipos de pantalla: A o B. El 35 % de los móviles fabricados por esta e mpresa son del modelo Básico, el 45 % son del Intermedio y el resto son Premium. Se sabe q ue el 80 % de los móviles fabricados del modelo Básico tienen una pantalla del tipo A, mientra s que en el modelo Premium solo un 5 % dispone de esta pantalla. Finalmente, el 53 % de los teléfonos producidos tienen pantalla del tipo A. Se selecciona un teléfono al azar de la línea de producción. Determine la probabilidad de que:
+a) Tenga una pantalla del tipo A sabiendo que es del modelo Intermedio.
+b) Sea del modelo Intermedio sabiendo que tie ne pantalla del tipo A",enunciados_PNG/2025 - Probabilidad_png/2025_reserva_4_c4.png,2025 - Probabilidad.pdf
+mates_2025_Reserva 4_EJERCICIO C5,mates,ccss_probabilidad_enunciados,2025,Reserva 4,EJERCICIO C5,"El 20 % de los estudiantes de danza de una loc alidad andaluza están matriculados en la escuela A y el resto en la B. En estas escuelas se practi ca danza clásica y moderna y cada estudiante solo se puede matricular en una de estas dos especia lidades. De los matriculados en A, el 70 % practica danza clásica y el resto danza moderna. Se sab e también que el 32 % de los estudiantes de danza son de la escuela B y practican danza clásic a. Elegido al azar un estudiante de danza de la localidad, calcule la probabilidad de que:
+a) Practique danza clásica.
+b) Practique danza moderna si es de la escuela B.
+c) Estudie en la escuela B si resulta ser un estu diante de danza moderna.
+d) Sea de la escuela A, practique danza clásica y realice un Máster, sabiendo que el 80 % de los estudiantes de danza clásica de la escuela A re aliza un Máster",enunciados_PNG/2025 - Probabilidad_png/2025_reserva_4_c5.png,2025 - Probabilidad.pdf
+mates_2025_Julio_EJERCICIO C4,mates,ccss_probabilidad_enunciados,2025,Julio,EJERCICIO C4,"En un determinado centro educativo, el 50% del alumnado aprueba Historia, el 70% aprueba Matemáticas y el 30% aprueba ambas asignaturas. Si se elige un alumno al azar:
+a) Halle la probabilidad de que apruebe solo una de las dos asignaturas. b ) Halle la probabilidad de que no apruebe más de una asignatura. c ) Halle la probabilidad de que apruebe Historia si ha suspendido Matemáticas. d ) Determine si los sucesos “Aprobar Matemáticas” y “Aprobar Historia” son independientes? ¿Son incompatibles?.",enunciados_PNG/2025 - Probabilidad_png/2025_julio_c4.png,2025 - Probabilidad.pdf

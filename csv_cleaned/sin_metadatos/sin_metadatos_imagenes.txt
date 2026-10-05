@@ -1,0 +1,232 @@
+enunciados_PNG/2003 - Sistemas De Ecuaciones Lineales_png/2003_sistemas_de_ecuaciones_lineales_p04.png
+enunciados_PNG/2005 - Sistemas De Ecuaciones Lineales_png/2005_sistemas_de_ecuaciones_lineales_p08.png
+enunciados_PNG/2011 - Sistemas De Ecuaciones Lineales_png/2011_sistemas_de_ecuaciones_lineales_p03.png
+enunciados_PNG/2000 - Matrices Y Determinantes_png/2000_matrices_y_determinantes_p02.png
+enunciados_PNG/2000 - Matrices Y Determinantes_png/2000_matrices_y_determinantes_p03.png
+enunciados_PNG/2001 - Matrices Y Determinantes_png/2001_matrices_y_determinantes_p02.png
+enunciados_PNG/2001 - Matrices Y Determinantes_png/2001_matrices_y_determinantes_p03.png
+enunciados_PNG/2001 - Matrices Y Determinantes_png/2001_matrices_y_determinantes_p04.png
+enunciados_PNG/2001 - Matrices Y Determinantes_png/2001_matrices_y_determinantes_p06.png
+enunciados_PNG/2001 - Matrices Y Determinantes_png/2001_matrices_y_determinantes_p08.png
+enunciados_PNG/2002 - Matrices Y Determinantes_png/2002_matrices_y_determinantes_p02.png
+enunciados_PNG/2002 - Matrices Y Determinantes_png/2002_matrices_y_determinantes_p03.png
+enunciados_PNG/2002 - Matrices Y Determinantes_png/2002_matrices_y_determinantes_p04.png
+enunciados_PNG/2002 - Matrices Y Determinantes_png/2002_matrices_y_determinantes_p06.png
+enunciados_PNG/2003 - Matrices Y Determinantes_png/2003_matrices_y_determinantes_p02.png
+enunciados_PNG/2003 - Matrices Y Determinantes_png/2003_matrices_y_determinantes_p05.png
+enunciados_PNG/2004 - Matrices Y Determinantes_png/2004_matrices_y_determinantes_p05.png
+enunciados_PNG/2010 - Matrices Y Determinantes_png/2010_matrices_y_determinantes_p07.png
+enunciados_PNG/2011 - Matrices Y Determinantes_png/2011_matrices_y_determinantes_p08.png
+enunciados_PNG/2012 - Matrices Y Determinantes_png/2012_matrices_y_determinantes_p05.png
+enunciados_PNG/2014 - Matrices Y Determinantes_png/2014_matrices_y_determinantes_p07.png
+enunciados_PNG/2016 - Matrices Y Determinantes_png/2016_matrices_y_determinantes_p06.png
+enunciados_PNG/2017 - Matrices Y Determinantes_png/2017_matrices_y_determinantes_p05.png
+enunciados_PNG/2023 - Matrices Y Determinantes_png/2023_matrices_y_determinantes_p07.png
+enunciados_PNG/2001 - Equilibrio Químico_png/2001_equilibrio_quimico_p10.png
+enunciados_PNG/2002 - Equilibrio Químico_png/2002_equilibrio_quimico_p08.png
+enunciados_PNG/2008 - Reactividad Orgánica_png/2008_reactividad_organica_p05.png
+enunciados_PNG/2021 - Enlace Químico_png/2021_enlace_quimico_p05.png
+enunciados_PNG/2000 - Geometría_png/2000_geometria_p04.png
+enunciados_PNG/2000 - Geometría_png/2000_geometria_p09.png
+enunciados_PNG/2001 - Geometría_png/2001_geometria_p04.png
+enunciados_PNG/2002 - Geometría_png/2002_geometria_p05.png
+enunciados_PNG/2003 - Geometría_png/2003_geometria_p08.png
+enunciados_PNG/2004 - Geometría_png/2004_geometria_p10.png
+enunciados_PNG/2005 - Geometría_png/2005_geometria_p05.png
+enunciados_PNG/2005 - Geometría_png/2005_geometria_p12.png
+enunciados_PNG/2010 - Geometría_png/2010_geometria_p04.png
+enunciados_PNG/2010 - Geometría_png/2010_geometria_p06.png
+enunciados_PNG/2010 - Geometría_png/2010_geometria_p08.png
+enunciados_PNG/2011 - Geometría_png/2011_geometria_p09.png
+enunciados_PNG/2012 - Geometría_png/2012_geometria_p08.png
+enunciados_PNG/2012 - Geometría_png/2012_geometria_p09.png
+enunciados_PNG/2020 - Geometría_png/2020_geometria_p10.png
+enunciados_PNG/2020 - Geometría_png/2020_geometria_p12.png
+enunciados_PNG/2021 - Geometría_png/2021_geometria_p08.png
+enunciados_PNG/2022 - Geometría_png/2022_geometria_p06.png
+enunciados_PNG/2022 - Geometría_png/2022_geometria_p07.png
+enunciados_PNG/2023 - Geometría_png/2023_geometria_p10.png
+enunciados_PNG/2022 - Matrices Y Determinantes_png/2022_matrices_y_determinantes_p06.png
+enunciados_PNG/2024 - Matrices Y Determinantes_png/2024_matrices_y_determinantes_p03.png
+enunciados_PNG/2025 - Distribución normal y binomial_png/2025_distribucion_normal_y_binomial_p03.png
+enunciados_PNG/2006 - Integrales_png/2006_integrales_p02.png
+enunciados_PNG/2007 - Integrales_png/2007_integrales_p04.png
+enunciados_PNG/2007 - Integrales_png/2007_integrales_p06.png
+enunciados_PNG/2007 - Integrales_png/2007_integrales_p09.png
+enunciados_PNG/2007 - Integrales_png/2007_integrales_p10.png
+enunciados_PNG/2008 - Integrales_png/2008_integrales_p07.png
+enunciados_PNG/2008 - Integrales_png/2008_integrales_p09.png
+enunciados_PNG/2008 - Integrales_png/2008_integrales_p10.png
+enunciados_PNG/2009 - Integrales_png/2009_integrales_p03.png
+enunciados_PNG/2010 - Integrales_png/2010_integrales_p04.png
+enunciados_PNG/2010 - Integrales_png/2010_integrales_p06.png
+enunciados_PNG/2010 - Integrales_png/2010_integrales_p07.png
+enunciados_PNG/2010 - Integrales_png/2010_integrales_p08.png
+enunciados_PNG/2011 - Integrales_png/2011_integrales_p09.png
+enunciados_PNG/2015 - Integrales_png/2015_integrales_p03.png
+enunciados_PNG/2019 - Integrales_png/2019_integrales_p04.png
+enunciados_PNG/2019 - Integrales_png/2019_integrales_p07.png
+enunciados_PNG/2022 - Integrales_png/2022_integrales_p11.png
+enunciados_PNG/2002 - Funciones_png/2002_funciones_p02.png
+enunciados_PNG/2002 - Funciones_png/2002_funciones_p03.png
+enunciados_PNG/2003 - Funciones_png/2003_funciones_p02.png
+enunciados_PNG/2004 - Funciones_png/2004_funciones_p04.png
+enunciados_PNG/2005 - Funciones_png/2005_funciones_p12.png
+enunciados_PNG/2005 - Funciones_png/2005_funciones_p13.png
+enunciados_PNG/2006 - Funciones_png/2006_funciones_p11.png
+enunciados_PNG/2007 - Funciones_png/2007_funciones_p05.png
+enunciados_PNG/2007 - Funciones_png/2007_funciones_p06.png
+enunciados_PNG/2007 - Funciones_png/2007_funciones_p07.png
+enunciados_PNG/2007 - Funciones_png/2007_funciones_p08.png
+enunciados_PNG/2007 - Funciones_png/2007_funciones_p09.png
+enunciados_PNG/2007 - Funciones_png/2007_funciones_p11.png
+enunciados_PNG/2007 - Funciones_png/2007_funciones_p13.png
+enunciados_PNG/2008 - Funciones_png/2008_funciones_p04.png
+enunciados_PNG/2008 - Funciones_png/2008_funciones_p08.png
+enunciados_PNG/2008 - Funciones_png/2008_funciones_p11.png
+enunciados_PNG/2009 - Funciones_png/2009_funciones_p05.png
+enunciados_PNG/2009 - Funciones_png/2009_funciones_p07.png
+enunciados_PNG/2009 - Funciones_png/2009_funciones_p11.png
+enunciados_PNG/2009 - Funciones_png/2009_funciones_p12.png
+enunciados_PNG/2010 - Funciones_png/2010_funciones_p08.png
+enunciados_PNG/2010 - Funciones_png/2010_funciones_p11.png
+enunciados_PNG/2012 - Funciones_png/2012_funciones_p02.png
+enunciados_PNG/2012 - Funciones_png/2012_funciones_p07.png
+enunciados_PNG/2012 - Funciones_png/2012_funciones_p10.png
+enunciados_PNG/2012 - Funciones_png/2012_funciones_p12.png
+enunciados_PNG/2013 - Funciones_png/2013_funciones_p03.png
+enunciados_PNG/2013 - Funciones_png/2013_funciones_p12.png
+enunciados_PNG/2014 - Funciones_png/2014_funciones_p12.png
+enunciados_PNG/2021 - Funciones_png/2021_funciones_p03.png
+enunciados_PNG/2021 - Funciones_png/2021_funciones_p10.png
+enunciados_PNG/2021 - Funciones_png/2021_funciones_p13.png
+enunciados_PNG/2022 - Funciones_png/2022_funciones_p11.png
+enunciados_PNG/2024 - Funciones_png/2024_funciones_p06.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p02.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p03.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p04.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p05.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p06.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p07.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p08.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p09.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p10.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p11.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p12.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p13.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p14.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p15.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p16.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p17.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p18.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p19.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p20.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p21.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p22.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p23.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p24.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p25.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p26.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p27.png
+enunciados_PNG/2009 - Contraste De Hipótesis_png/2009_contraste_de_hipotesis_p28.png
+enunciados_PNG/2025 - Probabilidad_png/2025_probabilidad_p04.png
+enunciados_PNG/2026 - Probabilidad_png/2026_probabilidad_p04.png
+enunciados_PNG/2001 - Probabilidad_png/2001_probabilidad_p04.png
+enunciados_PNG/2001 - Probabilidad_png/2001_probabilidad_p05.png
+enunciados_PNG/2001 - Probabilidad_png/2001_probabilidad_p06.png
+enunciados_PNG/2001 - Probabilidad_png/2001_probabilidad_p09.png
+enunciados_PNG/2001 - Probabilidad_png/2001_probabilidad_p10.png
+enunciados_PNG/2001 - Probabilidad_png/2001_probabilidad_p11.png
+enunciados_PNG/2002 - Probabilidad_png/2002_probabilidad_p03.png
+enunciados_PNG/2002 - Probabilidad_png/2002_probabilidad_p04.png
+enunciados_PNG/2002 - Probabilidad_png/2002_probabilidad_p05.png
+enunciados_PNG/2002 - Probabilidad_png/2002_probabilidad_p06.png
+enunciados_PNG/2002 - Probabilidad_png/2002_probabilidad_p07.png
+enunciados_PNG/2002 - Probabilidad_png/2002_probabilidad_p08.png
+enunciados_PNG/2002 - Probabilidad_png/2002_probabilidad_p09.png
+enunciados_PNG/2002 - Probabilidad_png/2002_probabilidad_p10.png
+enunciados_PNG/2002 - Probabilidad_png/2002_probabilidad_p11.png
+enunciados_PNG/2003 - Probabilidad_png/2003_probabilidad_p04.png
+enunciados_PNG/2003 - Probabilidad_png/2003_probabilidad_p05.png
+enunciados_PNG/2003 - Probabilidad_png/2003_probabilidad_p07.png
+enunciados_PNG/2003 - Probabilidad_png/2003_probabilidad_p08.png
+enunciados_PNG/2003 - Probabilidad_png/2003_probabilidad_p10.png
+enunciados_PNG/2003 - Probabilidad_png/2003_probabilidad_p11.png
+enunciados_PNG/2004 - Probabilidad_png/2004_probabilidad_p03.png
+enunciados_PNG/2004 - Probabilidad_png/2004_probabilidad_p05.png
+enunciados_PNG/2004 - Probabilidad_png/2004_probabilidad_p06.png
+enunciados_PNG/2004 - Probabilidad_png/2004_probabilidad_p07.png
+enunciados_PNG/2004 - Probabilidad_png/2004_probabilidad_p08.png
+enunciados_PNG/2004 - Probabilidad_png/2004_probabilidad_p09.png
+enunciados_PNG/2004 - Probabilidad_png/2004_probabilidad_p10.png
+enunciados_PNG/2004 - Probabilidad_png/2004_probabilidad_p11.png
+enunciados_PNG/2005 - Probabilidad_png/2005_probabilidad_p03.png
+enunciados_PNG/2005 - Probabilidad_png/2005_probabilidad_p04.png
+enunciados_PNG/2005 - Probabilidad_png/2005_probabilidad_p05.png
+enunciados_PNG/2005 - Probabilidad_png/2005_probabilidad_p06.png
+enunciados_PNG/2005 - Probabilidad_png/2005_probabilidad_p08.png
+enunciados_PNG/2005 - Probabilidad_png/2005_probabilidad_p10.png
+enunciados_PNG/2005 - Probabilidad_png/2005_probabilidad_p11.png
+enunciados_PNG/2006 - Probabilidad_png/2006_probabilidad_p02.png
+enunciados_PNG/2006 - Probabilidad_png/2006_probabilidad_p03.png
+enunciados_PNG/2006 - Probabilidad_png/2006_probabilidad_p05.png
+enunciados_PNG/2006 - Probabilidad_png/2006_probabilidad_p06.png
+enunciados_PNG/2006 - Probabilidad_png/2006_probabilidad_p07.png
+enunciados_PNG/2006 - Probabilidad_png/2006_probabilidad_p08.png
+enunciados_PNG/2006 - Probabilidad_png/2006_probabilidad_p09.png
+enunciados_PNG/2006 - Probabilidad_png/2006_probabilidad_p10.png
+enunciados_PNG/2006 - Probabilidad_png/2006_probabilidad_p11.png
+enunciados_PNG/2007 - Probabilidad_png/2007_probabilidad_p09.png
+enunciados_PNG/2007 - Probabilidad_png/2007_probabilidad_p13.png
+enunciados_PNG/2009 - Probabilidad_png/2009_probabilidad_p02.png
+enunciados_PNG/2009 - Probabilidad_png/2009_probabilidad_p02_2.png
+enunciados_PNG/2009 - Probabilidad_png/2009_probabilidad_p05.png
+enunciados_PNG/2009 - Probabilidad_png/2009_probabilidad_p07.png
+enunciados_PNG/2009 - Probabilidad_png/2009_probabilidad_p10.png
+enunciados_PNG/2009 - Probabilidad_png/2009_probabilidad_p11.png
+enunciados_PNG/2010 - Probabilidad_png/2010_probabilidad_p02.png
+enunciados_PNG/2010 - Probabilidad_png/2010_probabilidad_p03.png
+enunciados_PNG/2010 - Probabilidad_png/2010_probabilidad_p05.png
+enunciados_PNG/2010 - Probabilidad_png/2010_probabilidad_p07.png
+enunciados_PNG/2010 - Probabilidad_png/2010_probabilidad_p08.png
+enunciados_PNG/2010 - Probabilidad_png/2010_probabilidad_p09.png
+enunciados_PNG/2010 - Probabilidad_png/2010_probabilidad_p11.png
+enunciados_PNG/2010 - Probabilidad_png/2010_probabilidad_p12.png
+enunciados_PNG/2010 - Probabilidad_png/2010_probabilidad_p13.png
+enunciados_PNG/2011 - Probabilidad_png/2011_probabilidad_p02.png
+enunciados_PNG/2011 - Probabilidad_png/2011_probabilidad_p03.png
+enunciados_PNG/2011 - Probabilidad_png/2011_probabilidad_p04.png
+enunciados_PNG/2011 - Probabilidad_png/2011_probabilidad_p05.png
+enunciados_PNG/2011 - Probabilidad_png/2011_probabilidad_p06.png
+enunciados_PNG/2011 - Probabilidad_png/2011_probabilidad_p07.png
+enunciados_PNG/2011 - Probabilidad_png/2011_probabilidad_p08.png
+enunciados_PNG/2011 - Probabilidad_png/2011_probabilidad_p09.png
+enunciados_PNG/2011 - Probabilidad_png/2011_probabilidad_p10.png
+enunciados_PNG/2011 - Probabilidad_png/2011_probabilidad_p11.png
+enunciados_PNG/2011 - Probabilidad_png/2011_probabilidad_p12.png
+enunciados_PNG/2012 - Probabilidad_png/2012_probabilidad_p02.png
+enunciados_PNG/2012 - Probabilidad_png/2012_probabilidad_p03.png
+enunciados_PNG/2012 - Probabilidad_png/2012_probabilidad_p04.png
+enunciados_PNG/2012 - Probabilidad_png/2012_probabilidad_p05.png
+enunciados_PNG/2012 - Probabilidad_png/2012_probabilidad_p06.png
+enunciados_PNG/2012 - Probabilidad_png/2012_probabilidad_p07.png
+enunciados_PNG/2012 - Probabilidad_png/2012_probabilidad_p08.png
+enunciados_PNG/2012 - Probabilidad_png/2012_probabilidad_p09.png
+enunciados_PNG/2012 - Probabilidad_png/2012_probabilidad_p10.png
+enunciados_PNG/2012 - Probabilidad_png/2012_probabilidad_p11.png
+enunciados_PNG/2013 - Probabilidad_png/2013_probabilidad_p02.png
+enunciados_PNG/2013 - Probabilidad_png/2013_probabilidad_p12.png
+enunciados_PNG/2013 - Probabilidad_png/2013_probabilidad_p13.png
+enunciados_PNG/2014 - Probabilidad_png/2014_probabilidad_p02.png
+enunciados_PNG/2014 - Probabilidad_png/2014_probabilidad_p03.png
+enunciados_PNG/2014 - Probabilidad_png/2014_probabilidad_p08.png
+enunciados_PNG/2015 - Probabilidad_png/2015_probabilidad_p02.png
+enunciados_PNG/2015 - Probabilidad_png/2015_probabilidad_p12.png
+enunciados_PNG/2015 - Probabilidad_png/2015_probabilidad_p13.png
+enunciados_PNG/2018 - Probabilidad_png/2018_probabilidad_p13.png
+enunciados_PNG/2024 - Probabilidad_png/2024_probabilidad_p02.png
+enunciados_PNG/2024 - Probabilidad_png/2024_probabilidad_p03.png
+enunciados_PNG/2024 - Probabilidad_png/2024_probabilidad_p05.png
+enunciados_PNG/2024 - Probabilidad_png/2024_probabilidad_p07.png
+enunciados_PNG/2025 - Probabilidad_png/2025_probabilidad_p03.png
+enunciados_PNG/2025 - Probabilidad_png/2025_probabilidad_p09.png
