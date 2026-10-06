@@ -1,0 +1,215 @@
+asignatura,año,convocatoria,ejercicio,tema,metadata,enunciado,archivo,imagen,aviso
+Mates CCSS,2010,Junio,Ejercicio 4 Opción B,Contraste De Hipótesis,SOCIALES II. 2010 JUNIO. EJERCICIO 4 OPCIÓN B,"Un agricultor piensa que la producción media por naranjo, en su finca, es de 88 kg o más. Para
+confirmar su creencia selecciona, al azar, 10 de sus naranjos, pesa su producción y obtiene
+como resultado, en kg, para cada uno de ellos:
+80 , 83 , 87 , 95 , 86 , 92 , 85 , 83 , 84 , 95
+Se acepta que la producción de un naranjo sigue una distribución Normal con desviación típica
+5 kg.
+a) Plantee el contraste de hipótesis unilateral que responda a las condiciones del problema y
+determine la región crítica para un nivel de significación 0.05.
+b) Con los datos de esta muestra, ¿qué conclusión debe obtener el agricultor sobre la",2010 - Contraste De Hipótesis.pdf,enunciados_PNG/2010 - Contraste De Hipótesis_png/2010_junio_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2010,Reserva 1,Ejercicio 4 Opción B,Contraste De Hipótesis,SOCIALES II. 2010 RESERVA 1. EJERCICIO 4 OPCIÓN B,"Una máquina de envasado está diseñada para llenar bolsas con 300 g de almendras. Para
+comprobar si funciona correctamente, se toma una muestra de 100 bolsas y se observa que su
+peso medio es de 297 g. Suponiendo que la variable “peso” tiene una distribución Normal con
+varianza 16, y utilizando un contraste bilateral ¿es aceptable, a un nivel de significación de",2010 - Contraste De Hipótesis.pdf,enunciados_PNG/2010 - Contraste De Hipótesis_png/2010_reserva_1_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2010,Reserva 2,Ejercicio 4 Opción B,Contraste De Hipótesis,SOCIALES II. 2010 RESERVA 2. EJERCICIO 4 OPCIÓN B,"Se sabe que los años de vida de los individuos de una población es una variable aleatoria
+Normal con desviación típica 8.9 años. Una muestra aleatoria de 100 individuos de esa
+población mostró una vida media de 71.8 años. Mediante un contraste unilateral, ¿puede
+afirmarse con los datos anteriores que la vida media es mayor de 70 años, a un nivel de",2010 - Contraste De Hipótesis.pdf,enunciados_PNG/2010 - Contraste De Hipótesis_png/2010_reserva_2_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2010,Reserva 4,Ejercicio 4 Opción B,Contraste De Hipótesis,SOCIALES II. 2010 RESERVA 4. EJERCICIO 4 OPCIÓN B,"El peso de los sacos de patatas de una cooperativa es una variable aleatoria Normal con
+desviación típica 0.25 kg. El agente de ventas de esa cooperativa afirma que el peso medio de los
+sacos no baja de 5 kg.
+Se desea contrastar estadísticamente esta hipótesis. Para ello se toma una muestra aleatoria de 20
+sacos y se obtiene que su peso medio es de 4.8 kg.
+a) Determine las hipótesis del contraste que se plantea en este enunciado.
+b) Halle la región crítica de este contraste para0.01?.
+c) Con los datos de la muestra tomada,¿puede decirse que existe evidencia estadística suficiente para",2010 - Contraste De Hipótesis.pdf,enunciados_PNG/2010 - Contraste De Hipótesis_png/2010_reserva_4_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2010,Septiembre,Ejercicio 4 Opción A,Contraste De Hipótesis,SOCIALES II. 2010 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A,"En una determinada especie animal el porcentaje de mortalidad debida a una enfermedad
+vírica es de al menos un 40%.
+Se está realizando un estudio para probar la eficacia de un fármaco que permite tratar esa
+enfermedad y, consecuentemente, reducir el porcentaje de mortalidad en esa especie. Para ello,
+se suministró el fármaco a 50 sujetos enfermos, elegidos al azar, de los que murieron 14.
+A la vista de estos datos, y tomando como nivel de significación 0.015, ¿ se puede afirmar que
+existe evidencia estadística suficiente para rechazar la hipótesis H : p 0.4, donde p es la
+0",2010 - Contraste De Hipótesis.pdf,enunciados_PNG/2010 - Contraste De Hipótesis_png/2010_septiembre_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2011,Junio,Ejercicio 4 Opción A,Contraste De Hipótesis,SOCIALES II. 2011 JUNIO. EJERCICIO 4 OPCIÓN A,"Una máquina está preparada para fabricar piezas de, a lo sumo, 10 cm de longitud.
+Se toma una muestra de 1000 piezas, comprobándose que la media de sus longitudes es de
+10.0037 cm. La longitud de las piezas fabricadas por esa máquina sigue una ley Normal con
+desviación típica 0.2 cm.
+a) Plantee un contraste de hipótesis unilateral para comprobar si con los datos de esa muestra
+es posible afirmar que la media de la longitud de las piezas fabricadas por la máquina es de
+más de 10cm.
+b) Determine la región de aceptación de la hipótesis nula de ese contraste para un nivel de
+significación 0.025.
+c) Con los datos de la muestra y usando el contraste de hipótesis del primer apartado,¿qué",2011 - Contraste De Hipótesis.pdf,enunciados_PNG/2011 - Contraste De Hipótesis_png/2011_junio_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2011,Reserva 1,Ejercicio 4 Opción A,Contraste De Hipótesis,SOCIALES II. 2011 RESERVA 1. EJERCICIO 4 OPCIÓN A,"El director de una televisión afirma que un nuevo programa que va a emitirse será visto, al
+menos, por un 30% de personas. Una vez emitido se realizó una encuesta a 500 personas,
+elegidas al azar, y ésta reveló que 130 de ellas habían visto ese programa.
+a) Formule la hipótesis nula y la alternativa del contraste de hipótesis que permite determinar
+si los datos de la encuesta realizada son compatibles con la afirmación del director.
+b) Halle la región crítica de ese contraste para un nivel de significación del 5.5%.
+c) Según el dato obtenido en el apartado anterior ¿qué conclusión se obtiene sobre la",2011 - Contraste De Hipótesis.pdf,enunciados_PNG/2011 - Contraste De Hipótesis_png/2011_reserva_1_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2011,Reserva 2,Ejercicio 4 Opción A,Contraste De Hipótesis,SOCIALES II. 2011 RESERVA 2. EJERCICIO 4 OPCIÓN A,"El director de un banco afirma que la cantidad media de dinero extraído, por cliente, de un
+cajero automático de su sucursal no supera los 120 euros. Para contrastar esta hipótesis elige al
+azar 100 extracciones de este cajero y obtiene una media muestral de 130 euros. Se sabe que la
+cantidad de dinero extraído por un cliente en un cajero automático se distribuye según una ley
+Normal de media desconocida y desviación típica 67 euros.
+a) Plantee el contraste de hipótesis asociado al enunciado.
+b) Determine la región de aceptación, para un nivel de significación 0.05.
+c) Con los datos muestrales tomados, ¿existe evidencia estadística para rechazar la hipótesis de",2011 - Contraste De Hipótesis.pdf,enunciados_PNG/2011 - Contraste De Hipótesis_png/2011_reserva_2_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2011,Reserva 3,Ejercicio 4 Opción B,Contraste De Hipótesis,SOCIALES II. 2011 RESERVA 3. EJERCICIO 4 OPCIÓN B,"Un estudio sociológico afirma que el 70% de las familias cena viendo la televisión. Se desea
+contrastar la veracidad de esta afirmación y, para ello, se toma una muestra de 500 familias, en
+las que se observa que 340 ven la televisión mientras cenan. Decida, mediante un contraste de",2011 - Contraste De Hipótesis.pdf,enunciados_PNG/2011 - Contraste De Hipótesis_png/2011_reserva_3_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2011,Septiembre,Ejercicio 4 Opción A,Contraste De Hipótesis,SOCIALES II. 2011 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A,"Suponiendo que la variable “años de vida de los individuos de un país” sigue una distribución
+Normal con desviación típica 8.9 años, se desea contrastar la hipótesis de que la vida media de
+los mismos no supera los 70 años.
+A partir de una muestra aleatoria de 100 individuos se ha obtenido que su vida media ha sido
+71.8 años.
+a) Formule el contraste de hipótesis que indica el enunciado.
+b) Determine la región crítica a un nivel de significación del 5 %.
+c) Con los datos muestrales, ¿existe evidencia estadística para rechazar la hipótesis a ese nivel",2011 - Contraste De Hipótesis.pdf,enunciados_PNG/2011 - Contraste De Hipótesis_png/2011_septiembre_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2012,Junio,Ejercicio 4 Opción B,Contraste De Hipótesis,SOCIALES II. 2012 JUNIO. EJERCICIO 4 OPCIÓN B,"Se considera que, a lo sumo, el 5% de los artículos guardados en un almacén son defectuosos.
+Pasado un tiempo, la persona encargada del mantenimiento del almacén decide investigar si
+esa estimación es adecuada. Para ello, escoge aleatoriamente 300 artículos de los que 35 están
+defectuosos.
+a) Plantee un contraste de hipótesis (H : p0'05) para determinar si ha aumentado la
+0
+proporción de artículos defectuosos. Obtenga la región crítica del contraste para un nivel de
+significación del 5%",2012 - Contraste De Hipótesis.pdf,enunciados_PNG/2012 - Contraste De Hipótesis_png/2012_junio_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2012,Reserva 1,Ejercicio 4 Opción B,Contraste De Hipótesis,SOCIALES II. 2012 RESERVA 1. EJERCICIO 4 OPCIÓN B,"Un informe de un Ayuntamiento afirma que al menos el 26% de los usuarios del carril bici
+habrían utilizado el coche particular para sus desplazamientos de no haber existido dicho
+carril. Sin embargo, un periódico local anuncia la falsedad del dato, informando que una
+encuesta propia indica que solo 240 de los 1000 usuarios encuestados afirman que habrían
+utilizado el coche particular.
+a) Establezca un contraste, con hipótesis nula H : p0.26, para verificar la afirmación del
+0
+Ayuntamiento e indique la región crítica de dicho contraste para un nivel de significación del
+5%.",2012 - Contraste De Hipótesis.pdf,enunciados_PNG/2012 - Contraste De Hipótesis_png/2012_reserva_1_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2012,Reserva 2,Ejercicio 4 Opción B,Contraste De Hipótesis,SOCIALES II. 2012 RESERVA 2. EJERCICIO 4 OPCIÓN B,"Se cree que al menos el 25% de los usuarios de teléfonos móviles son de contrato. De una
+encuesta realizada a 950 personas, elegida al azar, 200 de ellas manifestaron que tenían
+teléfono móvil de contrato. A la vista de estos resultados y con un nivel de significación del 5%,
+¿puede admitirse que la proporción de personas con contrato en su teléfono móvil ha
+disminuido?. Utilice para la resolución del problema un contraste de hipótesis con hipótesis",2012 - Contraste De Hipótesis.pdf,enunciados_PNG/2012 - Contraste De Hipótesis_png/2012_reserva_2_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2012,Reserva 4,Ejercicio 4 Opción A,Contraste De Hipótesis,SOCIALES II. 2012 RESERVA 4. EJERCICIO 4 OPCIÓN A,"Un índice para calibrar la madurez lectora de los alumnos de primaria se distribuye según una
+ley Normal con desviación típica 2. Elegida una muestra de 18 alumnos en un centro de
+primaria, se obtiene una media muestral de 10.8 en dicho índice. Mediante el uso de un
+contraste de hipótesis, ¿se puede aceptar, con un nivel de significación de 1%, la hipótesis nula
+de que la media del índice de madurez lectora de los alumnos de este centro no es inferior a",2012 - Contraste De Hipótesis.pdf,enunciados_PNG/2012 - Contraste De Hipótesis_png/2012_reserva_4_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2012,Septiembre,Ejercicio 4 Opción A,Contraste De Hipótesis,SOCIALES II. 2012 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A,"En una caja de ahorros se sabe que el porcentaje de los nuevos clientes que contratan un plan
+de pensiones no supera el 23%. El director de una de las sucursales decide hacer un regalo a
+cualquier nuevo cliente que contrate uno de esos planes y, tras un mes, comprueba que 110 de
+los 470 nuevos clientes han contratado un plan de pensiones.
+a) Plantee un contraste de hipótesis, con H : p0.23, para decidir si, con los datos dados, se
+0
+puede afirmar que la medida del director ha aumentado la contratación de estos planes de
+pensiones. Halle la región de aceptación de este contraste de hipótesis para un nivel de
+significación del 5%
+b) Según el resultado del apartado anterior, ¿qué conclusión podemos obtener sobre la medida",2012 - Contraste De Hipótesis.pdf,enunciados_PNG/2012 - Contraste De Hipótesis_png/2012_septiembre_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2013,Reserva 1,Ejercicio 4 Opción A,Contraste De Hipótesis,SOCIALES II. 2013 RESERVA 1. EJERCICIO 4 OPCIÓN A,"Un director sanitario sostiene que el índice de Masa Corporal (IMC) media de los adolescentes
+de su distrito no supera el nivel 25 (sobrepeso). Para contrastar su afirmación toma una
+muestra aleatoria de 225 adolescentes que da como resultado un IMC medio de 26. Sabiendo
+que el IMC sigue una distribución Normal con desviación típica 5 discuta, mediante un
+contraste de hipótesis con H :25, si la afirmación del director sanitario es correcta, con un
+0",2013 - Contraste De Hipótesis.pdf,enunciados_PNG/2013 - Contraste De Hipótesis_png/2013_reserva_1_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2013,Reserva 3,Ejercicio 4. Opción B,Contraste De Hipótesis,SOCIALES II. 2013 RESERVA 3. EJERCICIO 4. OPCIÓN B,"Los representantes de un partido político creen que la proporción de sus votantes será al menos
+del 35%. Para confirmarlo eligen una muestra al azar de 1200 votantes y obtienen que 336 de
+ellos son partidarios de votarles. Mediante un contraste de hipótesis, con H : p0.35,y a un
+0
+nivel de significación del 0.01, ¿se puede admitir como cierta la creencia de los representantes",2013 - Contraste De Hipótesis.pdf,enunciados_PNG/2013 - Contraste De Hipótesis_png/2013_reserva_3_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2013,Septiembre,Ejercicio 4 Opción A,Contraste De Hipótesis,SOCIALES II. 2013 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A,"En una bodega utilizan una maquina que debe envasar el vino en botellas con un contenido de
+750 ml. Para comprobar si esa máquina funciona correctamente, se toma una muestra de 36
+botellas y se observa que el contenido medio de las mismas es de 748 ml. Suponiendo que la
+variable ""contenido"" sigue una distribución Normal con varianza 25, analice mediante un
+contraste de hipótesis bilateral (H :750) si se puede aceptar, con un nivel de significación
+0",2013 - Contraste De Hipótesis.pdf,enunciados_PNG/2013 - Contraste De Hipótesis_png/2013_septiembre_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2014,Junio,Ejercicio 4 Opción B,Contraste De Hipótesis,SOCIALES II. 2014 JUNIO. EJERCICIO 4 OPCIÓN B,"Un titular de prensa afirma que el 70% de los jóvenes de una ciudad utilizan las redes sociales
+para comunicarse.
+Para contrastar la veracidad de tal afirmación se toma una muestra aleatoria de 500 jóvenes de
+esa ciudad, y se obtiene que 340 de ellos utilizan la red para comunicarse.
+Analice mediante un contraste de hipótesis bilateral, (H : p0'7), si se puede aceptar, con un
+0",2014 - Contraste De Hipótesis.pdf,enunciados_PNG/2014 - Contraste De Hipótesis_png/2014_junio_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2014,Reserva 2,Ejercicio 4. Opción B,Contraste De Hipótesis,SOCIALES II. 2014 RESERVA 2. EJERCICIO 4. OPCIÓN B,"Queremos estudiar la proporción de personas de una población que usan una determinada
+marca de ropa; para ello se hace una encuesta a 950 personas y se obtiene que 215 de ellas usan
+esa marca. Utilizando un contraste de hipótesis (H : p0.25) :
+0
+a) ¿Podemos afirmar con estos datos y con un nivel de significación del 5% que al menos el
+25% de toda la población usa esa marca de ropa?",2014 - Contraste De Hipótesis.pdf,enunciados_PNG/2014 - Contraste De Hipótesis_png/2014_reserva_2_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2014,Reserva 4,Ejercicio 4. Opción A,Contraste De Hipótesis,SOCIALES II. 2014 RESERVA 4. EJERCICIO 4. OPCIÓN A,"Los responsables de tráfico de una ciudad trabajan con la hipótesis de que, al menos, el 65% de
+sus habitantes son favorables a la creación de una red de carril-bici en esa ciudad.
+Encuestados 950 habitantes, elegidos al azar, 590 están a favor de tal medida.
+a) Mediante un contraste de hipótesis, (H : p0.65), con un nivel de significación del 10%,
+0
+¿se puede decir que tienen razón los responsables de tráfico de esa ciudad?",2014 - Contraste De Hipótesis.pdf,enunciados_PNG/2014 - Contraste De Hipótesis_png/2014_reserva_4_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2014,Septiembre,Ejercicio 4 Opción A,Contraste De Hipótesis,SOCIALES II. 2014 SEPTIEMBRE. EJERCICIO 4 OPCIÓN A,"La concejalía de Educación de una determinada localidad afirma que el tiempo medio dedicado
+a la lectura por los jóvenes de entre 15 y 20 años de edad es, a lo sumo, de 8 horas semanales.
+Para contrastar esta hipótesis (H :8), se escoge al azar una muestra de 100 jóvenes, de
+0
+entre 15 y 20 años, y se obtiene una media de 8.3 horas de dedicación a la lectura. Supuesto que
+el tiempo dedicado a la lectura sigue una ley Normal con desviación típica igual a 1 hora, ¿qué",2014 - Contraste De Hipótesis.pdf,enunciados_PNG/2014 - Contraste De Hipótesis_png/2014_septiembre_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2015,Junio,Ejercicio 4 Op Ción A,Contraste De Hipótesis,SOCIALES II. 2015 JUNIO. EJERCICIO 4 OP CIÓN A,"La calificación en Matemáticas de los alumnos de un centro docente es una variable aleatoria
+que sigue una distribución Normal de desviación típica 1’2. Una muestra de 10 alumnos ha
+dado las siguientes calificaciones: 3 8 6 3 9 1 7 7 5 6
+a) Se tiene la creencia de que la calificación media de los alumnos del centro en Matemáticas es
+a lo sumo 5 puntos. Con un nivel de significación del 5%, plantee el contraste unilateral
+correspondiente (H :5), determine la región crítica y razone si la creencia es fundada o
+0
+no.",2015 - Contraste De Hipótesis.pdf,enunciados_PNG/2015 - Contraste De Hipótesis_png/2015_junio_ejercicio_4_op_cion_a_2.png,
+Mates CCSS,2015,Reserva 1,Ejercicio 4. Opcion A,Contraste De Hipótesis,SOCIALES II. 2015 RESERVA 1 EJERCICIO 4. OPCION A,"La talla media de los alumnos de una Universidad sigue una distribución Normal de media 170
+cm y desviación típica 6 cm. Estudios recientes hacen sospechar que dicha talla media ha
+aumentado. Para confirmar, o no, esa sospecha se ha tomado una muestra de 64 estudiantes de
+esa Universidad, cuya talla media ha resultado ser de 172 cm. Con un nivel de significación del
+1%, plantee un contraste de hipótesis (H :170), determine la región crítica de ese
+0",2015 - Contraste De Hipótesis.pdf,enunciados_PNG/2015 - Contraste De Hipótesis_png/2015_reserva_1_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2015,Reserva 2,Ejercicio 4. Opcion A,Contraste De Hipótesis,SOCIALES II. 2015 RESERVA 2 EJERCICIO 4. OPCION A,"Una característica poblacional X sigue una distribución Normal N(,2.1). Sobre ella se
+formula un contraste de hipótesis bilateral con H :5.5a un nivel de significación del 8%.
+0
+Se extrae una muestra aleatoria simple de tamaño 25 que proporciona una media muestral de
+6.3. Plantee dicho contraste, determine su región crítica y razone si se puede aceptar la",2015 - Contraste De Hipótesis.pdf,enunciados_PNG/2015 - Contraste De Hipótesis_png/2015_reserva_2_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2015,Reserva 3,Ejercicio 4. Opcion A,Contraste De Hipótesis,SOCIALES II. 2015 RESERVA 3 EJERCICIO 4. OPCION A,"El servicio de atención al cliente de una empresa funciona eficazmente si el tiempo medio de
+atención es inferior o igual a 7 minutos. Se toma una muestra de 36 clientes atendidos y se
+observa que el tiempo medio es de 8 minutos. Suponiendo que el tiempo empleado en atender a
+un cliente sigue una distribución Normal con varianza 16, plantee un contraste de hipótesis
+(H :7), con un nivel de significación de 0.05, determine la región crítica de este contraste
+0",2015 - Contraste De Hipótesis.pdf,enunciados_PNG/2015 - Contraste De Hipótesis_png/2015_reserva_3_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2015,Reserva 4,Ejercicio 4. Opcion B,Contraste De Hipótesis,SOCIALES II. 2015 RESERVA 4 EJERCICIO 4. OPCION B,"El peso medio de los pájaros de una determinada especie que habita en un parque natural se
+consideraba no inferior a 110 g, pero los biólogos del parque sostienen ahora la hipótesis de que
+dicho peso medio ha disminuido a consecuencia del cambio climático. Se ha tomado una
+muestra de 100 pájaros de esta especie y se ha obtenido un peso medio de 108 g. Se sabe que la
+variable que mide el peso de los pájaros de esta especie sigue una distribución Normal con
+desviación típica igual a 6 g.
+Plantee un contraste de hipótesis (H :110), con un nivel de significación del 5%,
+0
+determine la región crítica de este contraste y, utilizando ésta, razone si con ese nivel se puede",2015 - Contraste De Hipótesis.pdf,enunciados_PNG/2015 - Contraste De Hipótesis_png/2015_reserva_4_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2015,Septiembre,Ejercicio 4 Opción B,Contraste De Hipótesis,SOCIALES II. 2015 SEPTIEMBRE. EJERCICIO 4 OPCIÓN B,"La concentración de arsénico en los moluscos de una zona costera sigue una ley Normal con
+desviación típica 6 mg/kg. Para verificar la calidad de estos moluscos se toma una muestra
+aleatoria de tamaño 36 para contrastar si la media poblacional no supera el límite máximo de
+80 mg/kg permitido por la normativa sanitaria (H :80).
+0
+a) Determine la región crítica de este contraste a un nivel de significación del 5%.
+b) ¿Debe rechazarse esta hipótesis nula, al nivel del 5%, si en esa muestra de 36 moluscos se",2015 - Contraste De Hipótesis.pdf,enunciados_PNG/2015 - Contraste De Hipótesis_png/2015_septiembre_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2016,Reserva 1,Ejercicio 4 Opción B,Contraste De Hipótesis,SOCIALES II. 2016 RESERVA 1. EJERCICIO 4 OPCIÓN B,"En una encuesta realizada a 600 trabajadoras de una empresa, 250 de ellas manifiestan estar
+insatisfechas con su salario. La dirección de la empresa afirma que la proporción de
+trabajadoras que están insatisfechas con su salario no es superior a 0’3. Plantee un contraste de
+hipótesis para dicha proporción, con hipótesis nula H : p0'3. Con un nivel de significación
+0
+del 4%, determine la región de rechazo y razone si se puede aceptar la afirmación de la",2016 - Contraste De Hipótesis.pdf,enunciados_PNG/2016 - Contraste De Hipótesis_png/2016_reserva_1_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2016,Reserva 2,Ejercicio 4. Opcion B,Contraste De Hipótesis,SOCIALES II. 2016. RESERVA 2. EJERCICIO 4. OPCION B,"En un artículo de internet se afirma que el número medio de mensajes de WhatsApp que
+mandan los jóvenes al día no es inferior a 40.
+Para contrastar dicha información se elige una muestra aleatoria de 100 jóvenes y se observa
+que envían una media de 38 mensajes al día. Se sabe que el número de mensajes enviados
+diariamente sigue una distribución Normal de desviación típica 2. Con un nivel de significación
+del 5% plantee un contraste, (H :40), determine la región de rechazo y concluya si ¿se
+0",2016 - Contraste De Hipótesis.pdf,enunciados_PNG/2016 - Contraste De Hipótesis_png/2016_reserva_2_ejercicio_4_opcion_b_2.png,
+Mates CCSS,2016,Reserva 3,Ejercicio 4. Opcion A,Contraste De Hipótesis,SOCIALES II. 2016. RESERVA 3. EJERCICIO 4. OPCION A,"Se sabe que el diámetro de las estrellas de mar de una región sigue una ley Normal con
+varianza 2.25 cm 2 . Se sospecha que, igual que ocurre en otras regiones, su diámetro no
+supera los 11.7 cm (H :11.7). Para confirmarlo se extrae una muestra aleatoria de
+0
+estrellas de mar de esa región, obteniéndose los siguientes diámetros:
+12.5 11.8 13.1 14.3 11.7 12.6 12.7 12.1 13.5 11.5
+a) Plantee un contraste de hipótesis, y para un nivel de significación del 5%, obtenga la región
+de rechazo del contraste. ¿Se puede confirmar la sospecha?",2016 - Contraste De Hipótesis.pdf,enunciados_PNG/2016 - Contraste De Hipótesis_png/2016_reserva_3_ejercicio_4_opcion_a_2.png,
+Mates CCSS,2016,Reserva 4,Ejercicio 4. Opcion B,Contraste De Hipótesis,SOCIALES II. 2016. RESERVA 4. EJERCICIO 4. OPCION B,"La proporción de nacimientos que ocurren con luna llena en los hospitales de una ciudad se consideraba
+no inferior a 0.45, pero un estudio afirma que en la actualidad esta proporción ha descendido. Para
+contrastar esta hipótesis se han elegido al azar, en estos hospitales, a 200 recién nacidos, de los cuales 70
+nacieron con luna llena. Decida mediante un contraste de hipótesis, con H : p 0.45, si la afirmación
+0",2016 - Contraste De Hipótesis.pdf,enunciados_PNG/2016 - Contraste De Hipótesis_png/2016_reserva_4_ejercicio_4_opcion_b_2.png,
