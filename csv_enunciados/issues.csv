@@ -1,0 +1,6 @@
+issue,subject,pdf file
+ERROR: cannot access local variable 'convocatoria' where it is not associated with a value,Mates II,2024 - Probabilidad.pdf
+ERROR: cannot access local variable 'convocatoria' where it is not associated with a value,Mates CCSS,2009 - Contraste De Hipótesis.pdf
+ERROR: list index out of range,Mates CCSS,MCCSS-T2-2024.pdf
+ERROR: list index out of range,Química,2001 - Equilibrio Químico.pdf
+ERROR: cannot access local variable 'convocatoria' where it is not associated with a value,Mates II,2024 - Distribución normal y binomial.pdf
