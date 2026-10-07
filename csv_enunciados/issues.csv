@@ -1,10 +1,10 @@
 issue,subject,pdf file
+ERROR: list index out of range,Química,2021 - Enlace Químico.pdf
+ningún recuadro detectado,,/home/daniel/code/clasificador_selectividad/source_pdf_files/Química - Temas/enlace_químico/ejercicios-ciclos-de-born-haber.pdf
+ningún recuadro detectado,,/home/daniel/code/clasificador_selectividad/source_pdf_files/Mates CCSS - Temas/inferencia_estadística/Tabla distribución normal.pdf
+ningún recuadro detectado,,/home/daniel/code/clasificador_selectividad/source_pdf_files/Mates CCSS - Temas/inferencia_estadística/tabla_ normal.pdf
+ERROR: list index out of range,Mates II,Tipos ejercicios matrices.pdf
+ningún recuadro detectado,,/home/daniel/code/clasificador_selectividad/source_pdf_files/Mates II - Temas/funciones/Tipos ejercicios funciones.pdf
+ERROR: list index out of range,Química,2008 - Reactividad Orgánica.pdf
 ERROR: list index out of range,Mates CCSS,2016 - Funciones CCSS.pdf
-ERROR: list index out of range,Química,2021 - Enlace Químico.pdf
-ERROR: list index out of range,Mates II,2019 - Integrales.pdf
-ningún recuadro detectado,,/Users/daniel/code/clasificador_selectividad/source_pdf_files/Química - Temas/formulación/2026 - Formulación.pdf
-ERROR: list index out of range,Química,2008 - Reactividad Orgánica.pdf
-ERROR: list index out of range,Mates CCSS,2007 - Probabilidad.pdf
-ERROR: list index out of range,Mates CCSS,2009 - Probabilidad.pdf
-ERROR: list index out of range,Química,2001 - Equilibrio Químico.pdf
-ERROR: list index out of range,Química,2002 - Equilibrio Químico.pdf
+ningún recuadro detectado,,/home/daniel/code/clasificador_selectividad/source_pdf_files/Mates II - Temas/integrales/listas txt ejercicios/Tipos ejercicios integrales.pdf
