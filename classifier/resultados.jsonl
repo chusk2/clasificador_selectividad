@@ -8,3 +8,297 @@
 {"asignatura": "Física", "tema": "Campo gravitatorio", "tipo_ejercicio": "distribución_masas", "confianza": "alta", "id": "2020_Reserva 4_1"}
 {"asignatura": "Física", "tema": "Campo gravitatorio", "tipo_ejercicio": "satélites", "confianza": "media", "id": "2017_Junio_1_B"}
 {"asignatura": "Física", "tema": "Campo gravitatorio", "tipo_ejercicio": "satélites", "confianza": "alta", "id": "2021_Reserva 3_A2"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2001_junio_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2001_reserva_1_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2001_reserva_2_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2001_reserva_3_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2002_reserva_1_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2002_reserva_2_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2002_reserva_3_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2002_reserva_4_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2002_septiembre_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2003_junio_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2003_reserva_1_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2003_reserva_2_ejercicio_1_opcion_b"}
+{"id": "mates_ccss_matrices_y_determinantes_2003_reserva_3_ejercicio_1_opcion_a", "error": "Extra data: line 2 column 1 (char 86)"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2003_reserva_4_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "verificar|inversa", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2003_septiembre_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2004_junio_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2004_reserva_1_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2004_reserva_2_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2004_septiembre_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2005_junio_ejercicio_1_opcion_a"}
+{"id": "mates_ccss_matrices_y_determinantes_2005_reserva_3_ejercicio_1_opcion_a", "error": "Extra data: line 2 column 1 (char 87)"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2005_reserva_4_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "verificar", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2005_septiembre_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2006_junio_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2006_reserva_1_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2006_reserva_2_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2006_reserva_3_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2006_reserva_4_ejercicio_1_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2007_junio_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2007_reserva_1_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2007_reserva_2_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2007_reserva_3_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2007_reserva_4_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2007_septiembre_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2008_junio_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2008_reserva_1_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2008_reserva_2_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2008_reserva_3_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2008_reserva_4_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial|inversa", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2008_septiembre_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2009_junio_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2009_reserva_4_ejercicio_1_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2009_septiembre_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2010_junio_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2010_reserva_1_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2010_reserva_2_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2010_septiembre_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2011_junio_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "sin clasificar", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2011_reserva_1_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2011_reserva_2_ejercicio_1_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2011_reserva_3_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2011_reserva_4_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2011_septiembre_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2012_junio_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2012_reserva_1_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "sin clasificar", "confianza": "baja", "id": "mates_ccss_matrices_y_determinantes_2012_reserva_2_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2012_reserva_3_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "sin clasificar", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2012_reserva_4_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "sin clasificar", "confianza": "baja", "id": "mates_ccss_matrices_y_determinantes_2012_septiembre_ejercicio_1_opcion_b"}
+{"id": "mates_ccss_matrices_y_determinantes_2013_junio_ejercicio_1_opcion_a", "error": "Extra data: line 2 column 1 (char 91)"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias|ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2013_reserva_1_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2013_reserva_2_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2013_reserva_3_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "potencias|ecuación matricial", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2013_reserva_4_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2013_septiembre_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2014_junio_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2014_reserva_1_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "verificar", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2014_reserva_2_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2014_reserva_3_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2014_reserva_4_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2014_reserva_4_ejercicio_1b_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2014_septiembre_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2015_junio_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2015_reserva_1_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2015_reserva_2_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial|potencias", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2015_reserva_3_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2015_reserva_4_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias|ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2015_septiembre_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "verificar", "confianza": "baja", "id": "mates_ccss_matrices_y_determinantes_2016_junio_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "potencias|ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2016_reserva_1_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2016_reserva_2_ejercicio_1_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2016_reserva_3_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2016_reserva_4_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2016_reserva_4_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2016_septiembre_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2017_junio_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2017_reserva_1_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2017_reserva_2_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2017_reserva_3_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2017_septiembre_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2018_junio_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2018_reserva_1_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2018_reserva_2_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2018_reserva_3_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2018_reserva_4_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias|ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2018_septiembre_ejercicio_1_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2019_junio_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2019_reserva_1_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial|valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2019_reserva_2_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial|inversa", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2019_reserva_3_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2019_reserva_4_ejercicio_1_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2019_septiembre_ejercicio_1_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2019_ponencia_1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2019_ponencia_2"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2019_ponencia_3"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2019_ponencia_4"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2019_ponencia_5"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "inversa|ecuación matricial", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2019_ponencia_6"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "inversa", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2019_ponencia_7"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2019_ponencia_8"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2020_junio_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2020_reserva_1_ejercicio_a2"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2020_reserva_2_ejercicio_a2"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2020_reserva_3_ejercicio_a2"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2020_reserva_4_ejercicio_a1"}
+{"id": "mates_ccss_matrices_y_determinantes_2020_septiembre_ejercicio_a1", "error": "Extra data: line 2 column 1 (char 87)"}
+{"asignatura": "Mates II", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2021_julio_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2021_junio_ejercicio_a2"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2021_reserva_1_ejercicio_a2"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "valores tenga inversa|ecuación matricial|verificar|potencias", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2021_reserva_2_ejercicio_a2"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2021_reserva_3_ejercicio_a2"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2021_reserva_4_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2022_julio_ejercicio_a1"}
+{"asignatura": "Mates II", "tipo_ejercicio": "inversa", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2022_junio_ejercicio_a2"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2022_reserva_1_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2022_reserva_2_ejercicio_a2"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2022_reserva_3_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2022_reserva_4_ejercicio_a2"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2023_julio_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2023_junio_ejercicio_a2"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2023_reserva_1_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "sin clasificar", "confianza": "baja", "id": "mates_ccss_matrices_y_determinantes_2023_reserva_2_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2023_reserva_3_ejercicio_a2"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2023_reserva_4_ejercicio_a2"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2024_julio_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2024_junio_ejercicio_a1"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2024_reserva_1_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2024_reserva_2_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2024_reserva_3_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2024_reserva_4_ejercicio_a1"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "media", "id": "mates_ccss_matrices_y_determinantes_2025_julio_ejercicio_a1"}
+{"id": "mates_ccss_matrices_y_determinantes_2025_junio_ejercicio_a1", "error": "Extra data: line 2 column 1 (char 86)"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2025_reserva_1_ejercicio_a1"}
+{"asignatura": "Mates II", "tipo_ejercicio": "rango", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2025_reserva_2_ejercicio_a1_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "verificar", "confianza": "alta", "id": "mates_ccss_matrices_y_determinantes_2025_reserva_4_ejercicio_a1_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2000_junio_ejercicio_4_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2000_reserva_1_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2000_reserva_2_ejercicio_4_opcion_b"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2000_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2000_septiembre_ejercicio_4_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2001_junio_ejercicio_3_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2001_junio_ejercicio_4_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2001_reserva_1_ejercicio_3_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2001_reserva_2_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2001_reserva_3_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes|inversa", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2001_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2001_reserva_4_ejercicio_4_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "verificar", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2001_septiembre_eje_rcicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "sin clasificar", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2002_junio_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2002_junio_ejercicio_3_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2002_reserva_1_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2002_reserva_2_ejercicio_4_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2002_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2002_reserva_4_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2003_junio_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2003_reserva_2_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2003_reserva_2_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2003_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2003_reserva_4_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2003_septiembre_eje_rcicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "inversa", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2004_junio_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2004_reserva_2_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2004_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2004_reserva_4_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2005_junio_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2005_reserva_1_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2005_reserva_2_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2005_reserva_4_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2005_septiembre_eje_rcicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2006_junio_ejercicio_3_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2006_reserva_2_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "inversa|verificar", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2006_reserva_4_ejer_cicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2006_septiembre_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2007_junio_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2007_reserva_1_ejer_cicio_3_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "verificar", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2007_reserva_3_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2007_reserva_4_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2007_septiembre_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2008_reserva_1_ejercicio_3_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2008_reserva_3_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2008_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "rango", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2008_reserva_4_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2009_junio_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2009_reserva_1_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2009_reserva_2_ejer_cicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2009_reserva_4_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2009_septiembre_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa|ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2010_junio_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "verificar", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2010_reserva_1_ejercicio_3_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2010_reserva_3_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "rango", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2010_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2010_reserva_4_ejer_cicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2010_septiembre_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2011_junio_ejercicio_3_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2011_reserva_1_ejercicio_3_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2011_reserva_1_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2011_reserva_2_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2011_reserva_3_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa|ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2011_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2011_reserva_4_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "rango", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2011_septiembre_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2011_septiembre_ejercicio_3_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2012_junio_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2012_reserva_1_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2012_reserva_2_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2012_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "rango", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2013_junio_ejercicio_3_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2013_junio_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial|inversa|potencias", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2013_reserva_1_ejer_cicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2013_reserva_1_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2013_reserva_2_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2013_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2013_reserva_4_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "inversa|determinantes|ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2013_septiembre_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2014_junio_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2014_reserva_1_ejer_cicio_3_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2014_reserva_1_ejercicio_3_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "verificar|ecuación matricial", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2014_reserva_2_ejercicio_3_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2014_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2014_reserva_4_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2014_septiembre_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "rango", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2015_junio_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2015_reserva_1_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "rango|potencias", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2015_reserva_2_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2015_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2015_reserva_4_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2015_septiembre_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial|potencias", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2016_junio_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2016_reserva_1_ejer_cicio_3_opcion_a"}
+{"id": "mates_ii_matrices_y_determinantes_2016_reserva_4_ejercicio_3_opcion_a", "error": "Extra data: line 2 column 1 (char 98)"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2016_reserva_4_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "rango", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2016_septiembre_ejercicio_3_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2017_reserva_1_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2017_reserva_1_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "verificar", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2017_reserva_3_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2017_reserva_4_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "rango", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2017_septiembre_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2017_reserva_3_ejercicio_3_opcion_b"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2018_reserva_1_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2018_reserva_2_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2018_reserva_4_ejercicio_3_opcion_a"}
+{"asignatura": "Mates II", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2018_reserva_4_ejercicio_3_opcion_b"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "potencias|inversa", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2018_septiembre_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2019_junio_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "valores tenga inversa|ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2019_reserva_1_ejercicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2019_reserva_2_ejer_cicio_3_opcion_a"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2019_reserva_3_ejer_cicio_3_opcion_a"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "rango", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2020_junio_ejercicio_3"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "rango", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2020_reserva_1_ejercicio_3"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2020_reserva_2_ejercicio_7"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2020_reserva_3_ejer_cicio_7"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2020_reserva_4_ejercicio_7"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2021_julio_ejercicio_5"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2021_reserva_1_ejercicio_5"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2021_reserva_2_eje_rcicio_5"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2021_reserva_3_ejercicio_6"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2021_reserva_4_ejer_cicio_6"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2022_julio_ejercicio_5"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2022_julio_ejercicio_6"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2022_junio_ejercicio_6"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2022_reserva_1_eje_rcicio_5"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2022_reserva_2_ejercicio_6"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "rango", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2022_reserva_3_ejer_cicio_6"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2023_julio_ejercicio_5"}
+{"asignatura": "Mates II", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2023_junio_ejercicio_6"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2023_reserva_1_ejercicio_6"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2023_reserva_2_ejercicio_5"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa|ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2023_reserva_3_ejercicio_5"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2023_reserva_4_ejercicio_5"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2024_julio_ejercicio_5"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2024_junio_ejercicio_5"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2024_modelo_ejercicio_4"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa|ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2024_reserva_1_ejercicio_5"}
+{"asignatura": "Mates CCSS y Mates II", "tipo_ejercicio": "verificar|ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2024_reserva_2_ejercicio_6"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2024_reserva_3_ejercicio_5"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2024_reserva_4_ejercicio_5"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "valores tenga inversa", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2025_reserva_1_ejercicio_6"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2025_reserva_2_ejercicio_4"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2025_reserva_2_ejercicio_5"}
+{"asignatura": "Mates II", "tipo_ejercicio": "potencias", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2025_reserva_3_ejercicio_4"}
+{"asignatura": "Mates II", "tipo_ejercicio": "ecuación matricial", "confianza": "alta", "id": "mates_ii_matrices_y_determinantes_2025_reserva_3_ejercicio_5"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "determinantes", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2025_reserva_4_ejercicio_4"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "potencias|ecuación matricial", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2025_reserva_4_ejercicio_5"}
+{"asignatura": "Mates CCSS", "tipo_ejercicio": "inversa", "confianza": "media", "id": "mates_ii_matrices_y_determinantes_2026_junio_ejercicio_3_2"}

@@ -1,0 +1,2933 @@
+id,asignatura,enunciado
+mates_ccss_matrices_y_determinantes_2001_junio_ejercicio_1_opcion_b,Mates CCSS,"a) Determine los valores de x e y que hacen cierta la siguiente igualdad:
+1 1 x 1 x 3
+    
+3 2  y  y 1 2
+1 3 0 1 1 0
+b) Determine la matriz X de dimensión 2x2 tal que: X 2  
+2 5 1 1  3 1"
+mates_ccss_matrices_y_determinantes_2001_reserva_1_ejercicio_1_opcion_a,Mates CCSS," 1 x 1
+ 
+Se considera la matriz A 1 1 1 .
+ 
+ 
+x x 0
+a) Calcule los valores de x para los que no existe la inversa de A.
+b) Para x = 3, calcule, si es posible, A1."
+mates_ccss_matrices_y_determinantes_2001_reserva_2_ejercicio_1_opcion_a,Mates CCSS,"Resuelva la siguiente ecuación matricial: AX 2B  C , siendo:
+0 1 2  1  5
+     
+A
+
+1 0 1
+
+, B 
+
+2
+
+, C 
+
+3
+
+.
+     
+1 1 0  4 1"
+mates_ccss_matrices_y_determinantes_2001_reserva_3_ejercicio_1_opcion_a,Mates CCSS,"1 0 0 0 1
+   
+SiendoA 2 1 0 y B  1 0 , razone si posee solución la ecuación matricial AX  B y,
+   
+   
+1 0 1 1 1
+en caso afirmativo, resuélvala."
+mates_ccss_matrices_y_determinantes_2002_reserva_1_ejercicio_1_opcion_a,Mates CCSS,"3 1 1 z
+  x    
+Sean las matrices: A  1 3  ; B  ; C   1  ; D  z 
+   y    
+1 0 0 z
+Calcule x, y, z, sabiendo que AB2CD."
+mates_ccss_matrices_y_determinantes_2002_reserva_2_ejercicio_1_opcion_a,Mates CCSS,"2 1  0 1 2 1 2 5
+Sean las matrices: A  ; B  ; C  
+3 2 1 1 1  3 4 1
+a) Realice, cuando sea posible, los siguientes productos de matrices: A·B; B·C; C·A
+b) Resuelva la ecuación matricial: A·X + B = C."
+mates_ccss_matrices_y_determinantes_2002_reserva_3_ejercicio_1_opcion_b,Mates CCSS,"1 0 1 
+ 
+Sea la matriz A 0 m 6
+ 
+ 
+1 1 m
+a) Determine para qué valores del parámetro m existeA1. b) Calcule A1 para m =2."
+mates_ccss_matrices_y_determinantes_2002_reserva_4_ejercicio_1_opcion_a,Mates CCSS,"1 0 0 1
+   
+Dada la matriz A 1 1 0 determine, si existe, la matriz X que verifique AX  2
+   
+   
+1 0 1 3"
+mates_ccss_matrices_y_determinantes_2002_septiembre_ejercicio_1_opcion_a,Mates CCSS," 2 1 1
+ 
+Sea la matriz A 0 m6 3
+ 
+ 
+m1 2 0
+a) Calcule los valores de m para que dicha matriz tenga inversa.
+b) Haciendo m = 4, resuelva la ecuación matricialXA3 1 1."
+mates_ccss_matrices_y_determinantes_2003_junio_ejercicio_1_opcion_b,Mates CCSS,"1 2 4 3
+Sean las matrices M   y N  
+3 4 2 1
+a) Calcule la matriz A MMt 5M (Mt indica la traspuesta de M).
+b) Calcule la matriz B M1 y resuelva la ecuaciónN  XM  MB, donde X es una matriz
+2x2."
+mates_ccss_matrices_y_determinantes_2003_reserva_1_ejercicio_1_opcion_b,Mates CCSS," 3 m 
+Sea la matriz A 
+1m m1
+a) Calcule los valores de m para que dicha matriz tenga inversa.
+b) Haciendo m = 0, resuelva la ecuación matricialAXA I , donde I es la matriz unidad de
+2 2
+orden 2 y X es una matriz cuadrada de orden 2."
+mates_ccss_matrices_y_determinantes_2003_reserva_2_ejercicio_1_opcion_b,Mates CCSS,"Determine la matriz X, de orden 2, que verifica la igualdad:
+1 3  1 5 1 7
+X 2   
+0 1 1 2  1 1"
+mates_ccss_matrices_y_determinantes_2003_reserva_3_ejercicio_1_opcion_a,Mates CCSS,"1 1 1 1
+Sean las matricesA  y B  . Calcule  At B2I 1 .
+2 0 1 2"
+mates_ccss_matrices_y_determinantes_2003_reserva_4_ejercicio_1_opcion_b,Mates CCSS,"1 3 5
+Resuelva la ecuación: 4 2 x x 0
+1 1 3"
+mates_ccss_matrices_y_determinantes_2003_septiembre_ejercicio_1_opcion_a,Mates CCSS,"2 x 
+Sea la matriz A 
+0 x2
+a) Halle los valores de x para los que se verifica A2 2A
+b) Para x  1, halleA1. Compruebe el resultado calculandoAA1."
+mates_ccss_matrices_y_determinantes_2004_junio_ejercicio_1_opcion_b,Mates CCSS," 1 2
+2 1 0 2 1  
+Sean las matrices A  , B  , C   0 2 
+0 2 1 2 2
+ 
+2 0
+a) Calcule la matriz P que verificaBP ACt .
+b) Determine la dimensión de la matriz M para que pueda efectuarse el producto A·M·C
+c) Determine la dimensión de la matriz N para que Ct N sea una matriz cuadrada."
+mates_ccss_matrices_y_determinantes_2004_reserva_1_ejercicio_1_opcion_a,Mates CCSS,"1 0 0 1 2 1 2 1
+Sean las matrices A  , B  y C  .
+ 1 2 1 1 0  0 1 1
+a) Calcule (AI )B, siendo I la matriz identidad de orden 2.
+2 2
+b) Obtenga la matriz Bt (matriz traspuesta de B) y calcule, si es posible, Bt A.
+c) Calcule la matriz X que verificaAXBC."
+mates_ccss_matrices_y_determinantes_2004_reserva_2_ejercicio_1_opcion_a,Mates CCSS,"1 0
+Dada la matriz A , halle A2004.
+0 1"
+mates_ccss_matrices_y_determinantes_2004_septiembre_ejercicio_1_opcion_b,Mates CCSS," 1 
+ 
+De una matriz A se sabe que su segunda fila es 1 2 y que su segunda columna es 2 . Halle
+ 
+ 
+3 
+1 1 1 0 0
+los restantes elementos de A sabiendo que    A  .
+2 0 1 0 1"
+mates_ccss_matrices_y_determinantes_2005_junio_ejercicio_1_opcion_a,Mates CCSS," 1 1
+2 1 1  
+Sean las matrices A  y B   2 0 
+1 0 1
+ 
+2 1
+a) Calcule la matriz C  BA At Bt .
+4
+b) Halle la matriz X que verifique: ABX  
+2"
+mates_ccss_matrices_y_determinantes_2005_reserva_3_ejercicio_1_opcion_a,Mates CCSS,"0 1
+2 1 3  
+Sean las matrices: A  y B   1 2 
+1 2 0
+ 
+1 1
+De las siguientes operaciones, algunas no se pueden realizar; razone por qué. Efectúe las que se
+puedan realizar.
+AB;At B;AB;ABt"
+mates_ccss_matrices_y_determinantes_2005_reserva_4_ejercicio_1_opcion_b,Mates CCSS," x y 1 2
+Sean las matrices A  y B  .
+y x  1 0
+a) Calcule, si existe, la matriz inversa de B.
+b) SiAB BA y A At 3I , calcule x e y.
+2"
+mates_ccss_matrices_y_determinantes_2005_septiembre_ejercicio_1_opcion_a,Mates CCSS,"1 3 2 1
+Sean las matrices A  y B 
+0 1 0 x
+a) Determine el valor de x en la matriz B para que se verifique la igualdad: AB BA
+b) Obtenga la matriz C tal que: At C  I
+2"
+mates_ccss_matrices_y_determinantes_2006_junio_ejercicio_1_opcion_a,Mates CCSS,"x 1  0 1
+Sean las matrices: A  y B 
+1 x1 1 1
+a) Encuentre el valor o valores de x de forma queB2  A.
+b) Igualmente para que A I  B1.
+2
+c) Determine x para queAB  I .
+2"
+mates_ccss_matrices_y_determinantes_2006_reserva_1_ejercicio_1_opcion_b,Mates CCSS," 2 1 1 0
+Sean las matricesA  y B  .
+1 0 1 2
+a) CalculeA1(2B3I ).
+2
+b) Determine la matriz X para queXA AI .
+2"
+mates_ccss_matrices_y_determinantes_2006_reserva_2_ejercicio_1_opcion_a,Mates CCSS," 2 1 1 2
+Sean las matricesA  y B  .
+2 0 2 4
+CalculeA1(B At)."
+mates_ccss_matrices_y_determinantes_2006_reserva_3_ejercicio_1_opcion_b,Mates CCSS,"Sean las matrices:
+1 0 0  1  2  1 2
+         
+A 1 1 0 ; B 2 ; C  5 ; D 2 ; E  5
+         
+         
+3 0 1  1   2 3  5
+Calcule los valores de los números reales x , y , z , para que se verifique la siguiente igualdad
+entre matrices: E xAB  yC zD"
+mates_ccss_matrices_y_determinantes_2006_reserva_4_ejercicio_1_opcion_a,Mates CCSS," 2 2
+Sean las matrices: A  y B1 1
+5 4
+Explique qué dimensión debe tener la matriz X para que tenga sentido la ecuación matricial
+XA2B1 0. Resuelva dicha ecuación."
+mates_ccss_matrices_y_determinantes_2007_junio_ejercicio_1_opcion_a,Mates CCSS," 1 2 1  x x
+     
+Sean las matricesA 0 1 0 ; X  y ; Y  2 .
+     
+     
+1 3 0 2  z
+a) Determine la matriz inversa de A.
+b) Halle los valores de x, y, z para los que se cumple AX Y ."
+mates_ccss_matrices_y_determinantes_2007_reserva_1_ejercicio_1_opcion_a,Mates CCSS,"2 1 1 x  0 1
+Sean las matricesA  , B  y C   .
+1 1 x 0 1 2
+a) Encuentre el valor o valores de x de forma queB2  A.
+b) Igualmente para que BC  A1.
+c) Determine x para que ABC 3I .
+2"
+mates_ccss_matrices_y_determinantes_2007_reserva_2_ejercicio_1_opcion_a,Mates CCSS,"1 0
+Sea la matriz B  . Calcule el valor de b para que B2  I .
+1 b 2"
+mates_ccss_matrices_y_determinantes_2007_reserva_3_ejercicio_1_opcion_a,Mates CCSS,"3 2  2 5
+Dadas las matrices A  y B  , resuelva la ecuación matricial AX Bt  B,
+2 4 3 1
+donde X es una matriz cuadrada de orden 2."
+mates_ccss_matrices_y_determinantes_2007_reserva_4_ejercicio_1_opcion_a,Mates CCSS," 1 0 2 2
+Sean las matrices A  , B  .
+2 1 0  5
+a) Calcule BBt  AAt.
+b) Halle la matriz X que verifica (AAt)X  B."
+mates_ccss_matrices_y_determinantes_2007_septiembre_ejercicio_1_opcion_b,Mates CCSS," 2 3  9 
+Halle la matriz A que verifica:  A  .
+1 5 28"
+mates_ccss_matrices_y_determinantes_2008_junio_ejercicio_1_opcion_a,Mates CCSS,"0 2 a b
+Sean las matricesA  ; B   .
+3 0 6 1
+a) Calcule los valores de a y b para que AB  B A.
+b) Para a 1 y b 0, resuelva la ecuación matricial X B A I .
+2"
+mates_ccss_matrices_y_determinantes_2008_reserva_1_ejercicio_1_opcion_a,Mates CCSS,"a 1
+a) Dada la matriz A  , calcule el valor de a para que A2 sea la matriz nula.
+a 0
+1 2
+b) Dada la matriz M   , calcule la matriz(M1Mt)2.
+1 1"
+mates_ccss_matrices_y_determinantes_2008_reserva_2_ejercicio_1_opcion_b,Mates CCSS," 1 
+ 
+Dadas las matrices F 2 1 3 y C  5 , calcule los productosCF yFC.
+ 
+ 
+2 
+2 0 1 3  1 1
+b) Dadas las matrices A  ; B   y C   , calcule la matriz X que
+1 1 2 1 1 0
+verifique la ecuación X A1B C"
+mates_ccss_matrices_y_determinantes_2008_reserva_3_ejercicio_1_opcion_b,Mates CCSS,"2 5 1
+a) Halle la matriz X que verifica la ecuación X  3 4.
+1 3 2
+b) Determine los valores de x e y que cumplen la igualdad
+1 0 x  2 1 1
+    
+3 1  y x y 1"
+mates_ccss_matrices_y_determinantes_2008_reserva_4_ejercicio_1_opcion_b,Mates CCSS,"1 2 0 1
+Sean A y B las matrices siguientes: A  ; B 
+0 1 2 4
+a) Calcule (AB)(AB)
+b) Determine la matriz X, cuadrada de orden 2, en la ecuación matricial (A2B)X  3I
+2"
+mates_ccss_matrices_y_determinantes_2008_septiembre_ejercicio_1_opcion_a,Mates CCSS,"13x 2 3 5
+a) Plantee y resuelva el sistema de ecuaciones dado por:     .
+ x 1  y 4
+1 0 1
+ 
+b) Calcule la matriz inversa de 0 1 0
+ 
+ 
+1 2 0"
+mates_ccss_matrices_y_determinantes_2009_junio_ejercicio_1_opcion_a,Mates CCSS,"Sea la igualdadAX B A, donde A, X y B son matrices cuadradas de la misma dimensión.
+a) Despeje la matriz X en la igualdad anterior, sabiendo que A tiene inversa.
+2 5  0 3
+b) Obtenga la matriz X en la igualdad anterior, siendo A  y B 
+1 3 1 2"
+mates_ccss_matrices_y_determinantes_2009_reserva_4_ejercicio_1_opcion_a,Mates CCSS,"1 4 1 2 1 3  5 2 6
+     
+Sean las matrices A 0 1 0 , B 0 2 1 y C  0 3 2
+     
+     
+ 3 1 2  1 0 1 2 0 1
+Determine X en la ecuación matricial XA2BC."
+mates_ccss_matrices_y_determinantes_2009_septiembre_ejercicio_1_opcion_b,Mates CCSS,"1 1  3 1
+Sean las matrices A  , B 
+0 2 1 1
+a) Calcule A2 y 2B I
+2
+b) Resuelva la ecuación matricial AX I 2B2.
+2"
+mates_ccss_matrices_y_determinantes_2010_junio_ejercicio_1_opcion_b,Mates CCSS,"2 1  1 2
+Sean las matrices A  y B  .
+3 1 1 0
+a) CalculeAt B ABt.
+b) Resuelva la ecuación matricial AX BA B."
+mates_ccss_matrices_y_determinantes_2010_reserva_1_ejercicio_1_opcion_b,Mates CCSS,"a) Sean A, B y C matrices con 2, 3 y 2 filas, respectivamente. Sabiendo que el producto de
+matrices ABC es posible y que el resultado es una matriz con 4 columnas, halle las
+dimensiones de dichas matrices.
+1 1  0 2
+b) Halle la matriz X que verifica I 2X  A(ABt), siendo A  y B  .
+2 2 1 1 2"
+mates_ccss_matrices_y_determinantes_2010_reserva_2_ejercicio_1_opcion_a,Mates CCSS,"a 1 1 b 1 3
+Sean las matrices A  , B  y C   .
+0 2 0 3 2 5
+a) Halle los valores de a y b para que se verifique AB ABt C .
+b) ¿Existe algún valor de b para el que el producto BBt sea igual a la matriz nula?.
+c) Para a0.5 y b1, halle la matriz X que verifica la igualdad AXBO, (O representa
+la matriz nula).?."
+mates_ccss_matrices_y_determinantes_2010_septiembre_ejercicio_1_opcion_b,Mates CCSS,"1 2 1 1 5  c d 6 
+Sean las matrices P   , Q  y R  .
+a 0 8 4 b 10 10 50
+a) Calcule, si es posible, PQ y QP , razonando la respuesta.
+b) ¿Cuánto deben de valer las constantes a, b, c y d para queP2Q  R?."
+mates_ccss_matrices_y_determinantes_2011_junio_ejercicio_1_opcion_a,Mates CCSS,"2 5 3 1 2  1 2 3
+Sean las matrices A  , B  , C   .
+1 3 0 1 1 1 5 3
+a) CalculeA2 BCt .
+b) Resuelva la ecuación matricial AXB2C."
+mates_ccss_matrices_y_determinantes_2011_reserva_1_ejercicio_1_opcion_b,Mates CCSS,"0 3 1  2 3 1
+a) Dadas las matrices M   y Nt   , razone cuáles de las siguientes
+1 0 2 1 1 0
+operaciones tienen sentido y efectúa las que puedan realizarse: M Nt , Mt N , MN .
+b) Un industrial cafetero produce dos tipos de café, natural y descafeinado, en tres modalidades
+cada uno, A, B y C. Se han anotado en la matriz P los pesos, en Kg, del café que el industrial
+produce de cada una de las modalidades de cada tipo, y en la matriz Q los precios a los que
+vende el Kg de cada producto final:
+A B C A B C
+natural  550 400 240 natural  2.20 2.75 2.50
+P    Q   
+descafeinado  260 200 100 descafeinado  3.20 3.90 3.60
+Efectúe el producto PQt y explique el significado económico de cada uno de los elementos de
+la diagonal principal de la matriz resultante."
+mates_ccss_matrices_y_determinantes_2011_reserva_2_ejercicio_1_opcion_a,Mates CCSS,"0 1 0 0 1 1
+   
+Sean las matricesC  1 0 1 y D 1 0 1 .
+   
+   
+0 1 0 1 1 0
+a) Resuelva la ecuación matricial 2X CD(I D)C.
+3
+b) Si las matrices C y D son las matrices de adyacencia de dos grafos, de vértices a, b, c y 1, 2, 3,
+respectivamente, haga la representación gráfica de dichos grafos."
+mates_ccss_matrices_y_determinantes_2011_reserva_3_ejercicio_1_opcion_a,Mates CCSS,"1 5 6
+ 
+a) Dada la matriz A 0 1 7 , calcule (I  A)3.
+  3
+ 
+0 0 1
+1 a 1  5 
+b) Dadas las matricesB  , C   , D  , determine a y b de manera que
+b 3  3 10
+BCDO siendo O la matriz nula."
+mates_ccss_matrices_y_determinantes_2011_reserva_4_ejercicio_1_opcion_a,Mates CCSS,"a) De una matriz cuadrada, A, de orden 3 se conocen los siguientes elementos
+a a 2 ; a a 0 ;a a 1
+12 21 13 31 23 32
+Determine los demás elementos de la matriz A sabiendo que debe cumplirse la ecuación
+AB Ct, donde Bt 1 1 1 y C 4 2 1.
+1 5
+b) Calcule 2D2, siendo D  .
+3 5"
+mates_ccss_matrices_y_determinantes_2011_septiembre_ejercicio_1_opcion_b,Mates CCSS,"0 1 0 3 1
+Sean las matrices A  y B  .
+1 0 1 1 2
+a) Efectúe, si es posible, los siguientes productos:AAt ; At A ; AB.
+b) Resuelva la siguiente ecuación matricial AAt X  B."
+mates_ccss_matrices_y_determinantes_2012_junio_ejercicio_1_opcion_b,Mates CCSS,"1 1
+Sea la matriz A  .
+2 1
+a) Resuelva la ecuación matricial AX  At  I .
+2
+b) ¿Qué requisitos mínimos debe cumplir una matriz B para que pueda efectuarse el producto
+AB?.
+c) ¿Y para el producto 3BA?."
+mates_ccss_matrices_y_determinantes_2012_reserva_1_ejercicio_1_opcion_a,Mates CCSS,"1 6 1 1 2 a 0 1
+Sean las matricesA  ; B  y C   .
+ 2 4  1 0 1 3 1 b
+a) Halle los valores de a y b para que se verifique BCt  A.
+b) Resuelva la ecuación matricial AX  A2  I .
+2"
+mates_ccss_matrices_y_determinantes_2012_reserva_2_ejercicio_1_opcion_b,Mates CCSS,"Los alumnos de 2o Bachillerato organizan una venta de pasteles para el viaje de fin de curso.
+Venden pasteles grandes, que necesitan 2 huevos, 5 terrones de azúcar y 100 g de harina cada
+uno, y pasteles pequeños, que necesitan 1 huevo, 3 terrones de azúcar y 80 g de harina cada
+uno.
+a) Presente en una matriz M, de dimensión 3x2, las cantidades de los elementos necesarios para
+la elaboración de un pastel grande y uno pequeño.
+b) Si desean fabricar 20 pasteles de una clase y 30 de otra, escriba las dos matrices columna,
+A ( 20 grandes y 30 pequeños) y B (30 grandes y 20 pequeños) que representan este reparto.
+c) Calcule los productos M·A y M·B e indique si con 8 docenas de huevos, 200 terrones de
+azúcar y 5 Kg de harina se pueden elaborar 20 pasteles grandes y 30 pequeños. ¿Y 30 grandes y
+20 pequeños?."
+mates_ccss_matrices_y_determinantes_2012_reserva_3_ejercicio_1_opcion_a,Mates CCSS,"Halle la matriz X que verifique la ecuación matricial A2X  ABC , siendo A, B y C las
+matrices:
+1 0
+1 1  1 0 1  
+A  ; B  y C   1 1  .
+0 2 1 1 4
+ 
+2 0
+ "
+mates_ccss_matrices_y_determinantes_2012_reserva_4_ejercicio_1_opcion_a,Mates CCSS,"Una empresa vende tres artículos diferentes A, B y C, cada uno de ellos en dos formatos,
+grande y normal. En la matriz F se indican las cantidades de los tres artículos, en cada uno de
+los dos formatos, que ha vendido la empresa en un mes. En la matriz G se indican las
+ganancias, en euros, que obtiene la empresa por cada unidad que ha vendido de cada artículo
+en cada formato.
+A B C A B C
+grande  100 150 80  grande  6 8 5
+F    G   
+normal  200 250 140 normal  4 5 3
+a) Efectúe los productos F t G y FGt
+b) Indique en qué matriz se pueden encontrar las ganancias que ha recibido la empresa en ese
+mes por el total de las unidades vendidas de cada uno de los tres artículos y especifique cuáles
+son esas ganancias.
+c) Indique en qué matriz se pueden encontrar las ganancias que ha recibido la empresa en ese
+mes por el total de las unidades vendidas en cada uno de los dos formatos, especifique cuáles
+son esas ganancias y halle la ganancia total."
+mates_ccss_matrices_y_determinantes_2012_septiembre_ejercicio_1_opcion_b,Mates CCSS,"Una fábrica produce dos tipos de productos, A y B, que distribuye a tres clientes. En el mes de
+enero el primer cliente compró 9 unidades de A y 5 de B, el segundo cliente 3 de A y 7 de B, y el
+tercer cliente 4 de A y 6 de B.
+En el mes de febrero el primer cliente y el segundo duplicaron las compras del mes anterior, y
+el tercer cliente compró de cada producto una unidad más de las que compró en enero. En
+marzo el primer cliente no compró nada, y el segundo y el tercero compraron lo mismo que en
+febrero.
+a) Para cada mes construya la matriz de dimensión 3x2 correspondiente a las compras de ese
+mes.
+b) Calcule la matriz de compras del trimestre.
+c) Si los precios de los productos A y B son, respectivamente, 80 y 100 euros, calcule lo que
+factura la fábrica en el primer trimestre, por cada cliente y en total."
+mates_ccss_matrices_y_determinantes_2013_junio_ejercicio_1_opcion_a,Mates CCSS,"2 1 1 1
+Sean las matrices A  y B  .
+a b  3 0
+ 5 2
+a) Obtenga a y b sabiendo queA2   . ¿Es A simétrica?
+2 1
+b) Para los valores a3 y b1 calcule la matriz X tal queAB2(X 3I ).
+2"
+mates_ccss_matrices_y_determinantes_2013_reserva_1_ejercicio_1_opcion_b,Mates CCSS,"0 1 1 2
+Sean las matrices A  y B  .
+1 0 3 1
+a) Calcule A2 y A2013.
+b) Resuelva la ecuación matricial AX I 5Bt  A2.
+2"
+mates_ccss_matrices_y_determinantes_2013_reserva_2_ejercicio_1_opcion_b,Mates CCSS," 2  2 0 1
+Sean las matrices A1 2 3 , B 
+
+1
+
+, C 
+
+1 1 1
+
+.
+   
+   
+ 1  1 3 2
+Resuelva, si es posible, la ecuación matricialBA2X C."
+mates_ccss_matrices_y_determinantes_2013_reserva_3_ejercicio_1_opcion_a,Mates CCSS,"3 1 2 1
+a) Se consideran las matrices A  y B 
+5 2 3 2
+Determine la matriz X que verificaBX  3A At .
+2 5  6 
+   
+b) Calcule la matriz Y que verifica 1 5 Y  12
+   
+   
+2 1  6 "
+mates_ccss_matrices_y_determinantes_2013_reserva_4_ejercicio_1_opcion_a,Mates CCSS," 8 
+2 3 3 5 3    5 
+Sean las matrices A  , B  , C   3  , D  .
+3 5 0 2 1    3 
+0
+ 
+a) Calcule A3.
+b) Determine la matriz X para que AXBC D"
+mates_ccss_matrices_y_determinantes_2013_septiembre_ejercicio_1_opcion_b,Mates CCSS," 1  3 
+0 1
+   
+5 5 1 0 1
+Sean las matrices A  , B   ; C  
+ 2 3 4 4 2 1 3
+   
+ 5 5 5 5
+a) Resuelva la ecuación matricial(2AB)X  3AB.
+b) Determine en cada caso las dimensiones de la matriz D para que se puedan realizar las
+siguientes operaciones: CD A , Ct DC , DCt , CDCt."
+mates_ccss_matrices_y_determinantes_2014_junio_ejercicio_1_opcion_a,Mates CCSS,"1 
+1 a  2
+0
+
+Sean las matrices A  y B   , siendo a un número real cualquiera.
+0 1 
+
+3
+0
+
+
+4 
+a) Obtenga la matrizA2014.
+b) Para a2, resuelva la ecuación matricial A3X 4B O ."
+mates_ccss_matrices_y_determinantes_2014_reserva_1_ejercicio_1_opcion_a,Mates CCSS,"1 a
+Sean las matrices A  y B1 1
+0 1
+a) Calcule el valor del parámetro a para que se verifique(BA)t  ABt.
+b) Para a2, resuelva la ecuación matricial XA B"
+mates_ccss_matrices_y_determinantes_2014_reserva_2_ejercicio_1_opcion_a,Mates CCSS,"5 0 1 8 1
+Sean las matrices B  y C  
+ 4 6 9 3 6
+a) Determine la dimensión que debe de tener la matriz A para que se verifique la igualdad:
+AB2C t
+b) Halle la matriz A anterior, sabiendo que de ella se conocen los elementos
+a 2, a 3,a 1.
+31 12 22"
+mates_ccss_matrices_y_determinantes_2014_reserva_3_ejercicio_1_opcion_b,Mates CCSS,"a) Determine los valores de x e y que hacen cierta la igualdad
+2 1  x 1 x 3
+    
+3 1  y  y 1 0
+1 3  0 1 1 2
+b) Resuelva la ecuación matricial: X 2   .
+2 5 1 0 3 1"
+mates_ccss_matrices_y_determinantes_2014_reserva_4_ejercicio_1_opcion_a,Mates CCSS,"2 1 3 2
+Se consideran las matrices A  y B  .
+3 2 1 4
+a) Efectúe la operación ABt
+b) Determine la matriz X tal que A2X  B.
+6
+c) Calcule la matriz Y, sabiendo que: BY  
+9"
+mates_ccss_matrices_y_determinantes_2014_reserva_4_ejercicio_1b_opcion_b,Mates CCSS,"Resuelva la ecuación matricial AX  2(CDt), siendo :
+0 1  0 2 1 1
+A  , C   y D 
+2 0 1 2 2 1"
+mates_ccss_matrices_y_determinantes_2014_septiembre_ejercicio_1_opcion_a,Mates CCSS,"1 7  1 0
+Sean las matrices A  y B 
+2 1  5 2
+a) Calcule las matrices X e Y para las que se verifica:
+X Y  A y 3XY B
+b) Halle la matriz Z que verifica: BZBt 2I .
+2"
+mates_ccss_matrices_y_determinantes_2015_junio_ejercicio_1_opcion_b,Mates CCSS,"2 0
+ 2 3 2 3  
+Sean las matrices A  , B  y C   0 2 
+1 1 5 1
+ 
+3 0
+a) Calcule las matrices X e Y si: X Y 2A y X B2Y
+b) Analice cuáles de las siguientes operaciones con matrices se pueden realizar, indicando en los
+casos afirmativos las dimensiones de la matriz D.
+A DC ADCt DAC DACt"
+mates_ccss_matrices_y_determinantes_2015_reserva_1_ejercicio_1_opcion_a,Mates CCSS,"2 1 3 2
+Sean las matrices A  y B 
+3 2 1 4
+a) Efectúe la operación ABt
+b) Determine la matriz X tal que A2X  B
+6
+c) Halle la matriz Y tal que BY  
+9"
+mates_ccss_matrices_y_determinantes_2015_reserva_2_ejercicio_1_opcion_a,Mates CCSS,"1 1 2
+  1 2 1
+Sean las matrices A  0 1 1  , B  , C 2 1 , D1 1 2
+ 
+1 2 0
+1 0 2
+a) Estudie cuáles de los siguientes productos de matrices se pueden realizar, indicando las
+dimensiones de la matriz resultante:
+ABt C t D Bt D DBt
+b) Despeje la matriz X en la ecuación X A1 2B  3C t D, sin calcular sus elementos.
+c) Calcule la matriz A(Bt 2Dt C)"
+mates_ccss_matrices_y_determinantes_2015_reserva_3_ejercicio_1_opcion_a,Mates CCSS,"Sean las matrices
+0 1 1 1 2 1
+A  B  y C  
+1 0 1 1 3 2
+a) Resuelva la ecuación AXBX C
+b) Calcule A4 y A80"
+mates_ccss_matrices_y_determinantes_2015_reserva_4_ejercicio_1_opcion_a,Mates CCSS,"2 1 1 1
+a) Resuelva la ecuación matricial  X   I
+1 2 0 2 2
+0 1 a b
+b) Dadas las matrices M   y A  , calcule los valores de a y b para que se
+1 0 2 1
+verifique la ecuación MA A"
+mates_ccss_matrices_y_determinantes_2015_septiembre_ejercicio_1_opcion_a,Mates CCSS," 8 4
+ 1 2  1 2 2  
+Sean las matrices A
+1 2
+
+
+, B
+1 1 2
+
+
+, C  
+
+12 8 
+
+ 8 4
+a) Calcule A2
+b) Resuelva la ecuación matricial: AX 4B C t."
+mates_ccss_matrices_y_determinantes_2016_junio_ejercicio_1_opcion_a,Mates CCSS,"Las filas de la matriz P indican los respectivos precios de tres artículos A , A y A en dos
+1 2 3
+25 20 15
+comercios, C (fila 1) y C (fila 2): P  
+1 2 23 25 17
+Cati desea comprar 2 unidades del artículo A , 1 de A y 3 de A
+1 2 3
+Manuel desea comprar 5 unidades del artículo A , 1 de A y 1 de A
+1 2 3
+2 1 3
+Han dispuesto esas compras en la matriz Q: Q  
+5 1 1
+a) Calcule PQt y QPt e indique el significado de los elementos de las matrices resultantes.
+b) A la vista de lo obtenido en el apartado anterior, ¿dónde les interesa hacer la compra a cada
+uno?"
+mates_ccss_matrices_y_determinantes_2016_reserva_1_ejercicio_1_opcion_a,Mates CCSS," 1 2
+1 2  1 2 2  
+Sean las matrices A  , B  y C   1 0  .
+0 1 1 1 2
+ 
+ 2 2
+a) Calcule A2 y A2016.
+b) Resuelva la ecuación matricial AX B Ct."
+mates_ccss_matrices_y_determinantes_2016_reserva_2_ejercicio_1_opcion_a,Mates CCSS,"1 1
+1 2   1 4 0
+Sean las matrices A  , B   0 2  y C   .
+0 3
+ 
+2 3 1
+1 1
+a) Resuelva la ecuación matricial CBX 2AX  At.
+b) Analice cuáles de las siguientes operaciones, sin efectuarlas, se pueden realizar y justifique
+las respuestas: BC2A , ACC , Bt C , CB A."
+mates_ccss_matrices_y_determinantes_2016_reserva_3_ejercicio_1_opcion_b,Mates CCSS," 2 4 1 0 1
+Sean las matrices A  y B 
+2 6 1 2 0
+1
+a) Resuelva la ecuación matricial X  BBt  A2At .
+2
+b) Razone cuáles de las siguientes operaciones pueden realizarse e indique, en su caso, la
+dimensión de la matriz resultante: AB , ABt , BA1 , Bt A A1"
+mates_ccss_matrices_y_determinantes_2016_reserva_4_ejercicio_1_opcion_a,Mates CCSS,"a) Si A es una matriz de dimensión m x n, indique la dimensión de una matriz X si se verifica
+que  At A  X  I .
+n
+1 1
+ 
+b) Calcule dicha matriz X en el caso en que A 1 1
+ 
+
+1 1
+
+
+c) Calcule, si es posible, el producto A  At A  ."
+mates_ccss_matrices_y_determinantes_2016_reserva_4_ejercicio_1_opcion_b,Mates CCSS,"3 0 1
+Sean las matrices A  , B2 3 y C   .
+1 2 1
+a) Justifique cuáles de las siguientes operaciones se pueden realizar y en dichos casos calcule el
+resultado: AB , BA , BC y C t Bt .
+b) Calcule la matriz X en la ecuación AX Bt 4C ."
+mates_ccss_matrices_y_determinantes_2016_septiembre_ejercicio_1_opcion_a,Mates CCSS," 1 2 2 1 3 1 1 0
+Sean las matrices A  , B  , C  
+1 3 4 0 1  2 3 2
+a) Resuelva la ecuación matricial A2X C  2B
+b) ¿Qué dimensiones deben tener las matrices P y Q para que las matrices (BC)P y
+BQC t sean cuadradas?."
+mates_ccss_matrices_y_determinantes_2017_junio_ejercicio_1_opcion_a,Mates CCSS,"1 2 3 1
+Sean las matrices A  y B 
+0 1 0 2
+a) Calcule la matriz A2017.
+b) ¿Se verifica la expresión (B A)(B A) B2  A2?."
+mates_ccss_matrices_y_determinantes_2017_reserva_1_ejercicio_1_opcion_b,Mates CCSS,"1 0
+1 1 0   1 1
+Sean las matrices A  , B  0 1  y C  
+0 1 1
+ 
+3 2
+2 2
+a) Razone cuáles de las siguientes operaciones son posibles:
+ABt B3C CBt ABC
+b) Resuelva la ecuación matricial ABX C"
+mates_ccss_matrices_y_determinantes_2017_reserva_2_ejercicio_1_opcion_a,Mates CCSS,"2 1 1 1 2 4 1 0 1
+Sean las matrices A  , B  , C   y D 
+0 1 2 0  1 1 0 1 0
+a) Razone si se pueden efectuar las siguientes operaciones
+ADBC Dt B A2
+b) Halle la matriz X que verifica la ecuación matricial AX BC."
+mates_ccss_matrices_y_determinantes_2017_reserva_3_ejercicio_1_opcion_a,Mates CCSS,"2 4 3 0
+Sean las matrices A  y B 
+1 1  0 1
+a) Calcule A2 B3.
+b) Calcule X en la ecuación matricial (AB)X  AB."
+mates_ccss_matrices_y_determinantes_2017_septiembre_ejercicio_1_opcion_a,Mates CCSS,"0 1
+1 0 1  
+Sean las matrices A  y B   1 0 
+0 1 1
+
+1 1
+
+
+a) Justifique cuales de las siguientes operaciones pueden realizarse y, en tal caso, calcule el
+resultado: A2 ; AB ; AB ; ABt
+b) Halle la matriz X tal que: At BX  3B"
+mates_ccss_matrices_y_determinantes_2018_junio_ejercicio_1_opcion_b,Mates CCSS,"1 0 2 1
+Se consideran las matrices A  y B 
+ 1 2 0 1
+a) ¿Se verifica la igualdad (AB)2  A2 B2 2AB
+b) Resuelva la ecuación matricial XA2Bt I
+2"
+mates_ccss_matrices_y_determinantes_2018_reserva_1_ejercicio_1_opcion_b,Mates CCSS,"6 0 4
+Sean las matrices A  , B  y C 2 2
+2 4  6
+a) Justifique cuáles de las siguientes operaciones se pueden realizar y efectúelas cuando sea
+posible:
+B2CA A(BC)t
+1
+b) Resuelva la ecuación matricial (B AX)C t
+5"
+mates_ccss_matrices_y_determinantes_2018_reserva_2_ejercicio_1_opcion_b,Mates CCSS,"Se consideran las matrices
+1 2 1 2 1 3 0 1
+A  , B  y C  
+3 4  3 0 2 2 1 1
+a) Razone qué dimensiones deben tener las matrices P y Q para que los productos (APBt) y
+(QAC) den como resultado una matriz cuadrada.
+b) Resuelva la ecuación matricial AX 2BC t  A2"
+mates_ccss_matrices_y_determinantes_2018_reserva_3_ejercicio_1_opcion_b,Mates CCSS,"a) Resuelva el sistema de ecuaciones matriciales:
+7 2 4 3
+2A5B  ; 3AB 
+7 8 4 1
+3 2  0 1
+b) Dadas las matrices C   y D  , resuelva la ecuación matricial
+1 1 1 2
+XCD2  I
+2"
+mates_ccss_matrices_y_determinantes_2018_reserva_4_ejercicio_1_opcion_a,Mates CCSS,"2
+2 3 1 1 4
+a) Resuelva la ecuación matricial  X    
+1 5 0 1 1
+b) Si A es una matriz con tres filas y dos columnas, determine razonadamente la dimensión que
+deben tener las matrices B, C y D para que se puedan efectuar las siguientes operaciones:
+2A3B AAt C 2 AD"
+mates_ccss_matrices_y_determinantes_2018_septiembre_ejercicio_1_opcion_b,Mates CCSS,"1 0 1 0 1
+Sean las matrices A  y B 
+1 1 2 1 0
+a) Calcule A2018  A2019
+b) Resuelva la ecuación matricial XABBt  2A"
+mates_ccss_matrices_y_determinantes_2019_junio_ejercicio_1_opcion_b,Mates CCSS," 1 2 0
+ 
+Se considera la matriz A 2 2 1 .
+ 
+ 
+ 0 1 1
+a) Razone si la matriz A es simétrica.
+b) Calcule A1.
+c) Resuelva la ecuación matricial 2XA A2 3I O
+3"
+mates_ccss_matrices_y_determinantes_2019_reserva_1_ejercicio_1_opcion_b,Mates CCSS,"Se consideran las matrices:
+ 3 1  2 0 3
+A  B  C   D2 2
+6 1 2 2 1
+a) Justifique cuáles de las siguientes operaciones se pueden realizar y efectúelas cuando sea
+posible:
+ABC ACBDt B2 CD ADC
+b) Resuelva la ecuación matricial X  A I   3Bt.
+2"
+mates_ccss_matrices_y_determinantes_2019_reserva_2_ejercicio_1_opcion_b,Mates CCSS,"Se consideran las matrices
+ 1 
+ 5  1 0 1
+ 2  1 1  
+A  B   C   0 1 1 
+ 1 1 2 1  
+  1 1 0
+ 4 2
+a) Resuelva la ecuación matricial A4X B2 I .
+2
+b) ¿Tiene inversa la matriz C? Justique la respuesta."
+mates_ccss_matrices_y_determinantes_2019_reserva_3_ejercicio_1_opcion_b,Mates CCSS,"Se consideran las matrices
+ 2 0
+0 1 1   1 2
+A  B  2 1  C  
+2 1 0
+
+ 0 1
+
+
+2 3
+a) ¿Tiene inversa la matriz ABC? Justifique la respuesta y, en caso afirmativo, calcule
+ABC1
+.
+b) Resuelva la ecuación matricial ABX CX Ct."
+mates_ccss_matrices_y_determinantes_2019_reserva_4_ejercicio_1_opcion_b,Mates CCSS,"Se consideran las matrices
+1 1 3 2
+   
+A 1 2 1 B  3
+   
+
+1 1 1
+
+
+
+0
+
+
+a) Justifique que la matriz A tiene inversa y calcule A1.
+b) Calcule, si existe, la matriz X que satisface la ecuación matricial AX  B."
+mates_ccss_matrices_y_determinantes_2019_septiembre_ejercicio_1_opcion_a,Mates CCSS," 1 0 2  1 3  7 12 16
+Se consideran las matrices A  B  C  
+1 1 0 2 0 1 7 12
+a) Justifique cuáles de las siguientes afirmaciones son ciertas:
+1) AAt es una matriz simétrica
+2) AAt B posee inversa
+b) Resuelva la ecuación matricial BXAC"
+mates_ccss_matrices_y_determinantes_2019_ponencia_1,Mates CCSS,"0 1 2 2 1
+Dadas las matricesA  y B  .
+1 2 3 0 1
+a) Calcule la inversa de (AAt).
+b) ¿Admite inversa la matriz (At A)?.
+c) Calcule, cuando sea posible: AB , BA , At B , BAt"
+mates_ccss_matrices_y_determinantes_2019_ponencia_2,Mates CCSS,"2 2 
+Consideremos la matriz A  , siendo m un parámetro real. Se pide:
+2 m2 m
+a) ¿Para qué valores del parámetro m existe la matriz inversa de A?
+b) Para m0, calcule la matriz inversa de A.
+2 1
+c) Para m0 en la matriz A, resuelva la ecuación matricial XA2C, siendo C  
+4 0"
+mates_ccss_matrices_y_determinantes_2019_ponencia_3,Mates CCSS," 1 1 3 1
+Se consideran las matrices A  y B 
+2 1  0 1
+a) ¿Es invertible la matriz B2I ?. Justifique la respuesta y, en caso afirmativo calcule
+2
+(B2I )1
+2
+b) Resuelva la ecuación matricial A2  XB2X  3Bt."
+mates_ccss_matrices_y_determinantes_2019_ponencia_4,Mates CCSS,"1 2 1
+ 
+Dada la matriz A 2 4 m .
+ 
+ 
+m 2 1
+ 
+a) Calcule su determinante y el valor o los valores del parámetro m para los que existe la
+inversa de la matriz A.
+b) Para m  1, calcule A1.
+c) Resuelva la ecuación matricial AX  AI
+3"
+mates_ccss_matrices_y_determinantes_2019_ponencia_5,Mates CCSS,"1 2 1 1
+   
+Se considera la ecuación matricial AX  At B, donde A 0 1 2 y B 0 .
+   
+   
+ 1 2 0  2
+a) ¿Qué dimensiones debe tener la matriz X?.
+b) Resuelva la ecuación matricial AX  At B"
+mates_ccss_matrices_y_determinantes_2019_ponencia_6,Mates CCSS,"1 2 3 2 1 6
+  2 1 3    
+Se consideran las siguientes matrices A  1 2 1  ; B  ;C   0 1  ; D  0  .
+ 
+0 1 0
+   
+1 1 0 3 0 3
+     
+a) Indique razonadamente cuáles de las siguientes matrices posee inversa, calculando dicha
+inversa cuando sea posible: A, B, CC t .
+b) Calcule, si existe, una matriz X que satisfaga la ecuación AX  D"
+mates_ccss_matrices_y_determinantes_2019_ponencia_7,Mates CCSS," 1 1 1
+ 
+Dada la matriz A m n 1 .
+ 
+ 
+1 1 2
+ 
+a) Obtenga los valores de m y n para que A coincida con su traspuesta y no tenga inversa.
+b) Para m0 y n3, obtenga A1.
+c) Para m0 y n3, resuelva la ecuación matricial XA2I  A2
+3"
+mates_ccss_matrices_y_determinantes_2019_ponencia_8,Mates CCSS," 2 0 m
+ 
+Dada la matriz A 1 1 0 .
+ 
+ 
+m 3 2
+ 
+a) Determine el valor de m para los que la matriz A no tiene inversa.
+b) Para m0, obtenga A1."
+mates_ccss_matrices_y_determinantes_2020_junio_ejercicio_a1,Mates CCSS,"Sean A, B, X, Y matrices invertibles que verifican: AX  B y BY  A.
+a) (1 punto) Compruebe que Y 1  X .
+1 2 2 1
+b) (1’5 puntos) Para A  y B  , halle X e Y.
+1 3 0 1"
+mates_ccss_matrices_y_determinantes_2020_reserva_1_ejercicio_a2,Mates CCSS,"2 1 1  1 1
+   
+Se consideran las matrices A a 1 1 B 2 0
+   
+
+3 0 2a
+
+
+
+1 2
+
+
+a) (0’7 Puntos). Determine para qué valores de a tiene inversa la matriz A.
+b) (1 Punto). Para a2, calcule la matriz inversa de A.
+c) (0’8 Puntos). Para a0, resuelva la ecuación matricial XA1BBt  I .
+3"
+mates_ccss_matrices_y_determinantes_2020_reserva_2_ejercicio_a2,Mates CCSS,"1 0 2 1 2
+Se consideran las matrices A  , B AAt y C   , siendo a un
+a 1 0 1 0
+parámetro real.
+a) (0’75 puntos) ¿Para qué valores del parámetro a existe la inversa de la matriz B?
+b) (0’75 puntos) Para a1, calcule la inversa de la matriz B.
+c) (1 punto) Para a1, resuelva la ecuación matricial Bt X 9C O."
+mates_ccss_matrices_y_determinantes_2020_reserva_3_ejercicio_a2,Mates CCSS,"1 0 1
+  3 2 1 2 4
+Se consideran las matrices A  k 3 2  B  y C   .
+  0 1 1  1 3
+1 k 1
+a) (0’8 puntos) Razone si las siguientes operaciones se pueden realizar y en aquellos casos en
+que sea posible, indique la dimensión de la matriz resultante:
+Bt A , CB , BAB , B2
+b) (0.7 puntos) Calcule los valores del parámetro k para los que la matriz A es invertible.
+c) (1 punto) Para k  1, calcule la inversa de la matriz A."
+mates_ccss_matrices_y_determinantes_2020_reserva_4_ejercicio_a1,Mates CCSS," 2 0 m
+ 
+Dada la matriz A 1 1 1 .
+ 
+ 
+m 3 5
+ 
+a) (0’8 Puntos). ¿Para qué valores del parámetro m tiene inversa la matriz A?.
+b) (1’7 Puntos). Para m0, resuelva la ecuación matricial XA AAt."
+mates_ccss_matrices_y_determinantes_2020_septiembre_ejercicio_a1,Mates CCSS,"Tres institutos piden presupuesto de alojamiento en Roma en dos agencias de viajes, que les
+dan el precio por noche según tipo de habitación, individual, doble y triple.
+La primera agencia ofrece los siguientes precios: individual a 65 euros, doble a 85 euros y triple
+a 104 euros. La segunda agencia oferta la individual a 78 euros, la doble a 83 euros y la triple a
+106 euros. El primer instituto necesita tres habitaciones individuales, quince dobles y dos
+triples, el segundo dos individuales, doce dobles y cinco triples y el tercer instituto una
+individual, dieciséis dobles y siete triples.
+a) (1 punto) Exprese, mediante una matriz A, los precios de las dos agencias según el tipo de
+habitación y con otra matriz D la demanda de los tres individuos.
+b) (1 punto) Mediante operaciones con las matrices anteriores, calcule el precio por noche que
+cada agencia facilita a los distintos institutos por el total de habitaciones solicitadas. ¿Qué
+agencia le interesa a cada instituto?
+c) (0’5 puntos) ¿Existe inversa de la matriz D? ¿Y de la matriz A? Justifique las respuestas."
+mates_ccss_matrices_y_determinantes_2021_julio_ejercicio_a1,Mates CCSS,"2 1 0
+ 
+Se considera la matriz A 1 0 2
+ 
+
+0 2 a
+
+
+a) Determine para qué valores del parámetro a, la matriz A tiene inversa.
+b) Para a1, calcule la inversa de A
+c) Para a1, resuelva la ecuación matricial AX  Bt , siendo B0 1 1."
+mates_ccss_matrices_y_determinantes_2021_junio_ejercicio_a2,Mates CCSS," 1 1 m
+ 
+Se considera la matriz A 0 2 3 , con m un parámetro real.
+ 
+
+m 1 1
+
+
+a) ¿Para qué valores del parámetro m existe la matriz inversa de A?.
+b) Para m2, resuelva la ecuación matricial XA A2  I .
+3"
+mates_ccss_matrices_y_determinantes_2021_reserva_1_ejercicio_a2,Mates CCSS,"1 0 1 1 0 2  1
+     
+Se consideran las matrices A 0 1 0 ; B 1 1 1 ; C  3
+     
+     
+1 0 1 2 1 0  1
+a) Calcule A2,A3,A4 y deduzca la expresión de An, con n un número natural
+b) Razone si existe la inversa de la matriz B.
+c) Razone si la ecuación matricial BX C tiene solución y resuélvala en caso de que sea
+posible."
+mates_ccss_matrices_y_determinantes_2021_reserva_2_ejercicio_a2,Mates CCSS,"a 4 2 2
+Se consideran las matrices A  , B  y C 1 2
+6 8 3 3
+a) Calcule el valor del parámetro a para que la matriz A no tenga inversa.
+b) Para a3, resuelva la ecuación matricial XAXBC
+c) Para a3, compruebe que A2 11A y exprese A8 en función de la matriz A."
+mates_ccss_matrices_y_determinantes_2021_reserva_3_ejercicio_a2,Mates CCSS,"2 1 0
+Se considera la ecuación matricial 10I  AX  B, donde A  4 2 0  y B es una matriz
+3  
+ 
+2 2 5
+con tres filas y una columna.
+a) Razone qué dimensión ha de tener la matriz X.
+b) ¿Tiene solución la ecuación matricial anterior para cualquier matriz B de orden 3x1?. ¿Por
+qué?.
+c) Resuelva dicha ecuación matricial si B5 20 3t ."
+mates_ccss_matrices_y_determinantes_2021_reserva_4_ejercicio_a1,Mates CCSS," 1 0
+Se considera la matriz A 
+1 1
+a) Calcule A40 y  At 30
+b) Calcule  A1 A 2
+c) Resuelva la ecuación matricial
+
+At  I
+
+X  At I
+2 2"
+mates_ccss_matrices_y_determinantes_2022_julio_ejercicio_a1,Mates CCSS," 1 1 2 2 1  1 2
+     
+Se consideran las matrices A 2 0 1 , B 3 1 , C  1 1 .
+     
+     
+0 1 1 0 2 2 3
+     
+a) Determine la matriz X que verifica AX B  A2C .
+b) Determine las dimensiones de dos matrices P y Q sabiendo que APt C C(QB)."
+mates_ccss_matrices_y_determinantes_2022_junio_ejercicio_a2,Mates CCSS,"a 1 0
+ 
+Se consideran las matrices A 0 a 1 , B2 1 0 , C 1 3 1
+ 
+
+3 4 1
+
+
+Donde a es un número real.
+a) Halle los valores del parámetro a para que la matriz A tenga inversa.
+b) Para a2, calcule la matriz inversa de A
+c) Para a2, resuelva la ecuación matricial XAI  Bt C
+3"
+mates_ccss_matrices_y_determinantes_2022_reserva_1_ejercicio_a1,Mates CCSS," 2 3 a1
+ 
+Considere la matriz A 1 a a1
+ 
+ 
+ 1 3 a 
+Donde a es un número real. Determine de manera justificada:
+a) Los valores de a para los que la matriz A tiene inversa.
+b) Las matrices A2,A3 y A2022 para a4
+c) La matriz X que verifica que X A I para a3.
+3"
+mates_ccss_matrices_y_determinantes_2022_reserva_2_ejercicio_a2,Mates CCSS,"a 2 0  1 
+   
+Se consideran las matrices A 8 a 0 y B  2 , donde a es un número real
+   
+
+0 0 a
+
+
+
+ 10
+
+
+a) Determine los valores de a para que la matriz A no sea invertible.
+b) Para a5, calcule la inversa de la matriz A.
+c) Para a5, resuelva la ecuación matricial AX  B."
+mates_ccss_matrices_y_determinantes_2022_reserva_3_ejercicio_a1,Mates CCSS," 1 0 1  1 1 1  3
+     
+Se consideran las matrices: A 1 1 1 B 1 1 1 C  7
+     
+     
+ 2 1 0  1 1 1 2
+a) Razone si se pueden efectuar las siguientes operaciones y realice las que sean posibles:
+CA AB Ct Bt
+b) Resuelva la ecuación matricial AX BXC."
+mates_ccss_matrices_y_determinantes_2022_reserva_4_ejercicio_a2,Mates CCSS,"Se consideran las matrices:
+ 7 6 2  2 2 3
+     1 2 1  a2 0 1
+A  3 1 4  B  5 3 4  C   D 
+    2 3 0  1 1 a
+5 0 4 4 0 1
+a) Resuelva la ecuación matricial At  X A 3I .
+3
+b) ¿Existe algún valor del parámetro a para el que se verifique Ct D  B?. En caso afirmativo,
+calcule dicho valor."
+mates_ccss_matrices_y_determinantes_2023_julio_ejercicio_a1,Mates CCSS,"1 0 0
+ 
+Se considera la matriz A 0 2 0 .
+ 
+ 
+0 1 1
+ 
+a) Pruebe que se verifica que: A1 
+1
+ A2 4A5I  .
+2 3
+1 2 0
+b) Dada la ecuación matricial X t A  , determine la dimensión de X y resuelva la
+3 1 1
+ecuación."
+mates_ccss_matrices_y_determinantes_2023_junio_ejercicio_a2,Mates CCSS,"a 1 0 2 1
+  2 1  
+Dadas las matrices A  0 a 2  B  C   1 1 
+
+0 1 1
+
+
+a 1
+
+2 0
+
+
+a) Calcule los valores del parámetro a para los que tanto A como B admitan inversa.
+b) Para a1, halle una matriz X que satisfaga AXBC ."
+mates_ccss_matrices_y_determinantes_2023_reserva_1_ejercicio_a1,Mates CCSS,"a) Un agricultor vende la producción de tres tipos de uva, Tempranillo, Garnacha y Macabeo,
+50 40 35
+de dos de sus fincas. La matriz Q  recoge la producción, en miles de kilogramos,
+ 0 60 55
+de estos tipos de uva en cada finca. El precio de venta por kilogramo, en céntimos de euro, según
+40 38 42
+el tipo de uva y la finca, viene dado por la matriz P   .
+34 37 40
+Calcule el producto QP t y explique el significado económico de los elementos de la diagonal
+principal del resultado. Indique también la cantidad total de dinero que ha obtenido el agricultor
+por la venta de la cosecha de las dos fincas.
+b) Dada la siguiente ecuación matricial MXN V:
+b.1) Suponiendo que M sea invertible, despeje la matriz X de la ecuación anterior
+1 0 5 4 8 7
+b.2) Para M   , N   yV   , calcule la matriz X.
+1 1 3 2 6 5"
+mates_ccss_matrices_y_determinantes_2023_reserva_2_ejercicio_a1,Mates CCSS,"Una conservera fabrica latas de pisto con tomate, cebolla y pimiento siguiendo dos recetas
+500 300 200
+distintas. La matriz indica los gramos necesarios de cada producto para
+ 
+600 100 300
+conseguir una lata de cada receta. Se dispone de dos proveedores, siendo la matriz de precios en
+0'5 0'4 0'6
+euros por kilo de cada producto . Los costes de producción de cada receta en
+ 
+0'4 0'5 0'7
+euros por lata vienen dados por la matriz 0'11 0'09 . Los costes de transporte en euros por
+lata según cada proveedor vienen dados por la matriz 0'02 0'03 . La conservera quiere
+obtener un beneficio de 5 céntimos por lata. Una distribuidora compra 11000 latas de la
+primera receta, siendo 5000 del primer proveedor, y otras 11000 de la segunda receta, siendo
+6000 del primer proveedor. ¿Cuánto debe cobrar la conservera por el pedido de esta
+distribuidora."
+mates_ccss_matrices_y_determinantes_2023_reserva_3_ejercicio_a2,Mates CCSS,"1 1 0
+ 
+a) Se considera la matriz A 0 m 2
+ 
+
+1 m 4
+
+
+a.1) Obtenga para qué valores de m la matriz A tiene inversa.
+a.2) Calcule, en caso de existir, la inversa de A para m1.
+b) Despeje y simplifique X en la ecuación XBB2 BO, sabiendo que la matriz B es
+invertible."
+mates_ccss_matrices_y_determinantes_2023_reserva_4_ejercicio_a2,Mates CCSS,"5 7 6  1 2 9  1
+     
+Se consideran las matrices A 7 0 4 B 2 0 11 y C  2 .
+     
+     
+0 3 1  0 4 7 1
+a) Halle las dimensiones de las siguientes matrices: Ct AC , ACCt B
+b) Calcule, en caso de existir, las matrices inversas de A y B.
+ 2X 3Y  A
+c) Resuelva el siguiente sistema matricial  .
+3X 4Y  B"
+mates_ccss_matrices_y_determinantes_2024_julio_ejercicio_a1,Mates CCSS,"Dada la matriz A =
+
+−
+1
+0
+2
+−
+2
+1
+0
+0
+2
+1
+
+, resuelva la ecuación: A 2  X + A 4 = A"
+mates_ccss_matrices_y_determinantes_2024_junio_ejercicio_a1,Mates CCSS,"Se consideran las matrices A =
+
+a
+1
+−
+0
+3 a
+1
+−
+2
+1
+− 2
+1
+a
+
+, B = ( − 1 3 2 ) , C = ( − 2 1 4 ) ,
+siendo a un número real.
+a) Obtenga los valores de a para los que la matriz A tenga inversa.
+b) Para a = 1 , resuelva la ecuación X  A − B = C  A
+c) Determine razonadamente la dimensión de la matriz D que permite realizar la operación
+B  A + D  C t  B"
+mates_ccss_matrices_y_determinantes_2024_reserva_1_ejercicio_a1,Mates CCSS,"Se consideran las matrices:
+P =
+ 1
+0
+1 −
+0
+1
+1 −
+1
+0
+1
+
+J =
+ 2
+0
+0
+1
+2
+0 −
+0
+0
+1
+
+a) Halle la matriz A que satisface la ecuación P − 1  A  P = J .
+b) Compruebe que A3 = PJ 3P−1"
+mates_ccss_matrices_y_determinantes_2024_reserva_2_ejercicio_a1,Mates CCSS,"Se consideran las matrices M =
+ 1
+2
+1
+0
+1
+1
+1
+0
+1
+
+N =
+ 3
+5
+7
+2
+2
+4
+2
+1
+0
+
+V =
+ 5
+a
+−
+−
+a
+a
+1
+2
+2 
+, siendo a un
+número real
+a) Halle el valor de a para que se verifique que M t  V = ( 5 1 5 ) t .
+b) Calcule M − 1 y resuelva la ecuación matricial X  M − I
+3
+= N .
+c) Razone si las operaciones 2  V  N t y (N + M t)V se pueden realizar y, en aquellos casos en
+que sea posible, indique la dimensión de la matriz resultante."
+mates_ccss_matrices_y_determinantes_2024_reserva_3_ejercicio_a1,Mates CCSS,"Se consideran las matrices A =
+
+−
+1
+2
+− 1
+1
+1
+0
+
+ 0 −1
+ 
+, B = 1 0 y
+ 
+ 
+−1 2
+ 
+C =
+ 1
+1
+0
+3
+1
+3
+2
+1
+1
+
+.
+a) Resuelva la siguiente ecuación A  B  X  C =
+ 1
+0
+0
+1
+0
+0
+
+.
+b) Halle las dimensiones de las matrices D y E para que tenga sentido la igualdad A  D = E  B ."
+mates_ccss_matrices_y_determinantes_2024_reserva_4_ejercicio_a1,Mates CCSS,"Se consideran las matrices A =
+ 0
+1
+1
+0
+
+B =
+ 3
+2
+2
+0
+
+C =
+ 1
+1
+0
+1
+
+.
+a) Determine las matrices X e Y que satisfacen simultáneamente las ecuaciones
+2X −Y =4A X +Y = B
+b) Calcule la matriz C 2 0 2 4 .
+c) Si D es una matriz de dimensión 2 x 3, razone si las siguientes operaciones se pueden realizar
+y, en aquellos casos en los que sea posible, indique la dimensión de la matriz resultante:
+A t  B + D  D t D  B t + A D t  A t + D"
+mates_ccss_matrices_y_determinantes_2025_julio_ejercicio_a1,Mates CCSS,"a) Un fabricante de paneles fotovoltaicos está analizando la eficiencia de tres modelos de placas
+(A, B, y C). En un día determinado se realizaron tres pruebas. En la primera, utilizando 2 placas
+del modelo A, 1 placa del modelo B y 3 placas del modelo C, se generó una potencia efectiva total
+de 2960 W. En la segunda, al combinar 1 placa del modelo A, 3 placas del modelo B y 2 placas
+del modelo C, se obtuvo una potencia efectiva total de 2990 W. En la tercera, una configuración
+con 3 placas del modelo A, 2 placas del modelo B y 1 placa del modelo C produjo una potencia
+efectiva total de 2870 W. Exprese el problema en forma matricial y discuta, a partir de la matriz
+del sistema, si se puede obtener la potencia efectiva que generó individualmente cada modelo de
+placa fotovoltaica. En caso afirmativo, obtenga dichas potencias efectivas.
+2
+1 1 4
+b) Resuelva la ecuación matricial 2X =   
+0 −1 1"
+mates_ccss_matrices_y_determinantes_2025_junio_ejercicio_a1,Mates CCSS,"a) Plantee y resuelva el siguiente problema de forma matricial:
+El gerente de una empresa de productos hospitalarios desea introducir un nuevo producto en el
+mercado nacional. Para ello contrata a 3 vendedores que se han encargado de las zonas A, B y C
+del país, respectivamente. E vendedor de la zona A ha trabajado 40 horas, ha realizado 10
+demostraciones y 5 viajes para dicha promoción. El vendedor de la zona B ha trabajado el doble
+de horas que el de la zona A, realizando 15 demostraciones y 8 viajes. En cuanto al vendedor de
+la zona C, ha trabajado 100 horas, ha realizado 25 demostraciones y 10 viajes. El gerente debe
+abonarles 75 € por hora trabajada, 300 € por demostración y 250 € por viaje realizado. Teniendo
+en cuenta que, además, debe aplicárseles una retención en concepto del impuesto de IRPF del
+15% si la cantidad a abonar al vendedor es menor de diez mil euros y del 18% en caso contrario,
+determine la cantidad final que cobrará cada vendedor.
+b) Sea A =
+ − 2
+3
+4
+a
+2
+−
+0
+1
+1
+2
+3
+
+¿Para qué valores de a es la matriz A invertible?."
+mates_ccss_matrices_y_determinantes_2025_reserva_1_ejercicio_a1,Mates CCSS,"Se considera la matriz A =
+ 2
+0
+2
+1
+1
+2
+0
+2
+2
+
+.
+a) Resuelva el sistema de ecuaciones matriciales:
+(
+A + I
+3
+)
+ X + Y = A − I
+3
+X − Y = I
+3
+b) Halle el rango de las matrices A + I
+3
+y A − I
+3
+. ¿Son matrices invertibles?"
+mates_ccss_matrices_y_determinantes_2025_reserva_2_ejercicio_a1_b,Mates CCSS,"b) Dada la matriz A =
+
+−
+1
+1
+1
+0
+2
+2
+− 1
+3
+1
+
+, calcule el rango de A y A 2"
+mates_ccss_matrices_y_determinantes_2025_reserva_4_ejercicio_a1_b,Mates CCSS,"Dadas las matrices A =
+ 1
+2
+− 1
+3
+
+y B =
+ 0
+2
+1
+1
+
+, compruebe si la inversa de la suma de dichas
+matrices coincide con la suma de las inversas de cada una."
+mates_ii_matrices_y_determinantes_2000_junio_ejercicio_4_opcion_a,Mates II,"1 2
+D ada la matriz A  , calcula (At A1)2A
+3 4"
+mates_ii_matrices_y_determinantes_2000_reserva_1_ejercicio_3_opcion_a,Mates II,"a b c
+Sabiendo que d e f  2; calcula los siguientes determinantes y enuncia las propiedades
+g h i
+3a 3b 15c a2b c b
+que utilices: a) d e 5f ; b) d 2e f e
+g h 5i g2h i h"
+mates_ii_matrices_y_determinantes_2000_reserva_2_ejercicio_4_opcion_b,Mates II,"1 0 1
+ 
+Dada la matriz A 0 m 3 averiguar para qué valores del parámetro m existe A1 y
+ 
+ 
+4 1 m
+ 
+calcular A1 para m2."
+mates_ii_matrices_y_determinantes_2000_reserva_3_ejercicio_3_opcion_b,Mates II," 1 1   1 1 4 
+R esuelve la ecuación matricial A2X 2B, siendo: A  y B 
+ 2 3   0 3 1"
+mates_ii_matrices_y_determinantes_2000_septiembre_ejercicio_4_opcion_a,Mates II," 3 2   x   7 
+C onsidera las matrices: A  ; X   ; U  
+ 4 3   y   9 
+a ) Halla los valores de x e y tales que AX U
+b ) Halla la matriz A1 y calcula A1U
+ 1   1 
+c ) Encuentra los posibles valores de m para los que los vectores A  y   son linealmente
+ m   m 
+dependientes."
+mates_ii_matrices_y_determinantes_2001_junio_ejercicio_3_opcion_a,Mates II," senx cosx 0
+ 
+Sea A cosx senx 0 .
+ 
+ 
+
+senxcosx senxcosx 1
+
+¿ Para qué valores de x existe la matriz inversa de A?. Calcula dicha matriz inversa."
+mates_ii_matrices_y_determinantes_2001_junio_ejercicio_4_opcion_b,Mates II," 0 3 4
+ 
+Considera la matriz A 1 4 5
+ 
+ 
+
+1 3 4
+
+a ) Siendo I la matriz identidad 3x3 y 0 la matriz nula 3x3, prueba que A3 + I = 0
+b ) Calcula A10"
+mates_ii_matrices_y_determinantes_2001_reserva_1_ejercicio_3_opcion_a,Mates II,"1 2 3
+1 2 1 2 3 1 1  
+D e las matrices: A
+3 4
+
+
+;B
+4 5 6
+
+
+;C 
+3 3
+
+
+;D 
+
+0 1 2 
+
+0 0 1
+ 
+D etermina cuáles tienen inversa y en los casos en que exista, calcula el determinante de dichas
+i nversas."
+mates_ii_matrices_y_determinantes_2001_reserva_2_ejercicio_3_opcion_a,Mates II,"a 0 a
+ 
+Se sabe que la matriz A 0 1 0 verifica que det (A) = 1 y sus columnas son vectores
+ 
+ 
+b 0 b
+ 
+perpendiculares dos a dos.
+a) Calcula los valores de a y b.
+b ) Comprueba que para dichos valores se verifica que A-1 = At, donde At denota la matriz
+traspuesta de A."
+mates_ii_matrices_y_determinantes_2001_reserva_3_ejercicio_3_opcion_a,Mates II,"1 0 1  1 2
+   
+Determina la matriz X tal que A·X―3·B = 0, siendo: A 2 3 7 y B  1 0
+   
+   
+0 1 2 2 1
+   "
+mates_ii_matrices_y_determinantes_2001_reserva_3_ejercicio_3_opcion_b,Mates II,"1 0 2
+ 
+Considera la matriz A 1 1 1
+ 
+ 
+1 1 0
+a ) Calcula el determinante de las matrices: 2·A; A31 y (A31)1.
+b) Halla la matrizA1."
+mates_ii_matrices_y_determinantes_2001_reserva_4_ejercicio_4_opcion_b,Mates II,"1  1 
+ 
+Considera la matriz A  1 
+ 
+ 
+0  1
+a ) Determina para qué valores del parámetro  la matriz A no tiene inversa.
+b ) Calcula, si es posible, la matriz inversa de A para  2."
+mates_ii_matrices_y_determinantes_2001_septiembre_eje_rcicio_3_opcion_a,Mates II,"3 1 1
+ 
+Determina a, b y c sabiendo que la matrizA 1 a 2 , verifica:
+ 
+ 
+
+1 b c
+
+1 2
+   
+A 2  9 y rango (A) = 2.
+   
+   
+3 4"
+mates_ii_matrices_y_determinantes_2002_junio_ejercicio_3_opcion_a,Mates II,"D etermina una matriz A simétrica (A coincide con su traspuesta) sabiendo que:
+ 2 6 4 12
+det(A)7 y A    
+ 1 3  1 3"
+mates_ii_matrices_y_determinantes_2002_junio_ejercicio_3_opcion_b,Mates II,"D etermina la matriz X que verifica la ecuación A·X = X―B, siendo:
+ 0 0 1 1 0 1
+   
+A 0 0 0 y B 0 1 1
+   
+   
+
+1 0 0
+ 
+0 1 1
+"
+mates_ii_matrices_y_determinantes_2002_reserva_1_ejercicio_3_opcion_b,Mates II,"0 0 1 0 0 1
+   
+Considera las matrices: A 0 1 0 ; B x 1 0
+   
+   
+1 0 0 y 0 0
+   
+a ) Calcula la matriz inversa de A.
+b ) Calcula A127 y A128.
+c ) Determina x e y tal que AB BA."
+mates_ii_matrices_y_determinantes_2002_reserva_2_ejercicio_4_opcion_b,Mates II,"1 0 a
+ 
+Considera la matrizA a 0 1 .
+ 
+ 
+2 1 1
+ 
+a) Halla los valores de a para los que la matriz 3 A tiene inversa.
+b ) Calcula, si es posible, la inversa de la matriz A2 para a = 0."
+mates_ii_matrices_y_determinantes_2002_reserva_3_ejercicio_3_opcion_b,Mates II," k x 1ax
+ 
+Sin desarrollarlo, calcula el valor del determinante de la matriz 2k y 2ay y enuncia las
+ 
+ 
+3k z 3az
+ 
+p ropiedades que hayas usado."
+mates_ii_matrices_y_determinantes_2002_reserva_4_ejercicio_3_opcion_b,Mates II,"D enotamos por M t a la matriz traspuesta de una matriz M. Considera:
+ 1  0 4 3
+   
+A 2 ; B1 4 3 ; C  2 9 6
+   
+   
+
+1
+ 
+1 4 4
+
+a ) Calcula (AB)t y (BA)t.
+1
+b ) Determina una matriz X que verifique la relación: X (AB)t C
+2"
+mates_ii_matrices_y_determinantes_2003_junio_ejercicio_3_opcion_b,Mates II,"S ean C , C y C las columnas primera, segunda y tercera, respectivamente, de una matriz
+1 2 3
+c uadrada A de orden 3 cuyo determinante vale 5. Calcula, indicando las propiedades que
+u tilices:
+a ) El determinante de A3.
+b ) El determinante de A-1.
+c ) El determinante de 2 A.
+d ) El determinante de una matriz cuadrada cuyas columnas primera, segunda y tercera son,
+r espectivamente, 3C ―C ; 2C y C .
+1 3 3 2"
+mates_ii_matrices_y_determinantes_2003_reserva_2_ejercicio_3_opcion_a,Mates II," 1 1 0 5 0 3
+   
+Dadas las matrices A 3 2 0 y B 1 1 1 halla la matriz X que cumple
+   
+   
+1 5 1 2 4 3
+   
+queAX (BAt)t."
+mates_ii_matrices_y_determinantes_2003_reserva_2_ejercicio_3_opcion_b,Mates II," 1 1 1
+ 
+Dada la matriz A m2 1 1 , se pide:
+ 
+ 
+m 0 1
+ 
+a) Determina los valores de m para los que la matriz A tiene inversa.
+b) Calcula, si es posible, la matriz inversa de A para m = 2."
+mates_ii_matrices_y_determinantes_2003_reserva_3_ejercicio_3_opcion_b,Mates II,"a ) Se sabe que el determinante de una matriz cuadrada A de orden 3 vale ―2. ¿Cuánto vale el
+d eterminante de la matriz 4 A ?.
+1 2 0 
+ 
+b) Dada la matriz B  0 1 ,¿ para qué valores de  la matriz 3 B + B2 no tiene inversa?.
+ 
+ 
+0 1 2
+ "
+mates_ii_matrices_y_determinantes_2003_reserva_4_ejercicio_3_opcion_b,Mates II," 2x 0 0
+ 
+Considera la matrizM(x) 0 1 x , donde x es un número real.
+ 
+ 
+
+0 0 1
+
+a ) ¿Para qué valores de x
+existeM(x)1
+?. Para los valores de x obtenidos, calcula la matriz
+M(x)1
+.
+b) Resuelve, si es posible, la ecuación M(3)M(x) M(5)"
+mates_ii_matrices_y_determinantes_2003_septiembre_eje_rcicio_3_opcion_a,Mates II,"1 0 0 0 1 1 1 0 0
+     
+Considera las matrices: A 1 m 0 ; B  1 0 0 y C  0 1 0
+     
+     
+1 1 1 0 0 0 1 0 1
+     
+a ) ¿Para qué valores de m tiene solución la ecuación matricial A·X+2B = 3C?
+b ) Resuelve la ecuación matricial dada para m = 1."
+mates_ii_matrices_y_determinantes_2004_junio_ejercicio_3_opcion_b,Mates II,"1 0 1 0
+1 0 1    
+Considera las matrices: A  ; B  0 1  y C   0 2 
+0 1 2
+   
+0 0 1 0
+   
+a) Calcula AB;AC;At Bt y Ct At, siendo At;Bt y Ct las matrices transpuestas de A, B y C,
+respectivamente.
+b) Razona cuáles de las matrices A, B, C y A·B tienen inversa y en los casos en que la respuesta
+sea afirmativa, halla la correspondiente matriz inversa."
+mates_ii_matrices_y_determinantes_2004_reserva_2_ejercicio_3_opcion_a,Mates II,"Denotamos por Mt a la matriz transpuesta de una matriz M.
+a b
+a) Sabiendo que A  y que det(A) = 4; calcula los siguientes determinantes:
+c d
+2b 2a
+det (3At) y
+3d 3c
+b) Sea I la matriz identidad de orden 3 y sea B una matriz cuadrada tal que B3  I . Calcula
+det(B).
+c) Sea C una matriz cuadrada tal que C1 Ct. ¿Puede ser det(C) = 3? Razona la respuesta."
+mates_ii_matrices_y_determinantes_2004_reserva_3_ejercicio_3_opcion_b,Mates II,"a a a
+11 12 13
+Se sabe que a a a  2: Calcula, indicando las propiedades que utilices, los siguientes
+21 22 23
+a a a
+31 32 33
+determinantes:
+3a 3a 15a 3a 3a 3a a a a
+11 12 13 21 22 23 11 12 13
+a) a a 5a ; b) a a a ; c) a a a a a a
+21 22 23 11 12 13 21 31 22 32 23 33
+a a 5a a a a a a a
+31 32 33 31 32 33 31 32 33"
+mates_ii_matrices_y_determinantes_2004_reserva_4_ejercicio_3_opcion_b,Mates II,"x y z
+Sabiendo que: t u v  6, calcula, indicando las propiedades que utilices, los siguientes
+a b c
+3x y z 2y x z x y z
+determinantes: a) 3t u v ; b) 2u t v ; c) t u v
+3a b c 2b a c 2xa 2yb 2zc"
+mates_ii_matrices_y_determinantes_2005_junio_ejercicio_3_opcion_a,Mates II,"2 1 0 1 0  1 2 0
+Sean las matrices: A  , B  y C  
+3 2 3 1 2  1 1 4
+a) ¿Tiene A inversa?. En caso afirmativo, calcúlala.
+b) Determina la matriz X que cumple queAX CBt  BBt , siendo Bt la matriz transpuesta
+de B."
+mates_ii_matrices_y_determinantes_2005_reserva_1_ejercicio_3_opcion_b,Mates II,"0 0  3 1 5 2
+Halla la matriz X que cumple que: AXAB  siendo A  y B 
+0 0 2 1 1 3"
+mates_ii_matrices_y_determinantes_2005_reserva_2_ejercicio_3_opcion_b,Mates II," 0 0 1
+ 
+Sea I la matriz identidad de orden 3 y sea A 1 1 1
+ 
+ 
+1 0 b
+ 
+a) Determina el valor de b para el que A2 2A I  0.
+b) Para b = 2 halla la matriz X que cumple que AX 2At 0, donde At denota la matriz
+transpuesta de A."
+mates_ii_matrices_y_determinantes_2005_reserva_4_ejercicio_3_opcion_a,Mates II,"2 1
+Sea I la matriz identidad de orden 2 y sea A 
+1 2
+a) Halla los valores de x para los que la matriz AxI no tiene inversa.
+b) Halla los valores de a y b para los que A2 aAbI 0."
+mates_ii_matrices_y_determinantes_2005_septiembre_eje_rcicio_3_opcion_b,Mates II,"a b c
+Sabiendo que A  d e f  2, calcula, indicando las propiedades que utilices, los siguientes
+g h i
+d eterminantes:
+c b a a b ac
+a) 3A y A1 ; b) f e d ; c) d e d  f
+2i 2h 2g g h gi"
+mates_ii_matrices_y_determinantes_2006_junio_ejercicio_3_opcion_a,Mates II,"a 1
+ConsideraA
+
+, siendo a un número re al.
+0 a
+12 1
+a) Calcula el valor de a para queA2  A  .
+ 0 20
+b) Calcula, en función de a, los determinantes de 2A yAt , siendo At la transpuesta de A.
+c) ¿Existe algún valor de a para el que la matriz A sea simétrica?. Razona la respuesta."
+mates_ii_matrices_y_determinantes_2006_reserva_2_ejercicio_3_opcion_b,Mates II,"4 2
+S ea A  y sea I la matriz identidad de orden dos.
+1 3
+a ) Calcula los valores  tales que AI 0.
+b) Calcula A2 7A10I ."
+mates_ii_matrices_y_determinantes_2006_reserva_4_ejer_cicio_3_opcion_a,Mates II,"3 1 2
+Considera las matrices A  ; B2 1 ; C  
+ 2  6 6
+a) Halla, si existe, la matriz inversa deABC.
+x x
+b) Calcula, si existen, los números reales x e y que verifican: C 3 
+ y  y"
+mates_ii_matrices_y_determinantes_2006_septiembre_ejercicio_3_opcion_b,Mates II,"Resuelve ABt X 2C , siendo Bt la matriz traspuesta de B y.
+1 0 3  1 3 0 1 4
+A  ; B  y C   .
+2 1 0  0 2 2 0 1"
+mates_ii_matrices_y_determinantes_2007_junio_ejercicio_3_opcion_a,Mates II,"1 1
+Considera la matriz A 
+1 
+a) Determina la matriz B A2 2A.
+b) Determina los valores de  para los que la ma triz B tiene inversa.
+c) Calcula B1 para 1."
+mates_ii_matrices_y_determinantes_2007_reserva_1_ejer_cicio_3_opcion_a,Mates II," 1  2 0
+Considera las matrices A  y B 
+2 3  1 1
+a) Determina los valores de  para los que la m atriz A tiene inversa.
+b) Para 1, calcula A1 y resuelve la ecuació n matricial AX  B."
+mates_ii_matrices_y_determinantes_2007_reserva_3_ejercicio_3_opcion_a,Mates II,"1 0 
+a) Calcula el valor de m para el que la matriz A  verifica la relación 2A2  A I y
+1 m
+determina A1 para dicho valor de m.
+b) Si M es una matriz cuadrada que verifica la relación2M2 M  I, determina la expresión de
+M1 en función de M y de I."
+mates_ii_matrices_y_determinantes_2007_reserva_4_ejercicio_3_opcion_a,Mates II," 3 0 
+ 
+Sea A la matriz 5  5 e I la matriz identidad de orden 3.
+ 
+ 
+ 0 3
+ 
+a) Calcula los valores de  para los que el determinante de A2I es cero.
+b) Calcula la matriz inversa de A2I para  2."
+mates_ii_matrices_y_determinantes_2007_septiembre_ejercicio_3_opcion_a,Mates II,"1 m
+Sean I la matriz identidad de orden 2 y A 
+1 1 
+a) Encuentra los valores de m para los cuales se c umple que(AI)2 O, donde O es la matriz nula
+de orden 2.
+b) Para m = 2, halla la matriz X tal queAX 2At O, donde At denota la matriz traspuesta de A."
+mates_ii_matrices_y_determinantes_2008_reserva_1_ejercicio_3_opcion_b,Mates II,"1 1 1 1 0
+    2 0 1
+Dadas las matrices A  0 1 0  , B   0 1  y C  
+     1 1 1
+1 2 2 2 1
+   
+Calcula la matriz P que verifica APB Ct (C t es la matriz traspuesta de C)."
+mates_ii_matrices_y_determinantes_2008_reserva_3_ejercicio_3_opcion_a,Mates II," 0 1 2
+ 
+Sea I la matriz identidad de orden 3 y A 1 0 2 . Calcula, si existe, el valor de k para el
+ 
+ 
+1 1 3
+ 
+cual (AkI)2 es la matriz nula."
+mates_ii_matrices_y_determinantes_2008_reserva_3_ejercicio_3_opcion_b,Mates II,"1 1 2  1 0 2
+   
+Dadas las matrices A 1 2 1 y B  2 0 4
+   
+   
+1 1 1 1 1 1
+   
+a) Calcula, si existen, la matriz inversa de A y la de B.
+b) Resuelve la ecuación matricial AX B AI , donde I denota la matriz identidad de orden
+3."
+mates_ii_matrices_y_determinantes_2008_reserva_4_ejercicio_3_opcion_b,Mates II,"1 3 k
+ 
+Dada la matriz A k 1 3
+ 
+ 
+1 7 k
+ 
+a) Estudia el rango de A en función de los valores del parámetro k.
+b) Para k 0, halla la matriz inversa de A."
+mates_ii_matrices_y_determinantes_2009_junio_ejercicio_3_opcion_a,Mates II,"S ean F , F y F las filas primera, segunda y tercera, respectivamente, de una matriz B de
+1 2 3
+orden 3, cuyo determinante vale 2. Calcula, indicando las propiedades que utilices:
+a ) El determinante deB1.
+b ) El determinante de(Bt)4. (Bt es la matriz traspuesta de B).
+c ) El determinante de 2B.
+d) El determinante de una matriz cuadrada cuyas filas primera, segunda y tercera son,
+respectivamente, 5F F , 3F , F .
+1 3 3 2"
+mates_ii_matrices_y_determinantes_2009_reserva_1_ejercicio_3_opcion_b,Mates II,"Sean A, B, C y X matrices cualesquiera que verificanAXBC .
+a) Si las matrices son cuadradas de orden 3, y se sabe que el determinante de A es 3, el de B es
+1 y el de C es 6, calcula el determinante de las matrices X y 2X.
+1 1 1 2 0 3
+b) SiA  , B  y C   , calcula la matriz X.
+0 2 2 3 4 2"
+mates_ii_matrices_y_determinantes_2009_reserva_2_ejer_cicio_3_opcion_a,Mates II,"3 7  1 3
+Dadas las matrices A  y B 
+1 2 4 2
+a) Calcula, si existe, la matriz inversa de A.
+b) Calcula las matrices X e Y que satisface n las ecuaciones matriciales XA A2B y
+AY  A2B."
+mates_ii_matrices_y_determinantes_2009_reserva_4_ejercicio_3_opcion_a,Mates II,"3 1
+Se consideran las matrices A  yB  AkI , donde k es una constante e I la matriz
+ 2 1
+identidad de orden 2.
+a) Determina los valores de k para los que B no tiene inversa.
+b) Calcular B1 para k  1.
+c) Determina las constantes  y  para las que se cumple A2 AI"
+mates_ii_matrices_y_determinantes_2009_septiembre_ejercicio_3_opcion_b,Mates II," 1 2 1 2 1
+   3 1 0  
+Sean las matricesA  2 1 1  , B  y C   1 2 
+ 
+1 2 1
+ 
+ 1 0 1   0 3
+Determina la matriz X que verifica: AX Bt  2C ."
+mates_ii_matrices_y_determinantes_2010_junio_ejercicio_3_opcion_a,Mates II,"1 0 1   1 0
+     5 3 4
+S ean las matricesA  0 m 3  , B   3 2  y C  
+   
+3 2 2
+
+4 1 m
+ 
+1 1
+
+a ) Indica los valores de m para los que A es invertible.
+b ) Resuelve la ecuación XABt C para m0. (Bt es la matriz traspuesta de B)"
+mates_ii_matrices_y_determinantes_2010_reserva_1_ejercicio_3_opcion_a,Mates II," 5 4 2
+ 
+Sea la matriz A 2 1 1
+ 
+ 
+
+4 4 1
+
+a ) Comprueba que se verifica 2A A2  I
+b) Calcula A1. (Sugerencia: Puedes usar la igualdad del apartado (a))."
+mates_ii_matrices_y_determinantes_2010_reserva_3_ejercicio_3_opcion_a,Mates II,"1 2 3 0
+C onsidera las siguientes matrices A  y B 
+ 0 1  2 1
+a ) Calcula A1.
+b ) Resuelve la ecuación matricialAXAt B2I, donde I es la matriz identidad de orden 2 y
+At es la matriz traspuesta de A."
+mates_ii_matrices_y_determinantes_2010_reserva_3_ejercicio_3_opcion_b,Mates II,"O btén un vector no nulo v (a,b,c), de manera que las matrices siguientes tengan
+simultáneamente rango 2.
+1 1 a 2 0 a
+   
+A 1 0 b B  0 1 b
+   
+   
+1 1 c 3 1 c
+   "
+mates_ii_matrices_y_determinantes_2010_reserva_4_ejer_cicio_3_opcion_b,Mates II,"a b
+D e la matriz A  se sabe quedet(A)4. Se pide:
+c d
+ 2b 2a
+a ) Halla det(3At) ydet
+
+. Indica las propiedades que utilizas.
+3d 3c
+b) Calcula det(A1At)
+c) Si B es una matriz cuadrada tal que B3  I , siendo I la matriz identidad, halla det(B)."
+mates_ii_matrices_y_determinantes_2010_septiembre_ejercicio_3_opcion_b,Mates II,"1 0 0
+ 1 0   3 1 2
+S ean las matrices A  , B   0 1 1  y C  
+1 1
+ 
+0 1 2
+
+0 1 2
+
+C alcula la matriz X que cumpla la ecuación AXBC"
+mates_ii_matrices_y_determinantes_2011_junio_ejercicio_3_opcion_b,Mates II,"1 0
+Dada la matriz A 
+ 1 1
+a) Calcula los valores de  para los que la matr iz A2 3A no tiene inversa.
+b) Para  0, halla la matriz X que verifica la ecuación AX  A 2I, siendo I la matriz
+identidad de orden 2."
+mates_ii_matrices_y_determinantes_2011_reserva_1_ejercicio_3_opcion_a,Mates II,"1
+S ean A y B dos matrices cuadradas de orden 3 cuyos determinantes son A  y B  2. Halla:
+2
+a) A3
+b ) A1
+c ) 2A
+d ) ABt , siendo Bt la matriz traspuesta de B.
+e) El rango de B."
+mates_ii_matrices_y_determinantes_2011_reserva_1_ejercicio_3_opcion_b,Mates II," 0 3 4
+ 
+Dada la matriz A 1 4 5
+ 
+ 
+
+1 3 4
+
+a ) Demuestra que se verifica la igualdadA3 I , siendo I la matriz identidad de orden 3.
+b) Justifica que A es invertible y halla su inversa.
+c) Calcula razonadamente A100"
+mates_ii_matrices_y_determinantes_2011_reserva_2_ejercicio_3_opcion_a,Mates II,"1 0 0 0 0 1
+   
+Considera las matrices A 0  1 y B  1 0 0
+   
+   
+
+0 1 
+ 
+0 1 0
+
+a ) ¿Hay algún valor de  para el que A no tiene inversa?.
+b ) Para 1, resuelve la ecuación matricial A1XA B"
+mates_ii_matrices_y_determinantes_2011_reserva_3_ejercicio_3_opcion_a,Mates II,"S ean A y B dos matrices que verifican:
+4 2  2 4
+AB  y AB 
+3 2 1 2
+a ) Halla las matrices (AB)(AB) y A2 B2
+b ) Resuelve la ecuación matricial XA XB(AB)t  2I , siendo I la matriz unidad de orden 2 y
+(AB)t la matriz traspuesta de AB"
+mates_ii_matrices_y_determinantes_2011_reserva_3_ejercicio_3_opcion_b,Mates II," 3 0 
+ 
+Sea la matriz A 5  5
+ 
+ 
+
+ 0 3
+
+a ) Determina los valores de  para los que la matriz A2I tiene inversa, siendo I la matriz
+i dentidad de orden 3.
+b ) Para   2, resuelve la ecuación matricial AX  2X  I"
+mates_ii_matrices_y_determinantes_2011_reserva_4_ejercicio_3_opcion_b,Mates II,"1 1
+D ada la matriz A 
+ 2 1
+a ) Demuestra que A2 2A I y que A1  A2I, siendo I la matriz identidad de orden 2.
+b ) Calcula la matriz X que verifica la ecuación: A2  XA5A4I"
+mates_ii_matrices_y_determinantes_2011_septiembre_ejercicio_3_opcion_a,Mates II,"  1 1  0 
+   
+Dadas las matrices A 1  1 y B 1
+   
+   
+1 1  1
+   
+a) Calcula el rango de A dependiendo de los valores .
+b) Para 2, resuelve la ecuación matricial AX  B."
+mates_ii_matrices_y_determinantes_2011_septiembre_ejercicio_3_opcion_b,Mates II,"  1  1 3 1 
+Sean las matrices A  y B 
+ 3 1 4 2 
+1
+a) Calcula los valores de  para los que la matriz inversa de A es A.
+12
+b) Para  3, determina la matriz X que verifica la ecuación At X  B, siendo At la matriz
+traspuesta de A."
+mates_ii_matrices_y_determinantes_2012_junio_ejercicio_3_opcion_a,Mates II,"0 0 1
+ 
+Sea la matriz A 2 1 2
+ 
+ 
+1 k 1
+ 
+a ) ¿Para qué valores del parámetro k no existe la inversa de la matriz A?. Justifica la respuesta.
+b ) Para k 0, resuelve la ecuación matricial (X I)A At , donde I denota la matriz identidad
+y At la matriz traspuesta de A."
+mates_ii_matrices_y_determinantes_2012_reserva_1_ejercicio_3_opcion_a,Mates II,"C onsidera las matrices:
+1 2 0
+  0 1 1 2 0
+A  0 1 2  B  C  
+  1 0  1 1 2
+
+1 2 1
+
+D etermina, si existe, la matriz X que verifica: AX B Ct, siendo C t la matriz traspuesta de C."
+mates_ii_matrices_y_determinantes_2012_reserva_2_ejercicio_3_opcion_b,Mates II,"E ncuentra la matriz X que satisface la ecuación XA A3B A, siendo
+0 0 1  2 1 0
+   
+A 0 1 0 y B 0 2 1
+   
+   
+1 0 0 1 0 2
+   "
+mates_ii_matrices_y_determinantes_2012_reserva_3_ejercicio_3_opcion_b,Mates II,"3 2 2 1
+D ada la matriz A  , sea B la matriz que verifica AB  .
+5 1  7 3
+a ) Comprueba que las matrices A y B poseen inversas.
+b ) Resuelve la ecuación matricial A1X B BA."
+mates_ii_matrices_y_determinantes_2013_junio_ejercicio_3_opcion_a,Mates II,"1 0 1 
+ 
+Sea M  0 m1 0
+ 
+ 
+1 1 m1
+ 
+a) Determina los valores de m para que los vectores fila de M son linealmente independientes.
+b) Estudia el rango de M según los valores de m.
+c) Para m1, calcula la inversa de M."
+mates_ii_matrices_y_determinantes_2013_junio_ejercicio_3_opcion_b,Mates II,"1 1
+Sea A 
+1 1
+a) Comprueba que A2  2I y calcula A1.
+b) Calcula A2013 y su inversa."
+mates_ii_matrices_y_determinantes_2013_reserva_1_ejer_cicio_3_opcion_a,Mates II,"1 1 0
+   0 2 1  1 2
+Considera las matrices: A  2 0 0  , B  y C  
+ 
+1 2 0 1 6
+1 0 1
+ 
+a) Halla A1.
+b) Calcula la matriz X que satisface AX  Bt C (Btes la traspuesta de B).
+c) Halla el determinante deA2013Bt B(A1)2013."
+mates_ii_matrices_y_determinantes_2013_reserva_1_ejercicio_3_opcion_b,Mates II,"a b c 
+ 
+Sabiendo que el determinante de una matriz A d e f es 4, calcula los siguientes
+ 
+ 
+
+p q r
+
+d eterminantes, indicando en cada caso, las propiedades que utilizas:
+a ) det(2A) y det(A1)
+a b c 3d 3e 3f
+b ) 2d 2e 2f y a b c
+p q r  p q r"
+mates_ii_matrices_y_determinantes_2013_reserva_2_ejercicio_3_opcion_b,Mates II,"1 2 1 1
+Considera las matrices A  y B 
+ 0 1 1 0
+a) Calcula X e Y tales que X Y  At y 2X Y  B (At es la matriz traspuesta de A).
+b) Calcula Z tal queAZ  BZ A."
+mates_ii_matrices_y_determinantes_2013_reserva_3_ejercicio_3_opcion_b,Mates II," 2 3  1 4
+Sean A y B las matrices A  y B 
+3 5 9 5
+a) Calcula las matrices X e Y para las que 2X Y  A y X3Y B.
+b) Halla la matriz Z que verifica B2  ZABt  3I (I denota la matriz identidad y Bt la
+matriz traspuesta de B)."
+mates_ii_matrices_y_determinantes_2013_reserva_4_ejercicio_3_opcion_b,Mates II,"Sea M una matriz cuadrada de orden 3 tal que su determinante es det(M) 2. Calcula:
+a) El rango de M3.
+b) El determinante de 2Mt (Mt es la matriz traspuesta de M).
+c) El determinante de (M1)2.
+d) El determinante de N, donde N es la matriz resultante de intercambiar la primera y segunda
+filas de M."
+mates_ii_matrices_y_determinantes_2013_septiembre_ejercicio_3_opcion_a,Mates II,"1 0 1 1 1 1
+   
+Considera las matrices A 1 1 0 y B 1 1 1
+   
+   
+0 0 2 0 0 1
+   
+a) Halla, si es posible, A1 y B1.
+b) Halla el determinante de AB2013 At, At la matriz traspuesta de A.
+c) Calcula la matriz X que satisface AX B AB."
+mates_ii_matrices_y_determinantes_2014_junio_ejercicio_3_opcion_b,Mates II,"0 1 1  1 1 1
+   
+C onsidera las matrices A 1 0 0 ; B  1 1 0
+   
+   
+0 0 1 1 2 3
+   
+Determina, si existe, la matriz X que verifica AX B A2"
+mates_ii_matrices_y_determinantes_2014_reserva_1_ejer_cicio_3_opcion_a,Mates II,"a a a 
+ 11 12 13
+S e sabe que el determinante de la matriz Aa a a  es 3, calcula, indicando las
+21 22 23
+ 
+a a a 
+ 31 32 33
+propiedades que utilices, los siguientes determinantes:
+a) det(2A) y det(A1)
+a a a a a 2a 5a
+21 22 23 11 21 31 31
+b) 7a 7a 7a y a a 2a 5a
+11 12 13 12 22 32 32
+2a 2a 2a a a 2a 5a
+31 32 33 13 23 33 33"
+mates_ii_matrices_y_determinantes_2014_reserva_1_ejercicio_3_opcion_b,Mates II,"1 0 2  2 0 3
+   
+C onsidera las matrices A 1 1 1 ; B  3 1 3
+   
+   
+2 3 0 1 2 1
+   
+a) Calcula A1.
+b) Hallar la matriz X que verifica At X B I, siendo I la matriz identidad y At la matriz
+traspuesta de A."
+mates_ii_matrices_y_determinantes_2014_reserva_2_ejercicio_3_opcion_b,Mates II,"1m 1  1 1
+Considera las matrices A  ; B 
+ 1 1m 1 0
+a) ¿Para qué valores de m se verifica que A2 2AI ?.
+b) Para m1, calcula A1 y la matriz X que satisface AX B AB."
+mates_ii_matrices_y_determinantes_2014_reserva_3_ejercicio_3_opcion_b,Mates II,"1 0 0 0 0 1
+   
+Considera las matrices A 0 2 1 y B  1 1 1
+   
+   
+0 5 3 1 0 0
+Halla la matriz X que verifica: A1XA B A."
+mates_ii_matrices_y_determinantes_2014_reserva_4_ejercicio_3_opcion_a,Mates II,"a b c 
+ 
+Se sabe que el determinante de la matriz A b d e es 3, calcula los siguientes
+ 
+ 
+c e f 
+determinantes, indicando, en cada caso, las propiedades que utilices:
+a b c a b 4ac
+a ) det(A3), det(A1) y det(A At); b) c e f ; c) b d 4be
+2b 2d 2e c e 4c f"
+mates_ii_matrices_y_determinantes_2014_septiembre_ejercicio_3_opcion_b,Mates II,"x y z
+ 
+Sabiendo que el determinante de la matriz A 1 0 1 es 2, calcula los siguientes
+ 
+ 
+1 2 3
+ 
+determinantes indicando, en cada caso, las prop iedades que utilices:
+3 0 1 1 2 3
+a) det(3A).b) det(A1).c) 3x 2y z .d) x 2 y4 z6
+3 4 3 1 0 1"
+mates_ii_matrices_y_determinantes_2015_junio_ejercicio_3_opcion_b,Mates II," 1 2 0 
+1 2  
+C onsidera las matrices A  y B   2 m 0 
+ 2 m  
+ 3 2 m
+a) Encuentra el valor, o los valores, de m para los que A y B tienen el mismo rango.
+b) Determina, si existen, los valores de m para los que A y B tienen el mismo determinante."
+mates_ii_matrices_y_determinantes_2015_reserva_1_ejercicio_3_opcion_a,Mates II,"Halla la matriz X que verifica la igualdad AX A1B CA1 sabiendo que
+ 0 1 0 1 1 2  1 1 0
+     
+A
+
+1 3 0
+
+, C 
+
+0 0 1
+
+, BA
+
+1 1 1
+
+     
+
+1 4 1
+ 
+1 0 1
+ 
+1 5 3
+"
+mates_ii_matrices_y_determinantes_2015_reserva_2_ejercicio_3_opcion_a,Mates II," 0 1 m
+ 
+Considera la matriz A
+
+m1 0 2
+
+ 
+
+0 1m 0
+
+a) Halla el valor, o valores, de m para los que la matriz A tiene rango 2.
+b) Para m1, determina A2015."
+mates_ii_matrices_y_determinantes_2015_reserva_3_ejercicio_3_opcion_b,Mates II,"1 2 4 1
+Considera las matrices:A  y B 
+1 1 4 1
+a) Halla el determinante de una matriz X que verifique la igualdad X 2AX  B.
+b) Determina, si existe, la matriz Y que verifica la igualdad A2YB1  A."
+mates_ii_matrices_y_determinantes_2015_reserva_4_ejercicio_3_opcion_b,Mates II,"1 1 1 1 1 1
+   
+Considera las matrices:A 1 2 3 y B 1 1 1
+   
+   
+1 4 9  1 1 1
+a) Halla la matriz X que verifica AX B I (I denota la matriz identidad de orden 3).
+b) Calcula el determinante de la matriz (A2B1)2015"
+mates_ii_matrices_y_determinantes_2015_septiembre_ejercicio_3_opcion_a,Mates II," 1 0 0
+1 2    1 0 0
+Considera las matrices A
+ 2 1
+
+
+; B  
+
+2 1 0 
+
+y C 
+1 5 0
+
+
+3 2 1
+ 
+a) Determina la matriz X para la que At X B 1 C, (At la matriz traspuesta de A).
+b) Calcula el determinante de B1(C t C)B, ( C t la matriz traspuesta de C)."
+mates_ii_matrices_y_determinantes_2016_junio_ejercicio_3_opcion_a,Mates II,"1 1 1 3 3 2
+   
+Considera las matrices A 0 1 0 y B 8 7 4
+   
+   
+2 1 1 8 6 3
+   
+a) Halla la matriz X que verifica AX B 2A .
+b) Calcula B 2 y B2016."
+mates_ii_matrices_y_determinantes_2016_reserva_1_ejer_cicio_3_opcion_a,Mates II,"1 0 1 2
+Considera las matrices A  y B 
+1 1 0 1
+Determina, si existe, la matriz X que verifica A X B2  BX  A2."
+mates_ii_matrices_y_determinantes_2016_reserva_4_ejercicio_3_opcion_a,Mates II," k 1k
+Considera la matriz A  . Determina, si existen, los valores de k en cada uno de
+1k 0 
+los casos siguientes: a) Rango(A)1. b) A2  A. c) A tiene inversa. d) det(A) 2."
+mates_ii_matrices_y_determinantes_2016_reserva_4_ejercicio_3_opcion_b,Mates II,"1 0 1
+ 
+Considera la matriz: A  1 1
+ 
+ 
+0 0 1 
+a) Determina, si existen, los valores de  para los que A1 2I  A (siendo I la matriz
+identidad de orden 3).
+b) Determina, si existen, los valores de  para los que la matriz A At no tiene inversa (At es
+la matriz traspuesta de A)."
+mates_ii_matrices_y_determinantes_2016_septiembre_ejercicio_3_opcion_b,Mates II," 1   1   1 1 1
+     
+Considera las matrices A 1 , B  1 y C  1 1 1
+     
+     
+ 0   1   0 0 0
+a ) Calcula el rango de ABt I según los valores de  (Bt es la matriz traspuesta de B, I es la
+m atriz identidad de orden 3).
+b ) Calcula la matriz X que verifica: CX  X  2I"
+mates_ii_matrices_y_determinantes_2017_reserva_1_ejercicio_3_opcion_a,Mates II,"2 0 0 2 1 2
+   
+Considera las matrices A 1 1 0 y B  0 1 5
+   
+   
+4 2 2 0 0 2
+   
+a) Calcula la matriz inversa de (AB)
+b) Calcula el determinante de 2A1(AB)t , siendo (AB)t la matriz traspuesta de (AB)."
+mates_ii_matrices_y_determinantes_2017_reserva_1_ejercicio_3_opcion_b,Mates II,"1 2  1 1 0
+  3 1 1  
+Considera las matrices: A 
+
+2 1 
+
+, B
+2 1 1
+
+
+y C  
+
+1 2 1 
+
+0 1 1 1 1
+   
+Determina, si existe, la matriz X que verifica que ABX2C CX."
+mates_ii_matrices_y_determinantes_2017_reserva_3_ejercicio_3_opcion_a,Mates II," 2 1
+Considera la matriz A 
+1 0
+a) Comprueba que AAt 2A I (At denota la traspuesta de A e I la matriz identidad).
+b) Calcula A1.
+c) Determina, si existe, la matriz X que verifica XAI 3A."
+mates_ii_matrices_y_determinantes_2017_reserva_4_ejercicio_3_opcion_b,Mates II,"1 0 m1 1 0 1
+   
+Considera las matrices: A 0 m1 2m y B 1 1 0
+   
+   
+0 1 2m 0 1 1
+   
+a) Determina los valores de m para los que la matriz A no tiene inversa.
+b) Para m1, calcula, si existe, la matriz X que verifica la igualdad A1XAI  B, siendo I la
+matriz identidad."
+mates_ii_matrices_y_determinantes_2017_septiembre_ejercicio_3_opcion_b,Mates II," k 0 k 
+ 
+Considera A k1 k 0
+ 
+ 
+0 k1 k1
+ 
+a ) Discute el rango de A según los valores de k.
+b ) Para k 1, calcula el determinante de 2  At A12017 , siendo At la traspuesta de A."
+mates_ii_matrices_y_determinantes_2017_reserva_3_ejercicio_3_opcion_b,Mates II,"Sea A una matriz 3x3 tal que det(2A)8.
+a) ¿Cuánto vale det(A)?
+b) Siendo B la matriz que se obtiene de A multiplicando por 3 la primera fila y por 1 la
+tercera, ¿cuánto vale det(B)?
+c) Determina los valores de x para los que la siguiente matriz A verifica que det(2A)8,
+ x 1 1
+ 
+A x1 2 2
+ 
+ 
+ x x2 1"
+mates_ii_matrices_y_determinantes_2018_reserva_1_ejercicio_3_opcion_b,Mates II,"Considera las matrices
+1 0 0 2 2 1  1
+     
+A 0 0 1 ; B  1 0 1 ; C  2 y D4 5 6
+     
+     
+0 1 0 1 2 2 3
+     
+Determina, si existe, la matriz X que verifica que: A2X BA X CD"
+mates_ii_matrices_y_determinantes_2018_reserva_2_ejercicio_3_opcion_a,Mates II,"1 1 1  0
+   
+Considera las matrices A 0 1 0 , B  1 y C 1 1 2
+   
+   
+0 0 1 1
+a) Calcula A2018.
+b) Determina, si existe, la matriz X que verifica A(X 2I) BC donde I es la matriz identidad."
+mates_ii_matrices_y_determinantes_2018_reserva_4_ejercicio_3_opcion_a,Mates II,"1 2 3
+ 
+Considera la matriz M  6 0 3 . Sabiendo que el determinante de M es 2, calcula los
+ 
+ 
+x y z
+siguientes determinantes e indica las propiedades que utilices:
+2 0 1 1 x6 x
+a) El determinante de la matriz 5M 4; b) 1 2 3 ; c) 2 y y
+x y z 3 z3 z"
+mates_ii_matrices_y_determinantes_2018_reserva_4_ejercicio_3_opcion_b,Mates II,"0 1 2
+ 
+Considera la matriz A 0 2 0
+ 
+ 
+1 1 3
+a) Halla, si existe, la inversa de A.
+b) Determina los valores de m tales que (AmI) tiene inversa (I es la matriz identidad).
+c) Calcula el rango de (A2I)."
+mates_ii_matrices_y_determinantes_2018_septiembre_ejercicio_3_opcion_a,Mates II,"0 0 1  a b c
+   
+Considera las matrices A 0 1 0 y B 0 1 0
+   
+   
+1 0 0 1 0 0
+a) Determina, si existen, los valores de a, b y c para que las matrices A y B conmutan.
+b) Calcula A2,A3,A2017 y A2018.
+c) Calcula, si existe, la matriz inversa de A"
+mates_ii_matrices_y_determinantes_2019_junio_ejercicio_3_opcion_a,Mates II,"a b
+Calcula todas las matrices X   tales que ad 1, tienen determinante 1 y cumplen
+c d
+0 1
+AX  XA, siendo A  .
+1 0"
+mates_ii_matrices_y_determinantes_2019_reserva_1_ejercicio_3_opcion_a,Mates II," 1 m 1 1 1
+   
+Dadas las matrices A m1 m 0 y B  2 0
+   
+   
+ 1 1 1 0 1
+a ) Calcula los valores de m para los cuales A tiene inversa.
+b ) Para m2, encuentra la matriz X que cumple AX BBt  I, siendo Bt la matriz traspuesta
+de B e I la matriz identidad de orden 3"
+mates_ii_matrices_y_determinantes_2019_reserva_2_ejer_cicio_3_opcion_a,Mates II,"a b c 
+ 
+Considera la matriz A d e f de la que se sabe que tiene determinante 5.
+ 
+ 
+g h i 
+a ) Calcula, indicando las propiedades que utilices, los determinantes de las matrices siguientes:
+2a d 3a g
+ 
+3A y 2b e3b h .
+ 
+ 
+2c f 3c i 
+b) Si B es otra matriz cuadrada de orden 3 y tiene determinante 4, calcula, indicando también las
+propiedades que utilices, el determinante de la matriz BA1."
+mates_ii_matrices_y_determinantes_2019_reserva_3_ejer_cicio_3_opcion_a,Mates II,"5 4 3
+Dada la matriz A  4 2 2  , halla la matriz X que cumple AX   A1At I 2 , siendo At la
+ 
+ 
+3 2 1
+matriz traspuesta de A e I la matriz identidad d e orden 3."
+mates_ii_matrices_y_determinantes_2020_junio_ejercicio_3,Mates II," 1 1 m2
+ 
+Considera la matriz A 0 1 m1
+ 
+ 
+m 0 5
+ 
+a) (1’5 puntos) Estudia el rango de A según los v alores de m.
+b) (1 punto) Para m2, calcula la inversa de 2 020A."
+mates_ii_matrices_y_determinantes_2020_reserva_1_ejercicio_3,Mates II,"1 1 1 1 3
+     
+( 2’5 puntos) Considera A
+
+1 a b
+
+, B
+
+1
+
+y C 
+
+2
+
+. Determina a, b y c sabiendo que
+     
+c 1 4 1 1
+     
+ABC y la matriz A tiene rango 2."
+mates_ii_matrices_y_determinantes_2020_reserva_2_ejercicio_7,Mates II," 1 3
+   
+2 2
+Considera la matriz A 
+
+3 1
+
+  
+ 2 2 
+a) (1’5 Puntos). Calcula A37 y A41.
+b) (1 Punto). Halla el determinante de la matriz 3A52(At)4, donde At es la traspuesta de la
+matriz A"
+mates_ii_matrices_y_determinantes_2020_reserva_3_ejer_cicio_7,Mates II,"1 1 2 1
+Considera las matrices A  y B 
+1 2 2 0
+a) (1 Punto). Sabiendo que una matriz X verif ica X3AX  B2, halla los posibles valores de su
+determinante.
+b) (1’5 Puntos). Determina, si existe, una matriz Y que verifique A2YB1  A"
+mates_ii_matrices_y_determinantes_2020_reserva_4_ejercicio_7,Mates II," 1 1 m  5  3 
+     
+Considera A m 2 3 , B  1 y C  1
+     
+     
+m1 0 4   2  0 
+a ) (1 Punto). Determina los valores de m para los que la ecuación AX BC tiene solución
+ú nica.
+b) (1’5 Puntos). Para m0, halla X tal que AX BC."
+mates_ii_matrices_y_determinantes_2021_julio_ejercicio_5,Mates II," 0 3 4
+ 
+Considera la matriz A 1 4 5
+ 
+ 
+1 3 4
+ 
+a) Comprueba que A2  A1
+ 1 1  2 0
+   
+b) Dadas las matrices: B 3 0 y C  3 2
+   
+   
+4 5  1 1
+calcula la matriz X que verifica A4X B  AC"
+mates_ii_matrices_y_determinantes_2021_reserva_1_ejercicio_5,Mates II,"a 2 1
+ 
+Considera la matriz A b 1 1 , con determinante igual a 5.
+ 
+ 
+c 1 1
+a) Calcula razonadamente el determinante de 2A3;
+2a 1 3
+a b c
+1
+b) Calcula razonadamente los determinantes 2b 3 y a4 b2 c2
+2
+a1 b1 c1
+1
+2c  3
+2"
+mates_ii_matrices_y_determinantes_2021_reserva_2_eje_rcicio_5,Mates II,"m m m 
+ 
+Considera la matriz: A m m1 m
+ 
+ 
+m m m2
+ 
+a) ¿Para qué valores de m existe la inversa de la matriz A?. Razona la respuesta.
+1
+1 
+b) Para m1, halla  A  .
+2 "
+mates_ii_matrices_y_determinantes_2021_reserva_3_ejercicio_6,Mates II,"a b c 
+ 
+Considera la matriz A d e f , con determinante igual a 2.
+ 
+ 
+1 2 3
+1
+a) Calcula razonadamente el determinante de A1At
+3
+6c 2b 2a 2a2b c b
+b) Calcula razonadamente los determinantes 3f e d y 2d 2e f e
+9 2 1 2 3 2"
+mates_ii_matrices_y_determinantes_2021_reserva_4_ejer_cicio_6,Mates II," 1 1
+1 1 0  
+Considera las matrices: A  y B   0 2 
+1 m 1
+ 
+m 1
+ 
+a) Calcula m para que AB no tenga inversa.
+b) Estudia el rango de la matriz BA según los valores de m."
+mates_ii_matrices_y_determinantes_2022_julio_ejercicio_5,Mates II,"1 1 a
+ 1 0   1 0 2
+C onsidera las matrices A  , B  2 a 1  y C  
+2 1
+ 
+2 1 1
+2 2 0
+a ) Calcula los valores de a para los que la matriz B no tiene inversa.
+b) Para a1, calcula X tal que AXBC, si es posible"
+mates_ii_matrices_y_determinantes_2022_julio_ejercicio_6,Mates II,"a b c
+S e sabe que p q r   2
+x y z
+a c b x a3p 2a
+a) Calcula: 2x 2z 2y . b) Calcula: y b3q 2b
+3p 3r 3q z c3r 2c"
+mates_ii_matrices_y_determinantes_2022_junio_ejercicio_6,Mates II," m m m
+ 
+C onsidera la matriz A m m 1  donde m0
+ 
+ m 1 m 
+ 
+a) ¿Para qué valores de m tiene inversa la matriz A?.
+b) Para m4 resuelve, si es posible, la ecuación matricial AX 12I , donde I la matriz
+identidad de orden 3"
+mates_ii_matrices_y_determinantes_2022_reserva_1_eje_rcicio_5,Mates II,"1 2 1
+ 
+Considera la matriz A 1 1 1
+ 
+ 
+1 1 1
+ 
+a) Calcula A1
+b) Calcula la matriz X de orden tres que verifica AX (A X)2  X2 I, siendo I la matriz
+identidad de orden 3."
+mates_ii_matrices_y_determinantes_2022_reserva_2_ejercicio_6,Mates II,"1 1
+a 3  
+Dado a0, considera las matrices: A  y B   3 4 
+ a 1  
+1 2
+ 
+1
+a) Determina para qué valores de a se cumple q ue A1  A.
+4
+b) Para a1 calcula, si es posible, la matriz X tal que AX  Bt, donde Bt denota la matriz
+traspuesta de B."
+mates_ii_matrices_y_determinantes_2022_reserva_3_ejer_cicio_6,Mates II,"m 1 3  2 2 
+   
+Considera las matrices A 1 m 2 y B  1 0
+   
+   
+ 1 m 3  1 2 
+a) Calcula el rango de la matriz A dependiendo de los valores m.
+b) Para m0, resuelve la ecuación AX  B, s i es posible."
+mates_ii_matrices_y_determinantes_2023_julio_ejercicio_5,Mates II,"1 1 1
+ 
+Sea la matriz A 1 1 1 e I la matriz identidad de orden 3.
+ 
+ 
+1 1 1
+a ) Halla los valores de m para que la matriz AmI no tenga inversa.
+1
+b) Halla x, distinto de cero, para que A xI sea la inversa de la matriz (AI)
+x"
+mates_ii_matrices_y_determinantes_2023_junio_ejercicio_6,Mates II," 0 0 m 1 0 0
+   
+C onsidera las matrices A m 0 0 y B  0 0 1
+   
+   
+ 0 m 0  0 1 0
+a) Determina para qué valores de m existe la inversa de la matriz A.
+b ) Para todo m  1, resuelve, si es posible, la ecuación AX  X  B"
+mates_ii_matrices_y_determinantes_2023_reserva_1_ejercicio_6,Mates II," 1 2m 1 1 1 3
+   
+Considera las matrices: A 3 0 2 y B 0 2 1
+   
+   
+3m 1 2 2 5 4
+   
+a) Determina los valores de m para los que la matriz A tenga inversa.
+b) Calcula para m1, si es posible, la matriz X tal que AX  Bt, donde Bt denota la matriz
+traspuesta de B."
+mates_ii_matrices_y_determinantes_2023_reserva_2_ejercicio_5,Mates II,"0 a b
+ 
+Considera la matriz A 0 0 b
+ 
+ 
+0 0 0
+a ) Calcula A10
+b ) Calcula, si es posible, la matriz inversa de I A A2, donde I denota la matriz identidad de
+orden 3"
+mates_ii_matrices_y_determinantes_2023_reserva_3_ejercicio_5,Mates II,"m1 1 m1 0 4 2 0 0 1
+     
+Sean las matrices A 1 1 1 , B 0 0 4 y C  0 1 0
+     
+     
+m1 1 m1 2 2 1 1 0 0
+a ) Calcula m para que la matriz A tenga inversa.
+1
+b) Para m0, resuelve, si es posible, la ecuación matricial AX C4  B
+2"
+mates_ii_matrices_y_determinantes_2023_reserva_4_ejercicio_5,Mates II," 2 1 2
+  1 0 1
+D adas las matrices A  2 3 1  y B  , calcula, si es posible, la
+
+ 6 1 3
+
+
+3 1 5
+matriz X que verifica la ecuación 3X Bt  AX , siendo Bt la matriz traspuesta de B"
+mates_ii_matrices_y_determinantes_2024_julio_ejercicio_5,Mates II,"Considera la matriz A =
+ − 1
+0
+0
+1
+
+a) Halla todas las matrices X que cumplen: X  A = − A  X t y X 2 = I , donde I es la matriz
+identidad de orden 2.
+b) Halla todas las matrices Y que cumplen Y  A = A  Y , la suma de los elementos de su
+diagonal principal es cero y tienen determinante − 1 ."
+mates_ii_matrices_y_determinantes_2024_junio_ejercicio_5,Mates II,"Considera la matriz A =
+
+1
+0
+0
+1
+8
+1
+0
+1
+8
+0
+1
+
+a) Calcula A 2 0 2 4
+b) Halla la matriz X, si es posible, que verifica A 2  X  A + I = O , donde I y O son la matriz
+identidad y la matriz nula de orden 3, respectivamente."
+mates_ii_matrices_y_determinantes_2024_modelo_ejercicio_4,Mates II,"C onsidera la matriz A =
+ 0
+0
+0
+a
+0
+0
+− b
+b
+0
+
+a) Calcula A 1 0 .
+b) Calcula, si es posible, la matriz inversa de I + A+ A2, donde I denota la matriz identidad de
+orden 3."
+mates_ii_matrices_y_determinantes_2024_reserva_1_ejercicio_5,Mates II,"C onsidera las matrices A =
+ 1
+m
+1 −
+0
+1
+1
+1
+0
+2
+
+y B =
+ − 4
+0
+4 1
+8
+4
+2
+0
+4
+2 0
+
+a) Determina los valores de m para los que la matriz A 2 tiene inversa
+1
+b) Para m = 0 calcula, si es posible, la matriz X que verifica A2X = (A+B)
+2"
+mates_ii_matrices_y_determinantes_2024_reserva_2_ejercicio_6,Mates II,"Considera las matrices A =
+
+−
+1
+2
+3
+5
+
+, M =
+ 0
+1
+1
+1
+
+e I la matriz identidad de orden 2.
+a) Sabiendo que A verifica la identidad ( A + a I ) 2 = b I , halla a y b.
+b) Resuelve la ecuación M X + M 2 = I ."
+mates_ii_matrices_y_determinantes_2024_reserva_3_ejercicio_5,Mates II,"Considera las matrices A =
+ x
+3
+1
+y
+0
+1
+z
+2
+1
+
+, B = ( 1 y z ) y C = ( 3 0 0 ) .
+a) Sabiendo que el determinante de A es 5, calcula
+x −
+1
+4
+1 y −
+1
+1
+1 z −
+1
+3
+1
+, indicando las
+propiedades que utilizas.
+b) Calcula los valores ( x , y , z ) tales que B  A = C"
+mates_ii_matrices_y_determinantes_2024_reserva_4_ejercicio_5,Mates II,"Considera las matrices A =
+ 1
+7
+0
+− 1
+2
+0
+0
+0
+1
+
+ 
+2 0 1
+ 
+y B =0 1 0
+ 
+1
+ 0 0
+9 
+a) Calcula los determinantes de las matrices ( ( A B ) 5 ) − 1 y 27AB6. b) Halla la matriz X, si es
+posible, que verifica que AX B = 9I , donde I es la matriz identidad de orden3"
+mates_ii_matrices_y_determinantes_2025_reserva_1_ejercicio_6,Mates II,"S ea la matriz A =
+ 
+1
+0
+
+
++
+
++
+4
+4
+0
+1
+
+
+.
+a) Indica para qué valores de  la matriz A admite inversa.
+b) Para  = 1 determina, si es posible, la matriz inversa de A."
+mates_ii_matrices_y_determinantes_2025_reserva_2_ejercicio_4,Mates II,"C onsidera la matriz A =
+
+−
+0
+1
+1
+−
+3
+4
+3
+−
+4
+5
+4
+
+a) Comprueba que A 3 + I = O , siendo I la matriz identidad y O la matriz nula. Calcula A − 1 .
+b) Calcula A2025"
+mates_ii_matrices_y_determinantes_2025_reserva_2_ejercicio_5,Mates II,"a b c
+S abiendo que: x y z =1, calcula razonadamente:
+u v w
+a )
+2
+a
+a
++
+a
++
+x
+u 2
+b
+b
++
+b
++
+y
+v 2
+c
+c
++
+c
++
+z
+w
+z c w
+; b) x a u
+y b v"
+mates_ii_matrices_y_determinantes_2025_reserva_3_ejercicio_4,Mates II,"Considera la matriz A =
+ 0
+1
+− 1
+0
+
+.
+a) Calcula A 4 y A 3 1
+b) Halla razonadamente el determinante de la matriz 4 A 2 5 ( A t ) 4 ."
+mates_ii_matrices_y_determinantes_2025_reserva_3_ejercicio_5,Mates II,"Sean las matrices A =
+ 2
+3
+2
+4
+
+y B =
+ 3
+2
+1
+2
+
+.
+a) Halla razonadamente el determinante de una matriz X que verifica X 3 A X 2 = B 2 .
+b) Determina, si existe, una matriz Y que verifique A 3 Y B − 1 = A 2 ."
+mates_ii_matrices_y_determinantes_2025_reserva_4_ejercicio_4,Mates II,"a a a 
+ 11 12 13
+Se considera la matriz M =a a a con determinante igual a
+21 22 23
+ 
+a a a 
+ 31 32 33
+− 5
+a a 2a
+11 31 21
+a) Calcula 3a 3a 6a
+12 32 22
+2a 2a 4a
+13 33 23
+b) Calcula
+2 a
+1 1
+a
+a
+−
+2
+3
+3
+1
+1
+a
+3 1
+2 a
+1 2
+a
+a
+−
+2
+3
+3
+2
+2
+a
+3 2
+4 a
+1 3
+2
+2
+−
+a
+a
+6
+2 3
+3 3
+a
+3 3"
+mates_ii_matrices_y_determinantes_2025_reserva_4_ejercicio_5,Mates II,"Sean las matrices A =
+ a
+b
+3
+1
+
+y B =
+
+−
+1
+1
+1
+1
+2
+1
+
+.
+a) Determina a y b para que A 2 = 4 I , donde I es la matriz identidad de orden 2.
+b) Para a = − 1 y b = 1 , calcula, si es posible, la matriz X que cumple A2X =Bt."
+mates_ii_matrices_y_determinantes_2026_junio_ejercicio_3_2,Mates II,"Considera la matriz A =
+ 
+2
+3
+
+
+4
+1
+
+
+
+que cumple A = − 2
+a) Calcula 
+−
+−
+8
+3
+2 
+−
+−
+4
+4
+
+ 1
+−
+−
+4
+
+
+
+b) Calcula A − 1  ( A t ) 2  A"
