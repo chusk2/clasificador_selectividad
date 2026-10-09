@@ -2,8 +2,8 @@
 settings.json
 desktop.ini
 *.pdf
+*.png
 pdf_files/
-cropped_pdf_files/
 source_pdf_files/
 SELECTIVIDAD/
 boot_credentials.py
@@ -14,6 +14,5 @@ ANTHROPIC_API_KEY
 .env
 .DS_Store
 .Rhistory
-*.png
-
-solo_enunciados_ejercicios/
+enunciados_ejercicios/
+.streamlit/
