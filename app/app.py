@@ -9,7 +9,7 @@ import pandas as pd
 import streamlit as st
 
 RAIZ = Path(__file__).resolve().parent.parent
-CSV = RAIZ / "csv_enunciados" / "enunciados_ejercicios_clean.csv"
+CSV = RAIZ / "csv_enunciados" / "enunciados_clasificados.csv"
 PUERTO_ARCHIVOS = 8599
 TODOS = "Todos"
 
@@ -75,11 +75,12 @@ df = cargar()
 
 st.markdown(
     '<div class="cabecera"><h1>📚 Enunciados de Selectividad</h1>'
-    "<p>Busca por año, convocatoria, asignatura y tema, y abre el enunciado en imagen o PDF.</p></div>",
+    "<p>Busca por año, convocatoria, asignatura, tema y tipo de ejercicio, y abre el enunciado en imagen o PDF.</p></div>",
     unsafe_allow_html=True,
 )
 
-filtros = [("año", "Año"), ("convocatoria", "Convocatoria"), ("asignatura", "Asignatura"), ("tema", "Tema")]
+filtros = [("año", "Año"), ("convocatoria", "Convocatoria"), ("asignatura", "Asignatura"), ("tema", "Tema"),
+           ("tipo_ejercicio", "Tipo de ejercicio")]
 
 
 def filtrar(datos, excepto=None):
@@ -105,7 +106,7 @@ for _ in range(len(filtros)):
     if not cambio:
         break
 
-columnas = st.columns(4)
+columnas = st.columns(len(filtros))
 for col, (campo, etiqueta) in zip(columnas, filtros):
     col.selectbox(etiqueta, opciones_de(campo), key=campo)
 
@@ -117,6 +118,7 @@ salida = pd.DataFrame({
     "convocatoria": res["convocatoria"],
     "ejercicio": res["ejercicio"],
     "tema": res["tema"],
+    "tipo_ejercicio": res["tipo_ejercicio"],
     "archivo": res["archivo"].map(url),
     "imagen": res["imagen"].map(url),
 }).sort_values(["año", "asignatura", "convocatoria", "ejercicio"], ascending=[False, True, True, True])
