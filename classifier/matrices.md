@@ -1,4 +1,4 @@
-# Clasificador de ejercicios · Mates CCSS · Matrices y determinantes
+# Clasificador de ejercicios · Mates CCSS y Mates II · Matrices y determinantes
 
 Vas a recibir el enunciado de un ejercicio de selectividad (PEvAU/EBAU de Andalucía). Clasifícalo en **una sola** de las etiquetas definidas abajo.
 
@@ -43,7 +43,6 @@ Vas a recibir el enunciado de un ejercicio de selectividad (PEvAU/EBAU de Andalu
 - **Palabras clave:** verifica, todas las matrices X
 - **Qué se pide / contexto:** verificar una igualdad
 - **No confundir con:** 
-<!-- Copia el bloque anterior para añadir más etiquetas. La etiqueta por defecto va siempre la última. -->
 
 ### `potencias`
 
@@ -73,5 +72,5 @@ Vas a recibir el enunciado de un ejercicio de selectividad (PEvAU/EBAU de Andalu
 
 Responde SOLO con un JSON en una línea, sin texto adicional ni bloques de código:
 
-Toma el valor de asignatura a partir de la columna asignatura
-{"asignatura": "{{ASIGNATURA}}", "tipo_ejercicio": "<{{etiqueta_1}}|{{etiqueta_2}}|{{ETIQUETA_POR_DEFECTO}}>", "confianza": "alta|media|baja"}
+Toma el valor de "id" a partir del archivo texto suministrado
+{"id", "tipo_ejercicio": "<{{etiqueta_1}}|{{etiqueta_2}}|{{ETIQUETA_POR_DEFECTO}}>", "confianza": "alta|media|baja"}

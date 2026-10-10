@@ -1,4 +1,7 @@
 issue,subject,pdf file
+ERROR: list index out of range,Mates CCSS,Mates CCSS_2016 - Funciones CCSS.pdf
+ERROR: list index out of range,Química,Química_2021 - Enlace Químico.pdf
+ERROR: list index out of range,Química,Química_2008 - Reactividad Orgánica.pdf
 ERROR: list index out of range,Química,Química_2021 - Enlace Químico.pdf
 ningún recuadro detectado,,/home/daniel/code/clasificador_selectividad/source_pdf_files/Mates II/integrales/listas txt ejercicios/Tipos ejercicios integrales.pdf
 ningún recuadro detectado,,/home/daniel/code/clasificador_selectividad/source_pdf_files/Mates II/funciones/Tipos ejercicios funciones.pdf

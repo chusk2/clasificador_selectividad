@@ -9,7 +9,7 @@ import pandas as pd
 import streamlit as st
 
 RAIZ = Path(__file__).resolve().parent.parent
-CSV = RAIZ / "csv_enunciados" / "enunciados_clasificados.csv"
+CSV = RAIZ / "csv_enunciados" / "ejercicios_clasificados.csv"
 PUERTO_ARCHIVOS = 8599
 TODOS = "Todos"
 
