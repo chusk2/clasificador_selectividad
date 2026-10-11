@@ -9,7 +9,7 @@ import pandas as pd
 import streamlit as st
 
 RAIZ = Path(__file__).resolve().parent.parent
-CSV = RAIZ / "csv_enunciados" / "ejercicios_clasificados.csv"
+CSV = RAIZ / "csv" / "ejercicios_clasificados.csv"
 PUERTO_ARCHIVOS = 8599
 TODOS = "Todos"
 
@@ -83,16 +83,27 @@ filtros = [("año", "Año"), ("convocatoria", "Convocatoria"), ("asignatura", "A
            ("tipo_ejercicio", "Tipo de ejercicio")]
 
 
-def filtrar(datos, excepto=None):
-    for campo, _ in filtros:
+# De qué filtros depende cada desplegable (las opciones que ofrece). La relación no es simétrica:
+# tema depende de asignatura, pero asignatura no depende de tema; tipo depende de tema, no al revés.
+depende_de = {
+    "año": ["convocatoria", "asignatura"],
+    "convocatoria": ["año", "asignatura"],
+    "asignatura": ["año", "convocatoria"],
+    "tema": ["año", "convocatoria", "asignatura"],
+    "tipo_ejercicio": ["año", "convocatoria", "asignatura", "tema"],
+}
+
+
+def filtrar(datos, campos):
+    for campo in campos:
         valor = st.session_state.get(campo, TODOS)
-        if campo != excepto and valor != TODOS:
+        if valor != TODOS:
             datos = datos[datos[campo] == valor]
     return datos
 
 
 def opciones_de(campo):
-    return [TODOS] + sorted(filtrar(df, excepto=campo)[campo].dropna().unique().tolist())
+    return [TODOS] + sorted(filtrar(df, depende_de[campo])[campo].dropna().unique().tolist())
 
 
 # Cada desplegable solo ofrece valores compatibles con los demás filtros.
@@ -110,7 +121,7 @@ columnas = st.columns(len(filtros))
 for col, (campo, etiqueta) in zip(columnas, filtros):
     col.selectbox(etiqueta, opciones_de(campo), key=campo)
 
-res = filtrar(df)
+res = filtrar(df, [campo for campo, _ in filtros])
 
 salida = pd.DataFrame({
     "año": res["año"],
@@ -119,11 +130,20 @@ salida = pd.DataFrame({
     "ejercicio": res["ejercicio"],
     "tema": res["tema"],
     "tipo_ejercicio": res["tipo_ejercicio"],
+    "observaciones": res["observaciones"],
     "archivo": res["archivo"].map(url),
     "imagen": res["imagen"].map(url),
 }).sort_values(["año", "asignatura", "convocatoria", "ejercicio"], ascending=[False, True, True, True])
+if salida["observaciones"].isna().all():
+    salida = salida.drop(columns="observaciones")
 
 st.markdown(f'<span class="contador">{len(salida):,} enunciados</span>'.replace(",", "."), unsafe_allow_html=True)
+st.download_button(
+    "⬇️ Exportar a CSV",
+    data=salida.assign(archivo=res["archivo"], imagen=res["imagen"]).to_csv(index=False).encode("utf-8-sig"),
+    file_name="enunciados_filtrados.csv",
+    mime="text/csv",
+)
 st.dataframe(
     salida,
     hide_index=True,
