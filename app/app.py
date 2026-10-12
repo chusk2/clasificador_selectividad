@@ -2,6 +2,7 @@
 import functools
 import http.server
 import threading
+import unicodedata
 from pathlib import Path
 from urllib.parse import quote
 
@@ -38,7 +39,9 @@ def cargar():
 def url(ruta):
     if pd.isna(ruta):
         return None
-    return f"http://127.0.0.1:{PUERTO_ARCHIVOS}/{quote(str(ruta).replace(chr(92), '/'))}"
+    # Las rutas del CSV vienen de macOS (NFD) y en disco los nombres están en NFC.
+    ruta = unicodedata.normalize("NFC", str(ruta).replace(chr(92), "/"))
+    return f"http://127.0.0.1:{PUERTO_ARCHIVOS}/{quote(ruta)}"
 
 
 st.set_page_config(page_title="Enunciados de Selectividad", page_icon="📚", layout="wide")
