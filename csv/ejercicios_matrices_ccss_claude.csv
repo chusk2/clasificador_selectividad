@@ -1,0 +1,118 @@
+año,convocatoria,ejercicio,tipo_ejercicio,confianza
+2025,Junio,A1,valores tenga inversa,media
+2025,Reserva 1,A1,ecuación matricial,alta
+2025,Reserva 2,A1.b,rango,alta
+2025,Reserva 4,A1.b,verificar,media
+2025,Julio,A1,ecuación matricial,alta
+2024,Junio,A1,ecuación matricial,media
+2024,Reserva 1,A1,ecuación matricial,media
+2024,Reserva 2,A1,ecuación matricial,media
+2024,Reserva 3,A1,ecuación matricial,alta
+2024,Reserva 4,A1,ecuación matricial,media
+2024,Julio,A1,ecuación matricial,alta
+2023,Junio,A2,ecuación matricial,media
+2023,Reserva 1,A1,ecuación matricial,alta
+2023,Reserva 2,A1,sin clasificar,baja
+2023,Reserva 3,A2,ecuación matricial,media
+2023,Reserva 4,A2,ecuación matricial,media
+2023,Julio,A1,ecuación matricial,media
+2022,Junio,A2,ecuación matricial,media
+2022,Reserva 1,A1,ecuación matricial,media
+2022,Reserva 2,A2,ecuación matricial,media
+2022,Reserva 3,A1,ecuación matricial,alta
+2022,Reserva 4,A2,ecuación matricial,media
+2022,Julio,A1,ecuación matricial,alta
+2021,Junio,A2,ecuación matricial,media
+2021,Reserva 1,A2,ecuación matricial,media
+2021,Reserva 2,A2,ecuación matricial,media
+2021,Reserva 3,A2,ecuación matricial,alta
+2021,Reserva 4,A1,ecuación matricial,media
+2021,Julio,A1,ecuación matricial,media
+2020,Junio,A1,ecuación matricial,media
+2020,Reserva 1,A2,ecuación matricial,media
+2020,Reserva 2,A2,ecuación matricial,media
+2020,Reserva 3,A2,valores tenga inversa,media
+2020,Reserva 4,A1,ecuación matricial,media
+2020,Septiembre,A1,inversa,media
+2019,Junio,1 Opción B,ecuación matricial,media
+2019,Reserva 1,1 Opción B,ecuación matricial,alta
+2019,Reserva 2,1 Opción B,ecuación matricial,media
+2019,Reserva 3,1 Opción B,ecuación matricial,media
+2019,Reserva 4,1 Opción B,ecuación matricial,media
+2019,Septiembre,1 Opción A,ecuación matricial,media
+2019,Ponencia,1,inversa,alta
+2019,Ponencia,2,ecuación matricial,media
+2019,Ponencia,3,ecuación matricial,media
+2019,Ponencia,4,ecuación matricial,media
+2019,Ponencia,5,ecuación matricial,alta
+2019,Ponencia,6,ecuación matricial,media
+2019,Ponencia,7,ecuación matricial,media
+2019,Ponencia,8,valores tenga inversa,media
+2018,Junio,1 Opción B,ecuación matricial,media
+2018,Reserva 1,1 Opción B,ecuación matricial,alta
+2018,Reserva 2,1 Opción B,ecuación matricial,alta
+2018,Reserva 3,1 Opción B,ecuación matricial,alta
+2018,Reserva 4,1 Opción A,ecuación matricial,alta
+2018,Septiembre,1 Opción B,ecuación matricial,media
+2017,Junio,1 Opción A,verificar,media
+2017,Reserva 1,1 Opción B,ecuación matricial,alta
+2017,Reserva 2,1 Opción A,ecuación matricial,alta
+2017,Reserva 3,1 Opción A,ecuación matricial,alta
+2017,Septiembre,1 Opción A,ecuación matricial,alta
+2016,Junio,1 Opción A,sin clasificar,baja
+2016,Reserva 1,1 Opción A,ecuación matricial,media
+2016,Reserva 2,1 Opción A,ecuación matricial,alta
+2016,Reserva 3,1 Opción B,ecuación matricial,alta
+2016,Reserva 4,1 Opción A,ecuación matricial,media
+2016,Reserva 4,1 Opción B,ecuación matricial,alta
+2016,Septiembre,1 Opción A,ecuación matricial,alta
+2015,Junio,1 Opción B,ecuación matricial,media
+2015,Reserva 1,1 Opción A,ecuación matricial,alta
+2015,Reserva 2,1 Opción A,ecuación matricial,alta
+2015,Reserva 3,1 Opción A,ecuación matricial,media
+2015,Reserva 4,1 Opción A,ecuación matricial,media
+2015,Septiembre,1 Opción A,ecuación matricial,alta
+2014,Junio,1 Opción A,ecuación matricial,media
+2014,Reserva 1,1 Opción A,ecuación matricial,media
+2014,Reserva 2,1 Opción A,ecuación matricial,media
+2014,Reserva 3,1 Opción B,ecuación matricial,alta
+2014,Reserva 4,1 Opción A,ecuación matricial,alta
+2014,Reserva 4,1b Opción B,ecuación matricial,alta
+2014,Septiembre,1 Opción A,ecuación matricial,media
+2013,Junio,1 Opción A,ecuación matricial,alta
+2013,Reserva 1,1 Opción B,ecuación matricial,media
+2013,Reserva 2,1 Opción B,ecuación matricial,alta
+2013,Reserva 3,1 Opción A,ecuación matricial,alta
+2013,Reserva 4,1 Opción A,ecuación matricial,alta
+2013,Septiembre,1 Opción B,ecuación matricial,alta
+2012,Junio,1 Opción B,ecuación matricial,alta
+2012,Reserva 1,1 Opción A,ecuación matricial,media
+2012,Reserva 2,1 Opción B,sin clasificar,baja
+2012,Reserva 3,1 Opción A,ecuación matricial,alta
+2012,Reserva 4,1 Opción A,sin clasificar,baja
+2012,Septiembre,1 Opción B,sin clasificar,baja
+2011,Junio,1 Opción A,ecuación matricial,alta
+2011,Reserva 1,1 Opción B,sin clasificar,baja
+2011,Reserva 2,1 Opción A,ecuación matricial,alta
+2011,Reserva 3,1 Opción A,potencias,media
+2011,Reserva 4,1 Opción A,ecuación matricial,media
+2011,Septiembre,1 Opción B,ecuación matricial,alta
+2010,Junio,1 Opción B,ecuación matricial,alta
+2010,Reserva 1,1 Opción B,ecuación matricial,alta
+2010,Reserva 2,1 Opción A,ecuación matricial,alta
+2010,Septiembre,1 Opción B,sin clasificar,baja
+2009,Junio,1 Opción A,ecuación matricial,alta
+2009,Reserva 4,1 Opción A,ecuación matricial,alta
+2009,Septiembre,1 Opción B,ecuación matricial,alta
+2008,Junio,1 Opción A,ecuación matricial,alta
+2008,Reserva 1,1 Opción A,potencias,media
+2008,Reserva 2,1 Opción B,ecuación matricial,alta
+2008,Reserva 3,1 Opción B,ecuación matricial,alta
+2008,Reserva 4,1 Opción B,ecuación matricial,alta
+2008,Septiembre,1 Opción A,inversa,alta
+2007,Junio,1 Opción A,ecuación matricial,media
+2007,Reserva 1,1 Opción A,sin clasificar,baja
+2007,Reserva 2,1 Opción A,sin clasificar,baja
+2007,Reserva 3,1 Opción A,ecuación matricial,alta
+2007,Reserva 4,1 Opción A,ecuación matricial,alta
+2007,Septiembre,1 Opción B,ecuación matricial,media

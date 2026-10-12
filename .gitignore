@@ -13,6 +13,7 @@ __pycache__/
 ANTHROPIC_API_KEY
 .env
 .DS_Store
+__MACOSX/
 .Rhistory
 enunciados_ejercicios/
 .streamlit/

@@ -79,7 +79,7 @@ Vas a recibir el enunciado de un ejercicio de selectividad (PEvAU/EBAU de Andalu
 
 ## Formato de respuesta
 
-Responde SOLO con un JSON en una línea, sin texto adicional ni bloques de código:
+Responde SOLO con un JSON en una línea. Devuelve UN ÚNICO objeto JSON para todo el ejercicio, aunque tenga varios apartados; si hay varios tipos, únelos con `|`, sin texto adicional ni bloques de código.
 
 Toma el valor de "id" a partir del archivo texto suministrado
 {"id", "tipo_ejercicio": "<{{etiqueta_1}}|{{etiqueta_2}}|{{ETIQUETA_POR_DEFECTO}}>", "confianza": "alta|media|baja"}
