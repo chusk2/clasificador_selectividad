@@ -22,7 +22,7 @@ Vas a recibir el enunciado de un ejercicio de selectividad (PEvAU/EBAU de Andalu
 
 ### `valores tenga inversa`
 
-- **Palabras clave:** no tenga inversa, tenga inversa, existe la inversa
+- **Palabras clave:** no tenga inversa, tenga inversa, existe la , invertible
 - **Qué se pide / contexto:** valores para los cuales la matriz tiene inversa o no tiene inversa
 - **No confundir con:**
 
@@ -55,11 +55,20 @@ Vas a recibir el enunciado de un ejercicio de selectividad (PEvAU/EBAU de Andalu
 - **Palabras clave:** inversa
 - **Qué se pide / contexto:** calcular la matriz inversa
 - **No confundir con:**
+
+### `problema matrices`
+
+- **Qué se pide / contexto:** el enunciado es muy extenso y contiene líneas describiendo un problema de la vida real. Se pide calcular el resultado mediante un producto de matrices. Normalmente se suministran dos matrices (matriz de cantidades, de precios, demanda, etc...).
+
+### `operaciones matrices`
+
+- **Palabras clave:** dimensiones
+- **Qué se pide / contexto:** comprobar si es posible realizar una operación con matrices (sumas, restas y productos)
+- **Ejemplo de enunciado para ayudar a la clasificación:** "Razone si las siguientes operaciones se pueden realizar y en aquellos casos en que sea posible, indique la dimensión de la matriz resultante"
+
 - 
 ### `sin clasificar` (por defecto)
 
-- **Palabras clave:** 
-- **Qué se pide / contexto:**
 - Se asigna también cuando el enunciado no cumple los criterios de ninguna etiqueta anterior.
 
 ## Nivel de confianza
