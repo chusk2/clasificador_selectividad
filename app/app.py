@@ -106,7 +106,9 @@ def filtrar(datos, campos):
 
 
 def opciones_de(campo):
-    return [TODOS] + sorted(filtrar(df, depende_de[campo])[campo].dropna().unique().tolist())
+    valores = sorted(filtrar(df, depende_de[campo])[campo].dropna().unique().tolist(),
+                     reverse=(campo == "año"))
+    return [TODOS] + valores
 
 
 # Cada desplegable solo ofrece valores compatibles con los demás filtros.
