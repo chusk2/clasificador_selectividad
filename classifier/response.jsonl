@@ -1,180 +1,121 @@
-{"tipo_ejercicio": "Números cuánticos|Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2025_julio_ejercicio_1a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2025_julio_ejercicio_1b"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "media", "id": "quimica_configuracion_electronica_2025_junio_ejercicio_1a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2025_reserva_1_ejercicio_1a"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos|Configuración electrónica", "confianza": "alta", "id": "quimica_configuracion_electronica_2025_reserva_2_ejercicio_1a"}
-{"tipo_ejercicio": "Propiedades periódicas|Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2024_julio_ejercicio_b1"}
-{"tipo_ejercicio": "Propiedades periódicas|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2024_julio_ejercicio_b4"}
-{"tipo_ejercicio": "Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2024_junio_ejercicio_b1"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2024_junio_ejercicio_b4"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos|Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2024_reserva_1_ejercicio_b1"}
-{"tipo_ejercicio": "Ion más estable|Comparación energías de ionización|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2024_reserva_2_ejercicio_b_2"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Combinaciones de números cuánticos|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2024_reserva_3_ejercicio_b1"}
-{"tipo_ejercicio": "Comparación energías de ionización|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2024_reserva_3_ejercicio_b2"}
-{"tipo_ejercicio": "Números cuánticos|Configuración electrónica del ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2024_reserva_4_ejercicio_b1"}
-{"tipo_ejercicio": "Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2024_reserva_4_ejercicio_b2"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2023_julio_ejercicio_b1"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2023_julio_ejercicio_b4"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2023_junio_ejercicio_b1"}
-{"tipo_ejercicio": "Verdadero o Falso|Propiedades periódicas|Radio|energía ionización Na+ y Ne", "confianza": "alta", "id": "quimica_configuracion_electronica_2023_junio_ejercicio_b2"}
-{"tipo_ejercicio": "Números cuánticos|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2022_julio_ejercicio_b1"}
-{"tipo_ejercicio": "Comparación energías de ionización|Radio", "confianza": "alta", "id": "quimica_configuracion_electronica_2022_julio_ejercicio_b2"}
-{"tipo_ejercicio": "Configuración electrónica|Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2022_junio_ejercicio_b1"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2022_reserva_1_ejercicio_b_1"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2022_reserva_1_ejercicio_b2"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Comparación energías de ionización", "confianza": "alta", "id": "quimica_configuracion_electronica_2022_reserva_2_ejercicio_b_4"}
-{"tipo_ejercicio": "Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2022_reserva_2_ejercicio_b1"}
-{"tipo_ejercicio": "Números cuánticos|Situar elementos en tabla periódica (grupo y período)", "confianza": "media", "id": "quimica_configuracion_electronica_2022_reserva_3_ejercicio_b1"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Comparación energías de ionización|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2022_reserva_3_ejercicio_b4"}
-{"tipo_ejercicio": "Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2022_reserva_4_ejercicio_b1"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2022_reserva_4_ejercicio_b2"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2021_julio_ejercicio_b1"}
-{"tipo_ejercicio": "Comparación energías de ionización|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2021_julio_ejercicio_b4"}
-{"tipo_ejercicio": "Configuración electrónica", "confianza": "alta", "id": "quimica_configuracion_electronica_2021_junio_ejercicio_b1"}
-{"tipo_ejercicio": "Comparación energías de ionización|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2021_junio_ejercicio_b4"}
-{"tipo_ejercicio": "Radio|energía ionización Na+ y Ne", "confianza": "alta", "id": "quimica_configuracion_electronica_2021_reserva_1_ejercicio_b1"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2021_reserva_1_ejercicio_b2"}
-{"tipo_ejercicio": "Verdadero o Falso|Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2021_reserva_2_ejercicio_b1"}
-{"tipo_ejercicio": "Ion más estable|Comparación energías de ionización|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2021_reserva_2_ejercicio_b2"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Combinaciones de números cuánticos|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2021_reserva_3_ejercicio_b1"}
-{"tipo_ejercicio": "Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2021_reserva_3_ejercicio_b2"}
-{"tipo_ejercicio": "Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2021_reserva_4_ejercicio_b1"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2020_junio_b1"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2020_junio_b4"}
-{"tipo_ejercicio": "Propiedades periódicas|Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2020_reserva_1_ejercicio_b1"}
-{"tipo_ejercicio": "Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2020_reserva_1_ejercicio_b2"}
-{"tipo_ejercicio": "Propiedades periódicas|Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2020_reserva_2_ejercicio_b1"}
-{"tipo_ejercicio": "Comparación energías de ionización|Propiedades periódicas|Radio|energía ionización Na+ y Ne", "confianza": "alta", "id": "quimica_configuracion_electronica_2020_reserva_2_ejercicio_b2"}
-{"tipo_ejercicio": "Conf. Electrónica|Ion más estable|Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2020_reserva_3_ejercicio_b1"}
-{"tipo_ejercicio": "Comparación energías de ionización|Ion más estable|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2020_reserva_3_ejercicio_b4"}
-{"tipo_ejercicio": "Configuración electrónica|Propiedades periódicas|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2020_reserva_4_ejercicio_b1"}
-{"tipo_ejercicio": "Configuración electrónica|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2020_septiembre_b1"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Comparación energías de ionización", "confianza": "alta", "id": "quimica_configuracion_electronica_2020_septiembre_b2"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2019_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2019_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Combinaciones de números cuánticos|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2019_reserva_1_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Verdadero o Falso|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2019_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2019_reserva_2_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Configuración electrónica|Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2019_reserva_3_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Propiedades periódicas|Comparación energías de ionización|Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2019_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Combinaciones de números cuánticos|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2019_reserva_4_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Configuración electrónica|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2019_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Verdadero o Falso|Radio|energía ionización Na+ y Ne", "confianza": "alta", "id": "quimica_configuracion_electronica_2018_junio_ejercicio_2_op_cion_b"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2018_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2018_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Verdadero o Falso|Propiedades periódicas|Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2018_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos|Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2018_reserva_2_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Verdadero o Falso|Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2018_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2018_reserva_4_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2018_septiembre_ejercici_o_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2018_septiembre_ejercici_o_2_opcion_b"}
-{"tipo_ejercicio": "Comparación energías de ionización|Propiedades periódicas|Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2017_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Números cuánticos|Ion más estable|Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2017_junio_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2017_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Situar elementos en tabla periódica (grupo y período)|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2017_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Combinaciones de números cuánticos|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2017_reserva_3_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Propiedades periódicas|Comparación energías de ionización", "confianza": "alta", "id": "quimica_configuracion_electronica_2017_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Verdadero o Falso|Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2017_reserva_4_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2017_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Verdadero o Falso|Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2017_septiembre_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2016_junio_ejercicio_2_op_cion_b"}
-{"tipo_ejercicio": "Verdadero o Falso|Configuración electrónica", "confianza": "alta", "id": "quimica_configuracion_electronica_2016_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2016_reserva_2_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2016_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2016_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2015_junio_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2015_reserva_1_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Comparación energías de ionización|Propiedades periódicas|Radio|energía ionización Na+ y Ne", "confianza": "alta", "id": "quimica_configuracion_electronica_2015_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2015_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2015_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2015_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Combinaciones de números cuánticos|Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2014_junio_ejercicio_2_opc_ion_a"}
-{"tipo_ejercicio": "Verdadero o Falso|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2014_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica básica", "confianza": "baja", "id": "quimica_configuracion_electronica_2014_reserva_2_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Ion más estable|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2014_reserva_3_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2014_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2014_septiembre_ejercici_o_2_opcion_a"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2013_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Conf. Electrónica|Propiedades periódicas|Radio|energía ionización Na+ y Ne", "confianza": "alta", "id": "quimica_configuracion_electronica_2013_reserva_1_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Propiedades periódicas|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2013_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Propiedades periódicas|Radio|energía ionización Na+ y Ne", "confianza": "alta", "id": "quimica_configuracion_electronica_2013_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Comparación energías de ionización|Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2013_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2013_septiembre_ejercici_o_2_opcion_b"}
-{"tipo_ejercicio": "Verdadero o Falso|Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2012_junio_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "media", "id": "quimica_configuracion_electronica_2012_reserva_1_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Comparación energías de ionización|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2012_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica", "confianza": "alta", "id": "quimica_configuracion_electronica_2012_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2012_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2012_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Comparación energías de ionización", "confianza": "alta", "id": "quimica_configuracion_electronica_2011_junio_ejercicio_2_opc_ion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2011_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2011_reserva_2_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "media", "id": "quimica_configuracion_electronica_2011_reserva_3_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2011_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2011_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Conf. Electrónica|Comparación energías de ionización", "confianza": "alta", "id": "quimica_configuracion_electronica_2010_junio_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Configuración electrónica|Ion más estable|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2010_reserva_1_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Propiedades periódicas|Radio", "confianza": "alta", "id": "quimica_configuracion_electronica_2010_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2010_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Verdadero o Falso", "confianza": "baja", "id": "quimica_configuracion_electronica_2010_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Comparación energías de ionización", "confianza": "alta", "id": "quimica_configuracion_electronica_2010_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Comparación energías de ionización", "confianza": "alta", "id": "quimica_configuracion_electronica_2009_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2009_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2009_reserva_2_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Verdadero o Falso|Comparación energías de ionización", "confianza": "alta", "id": "quimica_configuracion_electronica_2009_reserva_3_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Conf. Electrónica|Números cuánticos", "confianza": "media", "id": "quimica_configuracion_electronica_2009_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2009_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica", "confianza": "alta", "id": "quimica_configuracion_electronica_2008_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2008_reserva_1_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Verdadero o Falso|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2008_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2008_reserva_3_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Verdadero o Falso|Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2008_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Propiedades periódicas|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2008_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Comparación energías de ionización|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2007_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2007_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Verdadero o Falso", "confianza": "alta", "id": "quimica_configuracion_electronica_2007_reserva_2_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2007_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2007_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2007_septiembre_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2006_junio_ejercicio_2_op_cion_b"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2006_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Propiedades periódicas|Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2006_reserva_2_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2006_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Propiedades periódicas|Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2006_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2006_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2005_junio_ejercicio_2_opc_ion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2005_reserva_1_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2005_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2005_reserva_3_ejercicio_2_o_pcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)", "confianza": "baja", "id": "quimica_configuracion_electronica_2005_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2005_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2004_junio_ejercicio_2_op_cion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2004_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2004_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2004_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2004_reserva_4_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2004_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2003_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2003_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2003_reserva_2_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Comparación energías de ionización", "confianza": "alta", "id": "quimica_configuracion_electronica_2003_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Ion más estable|Radio|energía ionización Na+ y Ne", "confianza": "alta", "id": "quimica_configuracion_electronica_2003_reserva_4_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2003_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Propiedades periódicas|Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2002_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Radio|energía ionización Na+ y Ne|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2002_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2002_reserva_2_ejercicio_3_opcion_b"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2002_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2002_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "media", "id": "quimica_configuracion_electronica_2002_septiembre_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2001_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Verdadero o Falso|Situar elementos en tabla periódica (grupo y período)", "confianza": "media", "id": "quimica_configuracion_electronica_2001_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Ion más estable", "confianza": "alta", "id": "quimica_configuracion_electronica_2001_reserva_2_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2001_reserva_3_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Combinaciones de números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2001_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2001_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Configuración electrónica|Números cuánticos", "confianza": "alta", "id": "quimica_configuracion_electronica_2000_junio_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Configuración electrónica|Radio|energía ionización Na+ y Ne|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2000_reserva_1_ejercicio_4_opcion_a"}
-{"tipo_ejercicio": "Situar elementos en tabla periódica (grupo y período)", "confianza": "alta", "id": "quimica_configuracion_electronica_2000_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2000_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "Conf. Electrónica|Ion más estable|Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2000_reserva_4_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "Propiedades periódicas", "confianza": "alta", "id": "quimica_configuracion_electronica_2000_septiembre_ejercici_o_2_opcion_b"}
+{"tipo_ejercicio": "Verdadero o Falso|flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_julio_ejercicio_a"}
+{"tipo_ejercicio": "fuerza entre conductores|campo magnético conductor rectilíneo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_julio_ejercicio_b1"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_julio_ejercicio_b2"}
+{"tipo_ejercicio": "trayectoria campo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_junio_ejercicio_a"}
+{"tipo_ejercicio": "experimento de Henry", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_junio_ejercicio_b1"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_junio_ejercicio_b2"}
+{"tipo_ejercicio": "flujo magnético|campo magnético conductor rectilíneo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_reserva_1_ejercicio_a"}
+{"tipo_ejercicio": "acelerado diferencia de potencial|campo magnético trayectoria", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_reserva_1_ejercicio_b1"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_reserva_1_ejercicio_b2"}
+{"tipo_ejercicio": "campo magnético trayectoria", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_reserva_2_ejercicio_a"}
+{"tipo_ejercicio": "flujo magnético|experimento de Henry", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_reserva_2_ejercicio_b1"}
+{"tipo_ejercicio": "fuerza campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_reserva_2_ejercicio_b2"}
+{"tipo_ejercicio": "campo magnético trayectoria|distribución de cargas", "confianza": "media", "id": "fisica_campo_electrico_y_magnetico_2025_reserva_3_ejercicio_a"}
+{"tipo_ejercicio": "flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_reserva_3_ejercicio_b1"}
+{"tipo_ejercicio": "campo magnético conductor rectilíneo|fuerza entre conductores", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2025_reserva_3_ejercicio_b2"}
+{"tipo_ejercicio": "flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_julio_ejercicio_b1"}
+{"tipo_ejercicio": "carga no se desvíe|fuerza entre conductores", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_julio_ejercicio_b2"}
+{"tipo_ejercicio": "flujo magnético|flujo magnético campo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_junio_ejercicio_b1"}
+{"tipo_ejercicio": "superficie equipotencial teoría|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_junio_ejercicio_b2"}
+{"tipo_ejercicio": "experimento de Henry|flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_reserva_1_ejercicio_b1"}
+{"tipo_ejercicio": "acelerado diferencia de potencial|campo magnético trayectoria", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_reserva_1_ejercicio_b2"}
+{"tipo_ejercicio": "fuerza entre conductores", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_reserva_2_ejercicio_b1"}
+{"tipo_ejercicio": "distribución de cargas|campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_reserva_2_ejercicio_b2"}
+{"tipo_ejercicio": "campo magnético conductor rectilíneo|flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_reserva_3_ejercicio_b1"}
+{"tipo_ejercicio": "fuerza campo eléctrico|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_reserva_3_ejercicio_b2"}
+{"tipo_ejercicio": "trayectoria campo magnético|acelerado diferencia de potencial", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_reserva_4_ejercicio_b1"}
+{"tipo_ejercicio": "campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2024_reserva_4_ejercicio_b2"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_julio_ejercicio_b1"}
+{"tipo_ejercicio": "flujo magnético|flujo magnético campo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_julio_ejercicio_b2"}
+{"tipo_ejercicio": "fuerza campo eléctrico|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_junio_ejercicio_b1"}
+{"tipo_ejercicio": "fuerza entre conductores|campo magnético conductor rectilíneo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_junio_ejercicio_b2"}
+{"tipo_ejercicio": "flujo magnético|flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_reserva_1_ejercicio_b1"}
+{"tipo_ejercicio": "trayectoria campo magnético|campo magnético conductor rectilíneo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_reserva_1_ejercicio_b2"}
+{"tipo_ejercicio": "fuerza campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_reserva_2_ejercicio_b1"}
+{"tipo_ejercicio": "flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_reserva_2_ejercicio_b2"}
+{"tipo_ejercicio": "campo magnético trayectoria|fuerza entre conductores|campo magnético conductor rectilíneo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_reserva_3_ejercicio_b1"}
+{"tipo_ejercicio": "corriente inducida por imán|flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_reserva_3_ejercicio_b2"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_reserva_4_ejercicio_b1"}
+{"tipo_ejercicio": "trayectoria campo magnético|campo magnético conductor rectilíneo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2023_reserva_4_ejercicio_b2"}
+{"tipo_ejercicio": "trayectoria campo magnético|acelerado diferencia de potencial", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_julio_ejercicio_b1"}
+{"tipo_ejercicio": "flujo magnético ángulo varía tiempo|flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_julio_ejercicio_b2"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_junio_ejercicio_b1"}
+{"tipo_ejercicio": "flujo magnético|corriente inducida por imán", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_junio_ejercicio_b2"}
+{"tipo_ejercicio": "acelerado diferencia de potencial|trayectoria campo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_reserva_1_ejercicio_b1"}
+{"tipo_ejercicio": "corriente inducida por imán|experimento de Henry", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_reserva_1_ejercicio_b2"}
+{"tipo_ejercicio": "superficie equipotencial teoría|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_reserva_2_ejercicio_b1"}
+{"tipo_ejercicio": "campo magnético trayectoria|fuerza entre conductores", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_reserva_2_ejercicio_b2"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_reserva_3_ejercicio_b1"}
+{"tipo_ejercicio": "flujo magnético|Verdadero o Falso", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_reserva_3_ejercicio_b2"}
+{"tipo_ejercicio": "superficie equipotencial teoría|distribución de cargas|fuerza campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_reserva_4_ejercicio_b1"}
+{"tipo_ejercicio": "trayectoria campo magnético|carga no se desvíe", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2022_reserva_4_ejercicio_b2"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_julio_ejercicio_b1"}
+{"tipo_ejercicio": "fuerza entre conductores|acelerado diferencia de potencial|campo magnético trayectoria", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_julio_ejercicio_b2"}
+{"tipo_ejercicio": "flujo magnético|flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_junio_ejercicio_b1"}
+{"tipo_ejercicio": "carga no se desvíe|trayectoria campo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_junio_ejercicio_b2"}
+{"tipo_ejercicio": "flujo magnético|flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_reserva_1_ejercicio_b1"}
+{"tipo_ejercicio": "fuerza campo eléctrico|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_reserva_1_ejercicio_b2"}
+{"tipo_ejercicio": "potencial eléctrico|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_reserva_2_ejercicio_b1"}
+{"tipo_ejercicio": "flujo magnético|flujo magnético campo varía tiempo|inducción magnética", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_reserva_2_ejercicio_b2"}
+{"tipo_ejercicio": "campo magnético conductor rectilíneo|fuerza entre conductores", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_reserva_3_ejercicio_b1"}
+{"tipo_ejercicio": "Verdadero o Falso|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_reserva_3_ejercicio_b2"}
+{"tipo_ejercicio": "fuerza entre conductores|campo magnético conductor rectilíneo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_reserva_4_ejercicio_b1"}
+{"tipo_ejercicio": "flujo magnético|flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2021_reserva_4_ejercicio_b2"}
+{"tipo_ejercicio": "flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_junio_ejercicio_2"}
+{"tipo_ejercicio": "carga no se desvíe|fuerza entre conductores", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_junio_ejercicio_6"}
+{"tipo_ejercicio": "Verdadero o Falso|flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_reserva_1_ejercicio_2"}
+{"tipo_ejercicio": "carga no se desvíe|trayectoria campo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_reserva_1_ejercicio_6"}
+{"tipo_ejercicio": "campo magnético conductor rectilíneo|trayectoria campo magnético|carga no se desvíe", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_reserva_2_ejercicio_2"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_reserva_2_ejercicio_6"}
+{"tipo_ejercicio": "corriente inducida por imán|flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_reserva_3_ejercicio_2"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_reserva_3_ejercicio_6"}
+{"tipo_ejercicio": "campo magnético trayectoria|campo magnético conductor rectilíneo|fuerza entre conductores", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_reserva_4_ejercicio_2"}
+{"tipo_ejercicio": "distribución de cargas|fuerza campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_reserva_4_ejercicio_6"}
+{"tipo_ejercicio": "flujo magnético|inducción magnética", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_septiembre_ejercicio_2"}
+{"tipo_ejercicio": "campo eléctrico uniforme|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2020_septiembre_ejercicio_6"}
+{"tipo_ejercicio": "corriente inducida por imán|experimento de Henry", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_junio_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "fuerza entre conductores|Verdadero o Falso", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_junio_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "flujo magnético|flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_reserva_1_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "trayectoria campo magnético|carga no se desvíe", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_reserva_1_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "fuerza entre conductores|campo magnético conductor rectilíneo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_reserva_2_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_reserva_2_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "flujo magnético|flujo magnético campo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_reserva_3_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "Verdadero o Falso|distribución de cargas|campo eléctrico|fuerza campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_reserva_3_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "carga no se desvíe|fuerza entre conductores", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_reserva_4_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "campo magnético conductor rectilíneo|flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_reserva_4_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_septiembre_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "distribución de cargas|campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2019_septiembre_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "fuerza campo eléctrico|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_junio_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "carga no se desvíe|campo magnético conductor rectilíneo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_junio_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "fuerza entre conductores", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_reserva_1_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_reserva_1_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "flujo magnético|flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_reserva_2_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "superficie equipotencial teoría|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_reserva_2_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_reserva_3_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "campo eléctrico|fuerza campo eléctrico|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_reserva_3_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "acelerado diferencia de potencial|trayectoria campo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_reserva_4_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "corriente inducida por imán|flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_reserva_4_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_septiembre_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "trayectoria campo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2018_septiembre_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "carga no se desvíe|flujo magnético campo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_junio_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "Verdadero o Falso|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_junio_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "flujo magnético|inducción magnética", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_reserva_1_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "campo eléctrico|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_reserva_1_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "carga no se desvíe|fuerza campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_reserva_2_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "fuerza campo eléctrico|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_reserva_2_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "corriente inducida por imán|flujo magnético campo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_reserva_3_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "campo eléctrico|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_reserva_3_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "carga no se desvíe|flujo magnético campo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_reserva_4_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "fuerza entre conductores", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_reserva_4_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "trayectoria campo magnético|distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_septiembre_ejercicio_2_opcion_a"}
+{"tipo_ejercicio": "campo eléctrico|fuerza campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2017_septiembre_ejercicio_2_opcion_b"}
+{"tipo_ejercicio": "campo eléctrico|Verdadero o Falso", "confianza": "media", "id": "fisica_campo_electrico_y_magnetico_2016_junio_ejercicio_1_opcion_a"}
+{"tipo_ejercicio": "flujo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2016_junio_ejercicio_3_opcion_b"}
+{"tipo_ejercicio": "campo magnético trayectoria|distribución de cargas", "confianza": "media", "id": "fisica_campo_electrico_y_magnetico_2016_reserva_2_ejercicio_1_opcion_b"}
+{"tipo_ejercicio": "fuerza campo eléctrico", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2016_reserva_2_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "flujo magnético|corriente inducida por imán", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2016_reserva_3_ejercicio_1_opcion_a"}
+{"tipo_ejercicio": "trayectoria campo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2016_reserva_3_ejercicio_3_opcion_b"}
+{"tipo_ejercicio": "flujo magnético ángulo varía tiempo", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2016_reserva_4_ejercicio_1_opcion_a"}
+{"tipo_ejercicio": "trayectoria campo magnético", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2016_reserva_4_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "campo eléctrico|campo magnético trayectoria", "confianza": "media", "id": "fisica_campo_electrico_y_magnetico_2016_septiembre_ejercicio_1_opcion_a"}
+{"tipo_ejercicio": "distribución de cargas", "confianza": "alta", "id": "fisica_campo_electrico_y_magnetico_2016_septiembre_ejercicio_3_opcion_b"}
