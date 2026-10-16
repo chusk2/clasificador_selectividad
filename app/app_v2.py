@@ -3,6 +3,8 @@ import functools
 import http.server
 import threading
 import unicodedata
+import urllib.error
+import urllib.request
 from pathlib import Path
 from urllib.parse import quote
 
@@ -29,6 +31,16 @@ def servidor_archivos():
         return None  # puerto ya ocupado (otra sesión): se asume que sirve lo mismo
     threading.Thread(target=srv.serve_forever, daemon=True).start()
     return srv
+
+
+def servidor_sirve_raiz():
+    """Comprueba que lo que escucha en el puerto sirve este proyecto (pide el CSV por HTTP)."""
+    prueba = f"http://127.0.0.1:{PUERTO_ARCHIVOS}/{quote(CSV.relative_to(RAIZ).as_posix())}"
+    try:
+        with urllib.request.urlopen(urllib.request.Request(prueba, method="HEAD"), timeout=2):
+            return True
+    except (urllib.error.URLError, OSError):
+        return False
 
 
 @st.cache_data
@@ -74,6 +86,13 @@ st.markdown(
     unsafe_allow_html=True,
 )
 servidor_archivos()
+if not servidor_sirve_raiz():
+    st.warning(
+        f"El puerto {PUERTO_ARCHIVOS} está ocupado por un servidor que no sirve `{RAIZ}`, "
+        "así que los enlaces a PDF e imágenes no funcionarán. Cierra la otra sesión de Streamlit "
+        "(o reinicia esta) y vuelve a cargar la página.",
+        icon="⚠️",
+    )
 df = cargar()
 
 def clear_year():
