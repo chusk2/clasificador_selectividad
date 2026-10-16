@@ -10,6 +10,8 @@ from urllib.parse import quote
 
 import pandas as pd
 import streamlit as st
+import datetime
+from generate_pdf import df_to_pdf
 
 RAIZ = Path(__file__).resolve().parent.parent
 CSV = RAIZ / "csv" / "ejercicios_clasificados.csv"
@@ -47,6 +49,35 @@ def servidor_sirve_raiz():
 def cargar():
     return pd.read_csv(CSV)
 
+def borrar_filtro():
+    for filtro in ["selected_year", "selected_asignatura",
+                   "selected_tema", "selected_tipo_ejercicio"]:
+        st.session_state[filtro] = ""
+
+def export_dataframe(df):
+# columnas de filtered_df:
+# año
+# asignatura
+# convocatoria
+# ejercicio
+# tema
+# nombre_ejercicio
+# tipo_ejercicio
+# observaciones
+# archivo_pdf
+# enunciado_img
+
+    renamed_cols = {
+        "nombre_ejercicio" : "nombre de ejercicio",
+        "observaciones" : "comentario",
+        "tipo_ejercicio" : "tipo de ejercicio"
+        }
+    # eliminar columnas innecesarias
+    export_df = df.drop(["convocatoria", "ejercicio",
+                                  "archivo_pdf", "enunciado_img"], axis = 1)
+    export_df = export_df.rename(columns = renamed_cols)
+
+    return export_df
 
 def url(ruta):
     if pd.isna(ruta):
@@ -94,21 +125,6 @@ if not servidor_sirve_raiz():
         icon="⚠️",
     )
 df = cargar()
-
-def clear_year():
-    st.session_state.selected_year = ""
-
-def clear_asignatura():
-    st.session_state.selected_asignatura = ""
-
-def clear_conv():
-    st.session_state.selected_conv = ""
-
-def clear_tema():
-    st.session_state.selected_tema = ""
-
-def clear_tipo_ejercicio():
-    st.session_state.selected_tipo_ejercicio = ""
 
 st.markdown(
     '<div class="cabecera"><h1>📚 Enunciados de Selectividad</h1>'
@@ -176,35 +192,56 @@ def exercise_name(row):
 filtered_df["nombre_ejercicio"] = filtered_df.apply(exercise_name, axis = 1)
 
 salida = pd.DataFrame({
-     "año": filtered_df["año"],
-#     "asignatura": filtered_df["asignatura"],
-#     "convocatoria": filtered_df["convocatoria"],
-#     "ejercicio": filtered_df["ejercicio"],
-#     "tema": filtered_df["tema"],
-    "ejercicio" : filtered_df["nombre_ejercicio"],
+    "año": filtered_df["año"],
+    "asignatura": filtered_df["asignatura"],
+    "convocatoria": filtered_df["convocatoria"],
+    "ejercicio": filtered_df["ejercicio"],
+    "tema": filtered_df["tema"],
+    "nombre_ejercicio" : filtered_df["nombre_ejercicio"],
     "tipo_ejercicio": filtered_df["tipo_ejercicio"],
     "observaciones": filtered_df["observaciones"],
-    "archivo": filtered_df["archivo"].map(url),
-    "imagen": filtered_df["imagen"].map(url),
+    "archivo_pdf": filtered_df["archivo"].map(url),
+    "enunciado_img": filtered_df["imagen"].map(url),
 }).sort_values("año", ascending=False)
 
 if salida["observaciones"].isna().all():
     salida = salida.drop(columns="observaciones")
 
-st.markdown(f'<span class="contador">{len(salida):,} enunciados</span>'.replace(",", "."), unsafe_allow_html=True)
-st.download_button(
+with st.container(horizontal=True, horizontal_alignment="left", gap="small"):
+    st.markdown(f'<span class="contador">{len(salida):,} enunciados</span>'.replace(",", "."), unsafe_allow_html=True)
+    
+    st.button(label = "Borrar filtro", on_click=borrar_filtro)
+    
+    st.download_button(
     "⬇️ Exportar a CSV",
-    data=salida.assign(archivo=filtered_df["archivo"], imagen=filtered_df["imagen"]).to_csv(index=False).encode("utf-8-sig"),
-    file_name="enunciados_filtrados.csv",
+    data=export_dataframe(salida).to_csv(index=False).encode("utf-8-sig"),
+    file_name=f"ejercicios_{selected_asignatura}_filtrados_{datetime.date.today()}.csv",
     mime="text/csv",
-)
-st.dataframe(
-    salida,
-    hide_index=True,
-    width="stretch",
-    column_config={
-        "año": st.column_config.NumberColumn("año", format="%d"),
-        "archivo": st.column_config.LinkColumn("archivo", display_text="Abrir PDF"),
-        "imagen": st.column_config.LinkColumn("imagen", display_text="Abrir imagen"),
-    },
-)
+    )
+
+    st.download_button(
+    "📄 Exportar a PDF",
+    data=df_to_pdf(export_dataframe(salida)),
+    file_name=f"ejercicios_{selected_asignatura}_filtrados_{datetime.date.today().strftime("%d-%m-%Y")}.pdf",
+    mime="application/pdf",
+    )
+
+# ocultar asignatura, convocatoria, tema y ejercicio
+cols_to_hide = ["asignatura", "convocatoria", "tema", "ejercicio"]
+cols_to_show = [col for col in salida.columns if col not in cols_to_hide]
+
+if any([selected_asignatura, selected_year]):
+    st.dataframe(
+        salida,
+        column_order=cols_to_show,
+        hide_index=True,
+        width="stretch",
+        column_config={
+            "año": st.column_config.NumberColumn(label = "Año", format="%d"),
+            "nombre_ejercicio": st.column_config.Column(label="Ejercicio"),
+            "tipo_ejercicio": st.column_config.Column(label="Tipo de ejercicio"),
+            "observaciones": st.column_config.Column(label="Comentario"),
+            "archivo_pdf": st.column_config.LinkColumn("Soluciones", display_text="Abrir PDF"),
+            "enunciado_img": st.column_config.LinkColumn("Enunciado", display_text="Abrir imagen"),
+        },
+    )
