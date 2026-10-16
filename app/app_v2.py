@@ -49,10 +49,18 @@ def servidor_sirve_raiz():
 def cargar():
     return pd.read_csv(CSV)
 
+# inicializar widget selector año
+# if "dropdown_year" not in st.session_state:
+#     st.session_state.dropdown_year = ""
+if "use_year_range" not in st.session_state:
+    st.session_state.use_year_range = False
+
 def borrar_filtro():
-    for filtro in ["selected_year", "selected_asignatura",
-                   "selected_tema", "selected_tipo_ejercicio"]:
-        st.session_state[filtro] = ""
+    for filtro in ["year_selector", "asignatura_selector",
+                   "tema_selector", "tipo_ejercicio_selector"]:
+        st.session_state[filtro] = None
+    st.session_state.pop("year_slider", None)
+    st.session_state["use_year_range"] = False
 
 def export_dataframe(df):
 # columnas de filtered_df:
@@ -87,7 +95,7 @@ def url(ruta):
     return f"http://127.0.0.1:{PUERTO_ARCHIVOS}/{quote(ruta)}"
 
 
-st.set_page_config(page_title="Enunciados de Selectividad", page_icon="📚", layout="wide")
+st.set_page_config(page_title="Ejercicios de Selectividad Andalucía", page_icon="📚", layout="wide")
 st.markdown(
     """
     <style>
@@ -127,71 +135,90 @@ if not servidor_sirve_raiz():
 df = cargar()
 
 st.markdown(
-    '<div class="cabecera"><h1>📚 Enunciados de Selectividad</h1>'
-    "<p>Busca por año, convocatoria, asignatura, tema y tipo de ejercicio, y abre el enunciado en imagen o PDF.</p></div>",
+    '<div class="cabecera"><h1>📚 Ejercicios de Selectividad Andalucía</h1>'
+    "<p>Filtra por año, asignatura, tema y tipo de ejercicio, y abre la imagen del enunciado.</p></div>",
     unsafe_allow_html=True,
 )
 
 
 filtered_df = df.copy()
 mask = pd.Series(True, index = filtered_df.index)
+# definir valores del rango de año
+selected_min_year, selected_max_year = None, None
 
-col1, col2, col3, col4 = st.columns([2 for _ in range(1,5)])
+with st.container(horizontal = True, horizontal_alignment = "center", gap = "medium"):
 
-with col1:
-    selected_year = st.selectbox(label = "Año",
-                                 options = filtered_df["año"].unique(),
-                                 key = "selected_year",
-                                 index = None,
-                                 placeholder= "Selecciona año")
+    with st.container(horizontal=False, vertical_alignment="center", gap = "small"):
+        years = sorted(filtered_df.loc[mask, "año"].unique(), reverse=True)
+        selected_year, selected_min_year, selected_max_year = None, None, None        
+
+        if st.session_state.use_year_range:
+            selected_min_year, selected_max_year = st.slider(
+                            label = "Rango de años",
+                            min_value=min(years),
+                            max_value=max(years),
+                            value = (min(years), max(years)),
+                            key = "year_slider"
+                            )
+        # selección año
+        else:
+            selected_year = st.selectbox(label = "Año",
+                                         options = years,
+                                         index = None,
+                                         placeholder= "Selecciona año",
+                                         key = "year_selector")
+            
 
     if selected_year:
         mask &= filtered_df.año == selected_year
+    elif selected_min_year and selected_max_year:
+        mask &= filtered_df.año.between(selected_min_year, selected_max_year)
 
-with col2:
+    # selección asignatura
+    asignaturas = sorted(filtered_df.loc[mask, "asignatura"].unique())
     selected_asignatura = st.selectbox(label = "Asignatura",
-                                       options = filtered_df.loc[mask, "asignatura"].unique(),
+                                       options = asignaturas,
                                        index = None,
                                        placeholder= "Selecciona asignatura",
-                                       key = "selected_asignatura")
+                                       key = "asignatura_selector")
 
     if selected_asignatura:
             mask &= filtered_df.asignatura == selected_asignatura
 
-with col3:
-    temas = filtered_df.loc[mask, "tema"].unique()
+    # selección tema
+    temas = sorted(filtered_df.loc[mask, "tema"].dropna().unique())
     selected_tema = st.selectbox(label = "Tema",
                                  options = temas,
                                  index = None,
                                  placeholder= "Selecciona tema",
-                                 disabled=selected_asignatura is None or all(pd.isna(temas)),
-                                 key = "selected_tema")
+                                 disabled=selected_asignatura is None or len(temas) == 0,
+                                 key = "tema_selector")
 
     if selected_tema:
             mask &= filtered_df.tema == selected_tema
 
-with col4:
-    tipos_ejercicios = filtered_df.loc[mask, "tipo_ejercicio"].unique()
+    # seleccionar tipo de ejercicio
+    tipos_ejercicios = sorted(filtered_df.loc[mask, "tipo_ejercicio"].dropna().unique())
     selected_tipo_ejercicio = st.selectbox(label = "Tipo de ejercicio",
-                                 options = filtered_df.loc[mask, "tipo_ejercicio"].unique(),
+                                 options = tipos_ejercicios,
                                  index = None,
                                  placeholder= "Selecciona tipo de ejercicio",
                                  # desabilita elegir tipo de ejercicio
                                  # si no hay tema seleccionado o no hay tipos disponibles
-                                 disabled=selected_tema is None or pd.isna(tipos_ejercicios)[0],
-                                 key = "selected_tipo_ejercicio")
+                                 disabled=selected_tema is None or len(tipos_ejercicios) == 0,
+                                 key = "tipo_ejercicio_selector")
     
     if selected_tipo_ejercicio:
             mask &= filtered_df.tipo_ejercicio == selected_tipo_ejercicio
 
-filtered_df = filtered_df[mask]
+filtered_df = filtered_df[mask].copy()
 
 def exercise_name(row):
      return f"{row.año} - {row.convocatoria}, {row.ejercicio}"
 
 filtered_df["nombre_ejercicio"] = filtered_df.apply(exercise_name, axis = 1)
 
-salida = pd.DataFrame({
+output_df = pd.DataFrame({
     "año": filtered_df["año"],
     "asignatura": filtered_df["asignatura"],
     "convocatoria": filtered_df["convocatoria"],
@@ -204,35 +231,48 @@ salida = pd.DataFrame({
     "enunciado_img": filtered_df["imagen"].map(url),
 }).sort_values("año", ascending=False)
 
-if salida["observaciones"].isna().all():
-    salida = salida.drop(columns="observaciones")
+if output_df["observaciones"].isna().all():
+    output_df.drop(columns="observaciones", inplace = True)
+
+# condición para comprobar si hay filtros aplicados
+filter_exists = (selected_year or selected_min_year) and selected_asignatura
 
 with st.container(horizontal=True, horizontal_alignment="left", gap="small"):
-    st.markdown(f'<span class="contador">{len(salida):,} enunciados</span>'.replace(",", "."), unsafe_allow_html=True)
+    st.toggle(label = "Usar rango de años", key = "use_year_range")
+
+    st.markdown(f'<span class="contador">{len(output_df):,} enunciados</span>'.replace(",", "."), unsafe_allow_html=True)
+
+    # mostrar borrar filtros y opciones de exportación
+    # solo si hay un año y asignatura seleccionados
+    if filter_exists:
+
+        # fecha actual para añadir a nombre archivo
+        today_date = datetime.date.today().strftime("%d-%m-%Y")
+
+        st.button(label = "Borrar filtro", on_click=borrar_filtro)
+        
+        st.download_button(
+        "⬇️ Exportar a CSV",
+        data=export_dataframe(output_df).to_csv(index=False).encode("utf-8-sig"),
+        file_name=f"ejercicios_{selected_asignatura}_filtrados_{today_date}.csv",
+        mime="text/csv",
+        )
+
+        st.download_button(
+        "📄 Exportar a PDF",
+        data=df_to_pdf(export_dataframe(output_df)),
+        file_name=f"ejercicios_{selected_asignatura}_filtrados_{today_date}.pdf",
+        mime="application/pdf",
+        )
+
+# mostrar dataframe solo si hay un año y asignatura seleccionados
+if filter_exists:
+    # ocultar asignatura, convocatoria, tema y ejercicio
+    cols_to_hide = ["asignatura", "convocatoria", "tema", "ejercicio"]
+    cols_to_show = [col for col in output_df.columns if col not in cols_to_hide]
     
-    st.button(label = "Borrar filtro", on_click=borrar_filtro)
-    
-    st.download_button(
-    "⬇️ Exportar a CSV",
-    data=export_dataframe(salida).to_csv(index=False).encode("utf-8-sig"),
-    file_name=f"ejercicios_{selected_asignatura}_filtrados_{datetime.date.today()}.csv",
-    mime="text/csv",
-    )
-
-    st.download_button(
-    "📄 Exportar a PDF",
-    data=df_to_pdf(export_dataframe(salida)),
-    file_name=f"ejercicios_{selected_asignatura}_filtrados_{datetime.date.today().strftime("%d-%m-%Y")}.pdf",
-    mime="application/pdf",
-    )
-
-# ocultar asignatura, convocatoria, tema y ejercicio
-cols_to_hide = ["asignatura", "convocatoria", "tema", "ejercicio"]
-cols_to_show = [col for col in salida.columns if col not in cols_to_hide]
-
-if any([selected_asignatura, selected_year]):
     st.dataframe(
-        salida,
+        output_df,
         column_order=cols_to_show,
         hide_index=True,
         width="stretch",
