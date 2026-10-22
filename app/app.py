@@ -62,6 +62,9 @@ def cargar():
 if "use_year_range" not in st.session_state:
     st.session_state.use_year_range = False
 
+if "all_years" not in st.session_state:
+    st.session_state.all_years = False
+
 # ejercicios por página
 EXERCISES_PER_PAGE = 5
 if "page_table" not in st.session_state:
@@ -75,6 +78,7 @@ def borrar_filtro():
     for filtro in ["year_selector", "asignatura_selector",
                    "tema_selector", "tipo_ejercicio_selector"]:
         st.session_state[filtro] = None
+    st.session_state["year_selector"] = "Todos"
     st.session_state.pop("year_slider", None)
     st.session_state["use_year_range"] = False
 
@@ -174,6 +178,7 @@ with st.container(horizontal = True, horizontal_alignment = "center", gap = "med
         years = sorted(filtered_df.loc[mask, "año"].unique(), reverse=True)
         selected_year, selected_min_year, selected_max_year = None, None, None        
 
+
         if st.session_state.use_year_range:
             selected_min_year, selected_max_year = st.slider(
                             label = "Rango de años",
@@ -184,14 +189,16 @@ with st.container(horizontal = True, horizontal_alignment = "center", gap = "med
                             )
         # selección año
         else:
+            years_selectbox = ["Todos"] + [str(i) for i in years]
             selected_year = st.selectbox(label = "Año",
-                                         options = years,
-                                         index = None,
-                                         placeholder= "Selecciona año",
-                                         key = "year_selector")
-            
+                                        options = years_selectbox,
+                                        index = 0,
+                                        placeholder= "Selecciona año",
+                                        key = "year_selector")
+                
 
-    if selected_year:
+    if selected_year and selected_year != "Todos":
+        selected_year = int(selected_year)
         mask &= filtered_df.año == selected_year
     elif selected_min_year and selected_max_year:
         mask &= filtered_df.año.between(selected_min_year, selected_max_year)
