@@ -13,7 +13,7 @@ import streamlit as st
 import datetime
 from generate_pdf import df_to_pdf
 
-RAIZ = Path(__file__).resolve().parent.parent
+RAIZ = Path(__file__).resolve().parent
 CSV = RAIZ / "csv" / "ejercicios_clasificados.csv"
 #PUERTO_ARCHIVOS = 8599
 PUERTO_ARCHIVOS = 8501
@@ -56,14 +56,15 @@ def ordenar_personalizado(lista, lista_ordenada):
 def cargar():
     return pd.read_csv(CSV)
 
+@st.cache_data
+def cached_pdf(df):
+    return df_to_pdf(df)
+
 # inicializar widget selector año
 # if "dropdown_year" not in st.session_state:
 #     st.session_state.dropdown_year = ""
 if "use_year_range" not in st.session_state:
     st.session_state.use_year_range = False
-
-if "all_years" not in st.session_state:
-    st.session_state.all_years = False
 
 # ejercicios por página
 EXERCISES_PER_PAGE = 5
@@ -112,14 +113,15 @@ def url(ruta):
         return None
     # Las rutas del CSV vienen de macOS (NFD) y en disco los nombres están en NFC.
     ruta = unicodedata.normalize("NFC", str(ruta).replace(chr(92), "/"))
-    return f"http://127.0.0.1:{PUERTO_ARCHIVOS}/{quote(ruta)}"
+    #return f"http://127.0.0.1:{PUERTO_ARCHIVOS}/static/{quote(ruta)}"
+    return f"/app/static/{quote(ruta)}"
 
 def ruta_local(ruta):
     """Ruta absoluta en disco de un archivo del CSV (None si no hay)."""
     if pd.isna(ruta):
         return None
     ruta = unicodedata.normalize("NFC", str(ruta).replace(chr(92), "/"))
-    return RAIZ / ruta
+    return RAIZ / "static" / ruta
 
 st.set_page_config(page_title="Ejercicios de Selectividad Andalucía", page_icon="📚", layout="wide")
 st.markdown(
@@ -178,7 +180,6 @@ with st.container(horizontal = True, horizontal_alignment = "center", gap = "med
         years = sorted(filtered_df.loc[mask, "año"].unique(), reverse=True)
         selected_year, selected_min_year, selected_max_year = None, None, None        
 
-
         if st.session_state.use_year_range:
             selected_min_year, selected_max_year = st.slider(
                             label = "Rango de años",
@@ -189,17 +190,15 @@ with st.container(horizontal = True, horizontal_alignment = "center", gap = "med
                             )
         # selección año
         else:
-            years_selectbox = ["Todos"] + [str(i) for i in years]
-            selected_year = st.selectbox(label = "Año",
-                                        options = years_selectbox,
-                                        index = 0,
-                                        placeholder= "Selecciona año",
-                                        key = "year_selector")
-                
+            year_selectbox = ["Todos"] + [str(i) for i in years]
+            selected_year = st.selectbox(label="Año",
+                                         options=year_selectbox,
+                                         index=0,
+                                         placeholder="Selecciona año",
+                                         key="year_selector")
 
     if selected_year and selected_year != "Todos":
-        selected_year = int(selected_year)
-        mask &= filtered_df.año == selected_year
+        mask &= filtered_df.año == int(selected_year)  # convertir de nuevo a int
     elif selected_min_year and selected_max_year:
         mask &= filtered_df.año.between(selected_min_year, selected_max_year)
 
@@ -310,7 +309,7 @@ with st.container(horizontal=True, vertical_alignment="center", gap = "large"):
 # mostrar dataframe solo si hay un año y asignatura seleccionados
 if filter_exists:
     # ocultar asignatura, convocatoria, tema y ejercicio
-    cols_to_hide = ["asignatura", "convocatoria", "ejercicio"]
+    cols_to_hide = ["asignatura", "convocatoria", "ejercicio", "archivo_pdf"]
     cols_to_show = [col for col in output_df.columns if col not in cols_to_hide]
 
     # cálculo del número de páginas del dataframe
@@ -369,15 +368,20 @@ if filter_exists:
 
         st.download_button(
         "📄 Exportar a PDF",
-        data=df_to_pdf(export_dataframe(output_df)),
+        data=cached_pdf(export_dataframe(output_df)),
         file_name=f"ejercicios_{selected_asignatura}_filtrados_{today_date}.pdf",
         mime="application/pdf",
         )
         
     if st.session_state.get("show_exercises"):
         with st.container(border=True):
-            for idx, row in current_rows.iterrows():
-                st.subheader(row["nombre_ejercicio"])
+            # eliminar enunciados duplicados
+            enunciados_desduplicados = current_rows.drop_duplicates("enunciado_img")
+            for idx, row in enunciados_desduplicados.iterrows():
+                if pd.notna(row["tipo_ejercicio"]):
+                    st.subheader(f"{row["nombre_ejercicio"]} ({row["tipo_ejercicio"]})")
+                else:
+                      st.subheader(f"{row["nombre_ejercicio"]}")                 
                 img_path = ruta_local(filtered_df.loc[idx, "imagen"])
                 
                 if img_path is None:
