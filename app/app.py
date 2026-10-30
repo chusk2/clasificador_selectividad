@@ -1,56 +1,19 @@
 """App local de consulta de enunciados. Ejecutar: streamlit run app/app.py"""
-import functools
-import http.server
-import threading
 import unicodedata
-import urllib.error
-import urllib.request
 from pathlib import Path
 from urllib.parse import quote
-
 import pandas as pd
 import streamlit as st
 import datetime
 from generate_pdf import df_to_pdf
 
-RAIZ = Path(__file__).resolve().parent
+RAIZ = Path(__file__).resolve().parent.parent
 CSV = RAIZ / "csv" / "ejercicios_clasificados.csv"
-#PUERTO_ARCHIVOS = 8599
-PUERTO_ARCHIVOS = 8501
-TODOS = "Todos"
 
-
-@st.cache_resource
-def servidor_archivos():
-    """Sirve el proyecto por HTTP en local: el navegador no abre file:// desde una página http."""
-    class Handler(http.server.SimpleHTTPRequestHandler):
-        def log_message(self, *args):
-            pass
-
-    handler = functools.partial(Handler, directory=str(RAIZ))
-    try:
-        srv = http.server.ThreadingHTTPServer(("127.0.0.1", PUERTO_ARCHIVOS), handler)
-    except OSError:
-        return None  # puerto ya ocupado (otra sesión): se asume que sirve lo mismo
-    threading.Thread(target=srv.serve_forever, daemon=True).start()
-    return srv
-
-
-def servidor_sirve_raiz():
-    """Comprueba que lo que escucha en el puerto sirve este proyecto (pide el CSV por HTTP)."""
-    prueba = f"http://127.0.0.1:{PUERTO_ARCHIVOS}/{quote(CSV.relative_to(RAIZ).as_posix())}"
-    try:
-        with urllib.request.urlopen(urllib.request.Request(prueba, method="HEAD"), timeout=2):
-            return True
-    except (urllib.error.URLError, OSError):
-        return False
-
-def ordenar_personalizado(lista, lista_ordenada):
-    """Primero los de la lista, en ese orden; el resto, al final y alfabético."""
-    return sorted(lista,
-                  key=lambda valor: (lista_ordenada.index(valor) if valor in lista_ordenada else len(lista_ordenada),
-                                     str(valor))
-                                     )
+def remove_accents(texto):
+        t = unicodedata.normalize("NFD", str(texto))  # "í" -> "i" + tilde suelta
+        t = "".join(c for c in t if unicodedata.category(c) != "Mn")  # quita las tildes sueltas
+        return t.casefold()  # ignora mayúsculas
 
 @st.cache_data
 def cargar():
@@ -108,20 +71,16 @@ def export_dataframe(df):
 
     return export_df
 
-def url(ruta):
-    if pd.isna(ruta):
-        return None
+def normalizar(ruta):
     # Las rutas del CSV vienen de macOS (NFD) y en disco los nombres están en NFC.
-    ruta = unicodedata.normalize("NFC", str(ruta).replace(chr(92), "/"))
-    #return f"http://127.0.0.1:{PUERTO_ARCHIVOS}/static/{quote(ruta)}"
-    return f"/app/static/{quote(ruta)}"
+    return unicodedata.normalize("NFC", str(ruta).replace("\\", "/"))
+
+def url(ruta):
+    return None if pd.isna(ruta) else f"/app/static/{quote(normalizar(ruta))}"
 
 def ruta_local(ruta):
     """Ruta absoluta en disco de un archivo del CSV (None si no hay)."""
-    if pd.isna(ruta):
-        return None
-    ruta = unicodedata.normalize("NFC", str(ruta).replace(chr(92), "/"))
-    return RAIZ / "static" / ruta
+    return None if pd.isna(ruta) else RAIZ / "static" / normalizar(ruta)
 
 st.set_page_config(page_title="Ejercicios de Selectividad Andalucía", page_icon="📚", layout="wide")
 st.markdown(
@@ -152,14 +111,7 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-servidor_archivos()
-if not servidor_sirve_raiz():
-    st.warning(
-        f"El puerto {PUERTO_ARCHIVOS} está ocupado por un servidor que no sirve `{RAIZ}`, "
-        "así que los enlaces a PDF e imágenes no funcionarán. Cierra la otra sesión de Streamlit "
-        "(o reinicia esta) y vuelve a cargar la página.",
-        icon="⚠️",
-    )
+
 df = cargar()
 
 st.markdown(
@@ -203,7 +155,7 @@ with st.container(horizontal = True, horizontal_alignment = "center", gap = "med
         mask &= filtered_df.año.between(selected_min_year, selected_max_year)
 
     # selección asignatura
-    asignaturas = sorted(filtered_df.loc[mask, "asignatura"].unique())
+    asignaturas = sorted(filtered_df.loc[mask, "asignatura"].unique(), key=remove_accents)
     selected_asignatura = st.selectbox(label = "Asignatura",
                                        options = asignaturas,
                                        index = None,
@@ -214,7 +166,7 @@ with st.container(horizontal = True, horizontal_alignment = "center", gap = "med
             mask &= filtered_df.asignatura == selected_asignatura
 
     # selección tema
-    temas = sorted(filtered_df.loc[mask, "tema"].dropna().unique())
+    temas = sorted(filtered_df.loc[mask, "tema"].dropna().unique(), key=remove_accents)
     selected_tema = st.selectbox(label = "Tema",
                                  options = temas,
                                  index = None,
@@ -224,12 +176,6 @@ with st.container(horizontal = True, horizontal_alignment = "center", gap = "med
 
     if selected_tema:
             mask &= filtered_df.tema == selected_tema
-
-    # seleccionar tipo de ejercicio
-    def remove_accents(texto):
-        t = unicodedata.normalize("NFD", str(texto))  # "í" -> "i" + tilde suelta
-        t = "".join(c for c in t if unicodedata.category(c) != "Mn")  # quita las tildes sueltas
-        return t.casefold()  # ignora mayúsculas
 
     tipos_ejercicios = sorted(filtered_df.loc[mask, "tipo_ejercicio"].dropna().unique(),
                               key=remove_accents)
@@ -379,7 +325,7 @@ if filter_exists:
             enunciados_desduplicados = current_rows.drop_duplicates("enunciado_img")
             for idx, row in enunciados_desduplicados.iterrows():
                 if pd.notna(row["tipo_ejercicio"]):
-                    st.subheader(f"{row["nombre_ejercicio"]} ({row["tipo_ejercicio"]})")
+                    st.subheader(f"{row["nombre_ejercicio"]} - {row["tipo_ejercicio"]}")
                 else:
                       st.subheader(f"{row["nombre_ejercicio"]}")                 
                 img_path = ruta_local(filtered_df.loc[idx, "imagen"])
