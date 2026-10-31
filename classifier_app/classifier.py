@@ -19,7 +19,6 @@ import streamlit as st
 
 CSV = Path("./csv/ejercicios_a_clasificar.csv")
 TIPOS_EJERCICIOS = Path("./csv/tipos_ejercicios.csv")
-STATIC_DIR = Path("./static")
 
 EXERCISES_PER_PAGE = 5
 
@@ -60,7 +59,7 @@ CABECERA = (
 
 
 # =============================================================================
-# Utilidades
+# Funciones
 # =============================================================================
 
 def remove_accents(texto):
@@ -85,7 +84,7 @@ def url(ruta):
 
 def ruta_local(ruta):
     """Ruta en disco de un archivo del CSV (None si no hay)."""
-    return None if pd.isna(ruta) else STATIC_DIR / normalizar(ruta)
+    return None if pd.isna(ruta) else Path("./static") / normalizar(ruta)
 
 
 def nombre_corto(row):
@@ -157,44 +156,32 @@ def borrar_filtro():
 # Interfaz
 # =============================================================================
 
-def render_filtros(pendientes):
+def render_filtros(pendientes):  # ejercicios pendientes de clasificar
     """Dibuja los filtros (año, asignatura, tema) y devuelve la máscara y lo elegido.
 
     Cada selector solo ofrece las opciones compatibles con los filtros anteriores.
     """
     mask = pd.Series(True, index=pendientes.index)
-    selected_year = selected_min_year = selected_max_year = None
+    selected_year = None
 
     with st.container(horizontal=True, horizontal_alignment="center", gap="medium"):
-
-        # --- Año: selector único o rango (según el toggle "Usar rango de años")
-        with st.container(horizontal=False, vertical_alignment="center", gap="small"):
-            years = sorted(pendientes["año"].unique(), reverse=True)
-
-            if st.session_state.use_year_range:
-                selected_min_year, selected_max_year = st.slider(
-                    label="Rango de años",
-                    min_value=min(years),
-                    max_value=max(years),
-                    value=(min(years), max(years)),
-                    key="year_slider",
-                )
-            else:
-                selected_year = st.selectbox(
-                    label="Año",
-                    options=["Todos"] + [str(y) for y in years],
-                    index=0,
-                    placeholder="Selecciona año",
-                    key="year_selector",
-                )
+            
+        years = sorted(pendientes["año"].unique(), reverse=True)
+        
+        selected_year = st.selectbox(
+            label="Año",
+            options=["Todos"] + [str(y) for y in years],
+            index=0,
+            placeholder="Selecciona año",
+            key="year_selector",
+        )
 
         if selected_year and selected_year != "Todos":
             mask &= pendientes.año == int(selected_year)
-        elif selected_min_year and selected_max_year:
-            mask &= pendientes.año.between(selected_min_year, selected_max_year)
 
         # --- Asignatura
-        asignaturas = sorted(pendientes.loc[mask, "asignatura"].unique(), key=remove_accents)
+        asignaturas = sorted(pendientes.loc[mask, "asignatura"].unique(),
+                             key=remove_accents)  # eliminar acentos para ordenar alfabéticamente
         selected_asignatura = st.selectbox(
             label="Asignatura",
             options=asignaturas,
@@ -202,24 +189,27 @@ def render_filtros(pendientes):
             placeholder="Selecciona asignatura",
             key="asignatura_selector",
         )
+
         if selected_asignatura:
             mask &= pendientes.asignatura == selected_asignatura
 
-        # --- Tema (solo disponible tras elegir asignatura)
-        temas = sorted(pendientes.loc[mask, "tema"].dropna().unique(), key=remove_accents)
-        selected_tema = st.selectbox(
-            label="Tema",
-            options=temas,
-            index=None,
-            placeholder="Selecciona tema",
-            disabled=selected_asignatura is None or len(temas) == 0,
-            key="tema_selector",
-        )
+        if selected_asignatura:
+            # --- Tema (solo disponible tras elegir asignatura)
+            temas = sorted(pendientes.loc[mask, "tema"].dropna().unique(), key=remove_accents)
+            selected_tema = st.selectbox(
+                label="Tema",
+                options=temas,
+                index=None,
+                placeholder="Selecciona tema",
+                disabled=selected_asignatura is None or len(temas) == 0,
+                key="tema_selector",
+            )
+        else:
+            selected_tema = None
         if selected_tema:
             mask &= pendientes.tema == selected_tema
 
-    filtros = (selected_year, selected_min_year, selected_max_year,
-               selected_asignatura, selected_tema)
+    filtros = (selected_year, selected_asignatura, selected_tema)
     return mask, filtros
 
 
@@ -383,8 +373,9 @@ def main():
     # Solo interesan los ejercicios que aún no tienen tipo asignado
     pendientes = df[df.tipo_ejercicio.isna()]
 
+     
     mask, filtros = render_filtros(pendientes)
-    selected_year, selected_min_year, _, selected_asignatura, selected_tema = filtros
+    selected_year, selected_asignatura, selected_tema = filtros
 
     filtered_df = pendientes[mask].copy()
     filtered_df["nombre_ejercicio"] = filtered_df.apply(nombre_corto, axis=1)
@@ -392,12 +383,11 @@ def main():
 
     reset_page_if_filters_changed(filtros)
 
-    with st.container(horizontal=True, vertical_alignment="center", gap="large"):
-        st.toggle(label="Usar rango de años", key="use_year_range")
-        st.button(label="Borrar filtro", on_click=borrar_filtro)
+    
+    st.button(label="Borrar filtro", on_click=borrar_filtro)
 
     # El resto de la app solo se muestra con año (o rango) y asignatura elegidos
-    if not ((selected_year or selected_min_year) and selected_asignatura):
+    if not (selected_year and selected_asignatura):
         return
 
     current_rows = render_tabla(output_df)
