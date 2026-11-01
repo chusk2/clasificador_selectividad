@@ -6,10 +6,10 @@ a los enunciados del CSV que todavía no están clasificados.
 Ejecutar desde la carpeta classifier_app (las rutas son relativas):
     streamlit run classifier.py
 """
+
 import unicodedata
 from pathlib import Path
 from urllib.parse import quote
-
 import pandas as pd
 import streamlit as st
 
@@ -17,8 +17,8 @@ import streamlit as st
 # Configuración
 # =============================================================================
 
-CSV = Path("./csv/ejercicios_a_clasificar.csv")
-TIPOS_EJERCICIOS = Path("./csv/tipos_ejercicios.csv")
+CSV_CLASSIFY = Path("./csv/ejercicios_a_clasificar.csv")
+CSV_CLASSIFIED = Path("./csv/ejercicios_clasificados.csv")
 
 EXERCISES_PER_PAGE = 5
 
@@ -119,15 +119,25 @@ def clave_orden(ordenes):
 # =============================================================================
 
 @st.cache_data
-def load_exercises():
-    return pd.read_csv(CSV, dtype={"tipo_ejercicio": "string",
-                                   "observaciones": "string"})
+def get_exercise_types(csv):
+    """Devuelve un DataFrame con los tipos de ejercicio de cada asignatura y tema."""
+    df = pd.read_csv(csv, dtype={"asignatura": "string",
+                                   "tema": "string",
+                                   "tipo_ejercicio": "string"})
+    return df[["asignatura", "tema", "tipo_ejercicio"]].drop_duplicates()
+    
 
 
 @st.cache_data
-def load_exercise_types():
-    return pd.read_csv(TIPOS_EJERCICIOS)
-
+def load_exercises_to_classify():
+    df = pd.read_csv(CSV_CLASSIFY, dtype={"tipo_ejercicio": "string",
+                                   "observaciones": "string"})
+    # inicializar las columnas tipo_ejercicio y observaciones
+    df[["tipo_ejercicio", "observaciones"]] = pd.NA
+    # convertir a string para que Streamlit no las infiera como float64 (NaN)
+    df = df.astype({"tipo_ejercicio": "string", "observaciones": "string"})
+    
+    return df
 
 # =============================================================================
 # Estado de sesión y callbacks
@@ -331,9 +341,9 @@ def render_clasificacion(df, df_tipos, filtered_df, asignatura, tema):
 def guardar_clasificacion(df, idx, tema, tipo, observaciones):
     """Escribe la clasificación en el CSV y recarga la app."""
     df.loc[idx, ["tema", "tipo_ejercicio", "observaciones"]] = [tema, tipo, observaciones]
-    df.to_csv(CSV, index=False, encoding="utf-8")
+    df.to_csv(CSV_CLASSIFY, index=False, encoding="utf-8")
     # Invalida la caché para que la próxima ejecución lea el CSV actualizado
-    load_exercises.clear()
+    load_exercises_to_classify.clear()
     # Resetea el ejercicio y las observaciones para el siguiente
     st.session_state.pop("ejercicio_selectbox", None)
     st.session_state.pop("observations_text_input", None)
@@ -356,6 +366,20 @@ def render_imagenes(current_rows, filtered_df):
                 st.warning(f"No encuentro la imagen: {img_path.name}")
 
 
+def show_exercise_to_classify_image(df, idx):
+    """Muestra la imagen del enunciado del ejercicio a clasificar (`idx` = índice de `df`)."""
+    with st.container(border=True):
+        st.subheader(df.loc[idx, "nombre_ejercicio"])
+        img_path = ruta_local(df.loc[idx, "imagen"])
+
+        if img_path is None:
+            st.info("Este ejercicio no tiene imagen de enunciado.")
+        elif img_path.exists():
+            st.image(str(img_path), width="stretch")
+        else:
+            st.warning(f"No encuentro la imagen: {img_path.name}")
+
+
 # =============================================================================
 # App
 # =============================================================================
@@ -367,8 +391,8 @@ def main():
     st.markdown(CABECERA, unsafe_allow_html=True)
     init_session_state()
 
-    df = load_exercises()
-    df_tipos = load_exercise_types()
+    df = load_exercises_to_classify()
+    df_tipos = get_exercise_types(CSV_CLASSIFIED)
 
     # Solo interesan los ejercicios que aún no tienen tipo asignado
     pendientes = df[df.tipo_ejercicio.isna()]
@@ -391,14 +415,15 @@ def main():
         return
 
     current_rows = render_tabla(output_df)
-    st.toggle("Ver enunciados", key="show_exercises")
 
     # Para clasificar hace falta haber elegido un tema en los filtros
     if selected_tema:
         render_clasificacion(df, df_tipos, filtered_df, selected_asignatura, selected_tema)
 
-    if st.session_state.get("show_exercises"):
-        render_imagenes(current_rows, filtered_df)
+        # El selectbox solo existe si hay tema elegido, y su índice debe estar en filtered_df
+        idx = st.session_state.get("ejercicio_selectbox")
+        if idx in filtered_df.index:
+            show_exercise_to_classify_image(filtered_df, idx)
 
 
 main()
