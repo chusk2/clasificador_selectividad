@@ -57,6 +57,8 @@ CABECERA = (
     "<p>Filtra por año, asignatura, tema y tipo de ejercicio, y abre la imagen del enunciado.</p></div>"
 )
 
+if "classification_saved" not in st.session_state:
+    st.session_state["classification_saved"] = False
 
 # =============================================================================
 # Funciones
@@ -296,6 +298,25 @@ def render_exercises_pager(filtered_df):
     return current_rows
 
 
+def save_classification(exercise_name, tema, tipo, observaciones):
+    """Escribe la clasificación en el CSV y recarga la app."""
+    df = pd.read_csv(CSV_TO_CLASSIFY,
+                     dtype={"tipo_ejercicio": "string", "observaciones": "string"})
+    
+    df.loc[df["ejercicio"] == exercise_name, ["tema", "tipo_ejercicio", "observaciones"]] = [tema, tipo, observaciones]
+
+    df.to_csv(CSV_TO_CLASSIFY, index=False, encoding="utf-8")
+
+    # Invalida la caché para que la próxima ejecución lea el CSV actualizado
+    load_exercises_to_classify.clear()
+
+    # Resetea el ejercicio y las observaciones para el siguiente
+    st.session_state.pop("ejercicio_selectbox", None)
+    st.session_state.pop("observations_text_input", None)
+    st.session_state.classification_saved = True
+    st.rerun()
+
+
 def render_classification_widgets(filtered_df, exercise_types, subject):
     """Formulario para asignar tema, tipo de ejercicio y observaciones a un ejercicio."""
     df_to_classify = filtered_df.copy()
@@ -308,6 +329,8 @@ def render_classification_widgets(filtered_df, exercise_types, subject):
         index=0,
         key="ejercicio_selectbox",
     )
+
+    selected_exercise = df_to_classify.loc[df_to_classify["long_exercise_name"] == selected_exercise, "ejercicio"].values[0]
 
     with st.container(horizontal=True, vertical_alignment="center", gap="small"):
 
@@ -332,52 +355,26 @@ def render_classification_widgets(filtered_df, exercise_types, subject):
                                       placeholder="añade una observación sobre el ejercicio",
                                       key="observations_text_input")
 
-        if st.button("Guardar clasificación", key="save_classification"):
+        if st.button("Guardar clasificación", key="classification_saved"):
+            
             if selected_exercise is None:
                 st.warning("No hay ejercicios pendientes de clasificar")
             elif not tipo:
                 st.warning("Indica el tipo de ejercicio")
             else:
-                pass
-                # guardar_clasificacion(df, selected_exercise, tema, tipo, observaciones)
+                save_classification(selected_exercise, tema, tipo, observaciones)
 
         # El aviso se muestra tras el rerun (si se mostrase antes, se perdería)
         if st.session_state.pop("classification_saved", False):
             st.toast("Archivo clasificado con éxito")
 
     # show exercise image
-    idx = df_to_classify[df_to_classify["long_exercise_name"] == selected_exercise].index[0]
+    idx = df_to_classify[df_to_classify["ejercicio"] == selected_exercise].index[0]
     render_exercise_image(df_to_classify, idx)
 
 
-def save_classification(df, exercise_name, tema, tipo, observaciones):
-    """Escribe la clasificación en el CSV y recarga la app."""
-    df.loc[df["nombre_ejercicio"] == exercise_name, ["tema", "tipo_ejercicio", "observaciones"]] = [tema, tipo, observaciones]
-    df.to_csv(CSV_TO_CLASSIFY, index=False, encoding="utf-8")
-
-    # Invalida la caché para que la próxima ejecución lea el CSV actualizado
-    load_exercises_to_classify.clear()
-
-    # Resetea el ejercicio y las observaciones para el siguiente
-    st.session_state.pop("ejercicio_selectbox", None)
-    st.session_state.pop("observations_text_input", None)
-    st.session_state.classification_saved = True
-    st.rerun()
 
 
-# def render_imagenes(current_rows, filtered_df):
-#     """Muestra las imágenes de los enunciados de la página actual (sin repetir)."""
-#     with st.container(border=True):
-#         for idx, row in current_rows.drop_duplicates("enunciado_img").iterrows():
-#             st.subheader(row["nombre_ejercicio"])
-#             img_path = ruta_local(filtered_df.loc[idx, "imagen"])
-
-#             if img_path is None:
-#                 st.info("Este ejercicio no tiene imagen de enunciado.")
-#             elif img_path.exists():
-#                 st.image(str(img_path), width="stretch")
-#             else:
-#                 st.warning(f"No encuentro la imagen: {img_path.name}")
 
 
 def render_exercise_image(df, idx):

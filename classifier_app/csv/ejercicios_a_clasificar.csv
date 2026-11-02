@@ -2,17 +2,17 @@ id,asignatura,asignatura_carpeta,año,convocatoria,ejercicio,tema,info_ejercicio
 fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_a1,Física,Física,2026,Junio,Ejercicio A1,campo magnético,FISICA. 2026. JUNIO. EJERCICIO a1,"Indique, razonando sus respuestas, si los siguientes enunciados son ciertos: i) si el flujo magnético
 a través de una superficie es cero entonces necesariamente el campo magnético es nulo; ii) la
 fuerza electromotriz inducida será no nula si el flujo es no nulo.",source_pdf_files/Física/campo_eléctrico_magnético/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Física/campo_eléctrico_magnético/png/png_Física_2026 - Campo eléctrico y magnético/Física_campo_eléctrico_magnético_2026_junio_ejercicio_a1_2.png,campo magnético conductor rectilíneo,verdadero o falso
-fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_a2,Física,Física,2026,Junio,Ejercicio A2,Campo eléctrico y magnético,FISICA. 2026. JUNIO. EJERCICIO a2,"Dos partículas idénticas, de carga q y masa m, están separadas una distancia d. Se mantiene fija
+fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_a2,Física,Física,2026,Junio,Ejercicio A2,campo eléctrico,FISICA. 2026. JUNIO. EJERCICIO a2,"Dos partículas idénticas, de carga q y masa m, están separadas una distancia d. Se mantiene fija
 una de las partículas y se deja que la otra se aleje por acción de la fuerza electrostática hasta
 duplicar la distancia inicial con la primera. i) Determine la expresión del módulo de la velocidad
 que adquiere la partícula en el punto final. ii) Indique como cambiaría el módulo de la velocidad
-si se duplicase el valor de las cargas.",source_pdf_files/Física/campo_eléctrico_magnético/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Física/campo_eléctrico_magnético/png/png_Física_2026 - Campo eléctrico y magnético/Física_campo_eléctrico_magnético_2026_junio_ejercicio_a2_2.png,,
-fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_b1,Física,Física,2026,Junio,Ejercicio B1,Campo eléctrico y magnético,FISICA. 2026. JUNIO. EJERCICIO b1,"En un parque eólico del estrecho de Gibraltar, un aerogenerador posee una espira circular de
+si se duplicase el valor de las cargas.",source_pdf_files/Física/campo_eléctrico_magnético/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Física/campo_eléctrico_magnético/png/png_Física_2026 - Campo eléctrico y magnético/Física_campo_eléctrico_magnético_2026_junio_ejercicio_a2_2.png,fuerza campo eléctrico,cinemática / energía para calcular velocidad
+fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_b1,Física,Física,2026,Junio,Ejercicio B1,campo eléctrico,FISICA. 2026. JUNIO. EJERCICIO b1,"En un parque eólico del estrecho de Gibraltar, un aerogenerador posee una espira circular de
 área 4 0 c m 2 que gira a 1500 rpm alrededor de un eje que pasa por su diámetro y es
 perpendicular a un campo magnético uniforme de módulo 0,25 T. La espira tiene una resistencia
 de 10 Ω. Considere que en t = 0 s el flujo es máximo. i) Determine el flujo magnético en función
 del tiempo. ii) Calcule la fuerza electromotriz y la intensidad de corriente inducida en la espira
-en función del tiempo. ¿La corriente en la espira es continua o alterna?",source_pdf_files/Física/campo_eléctrico_magnético/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Física/campo_eléctrico_magnético/png/png_Física_2026 - Campo eléctrico y magnético/Física_campo_eléctrico_magnético_2026_junio_ejercicio_b1_2.png,,
+en función del tiempo. ¿La corriente en la espira es continua o alterna?",source_pdf_files/Física/campo_eléctrico_magnético/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Física/campo_eléctrico_magnético/png/png_Física_2026 - Campo eléctrico y magnético/Física_campo_eléctrico_magnético_2026_junio_ejercicio_b1_2.png,fuerza campo eléctrico,cinemática / energía para calcular velocidad
 fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_b2,Física,Física,2026,Junio,Ejercicio B2,Campo eléctrico y magnético,FISICA. 2026. JUNIO. EJERCICIO b2,"Un electrón se lanza desde el infinito con una velocidad inicial de 1 0 7 m  s − 1 hacia una carga
 puntual de − 5  C que permanece fija. i) Determine la distancia a la carga puntual en la que se
 anula la velocidad del electrón. ii) Calcule el módulo y carácter (atractiva o repulsiva) de la
@@ -32,10 +32,10 @@ fisica_fisica_cuantica_y_nuclear_2026_junio_ejercicio_a1,Física,Física,2026,J
 la radiación monocromática incidente corresponde a luz amarilla. Razone: i) ¿qué sucede si se
 irradia el metal con luz roja? ii) ¿Y si se aumenta la intensidad de la radiación monocromática
 amarilla?",source_pdf_files/Física/física_cuántica_nuclear/2026 - Física cuántica y nuclear.pdf,enunciados_ejercicios/Física/física_cuántica_nuclear/png/png_Física_2026 - Física cuántica y nuclear/Física_física_cuántica_nuclear_2026_junio_ejercicio_a1.png,,
-fisica_fisica_cuantica_y_nuclear_2026_junio_ejercicio_a2,Física,Física,2026,Junio,Ejercicio A2,Física cuántica y nuclear,FISICA. 2026. JUNIO. EJERCICIO a2,"Un protón tiene una masa 1,9 veces mayor que la de un mesón K. Razone: i) si tuviesen la misma
+fisica_fisica_cuantica_y_nuclear_2026_junio_ejercicio_a2,Física,Física,2026,Junio,Ejercicio A2,campo eléctrico,FISICA. 2026. JUNIO. EJERCICIO a2,"Un protón tiene una masa 1,9 veces mayor que la de un mesón K. Razone: i) si tuviesen la misma
 longitud de onda asociada de De Broglie, ¿cuál de ellos tendría menor velocidad?; ii) si tuviesen
-la misma velocidad, ¿cuál de ellos tendría menor longitud de onda asociada?",source_pdf_files/Física/física_cuántica_nuclear/2026 - Física cuántica y nuclear.pdf,enunciados_ejercicios/Física/física_cuántica_nuclear/png/png_Física_2026 - Física cuántica y nuclear/Física_física_cuántica_nuclear_2026_junio_ejercicio_a2.png,,
-fisica_fisica_cuantica_y_nuclear_2026_junio_ejercicio_b1,Física,Física,2026,Junio,Ejercicio B1,Física cuántica y nuclear,FISICA. 2026. JUNIO. EJERCICIO b1,"El cátodo de una célula fotoeléctrica de cobre se ilumina simultáneamente con dos radiaciones
+la misma velocidad, ¿cuál de ellos tendría menor longitud de onda asociada?",source_pdf_files/Física/física_cuántica_nuclear/2026 - Física cuántica y nuclear.pdf,enunciados_ejercicios/Física/física_cuántica_nuclear/png/png_Física_2026 - Física cuántica y nuclear/Física_física_cuántica_nuclear_2026_junio_ejercicio_a2.png,fuerza campo eléctrico,cinemática / energía para calcular velocidad
+fisica_fisica_cuantica_y_nuclear_2026_junio_ejercicio_b1,Física,Física,2026,Junio,Ejercicio B1,campo eléctrico,FISICA. 2026. JUNIO. EJERCICIO b1,"El cátodo de una célula fotoeléctrica de cobre se ilumina simultáneamente con dos radiaciones
 monocromáticas de frecuencias f
 1
 = 9 ' 6  1 0 1 4 H z y f
@@ -46,7 +46,7 @@ velocidad máxima de los fotoelectrones emitidos por la radiación que produce d
 Razone sus respuestas.
 h=6'6310−34 Js ; e = 1 ' 6  1 0 − 1 9 C ; m
 e
-= 9 ' 1  1 0 − 3 1 k g",source_pdf_files/Física/física_cuántica_nuclear/2026 - Física cuántica y nuclear.pdf,enunciados_ejercicios/Física/física_cuántica_nuclear/png/png_Física_2026 - Física cuántica y nuclear/Física_física_cuántica_nuclear_2026_junio_ejercicio_b1.png,,
+= 9 ' 1  1 0 − 3 1 k g",source_pdf_files/Física/física_cuántica_nuclear/2026 - Física cuántica y nuclear.pdf,enunciados_ejercicios/Física/física_cuántica_nuclear/png/png_Física_2026 - Física cuántica y nuclear/Física_física_cuántica_nuclear_2026_junio_ejercicio_b1.png,fuerza campo eléctrico,cinemática / energía para calcular velocidad
 fisica_fisica_cuantica_y_nuclear_2026_junio_ejercicio_b2,Física,Física,2026,Junio,Ejercicio B2,Física cuántica y nuclear,FISICA. 2026. JUNIO. EJERCICIO b2,"Un protón y un electrón son acelerados por una diferencia de potencial de 0,075 V. i) Determine
 la energía cinética de ambas partículas. ii) Determine, razonadamente, las longitudes de onda de
 De Broglie asociadas a ambas partículas.
@@ -58,10 +58,10 @@ m
 e
 = 9 ' 1  1 0 − 3 1 k g m =1'6710−27 kg
 ; p",source_pdf_files/Física/física_cuántica_nuclear/2026 - Física cuántica y nuclear.pdf,enunciados_ejercicios/Física/física_cuántica_nuclear/png/png_Física_2026 - Física cuántica y nuclear/Física_física_cuántica_nuclear_2026_junio_ejercicio_b2.png,,
-fisica_ondas_2026_junio_ejercicio_a2,Física,Física,2026,Junio,Ejercicio A2,Ondas,FISICA. 2026. JUNIO. EJERCICIO a2,"Una onda armónica pasa de un medio a otro. La longitud de onda en el segundo medio es la
+fisica_ondas_2026_junio_ejercicio_a2,Física,Física,2026,Junio,Ejercicio A2,campo eléctrico,FISICA. 2026. JUNIO. EJERCICIO a2,"Una onda armónica pasa de un medio a otro. La longitud de onda en el segundo medio es la
 mitad del primero. Obtenga de forma justificada la relación entre: i) las velocidades de
 propagación de la onda en ambos medios; ii) la velocidad máxima de oscilación en ambos medios
-si no cambia la amplitud.",source_pdf_files/Física/movimiento_ondulatorio/2026 - Ondas.pdf,enunciados_ejercicios/Física/movimiento_ondulatorio/png/png_Física_2026 - Ondas/Física_movimiento_ondulatorio_2026_junio_ejercicio_a2.png,,
+si no cambia la amplitud.",source_pdf_files/Física/movimiento_ondulatorio/2026 - Ondas.pdf,enunciados_ejercicios/Física/movimiento_ondulatorio/png/png_Física_2026 - Ondas/Física_movimiento_ondulatorio_2026_junio_ejercicio_a2.png,fuerza campo eléctrico,cinemática / energía para calcular velocidad
 fisica_ondas_2026_junio_ejercicio_b2,Física,Física,2026,Junio,Ejercicio B2,Ondas,FISICA. 2026. JUNIO. EJERCICIO b2,"La cuerda de una guitarra vibra de acuerdo con la ecuación:
 y ( x , t ) = 0 ' 0 1  s e n ( 1 0  x ) c o s ( 2 0 0  t ) ( S .I . )
 i) Indique qué tipo de onda es. ii) Calcule la amplitud y la velocidad de propagación de las ondas
@@ -69,12 +69,12 @@ cuya superposición da lugar a dicha onda. iii) Determine la velocidad de oscila
 de la cuerda situada en el punto x = 1 0 c m . Razone su respuesta.",source_pdf_files/Física/movimiento_ondulatorio/2026 - Ondas.pdf,enunciados_ejercicios/Física/movimiento_ondulatorio/png/png_Física_2026 - Ondas/Física_movimiento_ondulatorio_2026_junio_ejercicio_b2.png,,
 fisica_optica_geometrica_2026_junio_ejercicio_a1,Física,Física,2026,Junio,Ejercicio A1,Óptica geométrica,FISICA. 2026. JUNIO. EJERCICIO a1,"Se sitúa un objeto luminoso delante de una lente divergente. Dibuje el trazado de rayos e indique
 razonadamente las características de la imagen obtenida.",source_pdf_files/Física/óptica_geométrica/2026 - Óptica geométrica.pdf,enunciados_ejercicios/Física/óptica_geométrica/png/png_Física_2026 - Óptica geométrica/Física_óptica_geométrica_2026_junio_ejercicio_a1.png,,
-fisica_optica_geometrica_2026_junio_ejercicio_b1,Física,Física,2026,Junio,Ejercicio B1,Óptica geométrica,FISICA. 2026. JUNIO. EJERCICIO b1,"Se quiere proyectar un objeto de 0,2 milímetros de altura con una lente convergente en una
+fisica_optica_geometrica_2026_junio_ejercicio_b1,Física,Física,2026,Junio,Ejercicio B1,campo eléctrico,FISICA. 2026. JUNIO. EJERCICIO b1,"Se quiere proyectar un objeto de 0,2 milímetros de altura con una lente convergente en una
 pantalla. Se coloca la pantalla a 28 cm a la derecha del objeto. Entre el objeto y la pantalla, a 3,8
 cm del objeto, se coloca la lente convergente. Realice un esquema y determine razonadamente,
 indicando el criterio de signos utilizado: i) la distancia focal de la lente necesaria para que la
 imagen del objeto se enfoque sobre la pantalla; ii) el tamaño de la imagen formada sobre la
-pantalla.",source_pdf_files/Física/óptica_geométrica/2026 - Óptica geométrica.pdf,enunciados_ejercicios/Física/óptica_geométrica/png/png_Física_2026 - Óptica geométrica/Física_óptica_geométrica_2026_junio_ejercicio_b1.png,,
+pantalla.",source_pdf_files/Física/óptica_geométrica/2026 - Óptica geométrica.pdf,enunciados_ejercicios/Física/óptica_geométrica/png/png_Física_2026 - Óptica geométrica/Física_óptica_geométrica_2026_junio_ejercicio_b1.png,fuerza campo eléctrico,cinemática / energía para calcular velocidad
 mates_ccss_distribucion_binomial_2026_julio_ejercicio_4,Mates CCSS,Mates CCSS,2026,Julio,Ejercicio 4,Distribución binomial,SOCIALES II. 2026 JULIO. EJERCICIO 4,"Sean A y B dos sucesos asociados a un mismo experimento aleatorio de los que se sabe que:
 p ( A  B c ) = 0 ' 3 p ( A c ) = 0 ' 3 5 p ( B ) = 0 ' 5 5
 a) Calcule la probabilidad de que:
