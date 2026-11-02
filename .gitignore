@@ -17,5 +17,5 @@ __MACOSX/
 .Rhistory
 enunciados_ejercicios
 .streamlit/
-remote/
+#remote/
 static/
