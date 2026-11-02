@@ -225,7 +225,7 @@ def render_filters(remaining_to_classify_df):  # ejercicios pendientes de clasif
     return mask, filters
 
 
-def prettify_filtered_df(filtered_df):
+
     """Tabla a mostrar: columnas útiles + enlaces, ordenada por año y convocatoria."""
     return pd.DataFrame({
         "año": filtered_df["año"],
@@ -298,13 +298,17 @@ def render_exercises_pager(filtered_df):
     return current_rows
 
 
-def save_classification(exercise_name, tema, tipo, observaciones):
+def save_classification(exercise_name, tema, tipos, observaciones):
     """Escribe la clasificación en el CSV y recarga la app."""
     df = pd.read_csv(CSV_TO_CLASSIFY,
                      dtype={"tipo_ejercicio": "string", "observaciones": "string"})
-    
-    df.loc[df["ejercicio"] == exercise_name, ["tema", "tipo_ejercicio", "observaciones"]] = [tema, tipo, observaciones]
 
+    # asignar los valores a las filas del ejercicio (puede haber varios tipos de ejercicio)
+    df.loc[df["ejercicio"] == exercise_name, ["tema", "tipo_ejercicio", "observaciones"]] = [tema, tipos, observaciones]
+
+    if len(tipos) > 1:
+        df = df.explode("tipo_ejercicio", ignore_index=True)
+    
     df.to_csv(CSV_TO_CLASSIFY, index=False, encoding="utf-8")
 
     # Invalida la caché para que la próxima ejecución lea el CSV actualizado
@@ -344,7 +348,7 @@ def render_classification_widgets(filtered_df, exercise_types, subject):
         tipos = exercise_types.loc[(exercise_types.asignatura == subject) &
                                    (exercise_types.tema == tema.lower()), "tipo_ejercicio"].to_list()
         if len(tipos) > 0:
-            tipo = st.selectbox(label="Tipo de ejercicio", options=tipos, index=0,
+            tipo = st.multiselect(label="Tipo de ejercicio", options=tipos, default=tipos[0],
                                 key="tipo_selectbox")
         else:
             tipo = st.text_input(label="Nuevo tipo ejercicio",
@@ -416,9 +420,6 @@ def main():
 
     # filter the dataframe with the selected options
     filtered_df = remaining_exercises_to_classify[mask].copy()
-
-    # prettify the filtered dataframe to show in the table
-    pretty_filtered_df = prettify_filtered_df(filtered_df)
 
     reset_page_if_filters_changed(filters=filters)
 
