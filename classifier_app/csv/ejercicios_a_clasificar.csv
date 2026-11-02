@@ -1,37 +1,37 @@
 id,asignatura,año,convocatoria,ejercicio,tema,info_ejercicio,enunciado,archivo,imagen,tipo_ejercicio,observaciones
-fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_a1,Física,2026,Junio,Ejercicio A1,inducción magnética,FISICA. 2026. JUNIO. EJERCICIO a1,"Indique, razonando sus respuestas, si los siguientes enunciados son ciertos: i) si el flujo magnético
+fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_a1,Física,2026,Junio,Ejercicio A1,Campo eléctrico y magnético,FISICA. 2026. JUNIO. EJERCICIO a1,"Indique, razonando sus respuestas, si los siguientes enunciados son ciertos: i) si el flujo magnético
 a través de una superficie es cero entonces necesariamente el campo magnético es nulo; ii) la
-fuerza electromotriz inducida será no nula si el flujo es no nulo.",source_pdf_files/Fisica/campo_electrico_magnetico/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Fisica/campo_electrico_magnetico/png/png_Fisica_2026 - Campo eléctrico y magnético/Física_campo_electrico_magnetico_2026_junio_ejercicio_a1_2.png,Verdadero o falso,
-fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_a2,Física,2026,Junio,Ejercicio A2,campo eléctrico,FISICA. 2026. JUNIO. EJERCICIO a2,"Dos partículas idénticas, de carga q y masa m, están separadas una distancia d. Se mantiene fija
+fuerza electromotriz inducida será no nula si el flujo es no nulo.",source_pdf_files/Fisica/campo_electrico_magnetico/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Fisica/campo_electrico_magnetico/png/png_Fisica_2026 - Campo eléctrico y magnético/Física_campo_electrico_magnetico_2026_junio_ejercicio_a1_2.png,,
+fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_a2,Física,2026,Junio,Ejercicio A2,Campo eléctrico y magnético,FISICA. 2026. JUNIO. EJERCICIO a2,"Dos partículas idénticas, de carga q y masa m, están separadas una distancia d. Se mantiene fija
 una de las partículas y se deja que la otra se aleje por acción de la fuerza electrostática hasta
 duplicar la distancia inicial con la primera. i) Determine la expresión del módulo de la velocidad
 que adquiere la partícula en el punto final. ii) Indique como cambiaría el módulo de la velocidad
-si se duplicase el valor de las cargas.",source_pdf_files/Fisica/campo_electrico_magnetico/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Fisica/campo_electrico_magnetico/png/png_Fisica_2026 - Campo eléctrico y magnético/Física_campo_electrico_magnetico_2026_junio_ejercicio_a2_2.png,fuerza campo eléctrico,velocidad cinemática / energía
-fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_b1,Física,2026,Junio,Ejercicio B1,inducción magnética,FISICA. 2026. JUNIO. EJERCICIO b1,"En un parque eólico del estrecho de Gibraltar, un aerogenerador posee una espira circular de
+si se duplicase el valor de las cargas.",source_pdf_files/Fisica/campo_electrico_magnetico/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Fisica/campo_electrico_magnetico/png/png_Fisica_2026 - Campo eléctrico y magnético/Física_campo_electrico_magnetico_2026_junio_ejercicio_a2_2.png,,
+fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_b1,Física,2026,Junio,Ejercicio B1,Campo eléctrico y magnético,FISICA. 2026. JUNIO. EJERCICIO b1,"En un parque eólico del estrecho de Gibraltar, un aerogenerador posee una espira circular de
 área 4 0 c m 2 que gira a 1500 rpm alrededor de un eje que pasa por su diámetro y es
 perpendicular a un campo magnético uniforme de módulo 0,25 T. La espira tiene una resistencia
 de 10 Ω. Considere que en t = 0 s el flujo es máximo. i) Determine el flujo magnético en función
 del tiempo. ii) Calcule la fuerza electromotriz y la intensidad de corriente inducida en la espira
-en función del tiempo. ¿La corriente en la espira es continua o alterna?",source_pdf_files/Fisica/campo_electrico_magnetico/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Fisica/campo_electrico_magnetico/png/png_Fisica_2026 - Campo eléctrico y magnético/Física_campo_electrico_magnetico_2026_junio_ejercicio_b1_2.png,flujo magnético ángulo varía tiempo,Ley de Ohm
-fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_b2,Física,2026,Junio,Ejercicio B2,campo eléctrico,FISICA. 2026. JUNIO. EJERCICIO b2,"Un electrón se lanza desde el infinito con una velocidad inicial de 1 0 7 m  s − 1 hacia una carga
+en función del tiempo. ¿La corriente en la espira es continua o alterna?",source_pdf_files/Fisica/campo_electrico_magnetico/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Fisica/campo_electrico_magnetico/png/png_Fisica_2026 - Campo eléctrico y magnético/Física_campo_electrico_magnetico_2026_junio_ejercicio_b1_2.png,,
+fisica_campo_electrico_y_magnetico_2026_junio_ejercicio_b2,Física,2026,Junio,Ejercicio B2,Campo eléctrico y magnético,FISICA. 2026. JUNIO. EJERCICIO b2,"Un electrón se lanza desde el infinito con una velocidad inicial de 1 0 7 m  s − 1 hacia una carga
 puntual de − 5  C que permanece fija. i) Determine la distancia a la carga puntual en la que se
 anula la velocidad del electrón. ii) Calcule el módulo y carácter (atractiva o repulsiva) de la
 fuerza a esa distancia.
 K =9109 Nm2C−2 ; e = 1 ' 6  1 0 − 1 9 C ; m =9'110−31 kg
-e",source_pdf_files/Fisica/campo_electrico_magnetico/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Fisica/campo_electrico_magnetico/png/png_Fisica_2026 - Campo eléctrico y magnético/Física_campo_electrico_magnetico_2026_junio_ejercicio_b2_2.png,potencial eléctrico,balance energía mecánica
-fisica_campo_gravitatorio_2026_junio_ejercicio_a,Física,2026,Junio,Ejercicio A,campo gravitatorio,FISICA. 2026. JUNIO. EJERCICIO a,"Razone la veracidad de las siguientes afirmaciones: i) para que la energía mecánica se conserve
+e",source_pdf_files/Fisica/campo_electrico_magnetico/2026 - Campo eléctrico y magnético.pdf,enunciados_ejercicios/Fisica/campo_electrico_magnetico/png/png_Fisica_2026 - Campo eléctrico y magnético/Física_campo_electrico_magnetico_2026_junio_ejercicio_b2_2.png,,
+fisica_campo_gravitatorio_2026_junio_ejercicio_a,Física,2026,Junio,Ejercicio A,Campo gravitatorio,FISICA. 2026. JUNIO. EJERCICIO a,"Razone la veracidad de las siguientes afirmaciones: i) para que la energía mecánica se conserve
 es necesario que la resultante de todas las fuerzas que actúan sobre un cuerpo sea nula; ii) la
-energía mecánica se conserva cuando sobre un cuerpo actúan solo fuerzas conservativas.",source_pdf_files/Fisica/campo_gravitatorio/2026 - Campo gravitatorio.pdf,enunciados_ejercicios/Fisica/campo_gravitatorio/png/png_Fisica_2026 - Campo gravitatorio/Física_campo_gravitatorio_2026_junio_ejercicio_a_2.png,teorema conservación energía mecánica,
+energía mecánica se conserva cuando sobre un cuerpo actúan solo fuerzas conservativas.",source_pdf_files/Fisica/campo_gravitatorio/2026 - Campo gravitatorio.pdf,enunciados_ejercicios/Fisica/campo_gravitatorio/png/png_Fisica_2026 - Campo gravitatorio/Física_campo_gravitatorio_2026_junio_ejercicio_a_2.png,,
 fisica_campo_gravitatorio_2026_junio_ejercicio_b,Física,2026,Junio,Ejercicio B,Campo gravitatorio,FISICA. 2026. JUNIO. EJERCICIO b,"Un niño de 15 kg resbala desde el reposo a lo largo de un tobogán de 2 m de altura cuya inclinación
 con respecto a la horizontal es de 30º. Sabiendo que el coeficiente de rozamiento dinámico es 0,25:
 i) realice un esquema con las fuerzas que actúan sobre el niño y determine el trabajo de la fuerza
 de rozamiento. ii) Calcule la energía cinética del niño al final del tobogán y la velocidad con la que
 llega. Responda razonadamente.
 g =9'8 ms−2",source_pdf_files/Fisica/campo_gravitatorio/2026 - Campo gravitatorio.pdf,enunciados_ejercicios/Fisica/campo_gravitatorio/png/png_Fisica_2026 - Campo gravitatorio/Física_campo_gravitatorio_2026_junio_ejercicio_b_2.png,,
-fisica_fisica_cuantica_y_nuclear_2026_junio_ejercicio_a1,Física,2026,Junio,Ejercicio A1,inducción magnética,FISICA. 2026. JUNIO. EJERCICIO a1,"Se produce emisión de fotoelectrones en una superficie metálica cuando la frecuencia mínima de
+fisica_fisica_cuantica_y_nuclear_2026_junio_ejercicio_a1,Física,2026,Junio,Ejercicio A1,Física cuántica y nuclear,FISICA. 2026. JUNIO. EJERCICIO a1,"Se produce emisión de fotoelectrones en una superficie metálica cuando la frecuencia mínima de
 la radiación monocromática incidente corresponde a luz amarilla. Razone: i) ¿qué sucede si se
 irradia el metal con luz roja? ii) ¿Y si se aumenta la intensidad de la radiación monocromática
-amarilla?",source_pdf_files/Fisica/fisica_cuantica_nuclear/2026 - Física cuántica y nuclear.pdf,enunciados_ejercicios/Fisica/fisica_cuantica_nuclear/png/png_Fisica_2026 - Física cuántica y nuclear/Física_fisica_cuantica_nuclear_2026_junio_ejercicio_a1_2.png,Verdadero o falso,
+amarilla?",source_pdf_files/Fisica/fisica_cuantica_nuclear/2026 - Física cuántica y nuclear.pdf,enunciados_ejercicios/Fisica/fisica_cuantica_nuclear/png/png_Fisica_2026 - Física cuántica y nuclear/Física_fisica_cuantica_nuclear_2026_junio_ejercicio_a1_2.png,,
 fisica_fisica_cuantica_y_nuclear_2026_junio_ejercicio_a2,Física,2026,Junio,Ejercicio A2,Física cuántica y nuclear,FISICA. 2026. JUNIO. EJERCICIO a2,"Un protón tiene una masa 1,9 veces mayor que la de un mesón K. Razone: i) si tuviesen la misma
 longitud de onda asociada de De Broglie, ¿cuál de ellos tendría menor velocidad?; ii) si tuviesen
 la misma velocidad, ¿cuál de ellos tendría menor longitud de onda asociada?",source_pdf_files/Fisica/fisica_cuantica_nuclear/2026 - Física cuántica y nuclear.pdf,enunciados_ejercicios/Fisica/fisica_cuantica_nuclear/png/png_Fisica_2026 - Física cuántica y nuclear/Física_fisica_cuantica_nuclear_2026_junio_ejercicio_a2_2.png,,
@@ -67,8 +67,8 @@ y ( x , t ) = 0 ' 0 1  s e n ( 1 0  x ) c o s ( 2 0 0  t ) ( S .I . )
 i) Indique qué tipo de onda es. ii) Calcule la amplitud y la velocidad de propagación de las ondas
 cuya superposición da lugar a dicha onda. iii) Determine la velocidad de oscilación de un punto
 de la cuerda situada en el punto x = 1 0 c m . Razone su respuesta.",source_pdf_files/Fisica/movimiento_ondulatorio/2026 - Ondas.pdf,enunciados_ejercicios/Fisica/movimiento_ondulatorio/png/png_Fisica_2026 - Ondas/Física_movimiento_ondulatorio_2026_junio_ejercicio_b2_2.png,,
-fisica_optica_geometrica_2026_junio_ejercicio_a1,Física,2026,Junio,Ejercicio A1,inducción magnética,FISICA. 2026. JUNIO. EJERCICIO a1,"Se sitúa un objeto luminoso delante de una lente divergente. Dibuje el trazado de rayos e indique
-razonadamente las características de la imagen obtenida.",source_pdf_files/Fisica/optica_geometrica/2026 - Óptica geométrica.pdf,enunciados_ejercicios/Fisica/optica_geometrica/png/png_Fisica_2026 - Óptica geométrica/Física_optica_geometrica_2026_junio_ejercicio_a1_2.png,Verdadero o falso,
+fisica_optica_geometrica_2026_junio_ejercicio_a1,Física,2026,Junio,Ejercicio A1,Óptica geométrica,FISICA. 2026. JUNIO. EJERCICIO a1,"Se sitúa un objeto luminoso delante de una lente divergente. Dibuje el trazado de rayos e indique
+razonadamente las características de la imagen obtenida.",source_pdf_files/Fisica/optica_geometrica/2026 - Óptica geométrica.pdf,enunciados_ejercicios/Fisica/optica_geometrica/png/png_Fisica_2026 - Óptica geométrica/Física_optica_geometrica_2026_junio_ejercicio_a1_2.png,,
 fisica_optica_geometrica_2026_junio_ejercicio_b1,Física,2026,Junio,Ejercicio B1,Óptica geométrica,FISICA. 2026. JUNIO. EJERCICIO b1,"Se quiere proyectar un objeto de 0,2 milímetros de altura con una lente convergente en una
 pantalla. Se coloca la pantalla a 28 cm a la derecha del objeto. Entre el objeto y la pantalla, a 3,8
 cm del objeto, se coloca la lente convergente. Realice un esquema y determine razonadamente,
@@ -476,13 +476,13 @@ mates_ii_distribucion_normal_y_binomial_2026_reserva_4_ejercicio_4_2,Mates II,20
 de media 172 cm y desviación típica 7 cm.
 a) Calcula la probabilidad de que un alumno elegido al azar mida entre 168 y 180 cm.
 b) ¿Cuánto mide al menos un alumno que está en el grupo del 5% de alumnos más altos?",source_pdf_files/Mates II/distribucion_normal_binomial/2026 - Distribucion normal y binomial.pdf,enunciados_ejercicios/Mates II/distribucion_normal_binomial/png/png_Mates II_2026 - Distribucion normal y binomial/asignatura_desconocida_distribucion_normal_binomial_2026_reserva_4_ejercicio_4_2_2.png,,
-mates_ii_funciones_2026_julio_ejercicio_2,Mates II,2026,Julio,Ejercicio 2,Funciones,MATEMÁTICAS II. 2026. JULIO. EJERCICIO 2,"S e sabe que la función f : → definida por f ( x ) = x 3 + a x 2 + b x + c , verifica que: f ( 1 ) = 0 ,
+mates_ii_funciones_2026_julio_ejercicio_2,Mates II,2026,Julio,Ejercicio 2,funciones,MATEMÁTICAS II. 2026. JULIO. EJERCICIO 2,"S e sabe que la función f : → definida por f ( x ) = x 3 + a x 2 + b x + c , verifica que: f ( 1 ) = 0 ,
 x = 0 es un punto crítico de la función y la recta tangente a su gráfica en x = − 1 , es paralela a la
-recta de ecuación y + 3 x = 0",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_julio_ejercicio_2_2.png,,
-mates_ii_funciones_2026_junio_ejercicio_1,Mates II,2026,Junio,Ejercicio 1,Funciones,MATEMÁTICAS II. 2026. JUNIO. EJERCICIO 1,"Una ventana tiene forma de rectángulo y está coronada por un semicírculo. Sabiendo que el
+recta de ecuación y + 3 x = 0",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_julio_ejercicio_2_2.png,"calcular coeficientes, rectas tangente y normal",coeficientes con recta tangente
+mates_ii_funciones_2026_junio_ejercicio_1,Mates II,2026,Junio,Ejercicio 1,funciones,MATEMÁTICAS II. 2026. JUNIO. EJERCICIO 1,"Una ventana tiene forma de rectángulo y está coronada por un semicírculo. Sabiendo que el
 perímetro de la ventana mide 8 metros, halla las dimensiones de la ventana que permitan la
-mayor entrada de luz.",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_junio_ejercicio_1_3.png,,
-mates_ii_funciones_2026_reserva_1_ejercicio_1,Mates II,2026,Reserva 1,Ejercicio 1,Funciones,MATEMÁTICAS II. 2026. RESERVA 1. EJERCICIO 1,"La potencia de perdida P ( t ) (en vatios) en una máquina, debido a la fricción, depende del tiempo
+mayor entrada de luz.",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_junio_ejercicio_1_3.png,optimización,ventana veneciana
+mates_ii_funciones_2026_reserva_1_ejercicio_1,Mates II,2026,Reserva 1,Ejercicio 1,funciones,MATEMÁTICAS II. 2026. RESERVA 1. EJERCICIO 1,"La potencia de perdida P ( t ) (en vatios) en una máquina, debido a la fricción, depende del tiempo
 de uso t (en años) según la función P ( t ) =
 1
 4
@@ -496,17 +496,17 @@ b) La energía total perdida en los t primeros años viene dada por la expresió
 0
 t
 P ( x ) d x
-(vatios por año). Calcula la energía total perdida en los tres primeros años.",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_1_ejercicio_1_2.png,,
-mates_ii_funciones_2026_reserva_1_ejercicio_4_1,Mates II,2026,Reserva 1,"Ejercicio 4,1",Funciones,MATEMÁTICAS II. 2026. RESERVA 1. EJERCICIO 4.1,"e−ax −(1−ax)cos(2x)
+(vatios por año). Calcula la energía total perdida en los tres primeros años.",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_1_ejercicio_1_2.png,integrales,teorema fundamental del cálculo
+mates_ii_funciones_2026_reserva_1_ejercicio_4_1,Mates II,2026,Reserva 1,"Ejercicio 4,1",funciones,MATEMÁTICAS II. 2026. RESERVA 1. EJERCICIO 4.1,"e−ax −(1−ax)cos(2x)
 Determina para que valores de a el límite lim vale 6.
 x→0
-x2",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_1_ejercicio_4_1_2.png,,
-mates_ii_funciones_2026_reserva_2_ejercicio_1,Mates II,2026,Reserva 2,Ejercicio 1,Funciones,MATEMÁTICAS II. 2026. RESERVA 2. EJERCICIO 1,"L a producción de gas en una refinería, medida en metros cúbicos, viene dada por la función
+x2",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_1_ejercicio_4_1_2.png,L'Hopital,
+mates_ii_funciones_2026_reserva_2_ejercicio_1,Mates II,2026,Reserva 2,Ejercicio 1,funciones,MATEMÁTICAS II. 2026. RESERVA 2. EJERCICIO 1,"L a producción de gas en una refinería, medida en metros cúbicos, viene dada por la función
 f(t)=7+e−(t−4)2 , donde t representa el tiempo medido en segundos.
 a) Razona que la producción de gas varia siempre entre 7 y 8 metros cúbicos. ¿Se producen 7
 metros cúbicos de gas en algún momento concreto?
-b) Justifica que la producción de gas se estabiliza con el paso del tiempo.",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_2_ejercicio_1_2.png,,
-mates_ii_funciones_2026_reserva_2_ejercicio_3_1,Mates II,2026,Reserva 2,"Ejercicio 3,1",Funciones,MATEMÁTICAS II. 2026. RESERVA 2. EJERCICIO 3.1,"Se sabe que la función f : → dada por f ( x ) =
+b) Justifica que la producción de gas se estabiliza con el paso del tiempo.",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_2_ejercicio_1_2.png,"asíntotas, monotonía",
+mates_ii_funciones_2026_reserva_2_ejercicio_3_1,Mates II,2026,Reserva 2,"Ejercicio 3,1",funciones,MATEMÁTICAS II. 2026. RESERVA 2. EJERCICIO 3.1,"Se sabe que la función f : → dada por f ( x ) =
 
 2
 a x
@@ -531,12 +531,12 @@ x
 es derivable en x =
 1
 2
-. Determina a y b.",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_2_ejercicio_3_1_2.png,,
-mates_ii_funciones_2026_reserva_3_ejercicio_1,Mates II,2026,Reserva 3,Ejercicio 1,Funciones,MATEMÁTICAS II. 2026. RESERVA 3. EJERCICIO 1,"En un jardín botánico se desea crear un recinto floral con forma de triángulo rectángulo. Por la
+. Determina a y b.",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_2_ejercicio_3_1_2.png,coeficientes continuidad / derivabilidad,
+mates_ii_funciones_2026_reserva_3_ejercicio_1,Mates II,2026,Reserva 3,Ejercicio 1,funciones,MATEMÁTICAS II. 2026. RESERVA 3. EJERCICIO 1,"En un jardín botánico se desea crear un recinto floral con forma de triángulo rectángulo. Por la
 disposición del recinto y las características del terreno, la hipotenusa ha de medir 20 metros.
 ¿Qué longitudes han de tener los catetos del triángulo rectángulo para que su área sea lo mayor
-posible y cuál es el valor de esta área?",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_3_ejercicio_1_2.png,,
-mates_ii_funciones_2026_reserva_3_ejercicio_3_1,Mates II,2026,Reserva 3,"Ejercicio 3,1",Funciones,MATEMÁTICAS II. 2026. RESERVA 3. EJERCICIO 3.1,"Calcula el siguiente límite lx i m→
+posible y cuál es el valor de esta área?",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_3_ejercicio_1_2.png,optimización,triángulo
+mates_ii_funciones_2026_reserva_3_ejercicio_3_1,Mates II,2026,Reserva 3,"Ejercicio 3,1",funciones,MATEMÁTICAS II. 2026. RESERVA 3. EJERCICIO 3.1,"Calcula el siguiente límite lx i m→
 0
 x 2
 1
@@ -553,11 +553,11 @@ s
 x
 x )
 2 )
-.",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_3_ejercicio_3_1_2.png,,
-mates_ii_funciones_2026_reserva_4_ejercicio_1,Mates II,2026,Reserva 4,Ejercicio 1,Funciones,MATEMÁTICAS II. 2026. RESERVA 4. EJERCICIO 1,"Un jardinero quiere vallar un campo rectangular que tiene un lado junto a un camino. La valla
+.",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_3_ejercicio_3_1_2.png,L'Hopital,L'Hôpital simple
+mates_ii_funciones_2026_reserva_4_ejercicio_1,Mates II,2026,Reserva 4,Ejercicio 1,funciones,MATEMÁTICAS II. 2026. RESERVA 4. EJERCICIO 1,"Un jardinero quiere vallar un campo rectangular que tiene un lado junto a un camino. La valla
 del lado del camino cuesta 80 euros por metro y el precio de la valla de los tres lados restantes es
 de 10 euros por metro. Halla las dimensiones del campo de mayor área que puede cercarse con
-28800 euros. ¿Qué área tiene el campo?",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_4_ejercicio_1_2.png,,
+28800 euros. ¿Qué área tiene el campo?",source_pdf_files/Mates II/funciones/2026 - Funciones.pdf,enunciados_ejercicios/Mates II/funciones/png/png_Mates II_2026 - Funciones/asignatura_desconocida_funciones_2026_reserva_4_ejercicio_1_2.png,optimización,parcela rectangular
 mates_ii_geometria_2026_julio_ejercicio_4_1,Mates II,2026,Julio,"Ejercicio 4,1",Geometría,MATEMÁTICAS II. 2026. JULIO. EJERCICIO 4.1,"Considera la recta r 
  x
 y
@@ -870,36 +870,36 @@ z
 = 1 5
 a) Clasifícalo y resuélvelo, si es posible.
 b) ¿Existe alguna solución del sistema que verifique y + z + 2 = 0 ? Razona la respuesta.",source_pdf_files/Mates II/sistemas_de_ecuaciones_lineales/2026 - Sistemas De Ecuaciones Lineales.pdf,enunciados_ejercicios/Mates II/sistemas_de_ecuaciones_lineales/png/png_Mates II_2026 - Sistemas De Ecuaciones Lineales/asignatura_desconocida_sistemas_de_ecuaciones_lineales_2026_reserva_4_ejercicio_4_1_2.png,,
-quimica_configuracion_electronica_2026_julio_ejercicio_1a,Química,2026,Julio,Ejercicio 1A,Configuración electrónica,QUÍMICA. 2026. JULIO EJERCICIO 1A,"Razone si son verdaderas o falsas las siguientes afirmaciones:
+quimica_configuracion_electronica_2026_julio_ejercicio_1a,Química,2026,Julio,Ejercicio 1A,configuración electrónica,QUÍMICA. 2026. JULIO EJERCICIO 1A,"Razone si son verdaderas o falsas las siguientes afirmaciones:
 a) En un orbital 2p solo puede haber dos electrones.
 b) Si en los orbitales 3d se colocan 6 electrones no hay ninguno desapareado.
 c) El número máximo de electrones con la combinación de los números cuánticos n = 4 y n = 4
 es 6.
-d) Una posible combinación de números cuánticos para un orbital 2p sería ( 2 , 1 , 0 ) .",source_pdf_files/Quimica/configuracion_electronica/2026 - Conf. Electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - Conf. Electrónica/Química_configuracion_electronica_2026_julio_ejercicio_1a_2.png,,
-quimica_configuracion_electronica_2026_julio_ejercicio_1b,Química,2026,Julio,Ejercicio 1B,Configuración electrónica,QUÍMICA. 2026. JULIO. EJERCICIO 1B,"Conteste a las siguientes cuestiones:
+d) Una posible combinación de números cuánticos para un orbital 2p sería ( 2 , 1 , 0 ) .",source_pdf_files/Quimica/configuracion_electronica/2026 - configuración_electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - configuración_electrónica/Química_configuracion_electronica_2026_julio_ejercicio_1a_2.png,"verdadero o falso, números cuánticos",
+quimica_configuracion_electronica_2026_julio_ejercicio_1b,Química,2026,Julio,Ejercicio 1B,configuración electrónica,QUÍMICA. 2026. JULIO. EJERCICIO 1B,"Conteste a las siguientes cuestiones:
 a) Razone qué especie tiene un radio mayor: C l − o K +
 b) Razone qué elemento del periodo 3 tiene menor energía de ionización.
 c) ¿Por qué la primera energía de ionización del Be es mayor que la del Ca?
-d) ¿Por qué el litio no tiene 4ª energía de ionización?",source_pdf_files/Quimica/configuracion_electronica/2026 - Conf. Electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - Conf. Electrónica/Química_configuracion_electronica_2026_julio_ejercicio_1b_2.png,,
-quimica_configuracion_electronica_2026_junio_ejercicio_1a,Química,2026,Junio,Ejercicio 1A,Configuración electrónica,QUÍMICA. 2026. JUNIO EJERCICIO 1A,"Consideres los elementos cuyos números atómicos son 11 y 16. Conteste a las siguientes
+d) ¿Por qué el litio no tiene 4ª energía de ionización?",source_pdf_files/Quimica/configuracion_electronica/2026 - configuración_electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - configuración_electrónica/Química_configuracion_electronica_2026_julio_ejercicio_1b_2.png,"propiedades periódicas, comparación energías de ionización, radio, composición atómica",radio especies isoelectrónicas
+quimica_configuracion_electronica_2026_junio_ejercicio_1a,Química,2026,Junio,Ejercicio 1A,configuración electrónica,QUÍMICA. 2026. JUNIO EJERCICIO 1A,"Consideres los elementos cuyos números atómicos son 11 y 16. Conteste a las siguientes
 cuestiones:
 a) Escriba sus configuraciones electrónicas.
 b) Basándose en la configuración electrónica, explique el grupo y periodo donde se encuentra
 cada elemento.
 c) Justifique qué elemento tiene mayor radio atómico.
-d) Razone cuál es el ion más estable que forma cada elemento.",source_pdf_files/Quimica/configuracion_electronica/2026 - Conf. Electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - Conf. Electrónica/Química_configuracion_electronica_2026_junio_ejercicio_1a_2.png,,
-quimica_configuracion_electronica_2026_reserva_1_ejercicio_1a,Química,2026,Reserva 1,Ejercicio 1A,Configuración electrónica,QUÍMICA. 2026. RESERVA 1 EJERCICIO 1A,"Dados los siguientes átomos 31 57 X e 31 58 Y , conteste de forma razonada:
+d) Razone cuál es el ion más estable que forma cada elemento.",source_pdf_files/Quimica/configuracion_electronica/2026 - configuración_electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - configuración_electrónica/Química_configuracion_electronica_2026_junio_ejercicio_1a_2.png,"situar elementos en tabla periódica (grupo y período), radio, ion más estable",
+quimica_configuracion_electronica_2026_reserva_1_ejercicio_1a,Química,2026,Reserva 1,Ejercicio 1A,configuración electrónica,QUÍMICA. 2026. RESERVA 1 EJERCICIO 1A,"Dados los siguientes átomos 31 57 X e 31 58 Y , conteste de forma razonada:
 a) ¿Cuántos protones y electrones tiene cada uno?
 b) ¿Cuál es el número de neutrones de cada uno?
 c) ¿A qué periodo y grupo pertenece cada elemento?
-d) ¿Son isótopos?",source_pdf_files/Quimica/configuracion_electronica/2026 - Conf. Electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - Conf. Electrónica/Química_configuracion_electronica_2026_reserva_1_ejercicio_1a_2.png,,
-quimica_configuracion_electronica_2026_reserva_2_ejercicio_1a,Química,2026,Reserva 2,Ejercicio 1A,Configuración electrónica,QUÍMICA. 2026. RESERVA 2. EJERCICIO 1A,"Los átomos A, B, C, D y E tienen 2, 9, 11, 17 y 21 protones, respectivamente. Justifique, mediante
+d) ¿Son isótopos?",source_pdf_files/Quimica/configuracion_electronica/2026 - configuración_electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - configuración_electrónica/Química_configuracion_electronica_2026_reserva_1_ejercicio_1a_2.png,"situar elementos en tabla periódica (grupo y período), composición atómica",isótopos
+quimica_configuracion_electronica_2026_reserva_2_ejercicio_1a,Química,2026,Reserva 2,Ejercicio 1A,configuración electrónica,QUÍMICA. 2026. RESERVA 2. EJERCICIO 1A,"Los átomos A, B, C, D y E tienen 2, 9, 11, 17 y 21 protones, respectivamente. Justifique, mediante
 su configuración electrónica, el elemento que:
 a) Es un gas noble.
 b) No siendo un gas noble, tiene mayor energía de ionización.
 c) Pertenece al grupo 1.
-d) Es un metal de transición.",source_pdf_files/Quimica/configuracion_electronica/2026 - Conf. Electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - Conf. Electrónica/Química_configuracion_electronica_2026_reserva_2_ejercicio_1a_2.png,,
-quimica_configuracion_electronica_2026_reserva_3_ejercicio_1a,Química,2026,Reserva 3,Ejercicio 1A,Configuración electrónica,QUIMICA. 2026. RESERVA 3. EJERCICIO 1A,"a) Razone si son posibles las siguientes combinaciones de números cuánticos:
+d) Es un metal de transición.",source_pdf_files/Quimica/configuracion_electronica/2026 - configuración_electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - configuración_electrónica/Química_configuracion_electronica_2026_reserva_2_ejercicio_1a_2.png,situar elementos en tabla periódica (grupo y período),trampa He 1s1
+quimica_configuracion_electronica_2026_reserva_3_ejercicio_1a,Química,2026,Reserva 3,Ejercicio 1A,configuración electrónica,QUIMICA. 2026. RESERVA 3. EJERCICIO 1A,"a) Razone si son posibles las siguientes combinaciones de números cuánticos:
  1  1
 3,2,1,− , 1,1,0,+
    
@@ -907,17 +907,17 @@ quimica_configuracion_electronica_2026_reserva_3_ejercicio_1a,Química,2026,Rese
 b) Justifique cuál de los siguientes orbitales es más energético: 5d o 4s.
 c) Escriba una posible combinación de números cuánticos para un electrón situado en un orbital
 3d.
-d) Explique si las especies K + y Ar son isoelectr ónicas",source_pdf_files/Quimica/configuracion_electronica/2026 - Conf. Electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - Conf. Electrónica/Química_configuracion_electronica_2026_reserva_3_ejercicio_1a_2.png,,
-quimica_configuracion_electronica_2026_reserva_3_ejercicio_1b,Química,2026,Reserva 3,Ejercicio 1B,Configuración electrónica,QUÍMICA. 2026. RESERVA 3. EJERCICIO 1B,"Razone si las siguientes afirmaciones son verdaderas o falsas:
+d) Explique si las especies K + y Ar son isoelectr ónicas",source_pdf_files/Quimica/configuracion_electronica/2026 - configuración_electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - configuración_electrónica/Química_configuracion_electronica_2026_reserva_3_ejercicio_1a_2.png,"combinaciones de números cuánticos, ordenar energía orbitales",
+quimica_configuracion_electronica_2026_reserva_3_ejercicio_1b,Química,2026,Reserva 3,Ejercicio 1B,configuración electrónica,QUÍMICA. 2026. RESERVA 3. EJERCICIO 1B,"Razone si las siguientes afirmaciones son verdaderas o falsas:
 a) El radio atómico del Ar es mayor que el radio iónico del C l − .
 b) Los elementos del grupo 2 tienen tendencia a formar cationes M+.
 c) El átomo de F e ( Z = 2 6 ) posee 5 electrones desapareados.
-d) En general, los elementos del grupo 17 tienen valores altos de energía de ionización.",source_pdf_files/Quimica/configuracion_electronica/2026 - Conf. Electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - Conf. Electrónica/Química_configuracion_electronica_2026_reserva_3_ejercicio_1b_2.png,,
+d) En general, los elementos del grupo 17 tienen valores altos de energía de ionización.",source_pdf_files/Quimica/configuracion_electronica/2026 - configuración_electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - configuración_electrónica/Química_configuracion_electronica_2026_reserva_3_ejercicio_1b_2.png,"propiedades periódicas, radio, verdadero o falso, comparar especies isoelectrónicas, electrones desapareados",
 quimica_configuracion_electronica_2026_reserva_4_ejercicio_1a,Química,2026,Reserva 4,Ejercicio 1A,Configuración electrónica,QUÍMICA. 2026. RESERVA 4. EJERCICIO 1A,"El ion X 2 − tiene Z = 1 6 y A = 3 2 :
 a) Escriba la configuración electrónica de X.
 b) Indique una posible combinación de números cuánticos para el electrón diferenciador de X.
 c) Razone el número de partículas que hay en el núcleo del ion X 2 − .
-d) ¿Cuántos electrones desapareados tiene el ion X 2 − ?",source_pdf_files/Quimica/configuracion_electronica/2026 - Conf. Electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - Conf. Electrónica/Química_configuracion_electronica_2026_reserva_4_ejercicio_1a_2.png,,
+d) ¿Cuántos electrones desapareados tiene el ion X 2 − ?",source_pdf_files/Quimica/configuracion_electronica/2026 - configuración_electrónica.pdf,enunciados_ejercicios/Quimica/configuracion_electronica/png/png_Quimica_2026 - configuración_electrónica/Química_configuracion_electronica_2026_reserva_4_ejercicio_1a_2.png,,
 quimica_enlace_quimico_2026_junio_ejercicio_1b,Química,2026,Junio,Ejercicio 1B,Enlace químico,QUÍMICA. 2026. JUNIO. EJERCICIO 1B,"Justifique si son verdaderas o falsas las siguientes afirmaciones:
 a) El C H
 4

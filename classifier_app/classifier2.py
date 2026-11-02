@@ -31,9 +31,9 @@ CSS = """
 .block-container {padding-top: 2rem; max-width: 1400px;}
 header[data-testid="stHeader"] {background: transparent;}
 .cabecera {
-    background: linear-gradient(120deg, #4F46E5 0%, #7C3AED 55%, #0EA5E9 100%);
+    background: linear-gradient(120deg, #047857 0%, #0D9488 55%, #0891B2 100%);
     color: white; padding: 1.6rem 2rem; border-radius: 16px;
-    box-shadow: 0 8px 24px rgba(79,70,229,.25); margin-bottom: 1.4rem;
+    box-shadow: 0 8px 24px rgba(4,120,87,.25); margin-bottom: 1.4rem;
 }
 .cabecera h1 {margin: 0; font-size: 2rem; font-weight: 700; color: white; padding: 0;}
 .cabecera p {margin: .3rem 0 0; opacity: .85; font-size: 1rem;}
@@ -53,8 +53,8 @@ div[data-testid="stDataFrame"] {
 """
 
 CABECERA = (
-    '<div class="cabecera"><h1>📚 Ejercicios de Selectividad Andalucía</h1>'
-    "<p>Filtra por año, asignatura, tema y tipo de ejercicio, y abre la imagen del enunciado.</p></div>"
+    '<div class="cabecera"><h1>📚 Clasificador de ejercicios Selectividad</h1>'
+    "<p>Clasifica los ejercicios de Selectividad Andalucía seleccionando opciones disponibles.</p></div>"
 )
 
 # =============================================================================
@@ -76,14 +76,34 @@ def normalizar(ruta):
     return unicodedata.normalize("NFC", str(ruta).replace("\\", "/"))
 
 
+@st.cache_resource
+def indice_static():
+    """Rutas reales de ./static indexadas sin tildes ni mayúsculas (relativas a static, con "/")."""
+    base = Path("./static")
+    return {
+        remove_accents(p.relative_to(base).as_posix()): p.relative_to(base).as_posix()
+        for p in base.rglob("*") if p.is_file()
+    }
+
+
+def ruta_real(ruta):
+    """Ruta relativa a static del archivo del CSV, tolerando diferencias de tildes (None si no existe)."""
+    return indice_static().get(remove_accents(normalizar(ruta)))
+
+
 def url(ruta):
-    """URL servida por Streamlit (static serving) de un archivo del CSV (None si no hay)."""
-    return None if pd.isna(ruta) else f"/app/static/{quote(normalizar(ruta))}"
+    """URL servida por Streamlit (static serving) de un archivo del CSV (None si no hay o no existe)."""
+    if pd.isna(ruta):
+        return None
+    real = ruta_real(ruta)
+    return None if real is None else f"/app/static/{quote(real)}"
 
 
 def ruta_local(ruta):
     """Ruta en disco de un archivo del CSV (None si no hay)."""
-    return None if pd.isna(ruta) else Path("./static") / normalizar(ruta)
+    if pd.isna(ruta):
+        return None
+    return Path("./static") / (ruta_real(ruta) or normalizar(ruta))
 
 
 def shorten_exercise_name(row):
@@ -372,14 +392,17 @@ def render_classification_widgets(filtered_df, exercise_types, subject):
         # añadir nuevo tipo de ejercicio (si no está en la lista)
         if st.toggle(label="Añadir un nuevo tipo de ejercicio", key="add_new_exercise_type"):
 
-            custom_exercise_type = st.text_input(label="Nuevo tipo de ejercicio",
+            custom_exercise_types = st.text_input(label="Nuevo tipo de ejercicio",
                                                 placeholder="escribe un nuevo tipo de ejercicio",
                                                 key="new_exercise_type_text_input")
 
-            if len(tipo) > 0 and custom_exercise_type:  # se eligió una opción de la lista multiselect           
-                tipo.append(custom_exercise_type.strip())
+            # más de un tipo nuevo de ejercicios
+            if custom_exercise_types:
+                custom_exercise_types = [t.strip() for t in custom_exercise_types.split(",")]
+            if len(tipo) > 0 and custom_exercise_types:  # se eligió una opción de la lista multiselect           
+                tipo.extend(custom_exercise_types)
             else:
-                tipo = custom_exercise_type.strip()
+                tipo = custom_exercise_types
 
     with st.container(horizontal=True, vertical_alignment="center", gap="small"):
         observaciones = st.text_input(label="Observaciones",
