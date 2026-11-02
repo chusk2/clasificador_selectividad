@@ -1,0 +1,18 @@
+CSV_TO_CLASSIFY : archivo csv con los ejercicios para clasificar
+CSV_CLASSIFIED : archivo csv con los ejercicios ya clasificados
+
+def shorten_exercise_name : 2026 - Junio, Ejercicio A1
+
+def generate_full_exercise_name(row):
+    columnas = ["año", "asignatura", "tema", "convocatoria", "ejercicio"]
+
+def get_exercise_types: extraer los temas y tipos de ejercicios disponibles a partir del archivo con ejercicios clasificado.
+
+def load_exercises_to_classify: cargar en un dataframe los ejercicios a clasificar.
+
+def render_filtros: dibuja los widgets que filtran año, asignatura y tema.
+
+def generate_exercises_to_classify_df: genera un st.dataframe con los ejercicios filtrados que aún no han sido clasificados.
+
+def render_classification_widgets: mostrar widgets para clasificar ejercicio
+

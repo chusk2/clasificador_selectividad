@@ -4,7 +4,7 @@ desktop.ini
 *.pdf
 *.png
 pdf_files/
-source_pdf_files/
+source_pdf_files
 SELECTIVIDAD/
 boot_credentials.py
 db_credentials.json
@@ -15,6 +15,7 @@ ANTHROPIC_API_KEY
 .DS_Store
 __MACOSX/
 .Rhistory
-enunciados_ejercicios/
+enunciados_ejercicios
 .streamlit/
 remote/
+static/

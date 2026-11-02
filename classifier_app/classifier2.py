@@ -1,0 +1,441 @@
+"""Clasificador de ejercicios de Selectividad Andalucía.
+
+App de Streamlit para asignar un tipo de ejercicio (y observaciones opcionales)
+a los enunciados del CSV que todavía no están clasificados.
+
+Ejecutar desde la carpeta classifier_app (las rutas son relativas):
+    streamlit run classifier.py
+"""
+
+import unicodedata
+from pathlib import Path
+from urllib.parse import quote
+import pandas as pd
+import streamlit as st
+
+# =============================================================================
+# Configuración
+# =============================================================================
+
+CSV_TO_CLASSIFY = Path("./csv/ejercicios_a_clasificar.csv")
+CSV_CLASSIFIED = Path("./csv/ejercicios_clasificados.csv")
+
+EXERCISES_PER_PAGE = 5
+
+# Orden cronológico de las convocatorias dentro de un mismo año
+ORDEN_CONVOCATORIAS = ["Junio", "Reserva 1", "Reserva 2", "Reserva 3",
+                       "Reserva 4", "Julio", "Septiembre", "Modelo", "Ponencia"]
+
+CSS = """
+<style>
+.block-container {padding-top: 2rem; max-width: 1400px;}
+header[data-testid="stHeader"] {background: transparent;}
+.cabecera {
+    background: linear-gradient(120deg, #4F46E5 0%, #7C3AED 55%, #0EA5E9 100%);
+    color: white; padding: 1.6rem 2rem; border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(79,70,229,.25); margin-bottom: 1.4rem;
+}
+.cabecera h1 {margin: 0; font-size: 2rem; font-weight: 700; color: white; padding: 0;}
+.cabecera p {margin: .3rem 0 0; opacity: .85; font-size: 1rem;}
+div[data-testid="stHorizontalBlock"]:has(div[data-baseweb="select"]) {
+    background: white; padding: 1rem 1.2rem .6rem; border-radius: 14px;
+    box-shadow: 0 2px 10px rgba(30,41,59,.08); margin-bottom: 1rem;
+}
+div[data-testid="stSelectbox"] label p {font-weight: 600; color: #475569; font-size: .85rem;}
+.contador {
+    display: inline-block; background: #EEF2FF; color: #4338CA; font-weight: 600;
+    padding: .3rem .9rem; border-radius: 999px; margin-bottom: .6rem; font-size: .9rem;
+}
+div[data-testid="stDataFrame"] {
+    border-radius: 14px; overflow: hidden; box-shadow: 0 2px 10px rgba(30,41,59,.08);
+}
+</style>
+"""
+
+CABECERA = (
+    '<div class="cabecera"><h1>📚 Ejercicios de Selectividad Andalucía</h1>'
+    "<p>Filtra por año, asignatura, tema y tipo de ejercicio, y abre la imagen del enunciado.</p></div>"
+)
+
+
+# =============================================================================
+# Funciones
+# =============================================================================
+
+def remove_accents(texto):
+    """Clave de ordenación que ignora tildes y mayúsculas ("Física" ~ "fisica")."""
+    t = unicodedata.normalize("NFD", str(texto))  # "í" -> "i" + tilde suelta
+    t = "".join(c for c in t if unicodedata.category(c) != "Mn")  # quita las tildes sueltas
+    return t.casefold()
+
+
+def normalizar(ruta):
+    """Normaliza una ruta del CSV para que coincida con el nombre en disco.
+
+    Las rutas del CSV vienen de macOS (NFD) y en disco los nombres están en NFC.
+    """
+    return unicodedata.normalize("NFC", str(ruta).replace("\\", "/"))
+
+
+def url(ruta):
+    """URL servida por Streamlit (static serving) de un archivo del CSV (None si no hay)."""
+    return None if pd.isna(ruta) else f"/app/static/{quote(normalizar(ruta))}"
+
+
+def ruta_local(ruta):
+    """Ruta en disco de un archivo del CSV (None si no hay)."""
+    return None if pd.isna(ruta) else Path("./static") / normalizar(ruta)
+
+
+def shorten_exercise_name(row):
+    """Nombre del ejercicio para la tabla, p. ej. "2026 - Junio, Ejercicio A1"."""
+    return f"{row.año} - {row.convocatoria}, {row.ejercicio}"
+
+
+def generate_full_exercise_name(row):
+    """Nombre del ejercicio para el selector de clasificación."""
+    columnas = ["año", "asignatura", "tema", "convocatoria", "ejercicio"]
+    return " - ".join(str(row[col]) for col in columnas)
+
+
+def clave_orden(ordenes):
+    """Devuelve una función `key` para `sort_values` con órdenes personalizados.
+
+    ordenes: diccionario {columna: lista con el orden deseado}. Los valores que
+    no estén en la lista van al final; el resto de columnas se ordena normal.
+    """
+    posiciones = {col: {v: i for i, v in enumerate(lista)}
+                  for col, lista in ordenes.items()}
+
+    def key(s):
+        if s.name in posiciones:
+            return s.map(posiciones[s.name]).fillna(len(posiciones[s.name]))
+        return s
+    return key
+
+
+# =============================================================================
+# Carga de datos
+# =============================================================================
+
+@st.cache_data
+def get_exercise_types(csv):
+    """Devuelve un DataFrame con los tipos de ejercicio de cada asignatura y tema."""
+    df = pd.read_csv(csv, dtype={"asignatura": "string",
+                                 "tema": "string",
+                                 "tipo_ejercicio": "string"})
+    
+    return df[["asignatura", "tema", "tipo_ejercicio"]].drop_duplicates()
+    
+
+
+@st.cache_data
+def load_exercises_to_classify():
+    df = pd.read_csv(CSV_TO_CLASSIFY, dtype={"tipo_ejercicio": "string",
+                                   "observaciones": "string"})
+    # inicializar las columnas tipo_ejercicio y observaciones
+    df[["tipo_ejercicio", "observaciones"]] = pd.NA
+    # convertir a string para que Streamlit no las infiera como float64 (NaN)
+    df = df.astype({"tipo_ejercicio": "string", "observaciones": "string"})
+    
+    return df
+
+# =============================================================================
+# Estado de sesión y callbacks
+# =============================================================================
+
+def init_session_state():
+    st.session_state.setdefault("page_table", 0)
+
+
+def advance_page(delta):
+    """Avanza (delta=1) o retrocede (delta=-1) una página de la tabla."""
+    st.session_state.page_table += delta
+
+
+def reset_filters():
+    """Vuelve todos los filtros a su valor inicial."""
+    st.session_state["year_selector"] = "Todos"
+    st.session_state["asignatura_selector"] = None
+    st.session_state["tema_selector"] = None
+
+
+# =============================================================================
+# Interfaz
+# =============================================================================
+
+def render_filters(remaining_to_classify_df):  # ejercicios pendientes de clasificar
+    """Dibuja los filtros (año, asignatura, tema) y devuelve la máscara y lo elegido.
+
+    Cada selector solo ofrece las opciones compatibles con los filtros anteriores.
+    """
+    mask = pd.Series(True, index=remaining_to_classify_df.index)
+    selected_year = None
+
+    with st.container(horizontal=True, horizontal_alignment="center", gap="medium"):
+            
+        years = sorted(remaining_to_classify_df["año"].unique(), reverse=True)
+        
+        selected_year = st.selectbox(
+            label="Año",
+            options=["Todos"] + [str(y) for y in years],
+            index=0,
+            placeholder="Selecciona año",
+            key="year_selector",
+        )
+
+        if selected_year and selected_year != "Todos":
+            mask &= remaining_to_classify_df.año == int(selected_year)
+
+        # --- Asignatura
+        asignaturas = sorted(remaining_to_classify_df.loc[mask, "asignatura"].unique(),
+                             key=remove_accents)  # eliminar acentos para ordenar alfabéticamente
+        
+        selected_asignatura = st.selectbox(
+            label="Asignatura",
+            options=asignaturas,
+            index=None,
+            placeholder="Selecciona asignatura",
+            key="asignatura_selector",
+        )
+
+        if selected_asignatura:
+            mask &= remaining_to_classify_df.asignatura == selected_asignatura
+
+        if selected_asignatura:
+            # --- Tema (solo disponible tras elegir asignatura)
+            temas = sorted(remaining_to_classify_df.loc[mask, "tema"].dropna().unique(), key=remove_accents)
+
+            selected_tema = st.selectbox(
+                label="Tema",
+                options=temas,
+                index=None,
+                placeholder="Selecciona tema",
+                disabled=selected_asignatura is None or len(temas) == 0,
+                key="tema_selector",
+            )
+        else:
+            selected_tema = None
+        if selected_tema:
+            mask &= remaining_to_classify_df.tema == selected_tema
+
+    filters = (selected_year, selected_asignatura, selected_tema)
+    return mask, filters
+
+
+def prettify_filtered_df(filtered_df):
+    """Tabla a mostrar: columnas útiles + enlaces, ordenada por año y convocatoria."""
+    return pd.DataFrame({
+        "año": filtered_df["año"],
+        "asignatura": filtered_df["asignatura"],
+        "convocatoria": filtered_df["convocatoria"],
+        "tema": filtered_df["tema"],
+        # esta columna se genera a partir del dataframe filtrado
+        "nombre_corto_ejercicio" : filtered_df.apply(shorten_exercise_name, axis=1),
+    }).sort_values(["año", "convocatoria"], ascending=[False, True],
+                   # orden personalizado de convocatorias dentro de un mismo año
+                   key=clave_orden({"convocatoria": ORDEN_CONVOCATORIAS}))
+
+
+def reset_page_if_filters_changed(filters):
+    """Vuelve a la primera página si ha cambiado la combinación de filtros."""
+    if st.session_state.get("applied_filters") != filters:
+        st.session_state.applied_filters = filters
+        st.session_state.page_table = 0
+
+
+def render_exercises_pager(filtered_df):
+    """Muestra la página actual del pager del dataframe para clasificar. Devuelve las filas visibles del pager."""
+    # filtered_df columns:
+        # "id", "asignatura", "asignatura_carpeta",
+        # "año", "convocatoria", "ejercicio", "tema",
+        # "info_ejercicio", "enunciado",
+        # "archivo", "imagen", "tipo_ejercicio", "observaciones"
+    
+    cols_to_show = ["año", "asignatura", "convocatoria", "ejercicio", "archivo_pdf", "enunciado_img"]
+    # Página actual (se acota por si los filtros han reducido el número de filas)
+    total = len(filtered_df)
+    max_page = max(0, (total - 1) // EXERCISES_PER_PAGE)
+    page = min(st.session_state.page_table, max_page)
+    st.session_state.page_table = page
+    start = page * EXERCISES_PER_PAGE
+    current_rows = filtered_df.iloc[start : start + EXERCISES_PER_PAGE]
+    current_rows["exercise_name"] = current_rows.apply(lambda row: " - ".join([str(row["año"]), row["convocatoria"], row["ejercicio"]]), axis=1)
+    current_rows["asignatura_tema"] = current_rows.apply(lambda row: " - ".join([str(row["asignatura"]), row["tema"]]), axis=1)
+    # URLs servidas por Streamlit para los enlaces de la tabla
+    current_rows["archivo_url"] = current_rows["archivo"].map(url)
+    current_rows["imagen_url"] = current_rows["imagen"].map(url)
+
+    st.dataframe(
+        current_rows,
+        column_order=["asignatura_tema", "exercise_name", "archivo_url", "imagen_url"],
+        hide_index=True,
+        width="stretch",
+        column_config={
+            "asignatura_tema": st.column_config.Column(label="Asignatura - Tema"),
+            "exercise_name": st.column_config.Column(label="Ejercicio"),
+            "archivo_url": st.column_config.LinkColumn("Soluciones", display_text="Abrir PDF"),
+            "imagen_url": st.column_config.LinkColumn("Enunciado", display_text="Abrir imagen"),
+        },
+    )
+
+    if total:
+        count_metric, prev, info, nxt = st.columns(4, vertical_alignment="center")
+        # separador de miles con punto (formato español)
+        count_metric.markdown(f'<span class="contador">{total:,} enunciados</span>'.replace(",", "."),
+                              unsafe_allow_html=True)
+        prev.button("Anterior", on_click=advance_page, args=(-1,),
+                    disabled=page == 0, width="stretch")
+        info.caption(
+            f"Ejercicios {start + 1} al {start + len(current_rows)} de un total de {total}"
+            f" · página {page + 1} / {max_page + 1}"
+        )
+        nxt.button("Siguiente", on_click=advance_page, args=(1,),
+                   disabled=page >= max_page, width="stretch")
+
+    return current_rows
+
+
+def render_classification_widgets(filtered_df, exercise_types, subject):
+    """Formulario para asignar tema, tipo de ejercicio y observaciones a un ejercicio."""
+    df_to_classify = filtered_df.copy()
+    df_to_classify["long_exercise_name"] = df_to_classify.apply(generate_full_exercise_name, axis=1)
+
+    # Las opciones son los nombres de los ejercicios pendientes de clasificar (ya filtrados por tema)
+    selected_exercise = st.selectbox(
+        label="Ejercicio",
+        options=df_to_classify["long_exercise_name"].to_list(),
+        index=0,
+        key="ejercicio_selectbox",
+    )
+
+    with st.container(horizontal=True, vertical_alignment="center", gap="small"):
+
+        # Tema: los definidos en tipos_ejercicios.csv para la asignatura;
+        # si no hay ninguno se mantiene el tema del filtro
+        temas = sorted(exercise_types.loc[exercise_types.asignatura == subject, "tema"].unique())
+        if temas:
+            tema = st.selectbox(label="Tema", options=temas, index=0, key="tema_selectbox")
+
+        # Tipo de ejercicio: se elige de los existentes o se escribe uno nuevo
+        tipos = exercise_types.loc[(exercise_types.asignatura == subject) &
+                                   (exercise_types.tema == tema.lower()), "tipo_ejercicio"].to_list()
+        if len(tipos) > 0:
+            tipo = st.selectbox(label="Tipo de ejercicio", options=tipos, index=0,
+                                key="tipo_selectbox")
+        else:
+            tipo = st.text_input(label="Nuevo tipo ejercicio",
+                                 placeholder="escribe el tipo de ejercicio",
+                                 key="new_exercise_type_text_input")
+
+        observaciones = st.text_input(label="Observaciones",
+                                      placeholder="añade una observación sobre el ejercicio",
+                                      key="observations_text_input")
+
+        if st.button("Guardar clasificación", key="save_classification"):
+            if selected_exercise is None:
+                st.warning("No hay ejercicios pendientes de clasificar")
+            elif not tipo:
+                st.warning("Indica el tipo de ejercicio")
+            else:
+                pass
+                # guardar_clasificacion(df, selected_exercise, tema, tipo, observaciones)
+
+        # El aviso se muestra tras el rerun (si se mostrase antes, se perdería)
+        if st.session_state.pop("classification_saved", False):
+            st.toast("Archivo clasificado con éxito")
+
+    # show exercise image
+    idx = df_to_classify[df_to_classify["long_exercise_name"] == selected_exercise].index[0]
+    render_exercise_image(df_to_classify, idx)
+
+
+def save_classification(df, exercise_name, tema, tipo, observaciones):
+    """Escribe la clasificación en el CSV y recarga la app."""
+    df.loc[df["nombre_ejercicio"] == exercise_name, ["tema", "tipo_ejercicio", "observaciones"]] = [tema, tipo, observaciones]
+    df.to_csv(CSV_TO_CLASSIFY, index=False, encoding="utf-8")
+
+    # Invalida la caché para que la próxima ejecución lea el CSV actualizado
+    load_exercises_to_classify.clear()
+
+    # Resetea el ejercicio y las observaciones para el siguiente
+    st.session_state.pop("ejercicio_selectbox", None)
+    st.session_state.pop("observations_text_input", None)
+    st.session_state.classification_saved = True
+    st.rerun()
+
+
+# def render_imagenes(current_rows, filtered_df):
+#     """Muestra las imágenes de los enunciados de la página actual (sin repetir)."""
+#     with st.container(border=True):
+#         for idx, row in current_rows.drop_duplicates("enunciado_img").iterrows():
+#             st.subheader(row["nombre_ejercicio"])
+#             img_path = ruta_local(filtered_df.loc[idx, "imagen"])
+
+#             if img_path is None:
+#                 st.info("Este ejercicio no tiene imagen de enunciado.")
+#             elif img_path.exists():
+#                 st.image(str(img_path), width="stretch")
+#             else:
+#                 st.warning(f"No encuentro la imagen: {img_path.name}")
+
+
+def render_exercise_image(df, idx):
+    """Muestra la imagen del enunciado del ejercicio a clasificar (`idx` = índice de `df`)."""
+    with st.container(border=True):
+        st.subheader(df.loc[idx, "long_exercise_name"])
+        img_path = ruta_local(df.loc[idx, "imagen"])
+
+        if img_path is None:
+            st.info("Este ejercicio no tiene imagen de enunciado.")
+        elif img_path.exists():
+            st.image(str(img_path), width="stretch")
+        else:
+            st.warning(f"No encuentro la imagen: {img_path.name}")
+
+
+# =============================================================================
+# App
+# =============================================================================
+
+def main():
+    st.set_page_config(page_title="Clasificador de ejercicios de Selectividad Andalucía",
+                       page_icon="📚", layout="wide")
+    st.markdown(CSS, unsafe_allow_html=True)
+    st.markdown(CABECERA, unsafe_allow_html=True)
+    init_session_state()
+
+    df = load_exercises_to_classify()
+    df_tipos = get_exercise_types(CSV_CLASSIFIED)
+
+    # Solo interesan los ejercicios que aún no tienen tipo asignado
+    remaining_exercises_to_classify = df[df.tipo_ejercicio.isna()]
+
+    # save filters selection to mask
+    mask, filters = render_filters(remaining_exercises_to_classify)
+
+    # save selected options from filters
+    selected_year, selected_asignatura, selected_tema = filters
+
+    # filter the dataframe with the selected options
+    filtered_df = remaining_exercises_to_classify[mask].copy()
+
+    # prettify the filtered dataframe to show in the table
+    pretty_filtered_df = prettify_filtered_df(filtered_df)
+
+    reset_page_if_filters_changed(filters=filters)
+
+    
+    st.button(label="Borrar filtro", on_click=reset_filters)
+
+    # El resto de la app solo se muestra con año (o rango) y asignatura elegidos
+    if not (selected_year and selected_asignatura):
+        return
+
+    current_rows = render_exercises_pager(filtered_df)
+
+    # Para clasificar hace falta haber elegido un tema en los filtros
+    if selected_tema:
+        render_classification_widgets(current_rows, df_tipos, selected_asignatura)
+
+main()
