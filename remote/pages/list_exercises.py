@@ -5,6 +5,7 @@ from urllib.parse import quote
 import pandas as pd
 import streamlit as st
 import datetime
+import os
 from generate_pdf import df_to_pdf
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -16,7 +17,7 @@ def remove_accents(texto):
         return t.casefold()  # ignora mayúsculas
 
 @st.cache_data
-def cargar():
+def cargar(mtime):
     return pd.read_csv(CSV)
 
 @st.cache_data
@@ -72,8 +73,13 @@ def export_dataframe(df):
     return export_df
 
 def normalizar(ruta):
-    # Las rutas del CSV vienen de macOS (NFD) y en disco los nombres están en NFC.
-    return unicodedata.normalize("NFC", str(ruta).replace("\\", "/"))
+    """Ruta del CSV tal como está en disco: con "/" y sin tildes (ñ -> n, ü -> u).
+
+    En el servidor se quitaron las tildes de carpetas y archivos, así que se
+    eliminan también aquí. A diferencia de remove_accents, respeta mayúsculas.
+    """
+    t = unicodedata.normalize("NFD", str(ruta).replace("\\", "/"))
+    return "".join(c for c in t if unicodedata.category(c) != "Mn")
 
 def url(ruta):
     return None if pd.isna(ruta) else f"/app/static/{quote(normalizar(ruta))}"
@@ -112,7 +118,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-df = cargar()
+df = cargar(os.path.getmtime(CSV))
 
 st.markdown(
     '<div class="cabecera"><h1>📚 Ejercicios de Selectividad Andalucía</h1>'
@@ -191,7 +197,10 @@ with st.container(horizontal = True, horizontal_alignment = "center", gap = "med
     if selected_tipo_ejercicio:
             mask &= filtered_df.tipo_ejercicio == selected_tipo_ejercicio
 
-filtered_df = filtered_df[mask].copy()
+if st.session_state.tipo_ejercicio_selector is None:
+    filtered_df = filtered_df[mask].drop_duplicates(subset=["año", "convocatoria", "ejercicio"]).copy()
+else:
+    filtered_df = filtered_df[mask].copy()
 
 def exercise_name(row):
      return f"{row.año} - {row.convocatoria}, {row.ejercicio}"

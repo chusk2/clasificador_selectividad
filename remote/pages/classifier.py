@@ -18,8 +18,12 @@ import streamlit as st
 # Configuración
 # =============================================================================
 
-CSV_TO_CLASSIFY = Path("./csv/ejercicios_a_clasificar.csv")
-CSV_CLASSIFIED = Path("./csv/ejercicios_clasificados.csv")
+# app/pages/classifier.py → .parent = app/pages → .parent.parent = app/
+APP_DIR = Path(__file__).resolve().parent.parent
+
+CSV_TO_CLASSIFY = APP_DIR / "csv" / "ejercicios_a_clasificar.csv"
+CSV_CLASSIFIED  = APP_DIR / "csv" / "ejercicios_clasificados.csv"
+STATIC_DIR      = APP_DIR / "static"
 
 EXERCISES_PER_PAGE = 5
 
@@ -93,41 +97,23 @@ def remove_accents(texto):
 
 
 def normalizar(ruta):
-    """Normaliza una ruta del CSV para que coincida con el nombre en disco.
+    """Ruta del CSV tal como está en disco: con "/" y sin tildes (ñ -> n, ü -> u).
 
-    Las rutas del CSV vienen de macOS (NFD) y en disco los nombres están en NFC.
+    En el servidor se quitaron las tildes de carpetas y archivos, así que se
+    eliminan también aquí. A diferencia de remove_accents, respeta mayúsculas.
     """
-    return unicodedata.normalize("NFC", str(ruta).replace("\\", "/"))
-
-
-@st.cache_resource
-def indice_static():
-    """Rutas reales de ./static indexadas sin tildes ni mayúsculas (relativas a static, con "/")."""
-    base = Path("./static")
-    return {
-        remove_accents(p.relative_to(base).as_posix()): p.relative_to(base).as_posix()
-        for p in base.rglob("*") if p.is_file()
-    }
-
-
-def ruta_real(ruta):
-    """Ruta relativa a static del archivo del CSV, tolerando diferencias de tildes (None si no existe)."""
-    return indice_static().get(remove_accents(normalizar(ruta)))
+    t = unicodedata.normalize("NFD", str(ruta).replace("\\", "/"))
+    return "".join(c for c in t if unicodedata.category(c) != "Mn")
 
 
 def url(ruta):
-    """URL servida por Streamlit (static serving) de un archivo del CSV (None si no hay o no existe)."""
-    if pd.isna(ruta):
-        return None
-    real = ruta_real(ruta)
-    return None if real is None else f"/app/static/{quote(real)}"
+    """URL servida por Streamlit (static serving) de un archivo del CSV (None si no hay)."""
+    return None if pd.isna(ruta) else f"/app/static/{quote(normalizar(ruta))}"
 
 
 def ruta_local(ruta):
     """Ruta en disco de un archivo del CSV (None si no hay)."""
-    if pd.isna(ruta):
-        return None
-    return Path("./static") / (ruta_real(ruta) or normalizar(ruta))
+    return None if pd.isna(ruta) else STATIC_DIR / normalizar(ruta)
 
 
 def shorten_exercise_name(row):
@@ -275,17 +261,17 @@ def render_filters(remaining_to_classify_df):  # ejercicios pendientes de clasif
 
 
 
-    """Tabla a mostrar: columnas útiles + enlaces, ordenada por año y convocatoria."""
-    return pd.DataFrame({
-        "año": filtered_df["año"],
-        "asignatura": filtered_df["asignatura"],
-        "convocatoria": filtered_df["convocatoria"],
-        "tema": filtered_df["tema"],
-        # esta columna se genera a partir del dataframe filtrado
-        "nombre_corto_ejercicio" : filtered_df.apply(shorten_exercise_name, axis=1),
-    }).sort_values(["año", "convocatoria"], ascending=[False, True],
-                   # orden personalizado de convocatorias dentro de un mismo año
-                   key=clave_orden({"convocatoria": ORDEN_CONVOCATORIAS}))
+    # # dataframe filtered_df: año, asignatura, convocatoria, tema, nombre ejercicio cortoTabla a mostrar: columnas ordenada por año y convocatoria."""
+    # return pd.DataFrame({
+    #     "año": filtered_df["año"],
+    #     "asignatura": filtered_df["asignatura"],
+    #     "convocatoria": filtered_df["convocatoria"],
+    #     "tema": filtered_df["tema"],
+    #     # esta columna se genera a partir del dataframe filtrado
+    #     "nombre_corto_ejercicio" : filtered_df.apply(shorten_exercise_name, axis=1),
+    # }).sort_values(["año", "convocatoria"], ascending=[False, True],
+    #                # orden personalizado de convocatorias dentro de un mismo año
+    #                key=clave_orden({"convocatoria": ORDEN_CONVOCATORIAS}))
 
 
 def reset_page_if_filters_changed(filters):
@@ -350,21 +336,20 @@ def render_exercises_pager(filtered_df):
 def save_classification(exercise_id, tema, tipos, observaciones):
     """Escribe la clasificación en el CSV y recarga la app."""
     df = pd.read_csv(CSV_TO_CLASSIFY,
-                     dtype={"tipo_ejercicio": "string", "observaciones": "string"})
+                     dtype={"tipo_ejercicio": "object", "observaciones": "string"})
     # se identifica por "id" (único); "ejercicio" ("Ejercicio A1"...) se repite entre asignaturas/años
     mask = df["id"] == exercise_id
-    print(type(tipos), repr(tipos), mask.sum())
 
     # tipos es una lista (multiselect) o un string (text_input), pero en el CSV se guarda como string
     if isinstance(tipos, list):
         tipos = [t.strip() for t in tipos if t.strip()]
-        tipos = ", ".join(tipos)
 
+    idx = df.loc[mask].index[0]
     # asignar los valores a las filas del ejercicio (puede haber varios tipos de ejercicio)
-    df.loc[mask, ["tema", "tipo_ejercicio", "observaciones"]] = [tema, tipos, observaciones]
+    df.at[idx, "tipo_ejercicio"] = tipos
+    df.loc[mask, ["tema", "observaciones"]] = [tema, observaciones]
 
-    if len(tipos) > 1:
-        df = df.explode("tipo_ejercicio", ignore_index=True)
+    df = df.explode("tipo_ejercicio", ignore_index=True)
     
     df.to_csv(CSV_TO_CLASSIFY, index=False, encoding="utf-8")
 
@@ -383,17 +368,20 @@ def render_classification_widgets(filtered_df, exercise_types, subject):
     df_to_classify = filtered_df.copy()
     df_to_classify["long_exercise_name"] = df_to_classify.apply(generate_full_exercise_name, axis=1)
 
+    # valores por defecto: así existen aunque no se dibujen sus widgets
+    tema = None
+    tipo = []
+
     form_id = st.session_state.get("form_id", 0)
     long_names = dict(zip(df_to_classify["id"], df_to_classify["long_exercise_name"]))
 
     # Las opciones son los id de los ejercicios pendientes (ya filtrados por tema); se muestra el nombre largo
-    selected_exercise = st.selectbox(
-        label="Ejercicio",
-        options=list(long_names),
-        format_func=long_names.get,
-        index=0,
-        key=f"ejercicio_selectbox_{form_id}",
-    )
+    selected_exercise = st.selectbox(label="Ejercicio",
+                                     options=list(long_names),
+                                     #format_func=long_names.get,
+                                     index=0,
+                                     key=f"ejercicio_selectbox_{form_id}",
+                                     )
 
     with st.container(horizontal=True, vertical_alignment="center", gap="small"):
 
@@ -406,52 +394,50 @@ def render_classification_widgets(filtered_df, exercise_types, subject):
         # Tipo de ejercicio: se elige de los existentes o se escribe uno nuevo
         if tema:
             tipos = exercise_types.loc[(exercise_types.asignatura == subject) &
-                                   (exercise_types.tema == tema.lower()), "tipo_ejercicio"].dropna().to_list()
+                                       (exercise_types.tema == tema), "tipo_ejercicio"].dropna().to_list()
             if len(tipos) > 0:
                 tipo = st.multiselect(label="Tipo de ejercicio", options=tipos, default=None,
-                                    key="tipo_selectbox")
-        
+                                      key="tipo_selectbox")
+
     with st.container(horizontal=True, vertical_alignment="center", gap="small"):
 
         # añadir nuevo tipo de ejercicio (si no está en la lista)
         if st.toggle(label="Añadir un nuevo tipo de ejercicio", key="add_new_exercise_type"):
 
-            custom_exercise_types = st.text_input(label="Nuevo tipo de ejercicio",
-                                                placeholder="escribe un nuevo tipo de ejercicio",
-                                                key="new_exercise_type_text_input")
+            texto = st.text_input(label="Nuevo tipo de ejercicio",
+                                  placeholder="tipos separados por comas",
+                                  key="new_exercise_type_text_input")
 
-            # más de un tipo nuevo de ejercicios
-            if custom_exercise_types:
-                custom_exercise_types = [t.strip() for t in custom_exercise_types.split(",")]
-            if len(tipo) > 0 and custom_exercise_types:  # se eligió una opción de la lista multiselect           
-                tipo.extend(custom_exercise_types)
-            else:
-                tipo = custom_exercise_types
+            # varios tipos nuevos separados por comas (se descartan los vacíos)
+            nuevos = [t.strip() for t in texto.split(",") if t.strip()]
+            tipo = tipo + nuevos   # lista nueva: si no escribes nada, se conserva lo elegido
 
     with st.container(horizontal=True, vertical_alignment="center", gap="small"):
         observaciones = st.text_input(label="Observaciones",
-                                                placeholder="añade una observación sobre el ejercicio",
-                                                key=f"observations_text_input_{form_id}")
-        
+                                      placeholder="añade una observación sobre el ejercicio",
+                                      key=f"observations_text_input_{form_id}")
+
         # guardar la clasificación en el CSV (solo si hay ejercicio seleccionado y tipo de ejercicio indicado)
         if st.button("Guardar clasificación", key="save_classification"):
-                    
-                    if selected_exercise is None:
-                        st.warning("No hay ejercicios pendientes de clasificar")
-                    elif not tipo:
-                        st.warning("Indica el tipo de ejercicio")
-                    else:
-                        save_classification(selected_exercise, tema, tipo, observaciones)            
-
-        
-
-        
-
-        
+            if selected_exercise is None:
+                st.warning("No hay ejercicios pendientes de clasificar")
+            elif not tipo:
+                st.warning("Indica el tipo de ejercicio")
+            else:
+                save_classification(selected_exercise, tema, tipo, observaciones)
 
         # El aviso se muestra tras el rerun (si se mostrase antes, se perdería)
         if st.session_state.pop("classification_saved", False):
             st.toast("Archivo clasificado con éxito")
+
+
+    # show exercise image
+    idx = df_to_classify[df_to_classify["id"] == selected_exercise].index[0]
+    render_exercise_image(df_to_classify, idx)
+
+    # El aviso se muestra tras el rerun (si se mostrase antes, se perdería)
+    if st.session_state.pop("classification_saved", False):
+        st.toast("Archivo clasificado con éxito")
 
     # show exercise image
     idx = df_to_classify[df_to_classify["id"] == selected_exercise].index[0]
@@ -519,5 +505,19 @@ def main():
     # Para clasificar hace falta haber elegido un tema en los filtros
     if selected_tema:
         render_classification_widgets(current_rows, df_tipos, selected_asignatura)
+
+    if st.button("Guardar clasificaciones"):
+        # dataframe con los ejercicios clasificados en la sesión actual (los que tienen tipo_ejercicio no nulo)
+        new_classified_df = pd.read_csv(CSV_TO_CLASSIFY, encoding="utf-8")
+        new_classified_df = new_classified_df[new_classified_df.tipo_ejercicio.notna()]
+
+        # ejercicios ya clasificados (CSV_CLASSIFIED)
+        classified_df = pd.read_csv(CSV_CLASSIFIED, encoding="utf-8")
+
+        # combinar los ya clasificados con los nuevos y guardar en CSV_CLASSIFIED
+        combined_df = pd.concat([new_classified_df, classified_df], ignore_index=True)
+        combined_df.to_csv(CSV_CLASSIFIED, index=False, encoding="utf-8")
+        
+        st.toast("Clasificaciones exportadas con éxito a ejercicios_clasificados.csv")
 
 main()
