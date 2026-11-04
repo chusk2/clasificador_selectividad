@@ -19,3 +19,5 @@ enunciados_ejercicios
 .streamlit/
 #remote/
 static/
+*.bak
+venv/
