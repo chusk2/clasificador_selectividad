@@ -18,11 +18,13 @@ def remove_accents(texto):
 
 @st.cache_data
 def cargar(mtime):
-    return pd.read_csv(CSV)
-
-@st.cache_data
-def cached_pdf(df):
-    return df_to_pdf(df)
+    df = pd.read_csv(CSV)
+    # columnas derivadas: se calculan una sola vez (cacheadas) y no en cada rerun
+    df["nombre_ejercicio"] = (df["año"].astype(str) + " - " + df["convocatoria"].astype(str)
+                              + ", " + df["ejercicio"].astype(str))
+    df["archivo_pdf"] = df["archivo"].map(url)
+    df["enunciado_img"] = df["imagen"].map(url)
+    return df
 
 # inicializar widget selector año
 # if "dropdown_year" not in st.session_state:
@@ -127,7 +129,8 @@ st.markdown(
 )
 
 
-filtered_df = df.copy()
+# sin copia: df solo se lee, y más abajo filtered_df se reasigna a una copia filtrada
+filtered_df = df
 mask = pd.Series(True, index = filtered_df.index)
 # definir valores del rango de año
 selected_min_year, selected_max_year = None, None
@@ -206,11 +209,6 @@ if st.session_state.tipo_ejercicio_selector is None:
 else:
     filtered_df = filtered_df[mask].copy()
 
-def exercise_name(row):
-     return f"{row.año} - {row.convocatoria}, {row.ejercicio}"
-
-filtered_df["nombre_ejercicio"] = filtered_df.apply(exercise_name, axis = 1)
-
 # ordenar por convocatoria
 convocatorias_ordenadas = {"convocatoria": ["Junio",
                            "Reserva 1", "Reserva 2",
@@ -230,32 +228,20 @@ def clave_orden(ordenes):
         return s          # las demás columnas se ordenan de forma normal
     return key
 
-output_df = pd.DataFrame({
-    "año": filtered_df["año"],
-    "asignatura": filtered_df["asignatura"],
-    "convocatoria": filtered_df["convocatoria"],
-    "ejercicio": filtered_df["ejercicio"],
-    "tema": filtered_df["tema"],
-    "nombre_ejercicio" : filtered_df["nombre_ejercicio"],
-    "tipo_ejercicio": filtered_df["tipo_ejercicio"],
-    "observaciones": filtered_df["observaciones"],
-    "archivo_pdf": filtered_df["archivo"].map(url),
-    "enunciado_img": filtered_df["imagen"].map(url),
-}).sort_values(["año", "convocatoria"], ascending=[False, True],
-               key = clave_orden(convocatorias_ordenadas)
-)
-
-if output_df["observaciones"].isna().all():
-    output_df.drop(columns="observaciones", inplace = True)
+OUTPUT_COLS = ["año", "asignatura", "convocatoria", "ejercicio", "tema",
+               "nombre_ejercicio", "tipo_ejercicio", "observaciones",
+               "archivo_pdf", "enunciado_img"]
 
 # combinación de filtros
 applied_filters = (selected_year, selected_min_year, selected_max_year,
 selected_asignatura, selected_tema, selected_tipo_ejercicio)
 
 # si se han cambiado los filtros, resetea la paginación del df
+# y descarta el PDF preparado (correspondía a los filtros anteriores)
 if st.session_state.get("applied_filters") != applied_filters:
     st.session_state.applied_filters = applied_filters
     st.session_state.page_table = 0
+    st.session_state.pop("pdf", None)
 
 
 # condición para comprobar si hay filtros aplicados
@@ -267,6 +253,14 @@ with st.container(horizontal=True, vertical_alignment="center", gap = "large"):
     
 # mostrar dataframe solo si hay un año y asignatura seleccionados
 if filter_exists:
+    # la tabla de salida solo se construye si se va a mostrar
+    output_df = filtered_df[OUTPUT_COLS].sort_values(
+        ["año", "convocatoria"], ascending=[False, True],
+        key=clave_orden(convocatorias_ordenadas))
+
+    if output_df["observaciones"].isna().all():
+        output_df = output_df.drop(columns="observaciones")
+
     # ocultar asignatura, convocatoria, tema y ejercicio
     cols_to_hide = ["asignatura", "convocatoria", "ejercicio", "archivo_pdf"]
     cols_to_show = [col for col in output_df.columns if col not in cols_to_hide]
@@ -325,12 +319,19 @@ if filter_exists:
         mime="text/csv",
         )
 
-        st.download_button(
-        "📄 Exportar a PDF",
-        data=cached_pdf(export_dataframe(output_df)),
-        file_name=f"ejercicios_{selected_asignatura}_filtrados_{today_date}.pdf",
-        mime="application/pdf",
-        )
+        # el PDF tarda en generarse: solo se crea cuando se pide, no en cada rerun
+        if "pdf" not in st.session_state:
+            if st.button("📄 Preparar PDF"):
+                with st.spinner("Generando PDF..."):
+                    st.session_state.pdf = df_to_pdf(export_dataframe(output_df))
+                st.rerun()
+        else:
+            st.download_button(
+            "📄 Exportar a PDF",
+            data=st.session_state.pdf,
+            file_name=f"ejercicios_{selected_asignatura}_filtrados_{today_date}.pdf",
+            mime="application/pdf",
+            )
         
     if st.session_state.get("show_exercises"):
         with st.container(border=True):

@@ -436,14 +436,6 @@ def render_classification_widgets(filtered_df, exercise_types, subject):
     idx = df_to_classify[df_to_classify["id"] == selected_exercise].index[0]
     render_exercise_image(df_to_classify, idx)
 
-    # El aviso se muestra tras el rerun (si se mostrase antes, se perdería)
-    if st.session_state.pop("classification_saved", False):
-        st.toast("Archivo clasificado con éxito")
-
-    # show exercise image
-    idx = df_to_classify[df_to_classify["id"] == selected_exercise].index[0]
-    render_exercise_image(df_to_classify, idx)
-
 
 def render_exercise_image(df, idx):
     """Muestra la imagen del enunciado del ejercicio a clasificar (`idx` = índice de `df`)."""
