@@ -21,3 +21,4 @@ enunciados_ejercicios
 static/
 *.bak
 venv/
+response.jsonl
