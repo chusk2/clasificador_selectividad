@@ -1,0 +1,14 @@
+{"geometría":{
+"vectores" : ["tetraedro", "triángulo", "área", "volumen",
+"vectores", "coplanario", "paralelogramo", "parelelepípedo", "vértices"],
+"ángulos" : [" ángulo"],
+"segmento en partes iguales" : ["partes iguales"],
+"planos" : ["plano" ],
+"intersección plano con ejes coordenados" : ["con los ejes coordenados", "planos cartesianos"],
+"simétrico" : ["simétrico"],
+"recta" : [" recta"],
+"posición relativa": ["posición relativa", "perpendicular", " corta",
+"paralelos", "paralela", "paralelo ", "se corten" ],
+"distancias" : ["distancia", "equidista"]
+}
+}

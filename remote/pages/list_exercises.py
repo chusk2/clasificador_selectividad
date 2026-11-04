@@ -172,7 +172,11 @@ with st.container(horizontal = True, horizontal_alignment = "center", gap = "med
             mask &= filtered_df.asignatura == selected_asignatura
 
     # selección tema
-    temas = sorted(filtered_df.loc[mask, "tema"].dropna().unique(), key=remove_accents)
+    temas = [i.capitalize() for i in sorted(
+        filtered_df.loc[mask, "tema"]
+        .dropna()
+        .unique()
+        , key=remove_accents)]
     selected_tema = st.selectbox(label = "Tema",
                                  options = temas,
                                  index = None,
@@ -181,7 +185,7 @@ with st.container(horizontal = True, horizontal_alignment = "center", gap = "med
                                  key = "tema_selector")
 
     if selected_tema:
-            mask &= filtered_df.tema == selected_tema
+            mask &= filtered_df.tema == selected_tema.lower()
 
     tipos_ejercicios = sorted(filtered_df.loc[mask, "tipo_ejercicio"].dropna().unique(),
                               key=remove_accents)
