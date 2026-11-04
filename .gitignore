@@ -22,3 +22,5 @@ static/
 *.bak
 venv/
 response.jsonl
+ocr_latex/**/*_latex
+ocr_latex/**/*_latex/
