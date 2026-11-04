@@ -7,7 +7,7 @@ home  = st.Page("pages/list_exercises.py",  title="Inicio",  icon="🏠", defaul
 classifier  = st.Page("pages/classifier.py",  title="Clasificador",  icon="⚛️")
 
 # navigation panel
-nav = st.navigation([home, classifier], expanded=False)
+nav = st.navigation(pages = [home, classifier], position = "top", expanded = False)
 st.set_page_config(page_title="Clasificador", layout="wide")
 
 # al salir del clasificador se vuelve a bloquear: pedirá la contraseña al volver

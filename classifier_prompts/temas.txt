@@ -1,0 +1,36 @@
+Mates CCSS - programacion_lineal
+Mates CCSS - distribucion_binomial
+Mates CCSS - probabilidad
+Mates CCSS - programación_lineal
+Mates CCSS - matrices_determinantes
+Mates CCSS - inferencia_estadística
+Mates CCSS - distribución_binomial
+Mates CCSS - contraste_hipotesis
+Mates CCSS - contraste_hipótesis
+Mates CCSS - funciones_ccss
+Mates CCSS - sistemas_ecuaciones_lineales_ccss
+Mates CCSS - inferencia_estadistica
+Física - campo_eléctrico_magnético
+Física - física_cuántica_nuclear
+Física - campo_gravitatorio
+Física - movimiento_ondulatorio
+Física - óptica_geométrica
+Mates II - sistemas_de_ecuaciones_lineales
+Mates II - distribución_normal_binomial
+Mates II - distribucion_normal_binomial
+Mates II - integrales
+Mates II - probabilidad
+Mates II - matrices_determinantes
+Mates II - funciones
+Mates II - geometría
+Mates II - geometria
+Química - ácido_base
+Química - redox
+Química - enlace_químico
+Química - termoquímica
+Química - reactividad_orgánica
+Química - formulación
+Química - cantidad_química
+Química - equilibrio_químico
+Química - solubilidad
+Química - configuración_electrónica

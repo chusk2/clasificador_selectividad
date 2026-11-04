@@ -1,529 +1,183 @@
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2026_junio_ejercicio_1"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "media", "id": "mates_ii_funciones_2025_julio_ejercicio_6"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a", "confianza": "media", "id": "mates_ii_funciones_2025_junio_ejercicio_2"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2025_junio_ejercicio_3"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_asintotas_2025_junio_ejercicio_3"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2025_junio_ejercicio_3"}
-{"tipo_ejercicio": "rectas tangente y normal|curvatura|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2025_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "rectas tangente y normal|curvatura|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2025_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "rectas tangente y normal|curvatura|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_asintotas_2025_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2025_reserva_2_ejercicio_1"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2025_reserva_2_ejercicio_1"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2025_reserva_3_ejercicio_2"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2025_reserva_3_ejercicio_2"}
-{"tipo_ejercicio": "rectas tangente y normal|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2025_reserva_3_ejercicio_3"}
-{"tipo_ejercicio": "rectas tangente y normal|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2025_reserva_3_ejercicio_3"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2025_reserva_4_ejercicio_2"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2025_reserva_4_ejercicio_3"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2025_reserva_4_ejercicio_3"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2024_julio_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2024_julio_ejercicio_1"}
-{"tipo_ejercicio": "monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2024_julio_ejercicio_2"}
-{"tipo_ejercicio": "rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2024_junio_ejercicio_1"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2024_junio_ejercicio_2"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2024_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_asintotas_2024_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "L'Hopital|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2024_reserva_1_ejercicio_2"}
-{"tipo_ejercicio": "L'Hopital|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2024_reserva_1_ejercicio_2"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2023_julio_ejercicio_1"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2023_julio_ejercicio_1"}
-{"tipo_ejercicio": "monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2023_julio_ejercicio_2"}
-{"tipo_ejercicio": "L'Hopital|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2023_junio_ejercicio_1"}
-{"tipo_ejercicio": "L'Hopital|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2023_junio_ejercicio_1"}
-{"tipo_ejercicio": "rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2023_junio_ejercicio_2"}
-{"tipo_ejercicio": "rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2023_junio_ejercicio_2"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2023_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "alta", "id": "mates_ii_funciones_2023_reserva_1_ejercicio_2"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2023_reserva_2_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2023_reserva_2_ejercicio_2"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_asintotas_2023_reserva_2_ejercicio_2"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2023_reserva_2_ejercicio_2"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2023_reserva_3_ejercicio_1"}
-{"tipo_ejercicio": "representación función|asíntotas|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2023_reserva_3_ejercicio_2"}
-{"tipo_ejercicio": "representación función|asíntotas|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_asintotas_2023_reserva_3_ejercicio_2"}
-{"tipo_ejercicio": "representación función|asíntotas|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2023_reserva_3_ejercicio_2"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2023_reserva_4_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2023_reserva_4_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_asintotas_2023_reserva_4_ejercicio_1"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2023_reserva_4_ejercicio_2"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a", "confianza": "media", "id": "mates_ii_funciones_2022_julio_ejercicio_1"}
-{"tipo_ejercicio": "optimización|integrales", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2022_julio_ejercicio_2"}
-{"tipo_ejercicio": "optimización|integrales", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_integrales_2022_julio_ejercicio_2"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|asíntotas", "observaciones": "3 ramas", "confianza": "alta", "id": "mates_ii_funciones_2022_junio_ejercicio_1"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|asíntotas", "observaciones": "3 ramas", "confianza": "alta", "id": "mates_ii_funciones_asintotas_2022_junio_ejercicio_1"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2022_junio_ejercicio_2"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|estudio continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2022_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|estudio continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_estudio_continuidad_/_derivabilidad_2022_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2022_reserva_1_ejercicio_2"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "3 ramas", "confianza": "alta", "id": "mates_ii_funciones_2022_reserva_2_ejercicio_1"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "3 ramas", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2022_reserva_2_ejercicio_1"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2022_reserva_2_ejercicio_2"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2022_reserva_2_ejercicio_2"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "media", "id": "mates_ii_funciones_2022_reserva_3_ejercicio_1"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2022_reserva_3_ejercicio_2"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2022_reserva_3_ejercicio_2"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2022_reserva_4_ejercicio_1"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2022_reserva_4_ejercicio_1"}
-{"tipo_ejercicio": "asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2022_reserva_4_ejercicio_2"}
-{"tipo_ejercicio": "asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2022_reserva_4_ejercicio_2"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "media", "id": "mates_ii_funciones_2021_julio_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2021_julio_ejercicio_2"}
-{"tipo_ejercicio": "calcular coeficientes|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2021_julio_ejercicio_2"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2021_junio_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_asintotas_2021_junio_ejercicio_1"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2021_junio_ejercicio_2"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2021_junio_ejercicio_2"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2021_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2021_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2021_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2021_reserva_1_ejercicio_2"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2021_reserva_1_ejercicio_2"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "media", "id": "mates_ii_funciones_2021_reserva_2_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2021_reserva_2_ejercicio_2"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_asintotas_2021_reserva_2_ejercicio_2"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2021_reserva_2_ejercicio_2"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2021_reserva_3_ejercicio_1"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2021_reserva_3_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2021_reserva_3_ejercicio_2"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2021_reserva_3_ejercicio_2"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "3 ramas", "confianza": "media", "id": "mates_ii_funciones_2021_reserva_4_ejercicio_1"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2021_reserva_4_ejercicio_2"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2021_reserva_4_ejercicio_2"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2020_junio_ejercicio_1"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2020_junio_ejercicio_1"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2020_junio_ejercicio_5"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2020_junio_ejercicio_5"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a", "confianza": "media", "id": "mates_ii_funciones_2020_reserva_1_ejercicio_1"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2020_reserva_1_ejercicio_5"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "alta", "id": "mates_ii_funciones_2020_reserva_2_ejercicio_1"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2020_reserva_2_ejercicio_5"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2020_reserva_2_ejercicio_5"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2020_reserva_3_ejercicio_1"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2020_reserva_3_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2020_reserva_3_ejercicio_5"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2020_reserva_3_ejercicio_5"}
-{"tipo_ejercicio": "rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2020_reserva_4_ejercicio_1"}
-{"tipo_ejercicio": "rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_monotonia_2020_reserva_4_ejercicio_1"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2020_reserva_4_ejercicio_5"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2020_reserva_4_ejercicio_5"}
-{"tipo_ejercicio": "curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2020_septiembre_ejercicio_1"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2020_septiembre_ejercicio_5"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2020_septiembre_ejercicio_5"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2019_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2019_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2019_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_curvatura_2019_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2019_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2019_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2019_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2019_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2019_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2019_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2019_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "rectas tangente y normal|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2019_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "rectas tangente y normal|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_monotonia_2019_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2019_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2019_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2019_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_asintotas_2019_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2019_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2019_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2019_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2018_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_curvatura_2018_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2018_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2018_reserva_1_eje_rcicio_1_opcion_a"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|asíntotas", "observaciones": "3 ramas", "confianza": "media", "id": "mates_ii_funciones_2018_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|asíntotas", "observaciones": "3 ramas", "confianza": "media", "id": "mates_ii_funciones_asintotas_2018_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2018_reserva_2_eje_rcicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2018_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2018_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2018_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2018_reserva_3_eje_rcicio_1_opcion_a"}
-{"tipo_ejercicio": "rectas tangente y normal|asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2018_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "rectas tangente y normal|asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_asintotas_2018_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2018_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2018_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal|monotonía", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2018_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2018_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal|monotonía", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_monotonia_2018_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2018_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2018_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2017_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2017_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2017_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|estudio continuidad / derivabilidad", "observaciones": "3 ramas", "confianza": "alta", "id": "mates_ii_funciones_2017_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|estudio continuidad / derivabilidad", "observaciones": "3 ramas", "confianza": "media", "id": "mates_ii_funciones_estudio_continuidad_/_derivabilidad_2017_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2017_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2017_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2017_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2017_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2017_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2017_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2017_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2017_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2017_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "representación función|asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2017_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2017_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2017_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2017_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2017_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2017_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "media", "id": "mates_ii_funciones_2016_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2016_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2016_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2016_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "media", "id": "mates_ii_funciones_2016_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2016_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2016_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2016_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2016_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2016_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2016_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2016_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2016_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|monotonía|curvatura", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_curvatura_2016_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2016_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2016_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2016_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2016_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a", "confianza": "media", "id": "mates_ii_funciones_2016_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2016_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2016_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2016_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2015_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "media", "id": "mates_ii_funciones_2015_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2015_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2015_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2015_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2015_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2015_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2015_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2015_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2015_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2015_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2015_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2015_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2015_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2015_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2015_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2015_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_asintotas_2015_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2015_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2015_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2014_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2014_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_curvatura_2014_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2014_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2014_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "media", "id": "mates_ii_funciones_2014_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2014_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2014_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "rectas tangente y normal|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2014_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "rectas tangente y normal|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_optimización_monotonia_2014_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|L'Hopital", "observaciones": "L'Hopital calcular b/c/d", "confianza": "media", "id": "mates_ii_funciones_2014_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|L'Hopital", "observaciones": "L'Hopital calcular b/c/d", "confianza": "media", "id": "mates_ii_funciones_l'hopital_2014_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2014_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2014_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2014_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2014_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2014_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2014_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_monotonia_2014_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "media", "id": "mates_ii_funciones_2014_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2014_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular b", "confianza": "media", "id": "mates_ii_funciones_2013_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2013_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2013_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2013_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_asintotas_2013_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2013_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2013_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_curvatura_2013_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2013_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2013_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2013_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2013_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2013_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2013_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2013_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_asintotas_2013_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2013_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2013_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "L'Hopital|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2013_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital|asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_asintotas_2013_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2013_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2013_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_asintotas_2013_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2012_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2012_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2012_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "media", "id": "mates_ii_funciones_2012_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2012_reserva_1_ejer_cicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2012_reserva_1_ejer_cicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2012_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2012_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2012_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2012_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "L'Hopital|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2012_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital|monotonía|curvatura", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2012_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2012_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2012_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2012_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2012_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2012_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2012_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2012_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2012_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2012_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2012_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2011_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_optimización_2011_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2011_reserva_1_ejer_cicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2011_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2011_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2011_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2011_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2011_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2011_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2011_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2011_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2011_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2011_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2011_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2011_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2011_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2010_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_asintotas_2010_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|asíntotas|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2010_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2010_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2010_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2010_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "representación función|asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2010_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2010_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2010_reserva_2_ejer_cicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2010_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2010_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2010_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2010_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2010_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2010_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad", "observaciones": "3 ramas", "confianza": "alta", "id": "mates_ii_funciones_2010_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2010_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2010_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2010_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2009_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|asíntotas|monotonía|representación función", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2009_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|asíntotas|monotonía|representación función", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_asintotas_2009_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|asíntotas|monotonía|representación función", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_monotonia_2009_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|asíntotas|monotonía|representación función", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_representacion_funcion_2009_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura|monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2009_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura|monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2009_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura|monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2009_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura|monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2009_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2009_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2009_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2009_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|asíntotas", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2009_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|asíntotas", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_asintotas_2009_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2009_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2009_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|asíntotas|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2009_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|asíntotas|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_asintotas_2009_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|asíntotas|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2009_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2009_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2009_septiembre_eje_rcicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2009_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2008_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2008_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2008_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2008_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2008_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "rectas tangente y normal|curvatura", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_curvatura_2008_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2008_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2008_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2008_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2008_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2008_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas", "observaciones": "", "confianza": "baja", "id": "mates_ii_funciones_2008_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2008_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2008_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2008_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2007_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2007_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2007_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2007_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2007_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2007_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2007_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2007_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_asintotas_2007_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2007_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2007_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2007_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2007_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2007_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2007_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2007_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "integrales|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2007_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2007_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_optimización_2007_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2007_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2007_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "integrales|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2007_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "integrales|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2007_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2006_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "representación función|asíntotas|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2006_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2006_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2006_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2006_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|curvatura|rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2006_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2006_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "monotonía|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2006_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2006_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2006_reserva_2_ejer_cicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2006_reserva_2_ejer_cicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2006_reserva_2_ejer_cicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2006_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "L'Hopital|asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_asintotas_2006_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2006_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2006_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2006_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2006_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2006_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2006_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2006_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2006_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2006_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "integrales|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2006_septiembre_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2006_septiembre_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2005_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2005_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2005_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2005_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2005_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2005_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2005_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2005_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2005_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2005_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2005_reserva_1_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2005_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a", "confianza": "media", "id": "mates_ii_funciones_2005_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2005_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2005_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2005_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2005_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2005_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2005_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2005_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2005_reserva_4_eje_rcicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2005_reserva_4_eje_rcicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2005_reserva_4_eje_rcicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2005_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "rectas tangente y normal|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2005_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "rectas tangente y normal|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2005_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2005_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2005_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2005_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2004_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2004_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2004_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2004_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2004_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_2004_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2004_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2004_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2004_reserva_2_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "representación función|estudio continuidad / derivabilidad|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2004_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "representación función|estudio continuidad / derivabilidad|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_estudio_continuidad_/_derivabilidad_2004_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "representación función|estudio continuidad / derivabilidad|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2004_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a/b", "confianza": "media", "id": "mates_ii_funciones_2004_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2004_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2004_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2004_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2004_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2004_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2004_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "rectas tangente y normal|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2004_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "rectas tangente y normal|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2004_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "rectas tangente y normal|monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2004_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2003_junio_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2003_junio_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2003_junio_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|curvatura|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2003_junio_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2003_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2003_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2003_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_curvatura_2003_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2003_reserva_2_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "representación función", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2003_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2003_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2003_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2003_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2003_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad|monotonía", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_monotonia_2003_reserva_4_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2003_reserva_4_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2003_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2003_septiembre_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2002_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2002_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2002_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2002_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2002_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2002_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2002_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2002_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2002_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "monotonía|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2002_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2002_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "rectas tangente y normal|calcular coeficientes", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2002_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2002_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2002_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "L'Hopital|monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2002_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "rectas tangente y normal", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2002_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2002_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "asíntotas", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2002_reserva_4_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2002_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2002_septiembre_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "funciones (general)", "observaciones": "", "confianza": "baja", "id": "mates_ii_funciones_2002_septiembre_ejercicio_3_opcion_a"}
-{"tipo_ejercicio": "representación función|monotonía|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2001_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "representación función|monotonía|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2001_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "representación función|monotonía|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2001_junio_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2001_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|curvatura", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_curvatura_2001_junio_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2001_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2001_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2001_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2001_reserva_1_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2001_reserva_2_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2001_reserva_2_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2001_reserva_2_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2001_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|rectas tangente y normal", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2001_reserva_3_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2001_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2001_reserva_3_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2001_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2001_reserva_4_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|representación función|estudio continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2001_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|representación función|estudio continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_representacion_funcion_2001_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad|representación función|estudio continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_estudio_continuidad_/_derivabilidad_2001_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "L'Hopital calcular a", "confianza": "media", "id": "mates_ii_funciones_2001_septiembre_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "monotonía", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2000_junio_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2000_junio_ejercicio_2_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2000_reserva_1_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "coeficientes continuidad / derivabilidad", "observaciones": "2 ramas", "confianza": "media", "id": "mates_ii_funciones_2000_reserva_1_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2000_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_rectas_tangente_y_normal_2000_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|curvatura", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_curvatura_2000_reserva_2_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "L'Hopital", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2000_reserva_2_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2000_reserva_3_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2000_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_monotonia_2000_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "asíntotas|monotonía|representación función", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_representacion_funcion_2000_reserva_3_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad", "observaciones": "3 ramas", "confianza": "alta", "id": "mates_ii_funciones_2000_reserva_4_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "optimización", "observaciones": "", "confianza": "alta", "id": "mates_ii_funciones_2000_reserva_4_ejercicio_2_opcion_a"}
-{"tipo_ejercicio": "estudio continuidad / derivabilidad", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2000_septiembre_ejercicio_1_opcion_a"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_2000_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_rectas_tangente_y_normal_2000_septiembre_ejercicio_1_opcion_b"}
-{"tipo_ejercicio": "calcular coeficientes|rectas tangente y normal|monotonía", "observaciones": "", "confianza": "media", "id": "mates_ii_funciones_monotonia_2000_septiembre_ejercicio_1_opcion_b"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Cálculo de Kc y Kp", "observaciones": "Pide masa de sólido sin reaccionar (equilibrio heterogéneo) y cálculo de Kp y Kc.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2025_junio_ejercicio_3a"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2024_junio_ejercicio_b2"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2023_reserva_2_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2024_reserva_1_ejercicio_c1"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2023_julio_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2024_reserva_3_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado de disociación (cálculo)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2025_julio_ejercicio_3a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado disociación (dato)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2023_junio_ejercicio_c1"}
+{"tipo_ejercicio": "Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2023_reserva_1_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "Pide concentraciones de todos los gases en el equilibrio y cálculo de Kc y Kp; se dan presiones parciales (Dalton) para deducir composición.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2024_reserva_4_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado de disociación (cálculo)|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2024_junio_ejercicio_c1"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2024_julio_ejercicio_b2"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "Equilibrio con C(s) y masa de sólido sin reaccionar; piden Kp y presión parcial de CO en el equilibrio.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2026_junio_ejercicio_3a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado disociación (dato)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2024_julio_ejercicio_c1"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2022_reserva_2_ejercicio_b2"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2023_reserva_4_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado de disociación (cálculo)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2022_reserva_1_ejercicio_c_1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado de disociación (cálculo)", "observaciones": "Pide calcular Kp (a partir de Kc dada) y el porcentaje de H2 que reacciona; también los moles iniciales y la presión total en el equilibrio.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2024_reserva_2_ejercicio_c1"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2021_julio_ejercicio_b2"}
+{"tipo_ejercicio": "Equilibrio en función de alfa|Cálculo de Kc y Kp|Grado disociación (dato)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2023_reserva_3_ejercicio_c1"}
+{"tipo_ejercicio": "Ley de Dalton|Grado disociación (dato)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2022_julio_ejercicio_c1"}
+{"tipo_ejercicio": "Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2022_reserva_4_ejercicio_c1"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2022_junio_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2021_reserva_1_ejercicio_c1"}
+{"tipo_ejercicio": "Principio de LeChatelier|Cálculo de Kc y Kp", "observaciones": "Preguntas de verdadero/falso sobre teoría. b) encaja con LeChatelier (temperatura en reacción endotérmica). a) trata la relación entre Kc y Kp, sin cálculo numérico. c) (equilibrio dinámico) no encaja en ninguna etiqueta.", "confianza": "media", "id": "quimica_equilibrio_quimico_2023_julio_ejercicio_b2"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado disociación (dato)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2021_julio_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2022_reserva_3_ejercicio_c_1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "Parte a) pide concentraciones iniciales a partir de las del equilibrio (estequiometría). Parte b) pide Kp y la presión total en el equilibrio, lo que encaja con Kp y con la ley de Dalton.", "confianza": "media", "id": "quimica_equilibrio_quimico_2022_reserva_2_ejercicio_c_1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2021_reserva_4_ejercicio_c1"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)|Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2021_junio_ejercicio_c1"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2022_reserva_3_ejercicio_b2"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2021_reserva_2_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2020_junio_c1"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2019_junio_ejercicio_3_opc_ion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio en función de alfa|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2021_reserva_3_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2020_reserva_3_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2019_junio_ejercicio_5_op_cion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "Apartados b) y c) preguntan cómo afectan temperatura y presión al equilibrio; c) incluye un sólido (C). El apartado a) trata sobre la relación entre Kp y Kc, que no encaja en ninguna etiqueta.", "confianza": "media", "id": "quimica_equilibrio_quimico_2020_junio_b2"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "Pide calcular Kp y los moles de gases en el equilibrio; se dan presiones total y parcial del agua, y la presión parcial del H2 se obtiene por Dalton. Hay sólidos en la reacción, pero no se pregunta por la cantidad de sólido sin reaccionar.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2020_septiembre_c1"}
+{"tipo_ejercicio": "Ley de Dalton|Cálculo de Kc y Kp", "observaciones": "Pide presiones parciales en el equilibrio y presión total (Dalton), y el valor de Kp a partir de las presiones.", "confianza": "media", "id": "quimica_equilibrio_quimico_2020_reserva_2_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "Pide calcular Kc en el equilibrio (apartado b); el apartado a es un cálculo estequiométrico de la masa de SO3 formada.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2019_reserva_1_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado disociación (dato)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2019_reserva_3_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Ley de Dalton", "observaciones": "Hay un sólido (NH4Cl(s)) y se pregunta la masa de sólido que queda en el equilibrio. La presión total se obtiene a partir de Kp y las presiones parciales de los gases, lo que se relaciona con Dalton.", "confianza": "media", "id": "quimica_equilibrio_quimico_2020_reserva_4_ejercicio_c1"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2019_reserva_4_ejercicio_5_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2019_reserva_2_ejercicio_5_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2020_reserva_3_ejercicio_b2"}
+{"tipo_ejercicio": "Cociente de reacción|Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "Pregunta si el sistema está en equilibrio y en qué sentido evoluciona (cociente de reacción), y cómo afecta aumentar el volumen (LeChatelier). Aparece un sólido (FeBr3(s)) en el equilibrio.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2019_septiembre_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2018_junio_ejercicio_5_opc_ion_a"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2018_reserva_2_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "Pregunta cómo afectan cambios de volumen, concentración y cantidad de sólido al equilibrio; el apartado c) involucra un sólido (Fe(s)).", "confianza": "alta", "id": "quimica_equilibrio_quimico_2018_reserva_3_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cociente de reacción", "observaciones": "El apartado a) pregunta si el sistema está en equilibrio (cociente de reacción). El apartado b) calcula concentraciones en el equilibrio a partir de Kc dada, lo que no encaja exactamente en ninguna etiqueta.", "confianza": "media", "id": "quimica_equilibrio_quimico_2018_reserva_1_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cociente de reacción|Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "Calcula la composición en el equilibrio a partir de Kc (no hay etiqueta exacta para ello, se asocia a cociente de reacción), luego Kp y la presión total.", "confianza": "media", "id": "quimica_equilibrio_quimico_2020_reserva_1_ejercicio_c1"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2018_reserva_4_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2017_reserva_1_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2017_reserva_1_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Principio de LeChatelier|Cálculo de Kc y Kp", "observaciones": "Verdadero/falso sobre un equilibrio con sólidos: la afirmación c) trata de añadir un sólido, y la b) exige relacionar Kp con Kc. No pide cálculo numérico directo.", "confianza": "media", "id": "quimica_equilibrio_quimico_2018_reserva_1_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "Pide el valor de la constante de equilibrio (Kp, con P y R dadas) tras un equilibrio con varios gases; el volumen se obtiene con la ley de gases ideales, que no es una etiqueta de la lista.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2019_septiembre_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "Pide moles en el equilibrio a partir de la presión total y calcular Kc y Kp; la presión total dada se relaciona con la ley de Dalton.", "confianza": "media", "id": "quimica_equilibrio_quimico_2018_reserva_3_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2016_reserva_2_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Ley de Dalton|Cálculo de Kc y Kp", "observaciones": "Pide la presión parcial de benzaldehído en el equilibrio (Ley de Dalton) y luego el valor de Kc a partir de Kp.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2017_reserva_2_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "Incluye también el cálculo de moles en el equilibrio y la presión total, pero el objetivo principal es calcular Kc y Kp.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2016_junio_ejercicio_6_opc_ion_a"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Principio de LeChatelier", "observaciones": "Equilibrio con sólidos (CaCO3 y CaO); la afirmación b) trata sobre añadir más sólido. La c) compara Kp y Kc, que no es un cálculo directo de ambas.", "confianza": "media", "id": "quimica_equilibrio_quimico_2017_reserva_2_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Ley de Dalton|Cálculo de Kc y Kp", "observaciones": "Parte a) pide concentraciones en equilibrio a partir de Kc, sin etiqueta específica; parte b) pide presiones parciales y Kp (Δn=0, Kp=Kc)", "confianza": "media", "id": "quimica_equilibrio_quimico_2017_junio_ejercicio_5_opc_ion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "Pide Kc y Kp del equilibrio con sólido, y después la masa máxima de sólido que puede descomponerse en el recipiente.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2017_septiembre_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Ley de Dalton", "observaciones": "La parte principal calcula concentraciones en equilibrio a partir de Kc, sin etiqueta específica; la presión total del apartado b encaja con la ley de Dalton", "confianza": "media", "id": "quimica_equilibrio_quimico_2018_septiembre_ejercicio_5_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2015_reserva_2_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2015_reserva_3_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "Los apartados b) y c) preguntan cómo afectan cambios de volumen y temperatura al equilibrio. El apartado a) pide escribir la expresión de Kp con un sólido (C(s)), sin calcular ningún valor.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2016_reserva_3_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Equilibrio en función de alfa|Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2017_reserva_3_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2014_reserva_1_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2014_junio_ejercicio_3_opc_ion_a"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)|Cálculo de Kc y Kp", "observaciones": "El apartado a) pide concentraciones en equilibrio partiendo de una mezcla con productos presentes, que no encaja en ninguna etiqueta concreta. El apartado b) pide el grado de disociación y Kp. El valor de Kc está mal extraído del PDF (1,82·10^2).", "confianza": "media", "id": "quimica_equilibrio_quimico_2017_reserva_4_ejercicio_5_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2015_reserva_3_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "Los apartados b) y c) preguntan cómo afectan presión y temperatura al equilibrio; el apartado a) trata la relación entre Kc y Kp, que no corresponde a una etiqueta concreta.", "confianza": "media", "id": "quimica_equilibrio_quimico_2016_septiembre_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado disociación (dato)|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2015_reserva_1_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Equilibrio heterogéneo", "observaciones": "Hay un sólido (ICl(s)) en el equilibrio y se pregunta por la masa de sólido que queda sin reaccionar; la concentración de Cl2 se calcula a partir de la Kp dada.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2015_junio_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "Piden Kp a partir de presiones y, en b), moles de H2O y H2 con la presión parcial del agua dada como dato.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2016_reserva_3_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2012_reserva_2_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2014_septiembre_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton|Grado disociación (dato)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2013_septiembre_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2012_junio_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "Pide Kp a partir de Kc (apartado a) y presión total y parciales en el equilibrio (apartado b), que encaja con Ley de Dalton. No aparecen palabras clave literales de ambas etiquetas.", "confianza": "media", "id": "quimica_equilibrio_quimico_2014_reserva_1_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2014_reserva_3_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado de disociación (cálculo)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2012_reserva_1_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2012_reserva_2_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo|Cálculo de Kc y Kp", "observaciones": "Los apartados b y c piden el efecto de temperatura y presión sobre el equilibrio; hay sólidos en la reacción; el apartado a pide las expresiones de Kc y Kp.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2013_reserva_2_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)", "observaciones": "El apartado a) pide concentraciones de equilibrio con Kc dada, que no encaja exactamente en ninguna etiqueta; el b) pide calcular el grado de disociación.", "confianza": "media", "id": "quimica_equilibrio_quimico_2014_reserva_2_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "El apartado a) pide calcular Kc. El apartado b) reutiliza esa Kc para hallar moles en el equilibrio con otras cantidades iniciales, y no encaja claramente en ninguna etiqueta.", "confianza": "media", "id": "quimica_equilibrio_quimico_2013_reserva_1_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2012_reserva_3_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2011_junio_ejercicio_6_op_cion_b"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)", "observaciones": "El apartado b) pide calcular el grado de disociación. El apartado a) (concentraciones en el equilibrio a partir de K y moles iniciales) no encaja con una etiqueta específica.", "confianza": "media", "id": "quimica_equilibrio_quimico_2013_junio_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cociente de reacción|Cálculo de Kc y Kp", "observaciones": "Pide determinar si el sistema está en equilibrio y hacia dónde evoluciona (cociente de reacción) y, después, calcular la composición en equilibrio a partir de Kc (cálculo de la constante a partir de datos de equilibrio).", "confianza": "media", "id": "quimica_equilibrio_quimico_2011_reserva_2_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2011_reserva_4_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Cociente de reacción", "observaciones": "Parte a: equilibrio con sólidos y masa de Na2CO3 formada. Parte b: al añadir CO2 el sistema sale del equilibrio y hay que analizar su evolución.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2013_reserva_3_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado de disociación (cálculo)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2010_reserva_1_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "Parte a) pide Kc y Kp; parte b) pide la masa de HgO sólido descompuesto en un equilibrio con sólidos y un único gas.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2011_reserva_3_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)|Cociente de reacción", "observaciones": "Parte a: calcular el grado de disociación y las concentraciones en equilibrio con Kc dada. Parte b: tras añadir CO, nuevo equilibrio a la misma temperatura, lo que implica evolución del sistema desde una nueva situación.", "confianza": "media", "id": "quimica_equilibrio_quimico_2012_septiembre_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2010_reserva_3_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "Pide las concentraciones en el equilibrio y el valor de Kc; no encaja en las demás etiquetas.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2010_junio_ejercicio_5_opc_ion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "Pregunta cómo afectan cambios de volumen, adición de sólido y temperatura al equilibrio; la reacción incluye sólidos (I2 y I2O5).", "confianza": "alta", "id": "quimica_equilibrio_quimico_2011_junio_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier|Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2010_septiembre_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cociente de reacción|Equilibrio heterogéneo", "observaciones": "Parte a: se comprueba con el cociente de reacción si el sistema está en equilibrio y se calculan las concentraciones en el equilibrio. Parte b: se pide la masa de NH4HS (sólido) que queda sin reaccionar.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2010_reserva_2_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Principio de LeChatelier", "observaciones": "El apartado a) pide Kc y Kp; el apartado b) plantea una perturbación (adición de N2O4) y pide la nueva concentración de NO2 al restablecerse el equilibrio.", "confianza": "media", "id": "quimica_equilibrio_quimico_2010_septiembre_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2008_reserva_2_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier|Cálculo de Kc y Kp", "observaciones": "La parte a) es conceptual y trata la relación entre Kc y Kp (cuándo son iguales), no un cálculo numérico. Las partes b) y c) son de Le Chatelier (eliminación de producto y disminución de temperatura).", "confianza": "media", "id": "quimica_equilibrio_quimico_2009_reserva_1_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "Pide escribir las expresiones de K, no calcularlas; el apartado c incluye un sólido (CaCO3(s)).", "confianza": "media", "id": "quimica_equilibrio_quimico_2009_reserva_2_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "Pide Kp y el volumen del recipiente; no pide Kc ni presiones parciales explícitamente", "confianza": "media", "id": "quimica_equilibrio_quimico_2009_reserva_2_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado de disociación (cálculo)|Equilibrio en función de alfa", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2009_junio_ejercicio_6_op_cion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2009_septiembre_ejercici_o_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado disociación (dato)|Principio de LeChatelier", "observaciones": "La parte a) pide Kc y da como dato el 60 % de conversión del xenón. La parte b) pregunta cómo afecta añadir flúor al rendimiento de la reacción.", "confianza": "media", "id": "quimica_equilibrio_quimico_2011_reserva_1_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2009_reserva_3_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2008_reserva_4_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)", "observaciones": "El apartado a) pide concentraciones en el equilibrio a partir de Kc, sin etiqueta específica; el b) es el cálculo del grado de disociación", "confianza": "media", "id": "quimica_equilibrio_quimico_2009_reserva_1_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado disociación (dato)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2008_septiembre_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2008_reserva_2_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "Pide escribir las expresiones de Kc y Kp y su relación; el apartado b incluye sólido y líquido, de ahí la etiqueta heterogéneo.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2008_reserva_3_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2007_reserva_1_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "Se piden moles en el equilibrio y las constantes Kc y Kp; la presión total dada como dato se relaciona con la ley de Dalton. Fórmula con subíndices perdidos por extracción.", "confianza": "media", "id": "quimica_equilibrio_quimico_2009_septiembre_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "Pide la presión total a partir de presiones parciales dadas (Dalton) y calcular Kc a partir de Kp y R, T", "confianza": "media", "id": "quimica_equilibrio_quimico_2008_reserva_1_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2007_reserva_1_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "La parte b pide moles en el equilibrio y presión total a partir de Kc; no encaja claramente en otra etiqueta.", "confianza": "media", "id": "quimica_equilibrio_quimico_2008_reserva_3_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2006_junio_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)|Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2007_junio_ejercicio_6_opc_ion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2006_reserva_2_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2007_septiembre_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2006_reserva_2_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2007_reserva_2_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2007_reserva_4_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2006_septiembre_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cociente de reacción|Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2006_reserva_3_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "Pide escribir las expresiones de Kc y Kp y su relación, sin calcular valores; aparece un sólido C(s) en el equilibrio.", "confianza": "media", "id": "quimica_equilibrio_quimico_2007_septiembre_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "Pide cómo varía la concentración de O2 ante adición de sólido, cambio de volumen y cambio de temperatura (con entalpía dada). El apartado a) involucra un sólido (C(s)).", "confianza": "alta", "id": "quimica_equilibrio_quimico_2007_reserva_4_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2005_reserva_2_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2004_junio_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Equilibrio en función de alfa|Cálculo de Kc y Kp|Grado disociación (dato)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2006_reserva_3_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2004_reserva_1_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2004_reserva_1_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)", "observaciones": "Además pide las concentraciones de todas las especies en el equilibrio, que no corresponde a una etiqueta específica.", "confianza": "media", "id": "quimica_equilibrio_quimico_2005_reserva_1_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton|Equilibrio heterogéneo", "observaciones": "Se piden fracciones molares y presiones parciales en el equilibrio, y las constantes Kc y Kp. Hay un sólido C(s), pero no se pregunta por la cantidad de sólido sin reaccionar.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2006_reserva_4_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2005_reserva_1_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier|Cálculo de Kc y Kp", "observaciones": "Apartado a) pide cómo favorecer la formación de SO3 al perturbar el equilibrio (LeChatelier); apartado b) pide deducir la relación entre Kc y Kp.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2005_septiembre_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Ley de Dalton", "observaciones": "Equilibrio con sólido (NH4HS(s)); piden la cantidad de sólido sin reaccionar. La presión total se obtiene de Kp con presiones parciales, sin calcular Kc ni Kp.", "confianza": "media", "id": "quimica_equilibrio_quimico_2005_reserva_2_ejercicio_5_o_pcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado de disociación (cálculo)|Grado disociación (dato)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2005_septiembre_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2004_reserva_2_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado de disociación (cálculo)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2003_reserva_3_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Cálculo de Kc y Kp", "observaciones": "El apartado a) pregunta por el efecto de la temperatura sobre el equilibrio. El b) pide la relación entre Kc y Kp. El c) pide la constante de la reacción inversa, que no encaja claramente en ninguna etiqueta.", "confianza": "media", "id": "quimica_equilibrio_quimico_2004_reserva_4_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Principio de LeChatelier", "observaciones": "Parte a) calcula la constante de equilibrio Kp; parte b) pide la cantidad de reactivo a añadir para alcanzar una nueva composición de equilibrio.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2005_junio_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)|Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2004_septiembre_ejercici_o_6_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2003_septiembre_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Ley de Dalton|Grado de disociación (cálculo)", "observaciones": "Piden presiones parciales en el equilibrio (Dalton) y el grado de disociación calculado; se da la cantidad inicial de reactivo, así que no es el caso de equilibrio en función de alfa.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2003_junio_ejercicio_6_op_cion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2002_reserva_1_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "El enunciado está truncado en el apartado c; se clasifica por los apartados a) y b), que piden completar la tabla de equilibrio y calcular la constante k.", "confianza": "media", "id": "quimica_equilibrio_quimico_2004_reserva_4_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2003_reserva_1_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Grado disociación (dato)", "observaciones": "Pide Kc (no Kp) y la presión total; el enunciado da el porcentaje de nitrógeno que reacciona.", "confianza": "media", "id": "quimica_equilibrio_quimico_2003_reserva_2_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)", "observaciones": "Pide calcular el porcentaje disociado y la concentración de Br en el equilibrio a partir de Kc y de la concentración inicial de Br2.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2003_reserva_4_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Ley de Dalton", "observaciones": "Equilibrio con sólido NH4Cl(s) y se pide la masa de sólido que queda; la presión total se obtiene a partir de Kp y la suma de presiones parciales.", "confianza": "media", "id": "quimica_equilibrio_quimico_2003_septiembre_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)|Ley de Dalton", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2002_reserva_4_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Ley de Dalton", "observaciones": "Verdadero/falso sobre cantidades y presiones parciales en el equilibrio; las afirmaciones b y c tratan de presiones parciales y presión total. La afirmación a es de estequiometría en el equilibrio, sin etiqueta específica.", "confianza": "media", "id": "quimica_equilibrio_quimico_2002_junio_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2001_reserva_1_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2002_reserva_2_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "Pide calcular Kp, pero también exige los moles en el equilibrio a partir de Kc (apartado a), que no encaja en ninguna etiqueta concreta.", "confianza": "media", "id": "quimica_equilibrio_quimico_2002_reserva_1_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "Pregunta cómo afectan cambios de temperatura y de concentración a la cantidad de CO; el C(s) aparece en el equilibrio pero no se pregunta por el sólido.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2001_junio_ejercicio_4_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo|Grado de disociación (cálculo)", "observaciones": "Hay un sólido (NH4HS(s)) en el equilibrio y se pide el porcentaje descompuesto, que equivale a calcular el grado de descomposición.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2002_reserva_3_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Equilibrio en función de alfa|Grado disociación (dato)", "observaciones": "Todas las especies son gaseosas, se da el grado de disociación y se pide calcular los moles iniciales y Kp; no se da la cantidad inicial de reactivo.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2002_junio_ejercicio_6_op_cion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2001_reserva_2_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2001_reserva_2_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2001_reserva_4_ejercicio_4_opcion_b"}
+{"tipo_ejercicio": "Ley de Dalton|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2002_septiembre_ejercici_o_6_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp", "observaciones": "El apartado b pide Kp, encaja con la etiqueta. El apartado a (concentraciones en el equilibrio a partir de Kc) no tiene etiqueta específica.", "confianza": "media", "id": "quimica_equilibrio_quimico_2001_junio_ejercicio_6_opc_ion_b"}
+{"tipo_ejercicio": "Equilibrio heterogéneo|Ley de Dalton", "observaciones": "Verdadero/falso sobre un equilibrio con sólidos; la afirmación a) relaciona presión total y parcial, y la b) y c) tratan Kp y Kc.", "confianza": "media", "id": "quimica_equilibrio_quimico_2002_reserva_2_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Ley de Dalton|Grado disociación (dato)", "observaciones": "Piden presiones parciales en el equilibrio y las constantes Kc y Kp; el grado de disociación (50%) se da como dato.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2001_reserva_3_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Ley de Dalton|Grado de disociación (cálculo)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2001_reserva_4_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Principio de LeChatelier", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2001_septiembre_ejercicio_3_opcion_a"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)", "observaciones": "El apartado b pide calcular el grado de disociación. El apartado a (calcular concentraciones en el equilibrio a partir de Kc) no encaja con ninguna etiqueta concreta.", "confianza": "media", "id": "quimica_equilibrio_quimico_2001_reserva_1_ejercicio_5_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Equilibrio heterogéneo", "observaciones": "Pide hacia dónde se desplaza el equilibrio al añadir un sólido, eliminar un reactivo gaseoso y aumentar el volumen; el sólido UO2(s) añade el componente heterogéneo.", "confianza": "alta", "id": "quimica_equilibrio_quimico_2000_reserva_1_ejercicio_3_opcion_b"}
+{"tipo_ejercicio": "Principio de LeChatelier|Cálculo de Kc y Kp", "observaciones": "Los apartados a) y b) piden el efecto de la temperatura y de la presión sobre el equilibrio; el apartado c) pide calcular la Kp de la reacción inversa. El texto tiene errores de extracción en las fórmulas.", "confianza": "media", "id": "quimica_equilibrio_quimico_2000_junio_ejercicio_3_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio heterogéneo", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2000_reserva_2_ejercicio_6_opcion_b"}
+{"tipo_ejercicio": "Cálculo de Kc y Kp|Equilibrio en función de alfa|Grado disociación (dato)", "observaciones": "", "confianza": "alta", "id": "quimica_equilibrio_quimico_2000_reserva_3_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "sin clasificar", "observaciones": "pide diagrama de entalpía y justificar si la reacción directa es exotérmica o endotérmica a partir de las energías de activación; no encaja con las etiquetas de equilibrio", "confianza": "baja", "id": "quimica_equilibrio_quimico_2000_reserva_1_ejercicio_4_opcion_b"}
+{"tipo_ejercicio": "Grado de disociación (cálculo)", "observaciones": "El apartado b pide calcular el porcentaje de disociación del HI. El apartado a (concentraciones en el equilibrio a partir de cantidades iniciales) no encaja en ninguna etiqueta concreta.", "confianza": "media", "id": "quimica_equilibrio_quimico_2000_septiembre_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Ley de Dalton|Cálculo de Kc y Kp", "observaciones": "Pide presiones parciales en el equilibrio y la Kp, sin pedir Kc; encaja con dos etiquetas.", "confianza": "media", "id": "quimica_equilibrio_quimico_2000_reserva_4_ejercicio_6_opcion_a"}
+{"tipo_ejercicio": "Ley de Dalton|Equilibrio heterogéneo", "observaciones": "Pide la presión total a partir de la presión parcial del H2 dada, usando Dalton; hay especies sólidas (Fe2O3 y Fe) en el equilibrio. No pide Kc ni Kp ni grado de disociación.", "confianza": "media", "id": "quimica_equilibrio_quimico_2000_reserva_1_ejercicio_5_opcion_a"}
+{"tipo_ejercicio": "Ley de Dalton", "observaciones": "Se da la presión total en el equilibrio y se pide calcular moles iniciales y en equilibrio; no pide calcular Kc, que es dato.", "confianza": "media", "id": "quimica_equilibrio_quimico_2001_septiembre_ejercicio_6_opcion_b"}

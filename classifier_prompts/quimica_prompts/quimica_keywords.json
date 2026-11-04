@@ -1,0 +1,21 @@
+{
+    "ácido base" :{ 
+        "disoluciones" : ["riqueza", "densidad", "disolución comercial", "industrial", "molaridad" ],
+        "neutralización" : ["neutraliza"],
+        "verdadero o falso" : ["verdadero", "veracidad", "falsedad", "falso"],
+        "ácido base débil" : ["débil", "grado", "equilibrio", "HA", "disocia", "monoprótico", "basicidad", "acidez"],
+        "pares conjugados" : "conjugad",
+        "anfóteros" : "anfote",
+        "bronsted-lowry": "lowry",
+        "pH resultante disolución" : "neutro",
+        "hidrólisis sales" : ["NaOH", "NH4Cl", "CH3COONa", "NaCl", "KCl",
+        "sales"],
+        "volumen agua a añadir" : "volumen de agua"
+    },
+
+    "cinética" : {
+        "cinética" : ["v = k", "velocidad de reacción", "catalizador",
+        "energía de activación", "constante de velocidad", "cinética", "orden total",
+    "ecuación de velocidad"]
+    }
+}

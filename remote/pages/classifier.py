@@ -305,12 +305,13 @@ def render_exercises_pager(filtered_df):
 
     st.dataframe(
         current_rows,
-        column_order=["asignatura_tema", "exercise_name", "archivo_url", "imagen_url"],
+        column_order=["asignatura_tema", "exercise_name", "archivo","archivo_url", "imagen_url"],
         hide_index=True,
         width="stretch",
         column_config={
             "asignatura_tema": st.column_config.Column(label="Asignatura - Tema"),
             "exercise_name": st.column_config.Column(label="Ejercicio"),
+            "archivo": st.column_config.Column(label="Archivo PDF"),
             "archivo_url": st.column_config.LinkColumn("Soluciones", display_text="Abrir PDF"),
             "imagen_url": st.column_config.LinkColumn("Enunciado", display_text="Abrir imagen"),
         },
